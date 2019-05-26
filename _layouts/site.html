@@ -1,0 +1,18 @@
+---
+layout: base
+---
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h2>{{ page.title }}</h2>
+    <p>
+      {{ page.short }}
+    </p>
+    {% if layout.showButton %}
+    <a href="{{ page.targetUrl }}" target="_blank" class="btn btn-success"
+      >Website von {{ page.name }} besuchen!</a
+    >
+    {% endif %}
+  </div>
+</div>
+{{ content }}

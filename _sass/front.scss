@@ -1,0 +1,34 @@
+.searchbar-container {
+  background-color: green;
+  padding: 10px 0 10px 0;
+}
+
+.footer-container {
+  background-color: #e9ecef;
+}
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.card {
+  width: 21.8rem;
+  height: 100%;
+}
+
+.title-link {
+  color: black;
+}
+.card-border:hover {
+  box-shadow: 0px 0px 2px 1px gray;
+}
+.title-link:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.drop-shadow:hover {
+  -moz-box-shadow: 0 0 5px #ccc;
+  -webkit-box-shadow: 0 0 5px #ccc;
+  box-shadow: 0 0 5px #ccc;
+}
