@@ -4,9 +4,9 @@ layout: base
 
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
-    <h2>{{ page.title }}</h2>
+    <h2>{{ page.title }} - {{ page.slogan }}</h2>
     <p>
-      {{ page.short }}
+      {{ page.description }}
     </p>
     {% if layout.showButton %}
     <a href="{{ page.targetUrl }}" target="_blank" class="btn btn-success"

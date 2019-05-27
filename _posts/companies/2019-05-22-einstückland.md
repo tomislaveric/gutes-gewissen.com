@@ -2,16 +2,16 @@
 author: Tomislav Erić
 layout: company
 
-name: EinStückLand
-title: EinStückLand. Nachhaltiges Fleisch von glücklichen Kühen
+title: EinStückLand
+slogan: EinStückLand. Nachhaltiges Fleisch von glücklichen Kühen
 targetUrl: https://einstueckland.de
 image: /assets/images/einstueckland.png
-categories: [ernährung]
+category: ernährung
 tags: [Nachhaltigkeit, Made in Germany, Bio, Biofleisch, Fleisch]
 payments: [PayPal, Überweisung, Kreditkarte]
 shippings: [Kostenloser Versand, Trockeneis Lieferung]
 
-short: EinStückLand bietet hoch qualitatives Rindfleisch aus artgerechter und respektvoller Tierhaltung an. Hier wird ein Rind erst geschlachtet, wenn es restlos verkauft wurde. EinStückLand etzt auf Regionalität und bezieht seine Galloway Rinder ausschließlich von Bauern in Schleswig-Holstein. Die Herkunft der Rinder ist sehr transparent gestaltet und kann zu 100% zurückverfolgt werden. Das Rind wird von einem Schlachter in der Nähe verarbeitet, portioniert und abgepackt. Der Vorteil daran ist, dass die Tiere keine langen und stressigen Transportwerge zurücklegen müssen. Dieses nachhaltige Konzept überzeugt!
+description: EinStückLand bietet hoch qualitatives Rindfleisch aus artgerechter und respektvoller Tierhaltung an. Hier wird ein Rind erst geschlachtet, wenn es restlos verkauft wurde. EinStückLand etzt auf Regionalität und bezieht seine Galloway Rinder ausschließlich von Bauern in Schleswig-Holstein. Die Herkunft der Rinder ist sehr transparent gestaltet und kann zu 100% zurückverfolgt werden. Das Rind wird von einem Schlachter in der Nähe verarbeitet, portioniert und abgepackt. Der Vorteil daran ist, dass die Tiere keine langen und stressigen Transportwerge zurücklegen müssen. Dieses nachhaltige Konzept überzeugt!
 ---
 
 ### Die artegerechte Tierhaltung von EinStückLand

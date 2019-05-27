@@ -1,34 +1,54 @@
-<div class="custom-search-input">
-  <div class="input-group">
-    <div class="input-group-prepend">
-      <button
-        href="/"
-        class="btn btn-outline-success btn-sm"
-        aria-haspopup="false"
-        aria-expanded="false"
-      >
-        <img class="logo" src="/assets/images/logo_v1_alpha.png" />
-      </button>
-      <button
-        class="btn btn-outline-success btn-sm dropdown-toggle"
-        href="/"
-        data-toggle="dropdown"
-        aria-haspopup="true"
-        aria-expanded="false"
-      >
-        Rubriken
-      </button>
-      <div class="dropdown-menu">
-        <a class="dropdown-item">RUBRIK TITLE</a>
+<div class="sticky-top searchbar-container">
+  <div class="container">
+    <div class="custom-search-input">
+      <div class="input-group">
+        <div class="input-group-prepend">
+          <a
+            href="/"
+            class="btn btn-outline-success btn-sm"
+            aria-haspopup="false"
+            aria-expanded="false"
+          >
+            <img class="logo" src="/assets/images/logo_v1_alpha.png" />
+          </a>
+          <button
+            class="btn btn-outline-success btn-sm dropdown-toggle"
+            href="/"
+            data-toggle="dropdown"
+            aria-haspopup="true"
+            aria-expanded="false"
+          >
+            Rubriken
+          </button>
+          <div class="dropdown-menu">
+            <a class="dropdown-item">RUBRIK TITLE</a>
+          </div>
+        </div>
+        <input
+          id="search-input"
+          type="text"
+          class="form-control"
+          placeholder="Suchbegriff, Schlagwort oder eine Kategorie eingeben"
+        />
+        <span class="input-group-append">
+          <button class="btn btn-outline-success" type="button">Los!</button>
+        </span>
       </div>
     </div>
-    <input
-      type="text"
-      class="form-control"
-      placeholder="Suchbegriff, Schlagwort oder eine Kategorie eingeben"
-    />
-    <span class="input-group-append">
-      <button class="btn btn-outline-success" type="button">Los!</button>
-    </span>
+  </div>
+  <div class="overlay container-fluid">
+    <div class="container" id="results-container"></div>
   </div>
 </div>
+
+<!-- Script pointing to search-script.js -->
+<script src="/assets/js/simple-jekyll-search.min.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json'
+  });
+</script>
