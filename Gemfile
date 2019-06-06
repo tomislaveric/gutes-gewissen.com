@@ -30,4 +30,5 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # SEO plugin https://github.com/jekyll/jekyll-seo-tag
 gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'
 
