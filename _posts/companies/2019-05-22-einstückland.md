@@ -3,7 +3,7 @@ author: Tomislav Erić
 layout: company
 
 title: EinStückLand
-slogan: EinStückLand. Nachhaltiges Fleisch von glücklichen Kühen
+slogan: Nachhaltiges Fleisch von glücklichen Kühen
 targetUrl: https://einstueckland.de
 image: /assets/images/einstueckland.png
 category: ernährung
