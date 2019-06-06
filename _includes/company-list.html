@@ -3,12 +3,12 @@
   <a class="title-link" href="{{ post.url }}">
     <div class="container">
       <div class="row align-items-center">
-        <div class="col-md-2 text-center">
-          <h5 class="h5">{{ post.title }}</h5>
-          <img class="img-fluid" src="{{ post.image }}" alt="{{ post.title }}" />
+        <div class="col-md-2">
+          <img class="img-fluid mt-3" src="{{ post.image }}" alt="{{ post.title }}" />
         </div>
         <div class="col-md-10">
-          <div>{{ post.description }}</div>
+          <h5 class="h5">{{ post.title }}</h5>
+          <div>{{ post.description | strip_html | truncatewords: 40 }}</div>
           {% include tag-list.html content=post.tags %}
         </div>
       </div>
