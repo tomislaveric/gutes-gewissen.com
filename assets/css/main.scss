@@ -1,11 +1,12 @@
-.searchbar-container {
-  background-color: green;
-  padding: 10px 0 10px 0;
+---
+---
+
+@import 'bootstrap/bootstrap';
+
+.header {
+  padding: 10px 0 3px 0;
 }
 
-.footer-container {
-  background-color: #e9ecef;
-}
 .img-fluid {
   max-width: 100%;
   height: auto;
@@ -24,13 +25,6 @@
 }
 .title-link:hover {
   color: black;
-  text-decoration: none;
-}
-
-.drop-shadow:hover {
-  -moz-box-shadow: 0 0 2px green;
-  -webkit-box-shadow: 0 0 2px green;
-  box-shadow: 0 0 2px green;
 }
 
 .logo {
@@ -42,7 +36,7 @@
 }
 
 .btn-outline-success:hover {
-  color: green !important;
+  background-color: $success !important;
 }
 
 .overlay {

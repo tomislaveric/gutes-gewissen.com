@@ -20,8 +20,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Wir schaffen Transparenz und zeigen, dass Konsum nicht immer auch schädlich für unsere Umwelt ist!
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://gutes-gewissen.com' # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username: jekyll
+twitter_username: gutes_gewissen
+
+sass:
+  sass_dir: assets/css
 
 # Build settings
 markdown: kramdown

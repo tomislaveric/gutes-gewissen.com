@@ -2,35 +2,24 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{{ page.title }}</title>
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
-    <link rel="stylesheet" href="/assets/css/styles.css" />
-    <script
-      src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
-      integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8="
-      crossorigin="anonymous"
-    ></script>
-    <link
-      rel="stylesheet"
-      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
-      crossorigin="anonymous"
-    />
-    <!-- Latest compiled and minified JavaScript -->
-    <script
-      src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
-      integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
-      crossorigin="anonymous"
-    ></script>
+    <link rel="stylesheet" href="/assets/css/main.css" />
+    <script>
+      var clicky_site_ids = clicky_site_ids || [];
+      clicky_site_ids.push(101164241);
+    </script>
+    <script async src="//static.getclicky.com/js"></script>
+
+    <title>{{ page.title }}</title>
   </head>
   <body>
-    {% include search-bar.html %}
+    {% include header.html %}
 
     {{ content }}
-    <footer class="footer-container">
+    <footer class="bg-secondary">
       <div class="container p-3 text-center">
-        <a class="btn btn-outline-secondary btn-sm mr-1" href="impressum">Impressum</a>
-        <a class="btn btn-outline-secondary btn-sm ml-1" href="datenschutz">Datenschutz</a>
+        <a class="btn btn-light btn-sm mr-1" href="impressum">Impressum</a>
+        <a class="btn btn-light btn-sm ml-1" href="datenschutz">Datenschutz</a>
       </div>
     </footer>
   </body>

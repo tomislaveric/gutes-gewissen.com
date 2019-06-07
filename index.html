@@ -20,5 +20,7 @@ title: gutes-gewissen.com
   </div>
 </div>
 <div class="container">
-  {% include company-list.html %}
+  {% for post in site.posts %}
+  {% include company-list-element.html content=post %}
+  {% endfor %}
 </div>
