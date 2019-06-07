@@ -16,9 +16,8 @@
 title: gutes-gewissen.com
 email: info@gutes-gewissen.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Wir haben es uns zur Aufgabe gemacht, Unternehmen besonders hervorzuheben, die viel Wert auf Nachhaltigkeit, Qualität und Naturschutz legen. 
+  Wir schaffen Transparenz und zeigen, dass Konsum nicht immer auch schädlich für unsere Umwelt ist!
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://gutes-gewissen.com' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -31,16 +30,11 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-include: ['_pages']
-permalink: :categories/:title
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+
+collections:
+  rubrics:
+    output: true
+    permalink: /rubriken/:name
+  pages:
+    output: true
+    permalink: /:name
