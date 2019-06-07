@@ -1,6 +1,6 @@
 ---
 title: Datenschutz
-layout: container
+layout: page
 permalink: datenschutz
 ---
 

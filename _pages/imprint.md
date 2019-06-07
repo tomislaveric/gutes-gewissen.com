@@ -1,6 +1,6 @@
 ---
 title: Impressum
-layout: container
+layout: page
 permalink: impressum
 ---
 
