@@ -1,0 +1,5 @@
+{% for page in site.posts %} {% if page.rubric contains include.rubric %}
+<div class="item">
+  <h3>{{ page.title }}</h3>
+</div>
+{% endif %} {% endfor %}
