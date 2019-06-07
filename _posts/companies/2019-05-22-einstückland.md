@@ -6,7 +6,8 @@ title: EinStückLand
 slogan: Nachhaltiges Fleisch von glücklichen Kühen
 targetUrl: https://einstueckland.de
 image: /assets/images/einstueckland.png
-category: ernährung
+categories: [Lebensmittel]
+rubric: Ernährung
 tags: [Nachhaltigkeit, Made in Germany, Bio, Biofleisch, Fleisch]
 payments: [PayPal, Überweisung, Kreditkarte]
 shippings: [Kostenloser Versand, Trockeneis Lieferung]
