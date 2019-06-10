@@ -4,15 +4,23 @@ layout: base
 
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
+    {% if page.slogan %}
     <h2>{{ page.title }} - {{ page.slogan }}</h2>
+    {% else %}
+    <h2>{{ page.title }}</h2>
+    {% endif %}
     <p>
       {{ page.description }}
     </p>
-    {% if layout.showButton %}
+    {% if layout.showButton and layout.buttonText == nil %}
     <a href="{{ page.targetUrl }}" target="_blank" class="btn btn-success"
       >Website von {{ page.title }} besuchen!</a
     >
+    {% elsif layout.showButton %}
+    <a href="{{ page.targetUrl }}" class="btn btn-success">{{ layout.buttonText }}</a>
     {% endif %}
   </div>
 </div>
-{{ content }}
+<div class="container">
+  {{ content }}
+</div>
