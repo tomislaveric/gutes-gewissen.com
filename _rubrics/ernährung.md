@@ -2,5 +2,5 @@
 layout: rubric
 title: Ernährung
 headline: Lecker und bewusst essen!
-description: Lorem ipsum dolor sit amet consectetur adipiscing elit quam nullam fusce luctus blandit natoque libero taciti mauris varius potenti metus litora ridiculus imperdiet hendrerit dui aliquam tristique class ornare sagittis rutrum sed consequat pellentesque fringilla enim ad nunc phasellus habitasse vestibulum nec sodales mollis platea molestie dictumst volutpat pharetra ligula
+description: Massentierhaltung, Regenwälder, die gerodet werden, um Platz für Palmölplantagen zu schaffen oder von der Landwirtschaft durch Chemiedünger kontaminierte Flüsse, lassen manchen das Gefühl geben, egal was man isst, es ist falsch! Doch es gibt Ausnahmen! </hr> Hier findest du eine ausgewählte Liste von Anbietern und Produkte, bei denen du ein gutes-gewissen haben kannst. 
 ---

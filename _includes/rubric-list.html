@@ -1,4 +1,4 @@
-<h2>Alle Hersteller zum Thema {{include.rubric}}</h2>
-{% for post in site.posts %} {% if post.rubric contains include.rubric %}
-{% include company-list-element.html content=post %}
-{% endif %} {% endfor %}
+<h2>Alle Anbieter zum Thema {{ include.rubric }}</h2>
+<hr />
+{% for post in site.posts %} {% if post.rubric contains include.rubric %} {% include
+company-list-element.html content=post %} {% endif %} {% endfor %}
