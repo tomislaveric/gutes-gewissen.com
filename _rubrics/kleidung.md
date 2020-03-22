@@ -2,5 +2,5 @@
 layout: rubric
 title: Kleidung
 headline: Mit gutem Gewissen mobil sein!
-description: Lorem ipsum dolor sit amet consectetur adipiscing elit primis nulla tincidunt nec faucibus dis quam luctus tortor vulputate ad in cras montes viverra risus fames libero vivamus eros est non dapibus augue posuere vitae venenatis sapien tristique aenean justo quis neque suspendisse netus magnis malesuada hendrerit sollicitudin convallis habitant facilisis
+description: Hier findest du eine Auflistung von Herstellern, die Kleidung und Textilien lokal produzieren. Heutzutage leben wir in einer Welt, der sogenannten "Fast-Fashion", in der Mode sehr kurzlebig ist. Damit dies möglich ist muss die Kleidung sehr günstig hergstellt werden. Damit wir von günstiger Kleidung profitieren können, leiden in den Herstellungsländern sehr oft die Mitarbeiter an mangelden Schutzmaßnahmen. Doch es geht auch anders, es gibt mittlerweile eine Trendwende in der viele Hersteller auf die lokale Produktion setzen! Das schafft Arbeitsplätze und die Herstellung unterliegt den Standards der europäischen Union. 
 ---
