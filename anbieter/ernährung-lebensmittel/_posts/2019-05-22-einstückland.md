@@ -1,12 +1,10 @@
 ---
 author: Tomislav Erić
 layout: company
-permalink: /:categories/:title:output_ext
 title: EinStückLand
 slogan: Nachhaltiges Fleisch von glücklichen Kühen
 targetUrl: https://einstueckland.de
 image: /assets/images/einstueckland.png
-categories: [Ernährung, Lebensmittel]
 rubric: Ernährung
 tags: [Nachhaltigkeit, Made in Germany, Bio, Biofleisch, Fleisch]
 payments: [PayPal, Überweisung, Kreditkarte]
