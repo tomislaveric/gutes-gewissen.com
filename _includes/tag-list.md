@@ -1,4 +1,4 @@
-<h2 class="h4">Tags</h2>
+<h2 class="h5">{{ include.title }}</h2>
 {% for tag in include.content %}
 <div class="badge badge-success mr-1">
   {{ tag }}

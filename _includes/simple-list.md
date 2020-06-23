@@ -1,4 +1,4 @@
-<h2 class="h4">{{ include.title }}</h2>
+<h2 class="h5">{{ include.title }}</h2>
 <ul>
   {% for item in include.content %}
   <li>

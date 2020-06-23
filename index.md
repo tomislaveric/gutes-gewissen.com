@@ -1,5 +1,5 @@
 ---
-layout: site
+layout: base
 title: Willkommen bei gutes-gewissen
 description: Wir heißen dich herzlich willkommen auf gutes-gewissen. Wir haben es uns zur Aufgabe
   gemacht, Unternehmen besonders hervorzuheben, die viel Wert auf Nachhaltigkeit, Qualität und
@@ -8,8 +8,16 @@ description: Wir heißen dich herzlich willkommen auf gutes-gewissen. Wir haben 
   Ansprüchen genügen, so gebe uns doch Bescheid und wir werden diese hinzufügen!
 targetUrl: über-uns
 buttonText: Mehr erfahren!
+tags: [Made in Germany]
 ---
 
-{% for post in site.posts %}
-    {% include company-list-element.md content=post %}
-{% endfor %}
+<div class="container">
+    <div class="jumbotron">
+      <h1 class="h2">{{ page.title }}</h1>
+      {{ page.description }}
+    </div>
+      {% for post in site.posts %}
+      {% include company-list-element.md content=post %}
+    {% endfor %}
+</div>
+
