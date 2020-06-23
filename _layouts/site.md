@@ -1,8 +1,0 @@
----
-layout: base
----
-
-
-<div class="container">
-  {{ content }}
-</div>
