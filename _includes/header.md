@@ -20,7 +20,6 @@
           autocomplete="off"
         />
       </div>
-
       <div class="btn-group mt-2" role="group" aria-label="First group">
         {% for rubric in site.rubrics %}
         <a href="{{ rubric.url }}" class="btn btn-linkt text-light btn-sm">{{ rubric.title }}</a>

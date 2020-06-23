@@ -24,7 +24,7 @@ websiteTitle: gutes-gewissen
 </head>
 
 <body>
-  {% include header.html %}
+  {% include header.md %}
 
   {{ content }}
   <footer class="bg-secondary">
