@@ -8,14 +8,16 @@ showButton: true
         <div class="col-lg-9 col-sm-12">
             <div class="jumbotron">
                 {% if page.slogan %}
-                    <h1 class="h2">{{ page.title }}
-                        -
-                        {{ page.slogan }}</h1>
+                    <h1 class="h2">{{ page.title }} – {{ page.slogan }}</h1>
                 {% else %}
                     <h1 class="h2">{{ page.title }}</h1>
                 {% endif %}
                 <p> {{ page.description }} </p>
-                <a href="{{ page.targetUrl }}" target="_blank" class="btn btn-success">Website von {{ page.title }} besuchen!</a>
+                 <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
+                    <div class="btn btn-success mt-3">
+                        Website von {{ page.title }} besuchen!
+                    </div>
+             </span>
             </div>
             <div class="mt-3">
                 <div class="align-items-center"></div>
@@ -23,14 +25,14 @@ showButton: true
             </div>
         </div>
         <div class="col-lg-3 col-sm-12">
-            <div class="text-center mt-4 mb-4">
-                <a target="_blank" href="{{ page.targetUrl }}"><img class="img-fluid" src="{{ page.image }}"/></a>
-                <div>
-                <a class="btn btn-outline-success mt-3" target="_blank" href="{{ page.targetUrl }}">Gehe zum
-                    {{ page.title }}
-                    Shop</a>
-                </div>
-            </div>
+             <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
+                <div class="text-center mb-3">
+                    <img class="img-fluid" src="{{ page.image }}"/>
+                    <div class="btn btn-outline-success mt-3">
+                        Gehe zum {{ page.title }} Shop
+                    </div>
+                </div>   
+             </span>
             {% if page.payments %}
                 {% include simple-list.md title="Zahlungsoptionen" content=page.payments %}
             {% endif %}

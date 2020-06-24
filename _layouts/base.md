@@ -7,6 +7,9 @@ websiteTitle: gutes-gewissen
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-161504796-1"></script>
+  <script src="/assets/js/jquery-3.5.1.js"></script>
+  <script src="/assets/js/link-masking.js"></script>
+
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
@@ -14,7 +17,6 @@ websiteTitle: gutes-gewissen
 
     gtag('config', 'UA-161504796-1');
   </script>
-
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
