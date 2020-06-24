@@ -2,6 +2,17 @@
   
     {
 
+      "title"       : "Waschbär",
+      "url"         : "/anbieter/mode-und-kleidung/waschbaer.html",
+      "category"    : "",
+      "tags"        : "Kleidung, Damen, Herren, Mode, Fashion",
+      "date"        : "2020-06-24 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands 5.95 EuroMindestbestellwert 30 EuroVersandkosten in EU-Länder 9,95 EuroVersand an Packstation und Postfiliale möglichRücksendungen und Retoure versandkostenfrei"
+
+    } ,
+  
+    {
+
       "title"       : "Natur.com",
       "url"         : "/anbieter/ernaehrung-und-lebensmittel/natur-com.html",
       "category"    : "",
