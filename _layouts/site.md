@@ -5,7 +5,7 @@ showButton: true
 
 <div class="container">
     <div class="row">
-        <div class="col-9">
+        <div class="col-lg-9 col-sm-12">
             <div class="jumbotron">
                 {% if page.slogan %}
                     <h1 class="h2">{{ page.title }}
@@ -22,12 +22,14 @@ showButton: true
                 {{ content }}
             </div>
         </div>
-        <div class="col-3">
+        <div class="col-lg-3 col-sm-12">
             <div class="text-center mt-4 mb-4">
                 <a target="_blank" href="{{ page.targetUrl }}"><img class="img-fluid" src="{{ page.image }}"/></a>
+                <div>
                 <a class="btn btn-outline-success mt-3" target="_blank" href="{{ page.targetUrl }}">Gehe zum
                     {{ page.title }}
                     Shop</a>
+                </div>
             </div>
             {% if page.payments %}
                 {% include simple-list.md title="Zahlungsoptionen" content=page.payments %}
