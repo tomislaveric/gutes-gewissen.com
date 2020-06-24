@@ -37,6 +37,9 @@ showButton: true
             {% if page.shippings %}
                 {% include simple-list.md title="Versandoptionen" content=page.shippings %}
             {% endif %}
+            {% if page.contact %}
+                {% include simple-list.md title="Kontakt" content=page.contact %}
+            {% endif %}
             {% if page.tags %}
                 {% include tag-list.md title="Tags" content=page.tags %}
             {% endif %}

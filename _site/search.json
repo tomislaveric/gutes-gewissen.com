@@ -2,6 +2,17 @@
   
     {
 
+      "title"       : "Natur.com",
+      "url"         : "/anbieter/ernaehrung-und-lebensmittel/natur-com.html",
+      "category"    : "",
+      "tags"        : "Nachhaltigkeit, Bio, Obst, Gemüse",
+      "date"        : "2020-06-24 00:00:00 +0200",
+      "shippings"   : "Versandkostenfreie Lieferung ab Warenwert von 50 EuroVersandkosten von 495 Euro für Bestellungen unter 50 EuroExpressversand und Lieferung in Kühlverpackung verfügbar"
+
+    } ,
+  
+    {
+
       "title"       : "manomama",
       "url"         : "/anbieter/mode-und-kleidung/manomama.html",
       "category"    : "",
