@@ -16,8 +16,10 @@ tags: [Made in Germany]
       <h1 class="h2">{{ page.title }}</h1>
       {{ page.description }}
     </div>
-      {% for post in site.posts %}
+  <div class="row row-cols-1 row-cols-lg-2 row-cols-md-2 row-cols-sm-1 row-cols-xs-1">
+    {% for post in site.posts %}
       {% include company-list-element.md content=post %}
     {% endfor %}
+  </div>
 </div>
 

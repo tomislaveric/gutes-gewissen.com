@@ -1,28 +1,26 @@
 ---
 layout: base
-showButton: true
 ---
 
 <div class="container">
     <div class="row">
-        <div class="col-lg-9 col-sm-12">
-            <div class="jumbotron">
+        <div class="col-lg-9 col-sm-12 mt-4">
+        <div class="jumbotron p-4">
                 {% if page.slogan %}
-                    <h1 class="h2">{{ page.title }} – {{ page.slogan }}</h1>
+                    <h1 class="h2">{{ page.title }}</h1>
+                    <h2 class="text-muted h5">{{ page.slogan }}</h2>
                 {% else %}
                     <h1 class="h2">{{ page.title }}</h1>
                 {% endif %}
                 <p> {{ page.description }} </p>
                  <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
-                    <div class="btn btn-success mt-3">
+                    <div class="btn btn-success mb-4">
                         Website von {{ page.title }} besuchen!
                     </div>
              </span>
-            </div>
-            <div class="mt-3">
+             </div>
                 <div class="align-items-center"></div>
                 {{ content }}
-            </div>
         </div>
         <div class="col-lg-3 col-sm-12">
              <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
@@ -43,7 +41,7 @@ showButton: true
                 {% include simple-list.md title="Kontakt" content=page.contact %}
             {% endif %}
             {% if page.tags %}
-                {% include tag-list.md title="Tags" content=page.tags %}
+                {% include tag-list.md title="Themen" content=page.tags %}
             {% endif %}
         </div>
     </div>

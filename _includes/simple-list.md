@@ -1,4 +1,3 @@
-<!-- <h2 class="h5">{{ include.title }}</h2> -->
 <ul class="list-unstyled">
 <li class="h5">{{ include.title }}</li>
   {% for item in include.content %}
