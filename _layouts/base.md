@@ -34,7 +34,7 @@ websiteTitle: gutes-gewissen
   {{ content }}
   <footer class="">
     <div class="container p-3 text-center">
-    <a class="btn btn-light btn-sm ml-1" href="/über-uns">Über uns</a>
+    <a class="btn btn-light btn-sm ml-1" href="/ueber-uns">Über uns</a>
       <a class="btn btn-light btn-sm mr-1" href="/impressum">Impressum</a>
       <a class="btn btn-light btn-sm ml-1" href="/datenschutz">Datenschutz</a>
     </div>
