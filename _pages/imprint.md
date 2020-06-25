@@ -2,6 +2,7 @@
 title: Impressum
 layout: page
 permalink: impressum
+description: Das Impressum von gutes-gewissen.com
 ---
 
 Tomislav Erić und Michael Rau<br>
