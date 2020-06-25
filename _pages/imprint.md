@@ -53,6 +53,4 @@ Darstellung dieser Website in fremden Frames ist nur mit schriftlicher Erlaubnis
 Soweit besondere Bedingungen für einzelne Nutzungen dieser Website von den vorgenannten Nummern 1.
 bis 4. abweichen, wird an entsprechender Stelle ausdrücklich darauf hingewiesen. In diesem Falle
 gelten im jeweiligen Einzelfall die besonderen Nutzungsbedingungen.
-<a href="https://www.juraforum.de/disclaimer_muster/"
-
-> Quelle: Disclaimer Muster von JuraForum.de</a
+<a href="https://www.juraforum.de/disclaimer_muster/"> Quelle: Disclaimer Muster von JuraForum.de</a>
