@@ -19,6 +19,9 @@ websiteTitle: gutes-gewissen
   </script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="{{ page.description }}">
+  <meta name="keywords" content="{{ page.tags | join: ', ' }}">
+  
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
   <link rel="stylesheet" href="/assets/css/main.css" />
 
