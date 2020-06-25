@@ -25,7 +25,7 @@ websiteTitle: gutes-gewissen
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
   <link rel="stylesheet" href="/assets/css/main.css" />
 
-  <title>{{ page.title }}</title>
+  <title>{{ page.title }} Nachhaltigkeit und Naturschutz</title>
 </head>
 
 <body>
