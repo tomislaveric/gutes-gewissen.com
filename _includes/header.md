@@ -9,7 +9,7 @@
             aria-haspopup="false"
             aria-expanded="false"
           >
-            <img class="logo" src='/assets/images/logo_v1_alpha.png' }} />
+            <img class="logo" src="/assets/images/logo_v1_alpha.png" alt="gutes-gewissen.com logo" }} />
           </a>
         </div>
         <input
