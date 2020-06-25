@@ -25,8 +25,8 @@ layout: base
         <div class="col-lg-3 col-sm-12">
              <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
                 <div class="text-center mb-3">
-                    <img class="img-fluid" src="{{ page.image }}"/>
-                    <div class="btn btn-outline-success mt-3">
+                    <img class="img-fluid mt-4" src="{{ page.image }}"/>
+                    <div class="btn btn-outline-success mt-4 mb-3">
                         Gehe zum {{ page.title }} Shop
                     </div>
                 </div>   
