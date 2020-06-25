@@ -1,9 +1,8 @@
 ---
-title: gutes-gewissen.com
+title: Gutes Gewissen
 layout: page
 permalink: über-uns
-slogan: Unsere Philosophie
-showButton: false
+slogan: Unser Name steht für unsere Philosophie 
 description: In der heutigen Zeit, neben dem Klimawandel, der Massentierhaltung, der Verschmutzung unserer Erde, den durch den Verkehrskollaps überfüllten Städten und vielen weitern gewissenslosen Tätigkeiten der Menschheit, haben wir es uns zur Aufgabe gemacht, einen Weg zu finden, zumindest mit einem gutem Gewissen, in dieser Welt zu leben!
 ---
 
