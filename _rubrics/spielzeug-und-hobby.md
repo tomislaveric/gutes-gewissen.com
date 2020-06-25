@@ -1,6 +1,6 @@
 ---
 layout: rubric
 title: Spielzeug & Hobby
-headline: Nur das beste für die Kleinen und die Freizeit!
+headline: Die besten Anbieter für nachhaltige Naturprodukte!
 description: "" 
 ---
