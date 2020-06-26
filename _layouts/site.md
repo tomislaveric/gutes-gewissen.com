@@ -14,6 +14,10 @@ layout: base
           "@type": "Rating",
           "ratingValue": "{{page.rating}}",
           "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "{{page.author}}"
         }
       }
     }
