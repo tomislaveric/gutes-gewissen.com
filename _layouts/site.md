@@ -12,12 +12,12 @@ layout: base
         "@type": "Review",
         "reviewRating": {
           "@type": "Rating",
-          "ratingValue": "{{page.rating}}",
+          "ratingValue": "5",
           "bestRating": "5"
         },
         "author": {
           "@type": "Person",
-          "name": "{{page.author}}"
+          "name": "{{ page.author }}"
         }
       }
     }

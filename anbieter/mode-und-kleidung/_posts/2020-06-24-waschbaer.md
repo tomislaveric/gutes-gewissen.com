@@ -29,7 +29,6 @@ contact: [
     "Email: kundenservice@waschbaer.de",
     "Adresse: Waschbär GmbH, Wöhlerstr. 4, 79108 Freiburg"
     ]
-rating: 5
 description: "Waschbär Online-Shop bietet neben der umweltschonenden Naturmode für die ganze Familie auch nachhaltige Produkte rund um das Wohnen und den Haushalt. Der Online-Shop waschbaer.com bietet eine Reihe von Produktkategorien für unterschiedliche Lebensbereiche: Naturmode und -schuhe sind hier ebenso zu finden wie Haushaltswaren und Naturkosmetik oder Heimtextilien, Möbel und Kinderspielzeug. Alle Produkte, die im Online-Shop angeboten werden, erfüllen die strengen Waschbär-Anforderungen in Sachen Umweltgerechtigkeit und Sozialverträglichkeit. Zur Verwirklichung seiner hochgesteckten Ziele arbeitet Waschbär mit einigen unabhängigen Organisationen und anerkannten Gütesiegeln zusammen."
 ---
 
