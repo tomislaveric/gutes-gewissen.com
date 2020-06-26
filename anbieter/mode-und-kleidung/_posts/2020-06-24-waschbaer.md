@@ -1,5 +1,5 @@
 ---
-author: Tomislav Erić
+author: Tomislav
 layout: site
 permalink: /:categories/:title:output_ext
 title: Waschbär
