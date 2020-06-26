@@ -1,7 +1,23 @@
 ---
 layout: base
 ---
-
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "name": "{{ page.title }}",
+        "image": "{{ page.image }}",
+        "description": "{{ page.description }}",
+        "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "{{page.rating}}",
+          "bestRating": "5"
+        }
+      }
+    }
+</script>
 <div class="container">
     <div class="row">
         <div class="col-lg-9 col-sm-12 mt-4">
