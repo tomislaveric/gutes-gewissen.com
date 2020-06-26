@@ -1,7 +1,5 @@
 ---
 author: Tomislav
-layout: site
-permalink: /:categories/:title:output_ext
 title: EinStückLand
 slogan: Nachhaltiges Fleisch bei artgerechter Haltung
 targetUrl: https://einstueckland.de
