@@ -25,7 +25,7 @@ websiteTitle: gutes-gewissen
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
   <link rel="stylesheet" href="/assets/css/main.css" />
 
-  <title>{{ page.title }} | {{ page.slogan }}</title>
+  <title>{{ page.title }} {% if page.slogan %} | {{ page.slogan }} {% endif %}</title>
 </head>
 
 <body>
