@@ -3,7 +3,7 @@ author: Tomislav
 layout: site
 permalink: /:categories/:title:output_ext
 title: EinStückLand
-slogan: Nachhaltiges Fleisch von glücklichen Kühen
+slogan: Nachhaltiges Fleisch bei artgerechter Haltung
 targetUrl: https://einstueckland.de
 image: /assets/images/einstueckland.png
 rubric: Ernährung & Lebensmittel
