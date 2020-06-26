@@ -32,7 +32,7 @@ layout: base
                 {% else %}
                     <h1 class="h2">{{ page.title }}</h1>
                 {% endif %}
-                <p> {{ page.description }} </p>
+                <p>{{ page.shortDescription }} {{ page.description }}</p>
                  <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
                     <div class="btn btn-success mb-4">
                         Website von {{ page.title }} besuchen!
