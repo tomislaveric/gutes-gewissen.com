@@ -1,3 +1,3 @@
-<div class="sticky-top bg-success">
+<div class="sticky-top">
   {% include menu.md %}
 </div>

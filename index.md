@@ -7,7 +7,7 @@ tags: [Nachhaltigkeit, Naturprodukte, Fair-Trade, Made in Germany]
 ---
 
 <div class="container">
-    <div class="jumbotron p-4">
+    <div class="py-4">
       <h1 class="h2">{{ page.title }}</h1>
       <div class="mb-4">{{ page.description }}</div>
       <a class="btn btn-success" href="/ueber-uns" role="button">Mehr erfahren!</a>
