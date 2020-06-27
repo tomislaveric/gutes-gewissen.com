@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "BigGreenSmile",
+      "url"         : "/anbieter/drogerie-und-kosmetik/biggreensmile.html",
+      "category"    : "",
+      "tags"        : "Naturkosmetik, Beauty, Bio, Vegan",
+      "date"        : "2020-06-27 00:00:00 +0200",
+      "shippings"   : "Versandkostenfreie Lieferung ab Warenwert von 45 EuroVersandkosten von 5,95 Euro für Bestellungen unter 45 EuroVersand an Packstation oder Postfiliale möglichLieferung nach Österreich für 13,89 Euro",
+      "image"       : "/assets/images/BigGreenSmile.png"
+
+    } ,
+  
+    {
+
       "title"       : "najoba",
       "url"         : "/anbieter/drogerie-und-kosmetik/najoba.html",
       "category"    : "",
