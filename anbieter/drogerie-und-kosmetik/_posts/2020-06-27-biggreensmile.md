@@ -43,7 +43,7 @@ Natürliche Körperpflegeprodukte wie Feuchtigkeitscremes, Bodylotion und Pflege
 
 ### Die Artikel für Haushalt & Wäsche
 
-Der <a href="https://www.biggreensmile.de/uber-uns.aspx">BigGreenSmile Online-Shop</a> möchte seine Kunden dazu animieren, auch in diesem wichtigen Bereich des Alltags auf natürliche Produkte zurückzugreifen. Im biologisch orientierten Haushalt haben biologische Waschmittel einen sehr hohen Stellenwert. Entgegen vieler Vorurteile reinigen sie genauso gut wie die viel umworbenen Waschmittel der großen Konzerne, belasten aber nicht das Grundwasser. Außerdem schonen sie die Haut beim Tragen der Kleidung. Für ein optimales Ergebnis ist es wichtig, sich an die Anwendungshinweise zu halten. 
+Der <a href="https://www.biggreensmile.de/uber-uns.aspx" target="_blank">BigGreenSmile Online-Shop</a> möchte seine Kunden dazu animieren, auch in diesem wichtigen Bereich des Alltags auf natürliche Produkte zurückzugreifen. Im biologisch orientierten Haushalt haben biologische Waschmittel einen sehr hohen Stellenwert. Entgegen vieler Vorurteile reinigen sie genauso gut wie die viel umworbenen Waschmittel der großen Konzerne, belasten aber nicht das Grundwasser. Außerdem schonen sie die Haut beim Tragen der Kleidung. Für ein optimales Ergebnis ist es wichtig, sich an die Anwendungshinweise zu halten. 
 
 ### Die Zahlungsarten im BigGreenSmile Online-Shop
 
