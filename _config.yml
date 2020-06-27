@@ -36,7 +36,7 @@ plugins:
 collections:
   rubrics:
     output: true
-    permalink: /rubrik/:name
+    permalink: /:name
   pages:
     output: true
     permalink: /:name
