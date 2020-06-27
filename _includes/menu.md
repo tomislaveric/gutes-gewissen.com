@@ -22,6 +22,14 @@
                     </div>
                 </li>
             </ul>
+            <ul class="navbar-nav">
+                <li>
+                    <a href="/ueber-uns" class="nav-link" role="button">
+                        Über uns
+                    </a>
+                </li>
+            </ul>
+            
             <div class="dropdown">
                 <input aria-expanded="false" aria-haspopup="true" autocomplete="off" class="form-control dropdown-toggle" data-toggle="dropdown" id="search-input" placeholder="Live Suche!" type="text"/>
                 <div class="dropdown-menu dropdown-links" id="results-container"></div>
