@@ -4,10 +4,6 @@
 @import '/assets/bootstrap/css/bootstrap.css';
 $basecolor: #28A745;
 
-.header {
-  padding: 10px 0 3px 0;
-}
-
 a {
   color: $basecolor;
 }
@@ -19,6 +15,31 @@ a:hover {
 
 .logo {
   height: 25px;
+}
+
+.dropdown-links a {
+  color: black;
+}
+
+.listing {
+  padding-left: 0.75em;
+  list-style: none;
+}
+
+.listing li::before {
+  content: "\2022"; 
+  color: $basecolor;
+  margin-left: -0.75em;
+}
+
+.search-result-img {
+  max-height: 32px;
+  max-width: 32px;
+}
+
+.header-line {
+  background-color: $basecolor;
+  height: 2px;
 }
 
 .jumbotron {
@@ -42,6 +63,8 @@ a:hover {
   -moz-box-shadow: 0px 2px 3px 0px rgba(217, 217, 217, 1);
   box-shadow: 0px 2px 3px 0px rgba(217, 217, 217, 1);
   background-color: white;
-  position: absolute;
+  position: fixed;
+  right: 0;
+  left: 0;
   z-index: 1;
 }

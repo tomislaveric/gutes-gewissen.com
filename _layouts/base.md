@@ -8,7 +8,9 @@ websiteTitle: gutes-gewissen
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-161504796-1"></script>
   <script src="/assets/js/jquery-3.5.1.js"></script>
+  <script src="/assets/js/popper.min.js"></script>
   <script src="/assets/js/link-masking.js"></script>
+  <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
 
   <script>
     window.dataLayer = window.dataLayer || [];

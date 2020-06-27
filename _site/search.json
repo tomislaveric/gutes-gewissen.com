@@ -7,7 +7,8 @@
       "category"    : "",
       "tags"        : "Naturkosmetik, Beauty, Bio, Lebensmittel",
       "date"        : "2020-06-26 00:00:00 +0200",
-      "shippings"   : "Kostenlose Lieferung nach Deutschland und Österreich ab 29 EuroVersandkosten von 490 für Bestellungen unter 29 EuroExpresslieferung und Samstagszustellung gegen Aufpreis möglichVersandkostenfreie Rücksendungen und Retoure"
+      "shippings"   : "Kostenlose Lieferung nach Deutschland und Österreich ab 29 EuroVersandkosten von 490 für Bestellungen unter 29 EuroExpresslieferung und Samstagszustellung gegen Aufpreis möglichVersandkostenfreie Rücksendungen und Retoure",
+      "image"       : "/assets/images/najoba.svg"
 
     } ,
   
@@ -18,7 +19,8 @@
       "category"    : "",
       "tags"        : "Naturprodukt, Bio, Spielzeug, Kinder, Nachhaltigkeit",
       "date"        : "2020-06-25 00:00:00 +0200",
-      "shippings"   : "Versandkostenfreie Lieferung ab Warenwert von 50 EuroVersandkosten von 495 Euro für Bestellungen unter 50 EuroVersand an eine Packstation möglichKeine Lieferkosten für Rücksendungen und Retoure"
+      "shippings"   : "Versandkostenfreie Lieferung ab Warenwert von 50 EuroVersandkosten von 495 Euro für Bestellungen unter 50 EuroVersand an eine Packstation möglichKeine Lieferkosten für Rücksendungen und Retoure",
+      "image"       : "/assets/images/holzfarm.png"
 
     } ,
   
@@ -29,7 +31,8 @@
       "category"    : "",
       "tags"        : "Kleidung, Damen, Herren, Mode, Fashion",
       "date"        : "2020-06-24 00:00:00 +0200",
-      "shippings"   : "Versandkosten innerhalb Deutschlands 5.95 EuroMindestbestellwert 30 EuroVersandkosten in EU-Länder 9,95 EuroVersand an Packstation und Postfiliale möglichRücksendungen und Retoure versandkostenfrei"
+      "shippings"   : "Versandkosten innerhalb Deutschlands 5.95 EuroMindestbestellwert 30 EuroVersandkosten in EU-Länder 9,95 EuroVersand an Packstation und Postfiliale möglichRücksendungen und Retoure versandkostenfrei",
+      "image"       : "/assets/images/waschbaer.png"
 
     } ,
   
@@ -40,7 +43,8 @@
       "category"    : "",
       "tags"        : "Nachhaltigkeit, Bio, Obst, Gemüse",
       "date"        : "2020-06-24 00:00:00 +0200",
-      "shippings"   : "Versandkostenfreie Lieferung ab Warenwert von 50 EuroVersandkosten von 495 Euro für Bestellungen unter 50 EuroExpressversand und Lieferung in Kühlverpackung verfügbar"
+      "shippings"   : "Versandkostenfreie Lieferung ab Warenwert von 50 EuroVersandkosten von 495 Euro für Bestellungen unter 50 EuroExpressversand und Lieferung in Kühlverpackung verfügbar",
+      "image"       : "/assets/images/natur-com.png"
 
     } ,
   
@@ -51,7 +55,8 @@
       "category"    : "",
       "tags"        : "Kleidung, Damen, Herren, Mode, Fashion, Made in Germany",
       "date"        : "2019-05-23 00:00:00 +0200",
-      "shippings"   : "Kostenloser Standardversand ab 100 EuroVersand in Deutschland 5 EuroVersand in Europa 14 EuroVersandkostenpauschale unabhängig vom Gewicht"
+      "shippings"   : "Kostenloser Standardversand ab 100 EuroVersand in Deutschland 5 EuroVersand in Europa 14 EuroVersandkostenpauschale unabhängig vom Gewicht",
+      "image"       : "/assets/images/manomama.png"
 
     } ,
   
@@ -62,7 +67,8 @@
       "category"    : "",
       "tags"        : "Nachhaltigkeit, Made in Germany, Bio, Biofleisch, Fleisch",
       "date"        : "2019-05-22 00:00:00 +0200",
-      "shippings"   : "Kostenloser VersandTrockeneis Lieferung"
+      "shippings"   : "Kostenloser VersandTrockeneis Lieferung",
+      "image"       : "/assets/images/einstueckland.png"
 
     } 
   

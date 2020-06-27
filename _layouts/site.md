@@ -25,7 +25,7 @@ layout: base
 <div class="container">
     <div class="row">
         <div class="col-lg-9 col-sm-12 mt-4">
-        <div class="jumbotron p-4">
+        <div class="">
                 {% if page.slogan %}
                     <h1 class="h2">{{ page.title }}</h1>
                     <h2 class="text-muted h5">{{ page.slogan }}</h2>
@@ -34,7 +34,7 @@ layout: base
                 {% endif %}
                 <p>{{ page.shortDescription }} {{ page.description }}</p>
                  <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
-                    <div class="btn btn-success mb-4">
+                    <div class="btn btn-outline-success mb-4 w-100">
                         Website von {{ page.title }} besuchen!
                     </div>
              </span>
@@ -46,7 +46,7 @@ layout: base
              <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
                 <div class="text-center mb-3">
                     <img class="img-fluid mt-4" src="{{ page.image }}"/>
-                    <div class="btn btn-outline-success mt-4 mb-3">
+                    <div class="btn btn-success mt-4 mb-3">
                         Gehe zum {{ page.title }} Shop
                     </div>
                 </div>   

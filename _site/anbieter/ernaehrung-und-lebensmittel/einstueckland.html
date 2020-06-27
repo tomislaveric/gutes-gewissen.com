@@ -4,7 +4,9 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-161504796-1"></script>
   <script src="/assets/js/jquery-3.5.1.js"></script>
+  <script src="/assets/js/popper.min.js"></script>
   <script src="/assets/js/link-masking.js"></script>
+  <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
 
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -25,45 +27,51 @@
 </head>
 
 <body>
-  <div class="sticky-top bg-success header">
-  <div class="container">
-    <div class="custom-search-input">
-      <div class="input-group">
-        <div class="input-group-prepend">
-          <a
-            href="/"
-            class="btn btn-outline-success btn-sm"
-            aria-haspopup="false"
-            aria-expanded="false"
-          >
-            <img class="logo" src="/assets/images/logo_v1_alpha.png" alt="gutes-gewissen.com logo" }} />
-          </a>
+  <div class="sticky-top bg-success">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container">
+        <a aria-expanded="false" aria-haspopup="false" class="navbar-brand" href="/">
+            <img alt="gutes-gewissen.com logo" class="logo" src="/assets/images/logo_v1_alpha.png" }}/>
+            gutes-gewissen.com
+        </a>
+        <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-target="#navbarSupportedContent" data-toggle="collapse" type="button">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item dropdown dropdown-links">
+                    <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" id="navbarDropdown" role="button">
+                        Rubriken
+                    </a>
+                    <div aria-labelledby="navbarDropdown" class="dropdown-menu">
+                        
+                            <button class="dropdown-item" href="#" type="button">
+                                <a href="/rubrik/drogerie-und-kosmetik">Drogerie & Kosmetik</a>
+                            </button>
+                        
+                            <button class="dropdown-item" href="#" type="button">
+                                <a href="/rubrik/ernaehrung-und-lebensmittel">Ernährung & Lebensmittel</a>
+                            </button>
+                        
+                            <button class="dropdown-item" href="#" type="button">
+                                <a href="/rubrik/mode-und-kleidung">Kleidung & Mode</a>
+                            </button>
+                        
+                            <button class="dropdown-item" href="#" type="button">
+                                <a href="/rubrik/spielzeug-und-hobby">Spielzeug & Hobby</a>
+                            </button>
+                        
+                    </div>
+                </li>
+            </ul>
+            <div class="dropdown">
+                <input aria-expanded="false" aria-haspopup="true" autocomplete="off" class="form-control dropdown-toggle" data-toggle="dropdown" id="search-input" placeholder="Live Suche!" type="text"/>
+                <div class="dropdown-menu dropdown-links" id="results-container"></div>
+
+            </div>
         </div>
-        <input
-          id="search-input"
-          type="text"
-          class="form-control"
-          placeholder="Live Suche! Einfach beliebigen Suchbegriff eingeben"
-          autocomplete="off"
-        />
-      </div>
-      <div class="btn-group mt-2" role="group" aria-label="First group">
-        
-        <a href="/rubrik/drogerie-und-kosmetik" class="btn btn-linkt text-light btn-sm">Drogerie & Kosmetik</a>
-        
-        <a href="/rubrik/ernaehrung-und-lebensmittel" class="btn btn-linkt text-light btn-sm">Ernährung & Lebensmittel</a>
-        
-        <a href="/rubrik/mode-und-kleidung" class="btn btn-linkt text-light btn-sm">Kleidung & Mode</a>
-        
-        <a href="/rubrik/spielzeug-und-hobby" class="btn btn-linkt text-light btn-sm">Spielzeug & Hobby</a>
-        
-      </div>
     </div>
-  </div>
-  <div class="overlay container-fluid">
-    <div class="container" id="results-container"></div>
-  </div>
-</div>
+</nav>
 
 <!-- Script pointing to search-script.js -->
 <script src="/assets/js/simple-jekyll-search.min.js" type="text/javascript"></script>
@@ -73,10 +81,12 @@
   SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
-    json: '/search.json'
+    json: '/search.json',
+    searchResultTemplate: '<div class="dropdown-item m-2"><img class="search-result-img" src="{image}"/><a class="ml-2" href="https://gutes-gewissen.com{url}">{title}</a></div>'
   });
 </script>
 
+</div>
 
   <script type="application/ld+json">
     {
@@ -102,14 +112,14 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-9 col-sm-12 mt-4">
-        <div class="jumbotron p-4">
+        <div class="">
                 
                     <h1 class="h2">EinStückLand</h1>
                     <h2 class="text-muted h5">Nachhaltiges Fleisch bei artgerechter Haltung</h2>
                 
                 <p>EinStückLand bietet hoch qualitatives Rindfleisch aus artgerechter, regionaler und respektvoller Tierhaltung an. Bei EinStückLand wird ein Rind erst zum Schlachter geschickt wenn es restlos verkauft wurde. EinStückLand etzt auf Regionalität und bezieht seine Galloway Rinder ausschließlich von Bauern in Schleswig-Holstein. Die Herkunft der Rinder ist sehr transparent gestaltet und kann zu 100% zurückverfolgt werden. Das Rind wird von einem Schlachter in der Nähe verarbeitet, portioniert und abgepackt. Der Vorteil daran ist, dass die Tiere keine langen und stressigen Transportwerge zurücklegen müssen. Dieses nachhaltige Konzept überzeugt!</p>
                  <span class="affili" data-affili="https://einstueckland.de" rel="nofollow">
-                    <div class="btn btn-success mb-4">
+                    <div class="btn btn-outline-success mb-4 w-100">
                         Website von EinStückLand besuchen!
                     </div>
              </span>
@@ -140,7 +150,7 @@
              <span class="affili" data-affili="https://einstueckland.de" rel="nofollow">
                 <div class="text-center mb-3">
                     <img class="img-fluid mt-4" src="/assets/images/einstueckland.png"/>
-                    <div class="btn btn-outline-success mt-4 mb-3">
+                    <div class="btn btn-success mt-4 mb-3">
                         Gehe zum EinStückLand Shop
                     </div>
                 </div>   
@@ -149,27 +159,21 @@
                 <ul class="list-unstyled">
 <li class="h5">Zahlungsoptionen</li>
   
-  <ul>
+<ul class="listing">
   <li>
-    <div class="listing">
       PayPal
-    </div>
   </li>
   </ul>
   
-  <ul>
+<ul class="listing">
   <li>
-    <div class="listing">
       Überweisung
-    </div>
   </li>
   </ul>
   
-  <ul>
+<ul class="listing">
   <li>
-    <div class="listing">
       Kreditkarte
-    </div>
   </li>
   </ul>
   
@@ -179,19 +183,15 @@
                 <ul class="list-unstyled">
 <li class="h5">Versandoptionen</li>
   
-  <ul>
+<ul class="listing">
   <li>
-    <div class="listing">
       Kostenloser Versand
-    </div>
   </li>
   </ul>
   
-  <ul>
+<ul class="listing">
   <li>
-    <div class="listing">
       Trockeneis Lieferung
-    </div>
   </li>
   </ul>
   
