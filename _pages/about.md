@@ -8,7 +8,7 @@ description: In der heutigen Zeit, neben dem Klimawandel, der Massentierhaltung,
 
 ### Unser Name ist Programm
 
-Wir wollen keinem ein gewissen Lebensstil empfehlen, da gibt es schon mehr als genug, die das tun. Wir wollen niemanden eine bestimmte Ideologie unter die Nase reiben. Was wir wollen, ist unseren jetzigen Lebensstil bewusster, nachhaltiger und gewissenhafter zu gestalten. Damit das gelingt, müssen wir Transparenz schaffen, das ist in der heutigen Zeit nicht einfach, da viele Unternehmen Ihre Tätigkeiten durch [Greenwashing](https://de.wikipedia.org/wiki/Greenwashing) verschleiern. Wir wollen Unternehmen hervorheben, die bewusst, nachhaltig und gewissenhaft produzieren. Damit wir beim Einkaufen eben auch ein _{{layout.websiteTitle}}_ haben.
+Wir wollen keinem ein gewissen Lebensstil empfehlen, da gibt es schon mehr als genug, die das tun. Wir wollen niemanden eine bestimmte Ideologie unter die Nase reiben. Was wir wollen, ist unseren jetzigen Lebensstil bewusster, nachhaltiger und gewissenhafter zu gestalten. Damit das gelingt, müssen wir Transparenz schaffen, das ist in der heutigen Zeit nicht einfach, da viele Unternehmen Ihre Tätigkeiten durch [Greenwashing](https://de.wikipedia.org/wiki/Greenwashing){:target="_blank"} verschleiern. Wir wollen Unternehmen hervorheben, die bewusst, nachhaltig und gewissenhaft produzieren. Damit wir beim Einkaufen eben auch ein _{{layout.websiteTitle}}_ haben.
 
 ### Mobilität
 

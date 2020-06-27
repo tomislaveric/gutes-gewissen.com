@@ -57,7 +57,7 @@ Neben Mode und Schuhen für Frauen, Männer und Kinder verkauft Waschbär auch S
 
 ### Das Einkaufen bei Waschbär
 
-In den Waschbär-Läden in Freiburg, Karlsruhe und Göttingen bietet das Unternehmen vor allem Schnäppchen und vergünstigte Artikel aus allen Sortimentsbereichen. Überhänge, Restposten und Einzelstücke bilden den Kern des Angebots vor Ort. In den Läden werden jedoch lediglich Artikel aus dem aktuellen Waschbär- und Kinder-Sortiment angeboten. In allen Waschbär-Läden hat man deshalb die Möglichkeit, das <a href="https://www.waschbaer.de/shop/ueber-uns/laeden" target="_blank">Bestellcenter</a> aufzusuchen und sämtliche Artikel aus den Katalogen ins Ladenlokal zu bestellen. In diesem Fall erfolgt die Lieferung versandkostenfrei.
+In den Waschbär-Läden in Freiburg, Karlsruhe und Göttingen bietet das Unternehmen vor allem Schnäppchen und vergünstigte Artikel aus allen Sortimentsbereichen. Überhänge, Restposten und Einzelstücke bilden den Kern des Angebots vor Ort. In den Läden werden jedoch lediglich Artikel aus dem aktuellen Waschbär- und Kinder-Sortiment angeboten. In allen Waschbär-Läden hat man deshalb die Möglichkeit, das [Bestellcenter](https://www.waschbaer.de/shop/ueber-uns/laeden){:target="_blank"} aufzusuchen und sämtliche Artikel aus den Katalogen ins Ladenlokal zu bestellen. In diesem Fall erfolgt die Lieferung versandkostenfrei.
 
 ### Die Zahlungsarten im Waschbär Online-Shop
 
