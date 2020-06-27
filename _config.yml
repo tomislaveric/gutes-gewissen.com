@@ -35,6 +35,7 @@ plugins:
 
 collections:
   rubrics:
+    permalink: /:title:output_ext
     output: true
   pages:
     output: true
