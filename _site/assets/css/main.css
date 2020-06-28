@@ -19,6 +19,8 @@ a:hover { color: #145523; text-decoration: none; }
 
 .affili { cursor: pointer; }
 
+.black-link { color: black; }
+
 .btn-outline-success { background-color: white !important; }
 
 .btn-outline-success:hover { background-color: #28A745 !important; }

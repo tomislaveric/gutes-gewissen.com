@@ -58,6 +58,9 @@ layout: base
             {% if page.shippings %}
                 {% include simple-list.md title="Versandoptionen" content=page.shippings %}
             {% endif %}
+            {% if page.raw %}
+                {% include raw-list.md content=page.raw %}
+            {% endif %}
             {% if page.contact %}
                 {% include simple-list.md title="Kontakt" content=page.contact %}
             {% endif %}

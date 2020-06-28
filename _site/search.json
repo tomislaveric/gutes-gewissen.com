@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Polarstern",
+      "url"         : "/oekostrom-und-oekogas/polarstern/",
+      "category"    : "",
+      "tags"        : "Energieversorger, Grüner Strom, CO2 neutral",
+      "date"        : "2020-06-28 00:00:00 +0200",
+      "shippings"   : "",
+      "image"       : "/assets/images/Polarstern.png"
+
+    } ,
+  
+    {
+
       "title"       : "BigGreenSmile",
       "url"         : "/drogerie-und-kosmetik/biggreensmile/",
       "category"    : "",
