@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Gutes-Gewissen steht für Nachhaltigkeit und Fairness
+title: gutes-gewissen.com steht für Nachhaltigkeit und Fairness
 description: Nachhaltigkeit, Naturschutz sowie faire Bedigungen der Bauern und Qualität sind wichtige Themen bei denen wir Transparenz schaffen wollen. Wir zeigen, dass Konsum nicht immer schädlich
   für unsere Umwelt sein muss! Wir werden hier nur Hersteller und Produkte auflisten, die wir genau unter die Lupe genommen haben und von denen wir auch wirklich überzeugt sind. Solltest du weitere Produkte oder Hersteller kennen, die diesen Ansprüchen genügen, so gebe uns doch Bescheid und wir werden diese hinzufügen!
 tags: [Nachhaltigkeit, Naturprodukte, Fair-Trade, Made in Germany]
