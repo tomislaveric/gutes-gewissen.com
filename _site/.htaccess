@@ -1,4 +1,6 @@
     <IfModule mod_rewrite.c>
+    ErrorDocument 404 https://www.gutes-gewissen.com/
+    ErrorDocument 500 https://www.gutes-gewissen.com/
     RewriteEngine On
     RewriteBase /
     RewriteCond %{REQUEST_FILENAME} !-f
