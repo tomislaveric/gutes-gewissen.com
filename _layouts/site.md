@@ -47,9 +47,15 @@ layout: base
              <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
                 <div class="text-center mb-3">
                     <img class="img-fluid mt-4" src="{{ page.image }}"/>
+                    {% if page.sidebarButtonText%}
+                    <div class="btn btn-success mt-4 mb-3">
+                        {{ page.sidebarButtonText }} {{ page.title }}
+                    </div>
+                    {% else %}
                     <div class="btn btn-success mt-4 mb-3">
                         Gehe zum {{ page.title }} Shop
                     </div>
+                    {% endif %}
                 </div>   
              </span>
             {% if page.payments %}

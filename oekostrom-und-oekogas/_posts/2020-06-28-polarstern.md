@@ -7,6 +7,7 @@ image: /assets/images/Polarstern.png
 rubric: Ökostrom & Ökogas
 shortDescription: Polarstern versorgt als unabhängiger Ökostromanbieter bundesweit seine Kunden mit Ökostrom und Ökogas aus ausschließlich erneuerbaren Quellen.
 description: Die Münchner Polarstern GmbH bietet Ökostrom und -gas zu leistungsfähigen Tarifen an. Darüber hinaus unterstützt das Unternehmen die Energiewende mit weiteren interessanten Produkten. Der Ökostromanbieter wurde Ende 2009 durch drei junge Unternehmer gegründet, die sich beruflich verändern und dabei an der deutschen Energiewende beteiligen wollten. Das ist sehr sinnvoll und gelang auch gut mit dem Ökostrom und -gasangebot. Das Unternehmen ist eine völlig selbstständige GmbH, hinter der kein großer Konzern steht.
+sidebarButtonText: Gehe zu
 tags: [Energieversorger, Grüner Strom, CO2 neutral]
 contact: [
     "Telefon Privatkunden: 089 309 042 911",
