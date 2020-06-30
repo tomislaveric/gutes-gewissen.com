@@ -15,17 +15,17 @@ payments: [
    Nachnahme
 ]
 shippings: [
-    Versandkostenfreie Lieferung ab Warenwert von 75 Euro,
-    Versandkosten von 5,95 für Bestellungen unter 75 Euro,
-    Mindestbestellwert von 10 Euro,
-    Lieferung ab Packstation möglich,
-    Kostenloser Versand nach Österreich ab 75 Euro Bestellwert
+    "Versandkostenfreie Lieferung ab Warenwert von 75 Euro",
+    "Versandkosten von 5,95 für Bestellungen unter 75 Euro",
+    "Mindestbestellwert von 10 Euro",
+    "Lieferung ab Packstation möglich",
+    "Kostenloser Versand nach Österreich ab 75 Euro Bestellwert"
 ]
 contact: [
-    "Telefon Bestellung und Beratung: 06784 983 990",
-    "Telefon Buchhaltung: 06784 9839911",
+    "Telefon Bestellung und Beratung:<br>06784 983 990",
+    "Telefon Buchhaltung:<br>06784 9839911",
     "Email: info@purenature.de",
-    "Adresse: Pure Nature Products Versand GmbH, Zur Rothheck 14, 55743 Idar-Oberstein"
+    "Adresse: Pure Nature Products Versand GmbH<br>Zur Rothheck 14<br>55743 Idar-Oberstein"
 
 ]
 shortDescription: PureNature Online-Shop ist spezialisiert auf nachhaltige Produkte für die Allergiker und das vegane Leben aus den verschiedensten Bereichen.
@@ -38,7 +38,7 @@ Das Sortiment beinhaltet rund 4.000 Produkte aus nachhaltiger Erzeugung, die fü
 
 ### Die Unterstützung für Allergiker
 
-Für die Produktauswahl im PureNature Online-Shop profitieren Kunden von einem praktischen Allergiefilter (Dofollow-Link https://www.purenature.de/filter). Damit lassen sich schnell und einfach genau die Produkte aus dem Sortiment auswählen, die verträglich sind. Per Klick lässt sich die individuelle Allergiebelastung anzeigen und es erscheint eine Liste der passenden Lebensmittel oder anderer passender Produkte.
+Für die Produktauswahl im PureNature Online-Shop profitieren Kunden von einem praktischen [Allergiefilter](https://www.purenature.de/filter){:target="_blank"}. Damit lassen sich schnell und einfach genau die Produkte aus dem Sortiment auswählen, die verträglich sind. Per Klick lässt sich die individuelle Allergiebelastung anzeigen und es erscheint eine Liste der passenden Lebensmittel oder anderer passender Produkte.
 
 ### Die Naturkosmetik im PureNature Online-Shop
 
