@@ -52,7 +52,7 @@ layout: base
                 </div>
                     {% if page.sidebarButtonText %}
                     <div class="btn btn-success mt-4 mb-3">
-                        {{ page.sidebarButtonText }} {{ page.title }}
+                        {{ page.sidebarButtonText }}
                     </div>
                     {% else %}
                     <div class="btn btn-success mt-4 mb-3">
@@ -61,14 +61,14 @@ layout: base
                     {% endif %}
                 </div>   
              </span>
+            {% if page.raw %}
+                {% include raw-list.md content=page.raw %}
+            {% endif %}
             {% if page.payments %}
                 {% include simple-list.md title="Zahlungsoptionen" content=page.payments %}
             {% endif %}
             {% if page.shippings %}
                 {% include simple-list.md title="Versandoptionen" content=page.shippings %}
-            {% endif %}
-            {% if page.raw %}
-                {% include raw-list.md content=page.raw %}
             {% endif %}
             {% if page.contact %}
                 {% include simple-list.md title="Kontakt" content=page.contact %}
