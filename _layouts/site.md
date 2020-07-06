@@ -61,9 +61,14 @@ layout: base
                     {% endif %}
                 </div>   
              </span>
-            {% if page.raw %}
-                {% include raw-list.md content=page.raw %}
-            {% endif %}
+            
+            {% for element in page.affiliateElements %}
+                {% assign title = element[0] %}
+                {% assign url = element[1] %}
+                {% assign image = element[2] %}
+                {% include affiliate-element.md title=title url=url image=image %}
+            {% endfor %}
+
             {% if page.payments %}
                 {% include simple-list.md title="Zahlungsoptionen" content=page.payments %}
             {% endif %}

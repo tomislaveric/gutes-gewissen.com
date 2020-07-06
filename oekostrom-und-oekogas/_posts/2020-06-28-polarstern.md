@@ -18,19 +18,16 @@ contact: [
     "WhatsApp und iMessage: 0176 43546221",
     "Adresse: Polarstern GmbH, Lindwurmstraße 88, 80337 München"
 ]
-raw: [
-<hr>,
-    "<span class='affili' data-affili='https://www.awin1.com/awclick.php?gid=373003&mid=14797&awinaffid=731132&linkid=2482504&clickref=' rel='nofollow'><h3 class='h6'>Preisvergleich für Strom und Gas von Verivox</h3>
-    <div class='text-center'>
-  <img src='/assets/images/Verivox.png' class='card-img-top px-4 max-width-300'></span>",
-  </div>
-<hr>,
-  "<span class='affili' data-affili='https://www.awin1.com/awclick.php?gid=349609&mid=9364&awinaffid=731132&linkid=2275212&clickref=' rel='nofollow'><h3 class='h6'>Strom- und Gas-Preisvergleich von CHECK24</h3>
-  <div class='text-center'>
-  <img src='/assets/images/check24.png' class='card-img-top px-4 max-width-300'></span>",
-  </div>
-<hr>
-]
+affiliateElements: [
+  [
+  "Preisvergleich für Strom und Gas von Verivox", 
+  "https://www.awin1.com/awclick.php?gid=373003&mid=14797&awinaffid=731132&linkid=2482504&clickref=", 
+  "/assets/images/Verivox.png"],
+  [
+  "Strom- und Gas-Preisvergleich von CHECK24", 
+  "https://www.awin1.com/awclick.php?gid=349609&mid=9364&awinaffid=731132&linkid=2275212&clickref=", 
+  "/assets/images/check24.png"]
+  ]
 ---
 
 ### Der Ökostrom von Polarstern
