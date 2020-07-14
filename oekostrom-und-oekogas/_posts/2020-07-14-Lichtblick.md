@@ -6,7 +6,7 @@ targetUrl: https://www.awin1.com/cread.php?awinmid=19047&awinaffid=731132&clickr
 image: /assets/images/LichtBlick.jpg
 rubric: Ökostrom & Ökogas
 shortDescription: LichtBlick ist ein unabhängiger Energieversorger und bietet seinen Kunden 100-prozentigen Ökostrom sowie Okogas neben Vorteilen für Elektroautofahrer.
-description: LichtBlick ist Deutschlands führender Ökostrom-Anbieter. Das Unternehmen bietet LichtBlick Ökostrom aus 100 Prozent Wasserenergie zu fairen Preisen. Innovative Produkte wie Strom für Elektroautos oder Strom aus der eigenen Photovoltaikanlage ergänzen das Portfolio. Das Unternehmen LichtBlick wurde im Jahr 1998 von Michael Saalfeld und Heiko von Tschischwitz gegründet und hat sich seitdem zu Deutschlands führendem Anbieter für Ökostrom gemausert. Inzwischen versorgt LichtBlick mehr als eine Million Menschen mit sauberer Energie..
+description: LichtBlick ist Deutschlands führender Ökostrom-Anbieter. Das Unternehmen bietet LichtBlick Ökostrom aus 100 Prozent Wasserenergie zu fairen Preisen. Innovative Produkte wie Strom für Elektroautos oder Strom aus der eigenen Photovoltaikanlage ergänzen das Portfolio. Das Unternehmen LichtBlick wurde im Jahr 1998 von Michael Saalfeld und Heiko von Tschischwitz gegründet und hat sich seitdem zu Deutschlands führendem Anbieter für Ökostrom gemausert. Inzwischen versorgt LichtBlick mehr als eine Million Menschen mit sauberer Energie.
 sidebarButtonText: Gehe zu LichtBlick
 tags: [Energieversorger, Ökogasanbieter, Ökostrom, Grüner Strom, CO2 neutral]
 contact: [
