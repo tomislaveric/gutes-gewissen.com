@@ -1,7 +1,8 @@
 <div class="col mb-4">
-    <div class="card h-100">
+    <div class="card border-secondary h-100">
         <div class="card-header">
-            {{ post.slogan }}
+        <a href="{{ post.categories[0] }}">{{ post.rubric }}</a>
+        <div>{{ post.slogan }}</div>
         </div>
         <div class="row no-gutters position-relative">
             <div class="col-lg-4 pr-4 pl-2 align-self-center">
