@@ -36,19 +36,19 @@ Bereits 2001 kam mit dem Siegel "ok power" die erste Auszeichnung für umwelt- u
 
 LichtBlick produziert aber nicht nur grünen Strom, sondern engagiert sich auch in anderen gemeinnützigen Projekten. So rief das Unternehmen im Jahr 2005 in Zusammenarbeit mit dem Verein "GEO schützt den Regenwald" ein [Regenwald-Projekt in Ecuador](https://www.lichtblick.de/unternehmen/15-jahre-regenwald/){:target="_blank"} ins Leben und ging im Jahr 2011 mit dem WWF eine Partnerschaft ein, die das Ziel hat, die Energiewende schneller voranzubringen. 
 
-### Die Idee von LichBlick
+### Die Idee von LichtBlick
 
 LichtBlick strebt eine Revolutionierung des Energiemarkts an und hat schon viele Schritte getan, um dieses ehrgeizige Ziel zu erreichen. Das Unternehmen sieht sich als Vorläufer und Innovator des deutschen Energiemarkts und wirbt mit intelligenten Lösungen und seinem Engagement für eine saubere, dezentral vernetzte Energiewelt. Erklärtes Ziel ist es, Umweltsünder wie Kohle- und Atomkraftwerke schnellstmöglich abzuschaffen.
 
-### Der Ökostrom von LichBlick
+### Der Ökostrom von LichtBlick
 
 Der LichtBlick Ökostrom stammt zu 100 Prozent aus deutscher Wasserkraft. Stromgewinnung aus Wasserkraft ist mittlerweile ein Standardverfahren unter den erneuerbaren Energien und außerdem besonders effektiv und umweltfreundlich. Und so funktioniert es: Der Druck, mit dem das Wasser aus dem Fluss auf die Schaufeln der Turbine trifft, wird genutzt, um diese anzutreiben. Danach hat das Wasser seinen Dienst getan und wird wieder zurück in den Fluss geleitet. Die Turbine stattdessen, die mit dem Rotor des Generators verbunden ist, dreht sich immer weiter. Durch die Drehbewegung entsteht am magnetischen Rotor des Generators ein Magnetfeld. Dieses erzeugt im Zusammenspiel mit den im Generator angebrachten Statoren elektrische Spannung. LichtBlick legt viel Wert auf die Tatsache, dass die Wasserkraftwerke, aus denen das Unternehmen seinen Strom bezieht, Fauna und Flora so wenig wie möglich beeinträchtigen. Auch hier setzt LichtBlick auf Nachhaltigkeit und lässt die Wasserkraftwerke deshalb regelmäßig überprüfen.
 
-### Die Organisation von LichBlick
+### Die Organisation von LichtBlick
 
 Lichtblick hat im deutschen Bundesgebiet 1.000.000 Privat- und Gewerbekunden beziehungsweise "LichtBlicker" (Stand Juli 2020). Im Jahr 2017 machte das Unternehmen 700 Millionen Euro Umsatz. Damit gehört Lichtblick zu den zwanzig größten deutschen Energieversorgern. Das Unternehmen hat 460 Mitarbeiter.
 
-### Die Preisgestaltung von LichBlick
+### Die Preisgestaltung von LichtBlick
 
 Der Tarif "LichtBlick-Strom" hat keine Mindestlaufzeit und ist monatlich kündbar. Der Preis berechnet sich am Grundpreis pro Monat sowie dem Verbrauch pro Monat. LichtBlick bietet Neukunden eine Wechselprämie von 50 Euro. 26 Prozent der vom Kunden bezahlten Summe decken die LichtBlick Kosten; davon entfällt ein großer Teil auf die Strombeschaffung. Weitere 26 Prozent gehen an die Betreiber der Stromnetze, bei den restlichen 48 Prozent handelt es sich um Steuern (unter anderem Mehrwertsteuer, Stromsteuer, Konzessionsabgaben). 
 
