@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "hessnatur",
+      "url"         : "/mode-und-kleidung/hessnatur/",
+      "category"    : "",
+      "tags"        : "Kleidung, Nachhaltige Mode, Damen, Herren, Mode, Fashion",
+      "date"        : "2020-07-15 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 5,95 EuroKostenlose Retouren und Rücksendungen",
+      "image"       : "/assets/images/hessnatur.gif"
+
+    } ,
+  
+    {
+
       "title"       : "LichtBlick",
       "url"         : "/oekostrom-und-oekogas/Lichtblick/",
       "category"    : "",
