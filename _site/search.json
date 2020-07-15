@@ -26,6 +26,18 @@
   
     {
 
+      "title"       : "AfB",
+      "url"         : "/computer-und-technik/afb/",
+      "category"    : "",
+      "tags"        : "Gebrauchtware, Generalüberholt, Repariert, Refurbished, Second Hand",
+      "date"        : "2020-07-15 00:00:00 +0200",
+      "shippings"   : "Versandkostenfreie Lieferung ab Warenwert von 19 EuroVersandkosten von 4,90 für Bestellungen unter 19 EuroKein Versand an Packstationen oder Postfilialen möglich",
+      "image"       : "/assets/images/AfB.png"
+
+    } ,
+  
+    {
+
       "title"       : "LichtBlick",
       "url"         : "/oekostrom-und-oekogas/Lichtblick/",
       "category"    : "",
