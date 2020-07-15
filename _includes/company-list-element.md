@@ -17,7 +17,7 @@
             </div>
         </div>
         <div class="card-footer bg-transparent">
-            <div class="text-muted footer-text">Hinzugefügt am {{post.date | date: "%d.%m.%Y"}} in <a href="{{post.categories[0]}}">{{post.rubric}}</a></div>
+            <div class="text-muted footer-text">Hinzugefügt in <a href="{{post.categories[0]}}">{{post.rubric}}</a></div>
         </div>
     </div>
 </div>
