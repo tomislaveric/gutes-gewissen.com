@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Living Crafts",
+      "url"         : "/mode-und-kleidung/living-crafts/",
+      "category"    : "",
+      "tags"        : "Kleidung, Nachhaltige Mode, Damen, Herren, Mode, Fashion",
+      "date"        : "2020-07-15 00:00:00 +0200",
+      "shippings"   : "Versandkostenfreie Lieferung ab Warenwert von 150 EuroVersandkosten von 5,95 für Bestellungen unter 150 EuroMindestbestellwert von 25 Euro",
+      "image"       : "/assets/images/livingcrafts.jpg"
+
+    } ,
+  
+    {
+
       "title"       : "hessnatur",
       "url"         : "/mode-und-kleidung/hessnatur/",
       "category"    : "",
