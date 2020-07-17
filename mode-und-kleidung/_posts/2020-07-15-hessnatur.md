@@ -4,6 +4,7 @@ title: hessnatur
 slogan: Versandhaus für Biomode und nachhaltige Kleidung
 targetUrl: https://www.awin1.com/awclick.php?gid=369743&mid=14474&awinaffid=731132&linkid=2452214&clickref=
 image: /assets/images/hessnatur.gif
+screenshot: /assets/images/screenshots/hessnatur.jpg
 rubric: Mode & Kleidung
 tags: [Kleidung, Nachhaltige Mode, Damen, Herren, Mode, Fashion]
 payments: [
