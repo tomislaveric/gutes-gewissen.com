@@ -35,7 +35,10 @@ layout: base
                 {% endif %}
                 <p>{{ page.shortDescription }} {{ page.description }}</p>
                 <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
-                    <div class="btn btn-outline-success mb-4 w-100">
+                    {% if page.screenshot %}
+                    <img src="{{ page.screenshot }}" class="img-fluid" />
+                    {% endif %}
+                    <div class="btn btn-outline-success my-4 w-100">
                         Website von {{ page.title }} besuchen!
                     </div>
                 </span>
