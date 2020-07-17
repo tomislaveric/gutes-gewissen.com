@@ -29,6 +29,8 @@ a:hover { color: #145523; text-decoration: none; }
 
 .max-width-300 { max-width: 300px; }
 
+.alternative-list-img { object-fit: contain; width: 100%; max-height: 5rem; }
+
 .footer-text { font-size: 80%; }
 
 /*# sourceMappingURL=main.css.map */
