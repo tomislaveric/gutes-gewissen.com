@@ -80,29 +80,8 @@ layout: base
             {% if page.tags %}
             {% include tag-list.md title="Themen" content=page.tags %}
             {% endif %}
+            {% assign category = page.categories[0] %}
+            {% include alternatives.md category=category %}
         </div>
     </div>
 </div>
-{% assign alternatives = site.posts | where: "categories", page.categories[0]%}
-{% if alternatives.size > 1 %}
-<div class="jumbotron jumbotron-fluid">
-    <div class="container">
-        <h2 class="h2">{{page.title}} Alternativen</h2>
-        <div class="row">
-            {% for post in alternatives %}
-            {% if post.title != page.title%}
-            <div class="col-lg-2 col-md-3 col-sm-6 col-12">
-                <a href="{{post.url}}" ref="nofollow">
-                    <div class="card h-100">
-                        <div class="card-body align-items-center d-flex justify-content-center">
-                            <img src="{{post.image}}" class="alternative-list-img" alt="{{ post.image }} logo">
-                        </div>
-                    </div>
-                </a>
-            </div>
-            {% endif%}
-            {% endfor %}
-        </div>
-    </div>
-</div>
-{% endif %}
