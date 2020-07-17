@@ -15,7 +15,7 @@ payments: [
 ]
 shippings:
   [
-      "Versandkosten innerhalb Deutschlands 5.95 Euro",
+      "Versandkosten innerhalb Deutschlands 5,95 Euro",
       "Mindestbestellwert 30 Euro",
       "Versandkosten in EU-Länder 9,95 Euro",
       "Versand an Packstation und Postfiliale möglich",

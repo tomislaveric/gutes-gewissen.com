@@ -17,7 +17,7 @@ payments: [
 ]
 shippings: [
     "Versandkostenfreie Lieferung ab Warenwert von 75 Euro",
-    "Versandkosten von 5,95 für Bestellungen unter 75 Euro",
+    "Versandkosten von 5,95 Euro für Bestellungen unter 75 Euro",
     "Mindestbestellwert von 10 Euro",
     "Lieferung ab Packstation möglich",
     "Kostenloser Versand nach Österreich ab 75 Euro Bestellwert"

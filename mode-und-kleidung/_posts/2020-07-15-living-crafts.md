@@ -15,7 +15,7 @@ payments: [
 shippings:
   [
       "Versandkostenfreie Lieferung ab Warenwert von 150 Euro",
-      "Versandkosten von 5,95 für Bestellungen unter 150 Euro",
+      "Versandkosten von 5,95 Euro für Bestellungen unter 150 Euro",
       "Mindestbestellwert von 25 Euro"
   ]
 contact: [
