@@ -4,6 +4,7 @@ title: Greenpeace Energy
 slogan: Ökostrom und Ökogas aus erneuerbaren Energien
 targetUrl: https://www.awin1.com/awclick.php?gid=359225&mid=14852&awinaffid=731132&linkid=2355126&clickref=
 image: /assets/images/greenpeace-energy.png
+screenshot: /assets/images/screenshots/greenpeace-energy.jpg
 rubric: Ökostrom & Ökogas
 shortDescription: Greenpeace Energy beliefert als unabhängiger Versorger seine Kunden deutschlandweit mit Ökostom und Ökogas aus 100 Prozent erneuerbaren Energien.
 description: Greenpeace Energy eG ist eine eingetragene Genossenschaft und ein deutscher Energieversorger. Unter anderem ist es die erklärte Vision der unabhängigen Genossenschaft, bundesweit allen Bürgern möglichst umweltfreundlich gewonnene Energie bereitzustellen. Beim Strom von Greenpeace Energy handelt es sich zu 100 Prozent um Ökostrom aus erneuerbaren Energiequellen.

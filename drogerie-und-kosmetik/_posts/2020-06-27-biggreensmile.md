@@ -4,6 +4,7 @@ title: BigGreenSmile
 slogan: Online-Shop Naturkosmetik für die ganze Familie
 targetUrl: https://www.awin1.com/awclick.php?gid=317849&mid=9183&awinaffid=731132&linkid=1027640&clickref=
 image: /assets/images/BigGreenSmile.png
+screenshot: /assets/images/screenshots/biggreensmile.jpg
 rubric: Drogerie & Kosmetik
 tags: [Naturkosmetik, Beauty, Bio, Vegan]
 payments: [

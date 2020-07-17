@@ -4,6 +4,7 @@ title: Waschbär
 slogan: Online-Shop für Naturmode und Bioprodukte
 targetUrl: https://www.awin1.com/awclick.php?gid=356972&mid=15084&awinaffid=731132&linkid=2337498&clickref
 image: /assets/images/waschbaer.png
+screenshot: /assets/images/screenshots/waschbaer.jpg
 rubric: Mode & Kleidung
 tags: [Kleidung, Damen, Herren, Mode, Fashion]
 payments: [
