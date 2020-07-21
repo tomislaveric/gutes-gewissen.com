@@ -27,6 +27,7 @@ contact: [
     "Adresse: beyerdynamic GmbH & Co. KG, Theresienstraße 8, 74072 Heilbronn"
 
 ]
+media: ["https://www.youtube.com/embed/XCA1CCv9Sc4", "https://www.youtube.com/embed/ctJvWQw-N7Q"]
 affiliateElements: [
     [
     "beyerdynamic Produkte im Online-Shop von otto.de", 
