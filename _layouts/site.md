@@ -62,6 +62,12 @@ layout: base
                     {% endif %}
                 </div>
             </span>
+            {% for element in page.affiliateElements %}
+            {% assign title = element[0] %}
+            {% assign url = element[1] %}
+            {% assign image = element[2] %}
+            {% include affiliate-element.md title=title url=url image=image %}
+            {% endfor %}
             {% if page.payments %}
             {% include simple-list.md title="Zahlungsoptionen" content=page.payments %}
             {% endif %}
@@ -74,12 +80,6 @@ layout: base
             {% if page.tags %}
             {% include tag-list.md title="Themen" content=page.tags %}
             {% endif %}
-            {% for element in page.affiliateElements %}
-            {% assign title = element[0] %}
-            {% assign url = element[1] %}
-            {% assign image = element[2] %}
-            {% include affiliate-element.md title=title url=url image=image %}
-            {% endfor %}
             {% assign category = page.categories[0] %}
             {% include alternatives.md category=category %}
             {% if page.media %}
