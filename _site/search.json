@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "beyerdynamic",
+      "url"         : "/computer-und-technik/beyerdynamic/",
+      "category"    : "",
+      "tags"        : "Made in Germany, Audiotechnik, Hifi, Home-Office, e-Learning",
+      "date"        : "2020-07-20 00:00:00 +0200",
+      "shippings"   : "Versandkostenfreie Lieferung ab Warenwert von 15 EuroVersandkosten von 3,90 Euro für Bestellungen unter 15 EuroLieferung an Packstationen möglichExpress-Versand verfügbarKostenloser Rückversand und Retoure",
+      "image"       : "/assets/images/beyerdynamic.png"
+
+    } ,
+  
+    {
+
       "title"       : "Allbirds",
       "url"         : "/mode-und-kleidung/allbirds/",
       "category"    : "",
