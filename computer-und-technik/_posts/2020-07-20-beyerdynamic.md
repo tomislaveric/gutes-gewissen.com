@@ -4,7 +4,7 @@ title: beyerdynamic
 slogan: Hochwertige Audiotechnik Made in Germany
 targetUrl: https://www.awin1.com/awclick.php?gid=360268&mid=15402&awinaffid=731132&linkid=2360322&clickref=
 image: /assets/images/beyerdynamic.png
-screenshot: /assets/images/screenshots/beyerdynamic_screenshot.png
+screenshot: /assets/images/screenshots/beyerdynamic_screenshot.jpg
 rubric: Computer & Technik
 tags: [Made in Germany, Audiotechnik, Hifi, Home-Office, e-Learning]
 payments: [
