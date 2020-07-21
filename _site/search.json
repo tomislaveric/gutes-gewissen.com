@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "chocri",
+      "url"         : "/ernaehrung-und-lebensmittel/chocri/",
+      "category"    : "",
+      "tags"        : "Süßigkeiten, Schokolade, Handgemacht, Handmade, Fair-Trade",
+      "date"        : "2020-07-21 00:00:00 +0200",
+      "shippings"   : "Versandkostenfreie Lieferung ab Warenwert von 35 EuroVersandkosten von 4,95 Euro für Bestellungen unter 35 EuroInternationaler Versand ins Ausland möglich",
+      "image"       : "/assets/images/chocri_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "beyerdynamic",
       "url"         : "/computer-und-technik/beyerdynamic/",
       "category"    : "",
