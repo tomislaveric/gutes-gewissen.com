@@ -7,7 +7,7 @@
   <script src="/assets/js/popper.min.js"></script>
   <script src="/assets/js/link-masking.js"></script>
   <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
-
+  <script src="/assets/js/scrolling.js"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
@@ -105,7 +105,24 @@
 </nav>
 <div class="header-line"></div>
 </div>
-
+<div class="d-none d-xl-block">
+  <div class="position-fixed">
+    <div id="cta-bar" class="cta-bar">
+      <div class="card" style="width: 12vw;">
+        <img class="card-img-top p-2" src="/assets/images/manomama.png" alt="Card image cap">
+        <div class="card-body text-center">
+          <!-- <h5 class="card-title">manomama</h5> -->
+          <p class="card-text">Kleidung für Sie und Ihn Made in Germany</p>
+          <span class="affili" data-affili="https://manomama.de" rel="nofollow">
+            <div class="btn btn-success">
+              Besuche manomama
+            </div>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
   <script type="application/ld+json">
     {
         "@context": "https://schema.org/",
@@ -137,7 +154,7 @@
                 <h2 class="text-muted h5">Kleidung für Sie und Ihn Made in Germany</h2>
                 
                 <p>manomama produziert Produkte in Deutschland und legt sehr viel Wert auf nachhaltige und ökologische Rohstoffe. Das im bayerischen Augsburg ansässige Unternehmen manomama GmbH bietet ein vielfältiges Sortiment an Kleidung „Made in Germany“ an. Die Produkte werden demnach aus den weitgehend regional erzeugten Rohstoffen und zudem unter der Beachtung der höchsten ökologischen Maßstäbe gefertigt. Die in Deutschland umweltschonend hergestellte Kleidung kann in Augsburg im firmeneigenen Laden, im Fabrikverkauf sowie im Online-Shop von manomama erworben werden.</p>
-                <span class="affili" data-affili="https://manomama.de" rel="nofollow">
+                <span id="productCta" class="affili" data-affili="https://manomama.de" rel="nofollow">
                     <div class="btn btn-outline-success my-4 w-100">
                         Website von manomama besuchen!
                     </div>
@@ -171,7 +188,6 @@
 
             </div>
         </div>
-
         <div class="col-lg-3 col-sm-12">
             <span class="affili" data-affili="https://manomama.de" rel="nofollow">
                 <div class="text-center mb-3">
@@ -321,7 +337,7 @@
         </div>
     </div>
 </div>
-  <footer class="">
+  <footer>
     <div class="container p-3 text-center">
     <a class="btn btn-light btn-sm ml-1" href="/ueber-uns">Über uns</a>
       <a class="btn btn-light btn-sm mr-1" href="/impressum">Impressum</a>

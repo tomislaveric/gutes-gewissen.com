@@ -7,7 +7,7 @@
   <script src="/assets/js/popper.min.js"></script>
   <script src="/assets/js/link-masking.js"></script>
   <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
-
+  <script src="/assets/js/scrolling.js"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
@@ -105,7 +105,24 @@
 </nav>
 <div class="header-line"></div>
 </div>
-
+<div class="d-none d-xl-block">
+  <div class="position-fixed">
+    <div id="cta-bar" class="cta-bar">
+      <div class="card" style="width: 12vw;">
+        <img class="card-img-top p-2" src="/assets/images/najoba.svg" alt="Card image cap">
+        <div class="card-body text-center">
+          <!-- <h5 class="card-title">najoba</h5> -->
+          <p class="card-text">Online-Shop für Naturkosmetik und Bio-Lebensmittel</p>
+          <span class="affili" data-affili="https://www.awin1.com/awclick.php?gid=357185&mid=13626&awinaffid=731132&linkid=2340019&clickref=" rel="nofollow">
+            <div class="btn btn-success">
+              Besuche najoba
+            </div>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
   <script type="application/ld+json">
     {
         "@context": "https://schema.org/",
@@ -137,7 +154,7 @@
                 <h2 class="text-muted h5">Online-Shop für Naturkosmetik und Bio-Lebensmittel</h2>
                 
                 <p>Im najoba Online-Shop findet der Käufer neben Naturkosmetik-Produkten, Bio-Lebensmittels, Mode- und Haulhaltsartikeln alles rund um den Green Lifestyle Der najoba Online-Shop bietet Naturkosmetik und 'grüne' Lifestyle-Produkte wie Bekleidung für Damen, Babys und Kinder sowie Schuhe und Haushaltsartikel. Zu den Topmarken des Händlers gehören unter anderem Primavera, Logona Naturkosmetik und Weleda. najoba informiert auf der Seite seines Online-Shops außerdem über alternative Ernährungsformen und empfiehlt passende Produkte für die vegane, laktosefreie sowie glutenfreie Ernährung.</p>
-                <span class="affili" data-affili="https://www.awin1.com/awclick.php?gid=357185&mid=13626&awinaffid=731132&linkid=2340019&clickref=" rel="nofollow">
+                <span id="productCta" class="affili" data-affili="https://www.awin1.com/awclick.php?gid=357185&mid=13626&awinaffid=731132&linkid=2340019&clickref=" rel="nofollow">
                     <div class="btn btn-outline-success my-4 w-100">
                         Website von najoba besuchen!
                     </div>
@@ -186,7 +203,6 @@
 
             </div>
         </div>
-
         <div class="col-lg-3 col-sm-12">
             <span class="affili" data-affili="https://www.awin1.com/awclick.php?gid=357185&mid=13626&awinaffid=731132&linkid=2340019&clickref=" rel="nofollow">
                 <div class="text-center mb-3">
@@ -347,7 +363,7 @@
         </div>
     </div>
 </div>
-  <footer class="">
+  <footer>
     <div class="container p-3 text-center">
     <a class="btn btn-light btn-sm ml-1" href="/ueber-uns">Über uns</a>
       <a class="btn btn-light btn-sm mr-1" href="/impressum">Impressum</a>

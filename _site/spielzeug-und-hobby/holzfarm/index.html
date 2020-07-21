@@ -7,7 +7,7 @@
   <script src="/assets/js/popper.min.js"></script>
   <script src="/assets/js/link-masking.js"></script>
   <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
-
+  <script src="/assets/js/scrolling.js"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
@@ -105,7 +105,24 @@
 </nav>
 <div class="header-line"></div>
 </div>
-
+<div class="d-none d-xl-block">
+  <div class="position-fixed">
+    <div id="cta-bar" class="cta-bar">
+      <div class="card" style="width: 12vw;">
+        <img class="card-img-top p-2" src="/assets/images/holzfarm.png" alt="Card image cap">
+        <div class="card-body text-center">
+          <!-- <h5 class="card-title">Holzfarm.de</h5> -->
+          <p class="card-text">Online-Shop für kreatives Spielzeug aus Holz und mehr</p>
+          <span class="affili" data-affili="https://www.awin1.com/awclick.php?gid=385694&mid=17457&awinaffid=731132&linkid=2605250&clickref=" rel="nofollow">
+            <div class="btn btn-success">
+              Besuche Holzfarm.de
+            </div>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
   <script type="application/ld+json">
     {
         "@context": "https://schema.org/",
@@ -137,7 +154,7 @@
                 <h2 class="text-muted h5">Online-Shop für kreatives Spielzeug aus Holz und mehr</h2>
                 
                 <p>Holzfarm.de Online-Shop bietet langlebiges, nachhaltiges und hochwertiges Spielzeug aus Holz für die Stärkung der Koordination und Konzentration. Der Holzfarm.de Online-Shop gehört der Holzfarm GmbH aus Karlsruhe. <!--weiterlesen--> Der Shop verkauft Spielzeug aus Holz, das eine sehr lange Tradition hat. Die betreibenden Holzfarmer sind zwei schleswig-holsteinische Familien, die hochwertiges, langlebiges und nachhaltiges Spielzeug lieben. Sie haben ihre eigenen Kinder damit spielen lassen und wissen daher, wie sehr gutes Spielzeug die Kreativität und Fantasie von Kindern beflügeln kann.</p>
-                <span class="affili" data-affili="https://www.awin1.com/awclick.php?gid=385694&mid=17457&awinaffid=731132&linkid=2605250&clickref=" rel="nofollow">
+                <span id="productCta" class="affili" data-affili="https://www.awin1.com/awclick.php?gid=385694&mid=17457&awinaffid=731132&linkid=2605250&clickref=" rel="nofollow">
                     <div class="btn btn-outline-success my-4 w-100">
                         Website von Holzfarm.de besuchen!
                     </div>
@@ -171,7 +188,6 @@
 
             </div>
         </div>
-
         <div class="col-lg-3 col-sm-12">
             <span class="affili" data-affili="https://www.awin1.com/awclick.php?gid=385694&mid=17457&awinaffid=731132&linkid=2605250&clickref=" rel="nofollow">
                 <div class="text-center mb-3">
@@ -312,7 +328,7 @@
         </div>
     </div>
 </div>
-  <footer class="">
+  <footer>
     <div class="container p-3 text-center">
     <a class="btn btn-light btn-sm ml-1" href="/ueber-uns">Über uns</a>
       <a class="btn btn-light btn-sm mr-1" href="/impressum">Impressum</a>

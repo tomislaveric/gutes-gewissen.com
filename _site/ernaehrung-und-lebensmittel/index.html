@@ -7,7 +7,7 @@
   <script src="/assets/js/popper.min.js"></script>
   <script src="/assets/js/link-masking.js"></script>
   <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
-
+  <script src="/assets/js/scrolling.js"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
@@ -105,7 +105,24 @@
 </nav>
 <div class="header-line"></div>
 </div>
-
+<div class="d-none d-xl-block">
+  <div class="position-fixed">
+    <div id="cta-bar" class="cta-bar">
+      <div class="card" style="width: 12vw;">
+        <img class="card-img-top p-2" src="" alt="Card image cap">
+        <div class="card-body text-center">
+          <!-- <h5 class="card-title">Ernährung & Lebensmittel</h5> -->
+          <p class="card-text"></p>
+          <span class="affili" data-affili="" rel="nofollow">
+            <div class="btn btn-success">
+              Besuche Ernährung & Lebensmittel
+            </div>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
   <div class="jumbotron">
     <div class="container">
         <h1 class="h2">Nachhaltige Ernährung & Lebensmittel im Vergleich 2020</h1>
@@ -258,7 +275,7 @@
 </div>
 
 </div>
-  <footer class="">
+  <footer>
     <div class="container p-3 text-center">
     <a class="btn btn-light btn-sm ml-1" href="/ueber-uns">Über uns</a>
       <a class="btn btn-light btn-sm mr-1" href="/impressum">Impressum</a>

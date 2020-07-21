@@ -34,7 +34,7 @@ layout: base
                 <h1 class="h2">{{ page.title }}</h1>
                 {% endif %}
                 <p>{{ page.shortDescription }} {{ page.description }}</p>
-                <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
+                <span id="productCta" class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
                     <div class="btn btn-outline-success my-4 w-100">
                         Website von {{ page.title }} besuchen!
                     </div>
@@ -44,7 +44,6 @@ layout: base
                 {{ content }}
             </div>
         </div>
-
         <div class="col-lg-3 col-sm-12">
             <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
                 <div class="text-center mb-3">

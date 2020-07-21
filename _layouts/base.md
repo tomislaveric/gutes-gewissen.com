@@ -11,7 +11,7 @@ websiteTitle: gutes-gewissen
   <script src="/assets/js/popper.min.js"></script>
   <script src="/assets/js/link-masking.js"></script>
   <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
-
+  <script src="/assets/js/scrolling.js"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
@@ -32,9 +32,8 @@ websiteTitle: gutes-gewissen
 
 <body>
   {% include header.md %}
-
   {{ content }}
-  <footer class="">
+  <footer>
     <div class="container p-3 text-center">
     <a class="btn btn-light btn-sm ml-1" href="/ueber-uns">Über uns</a>
       <a class="btn btn-light btn-sm mr-1" href="/impressum">Impressum</a>

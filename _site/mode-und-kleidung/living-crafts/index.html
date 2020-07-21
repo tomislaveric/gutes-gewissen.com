@@ -7,7 +7,7 @@
   <script src="/assets/js/popper.min.js"></script>
   <script src="/assets/js/link-masking.js"></script>
   <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
-
+  <script src="/assets/js/scrolling.js"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
@@ -105,7 +105,24 @@
 </nav>
 <div class="header-line"></div>
 </div>
-
+<div class="d-none d-xl-block">
+  <div class="position-fixed">
+    <div id="cta-bar" class="cta-bar">
+      <div class="card" style="width: 12vw;">
+        <img class="card-img-top p-2" src="/assets/images/livingcrafts.jpg" alt="Card image cap">
+        <div class="card-body text-center">
+          <!-- <h5 class="card-title">Living Crafts</h5> -->
+          <p class="card-text">Hersteller für Bio-Kleidung und Naturtextilien</p>
+          <span class="affili" data-affili="https://www.awin1.com/awclick.php?gid=364635&mid=13807&awinaffid=731132&linkid=2398755&clickref=" rel="nofollow">
+            <div class="btn btn-success">
+              Besuche Living Crafts
+            </div>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
   <script type="application/ld+json">
     {
         "@context": "https://schema.org/",
@@ -137,7 +154,7 @@
                 <h2 class="text-muted h5">Hersteller für Bio-Kleidung und Naturtextilien</h2>
                 
                 <p>Living Crafts ist ein Hersteller und Versandhaus für umweltbewusste Bio-Kleidung und nachhaltige Naturtextilien aus sozialer fairer Produktion. Living Crafts ist ein Online-Shop, der Kleidung und Heimtextilien aus Naturstoffen verkauft. Alle Produkte sind fair produziert, ökologisch verträglich und enthalten der Umwelt und dem Menschen zuliebe keine chemischen Inhaltsstoffe oder Pestizide. Ganz nach seinem Credo 'Langlebigkeit statt Fast Fashion' strebt das Unternehmen danach, Produkte zu schaffen, die langlebig sind – nicht nur in der Qualität, sondern auch im Design. Anstatt jedem Trend zu folgen, entstehen so Produkte, die sich durch zeitlose Designs hervortun.</p>
-                <span class="affili" data-affili="https://www.awin1.com/awclick.php?gid=364635&mid=13807&awinaffid=731132&linkid=2398755&clickref=" rel="nofollow">
+                <span id="productCta" class="affili" data-affili="https://www.awin1.com/awclick.php?gid=364635&mid=13807&awinaffid=731132&linkid=2398755&clickref=" rel="nofollow">
                     <div class="btn btn-outline-success my-4 w-100">
                         Website von Living Crafts besuchen!
                     </div>
@@ -180,7 +197,6 @@ Für den Fall, dass die Ware retourniert werden soll, kann der Kunde den Kaufver
 
             </div>
         </div>
-
         <div class="col-lg-3 col-sm-12">
             <span class="affili" data-affili="https://www.awin1.com/awclick.php?gid=364635&mid=13807&awinaffid=731132&linkid=2398755&clickref=" rel="nofollow">
                 <div class="text-center mb-3">
@@ -378,7 +394,7 @@ Für den Fall, dass die Ware retourniert werden soll, kann der Kunde den Kaufver
         </div>
     </div>
 </div>
-  <footer class="">
+  <footer>
     <div class="container p-3 text-center">
     <a class="btn btn-light btn-sm ml-1" href="/ueber-uns">Über uns</a>
       <a class="btn btn-light btn-sm mr-1" href="/impressum">Impressum</a>

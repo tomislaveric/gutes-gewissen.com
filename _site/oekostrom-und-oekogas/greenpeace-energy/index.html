@@ -7,7 +7,7 @@
   <script src="/assets/js/popper.min.js"></script>
   <script src="/assets/js/link-masking.js"></script>
   <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
-
+  <script src="/assets/js/scrolling.js"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
@@ -105,7 +105,24 @@
 </nav>
 <div class="header-line"></div>
 </div>
-
+<div class="d-none d-xl-block">
+  <div class="position-fixed">
+    <div id="cta-bar" class="cta-bar">
+      <div class="card" style="width: 12vw;">
+        <img class="card-img-top p-2" src="/assets/images/greenpeace-energy.png" alt="Card image cap">
+        <div class="card-body text-center">
+          <!-- <h5 class="card-title">Greenpeace Energy</h5> -->
+          <p class="card-text">Ökostrom und Ökogas aus erneuerbaren Energien</p>
+          <span class="affili" data-affili="https://www.awin1.com/awclick.php?gid=359225&mid=14852&awinaffid=731132&linkid=2355126&clickref=" rel="nofollow">
+            <div class="btn btn-success">
+              Besuche Greenpeace Energy
+            </div>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
   <script type="application/ld+json">
     {
         "@context": "https://schema.org/",
@@ -137,7 +154,7 @@
                 <h2 class="text-muted h5">Ökostrom und Ökogas aus erneuerbaren Energien</h2>
                 
                 <p>Greenpeace Energy beliefert als unabhängiger Versorger seine Kunden deutschlandweit mit Ökostom und Ökogas aus 100 Prozent erneuerbaren Energien. Greenpeace Energy eG ist eine eingetragene Genossenschaft und ein deutscher Energieversorger. Unter anderem ist es die erklärte Vision der unabhängigen Genossenschaft, bundesweit allen Bürgern möglichst umweltfreundlich gewonnene Energie bereitzustellen. Beim Strom von Greenpeace Energy handelt es sich zu 100 Prozent um Ökostrom aus erneuerbaren Energiequellen.</p>
-                <span class="affili" data-affili="https://www.awin1.com/awclick.php?gid=359225&mid=14852&awinaffid=731132&linkid=2355126&clickref=" rel="nofollow">
+                <span id="productCta" class="affili" data-affili="https://www.awin1.com/awclick.php?gid=359225&mid=14852&awinaffid=731132&linkid=2355126&clickref=" rel="nofollow">
                     <div class="btn btn-outline-success my-4 w-100">
                         Website von Greenpeace Energy besuchen!
                     </div>
@@ -187,7 +204,6 @@
 
             </div>
         </div>
-
         <div class="col-lg-3 col-sm-12">
             <span class="affili" data-affili="https://www.awin1.com/awclick.php?gid=359225&mid=14852&awinaffid=731132&linkid=2355126&clickref=" rel="nofollow">
                 <div class="text-center mb-3">
@@ -326,7 +342,7 @@
         </div>
     </div>
 </div>
-  <footer class="">
+  <footer>
     <div class="container p-3 text-center">
     <a class="btn btn-light btn-sm ml-1" href="/ueber-uns">Über uns</a>
       <a class="btn btn-light btn-sm mr-1" href="/impressum">Impressum</a>

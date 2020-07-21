@@ -7,7 +7,7 @@
   <script src="/assets/js/popper.min.js"></script>
   <script src="/assets/js/link-masking.js"></script>
   <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
-
+  <script src="/assets/js/scrolling.js"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
@@ -105,7 +105,24 @@
 </nav>
 <div class="header-line"></div>
 </div>
-
+<div class="d-none d-xl-block">
+  <div class="position-fixed">
+    <div id="cta-bar" class="cta-bar">
+      <div class="card" style="width: 12vw;">
+        <img class="card-img-top p-2" src="/assets/images/PureNature.png" alt="Card image cap">
+        <div class="card-body text-center">
+          <!-- <h5 class="card-title">PureNature</h5> -->
+          <p class="card-text">Spezialist für vegane nachhaltige Produkte und für Allergiker</p>
+          <span class="affili" data-affili="https://www.awin1.com/awclick.php?gid=378332&mid=14049&awinaffid=731132&linkid=2533240&clickref=" rel="nofollow">
+            <div class="btn btn-success">
+              Besuche PureNature
+            </div>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
   <script type="application/ld+json">
     {
         "@context": "https://schema.org/",
@@ -137,7 +154,7 @@
                 <h2 class="text-muted h5">Spezialist für vegane nachhaltige Produkte und für Allergiker</h2>
                 
                 <p>PureNature Online-Shop ist spezialisiert auf nachhaltige Produkte für die Allergiker und das vegane Leben aus den verschiedensten Bereichen. Der PureNature Online-Shop bietet ein breites Spektrum natürlicher Erzeugnisse. Das Sortiment reicht von Bio-Lebensmitteln bis zu nachhaltigen Artikeln rund ums Wohnen. Die Philosophie des Familienunternehmens: Mit hochwertigen Produkten, kompetenten Mitarbeitern und fundiertem Know-How Gesundheit und Nachhaltigkeit für die Kunden zu ermöglichen.</p>
-                <span class="affili" data-affili="https://www.awin1.com/awclick.php?gid=378332&mid=14049&awinaffid=731132&linkid=2533240&clickref=" rel="nofollow">
+                <span id="productCta" class="affili" data-affili="https://www.awin1.com/awclick.php?gid=378332&mid=14049&awinaffid=731132&linkid=2533240&clickref=" rel="nofollow">
                     <div class="btn btn-outline-success my-4 w-100">
                         Website von PureNature besuchen!
                     </div>
@@ -192,7 +209,6 @@
 
             </div>
         </div>
-
         <div class="col-lg-3 col-sm-12">
             <span class="affili" data-affili="https://www.awin1.com/awclick.php?gid=378332&mid=14049&awinaffid=731132&linkid=2533240&clickref=" rel="nofollow">
                 <div class="text-center mb-3">
@@ -396,7 +412,7 @@
         </div>
     </div>
 </div>
-  <footer class="">
+  <footer>
     <div class="container p-3 text-center">
     <a class="btn btn-light btn-sm ml-1" href="/ueber-uns">Über uns</a>
       <a class="btn btn-light btn-sm mr-1" href="/impressum">Impressum</a>

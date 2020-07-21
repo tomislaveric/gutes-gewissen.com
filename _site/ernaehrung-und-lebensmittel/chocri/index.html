@@ -7,7 +7,7 @@
   <script src="/assets/js/popper.min.js"></script>
   <script src="/assets/js/link-masking.js"></script>
   <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
-
+  <script src="/assets/js/scrolling.js"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
@@ -105,7 +105,24 @@
 </nav>
 <div class="header-line"></div>
 </div>
-
+<div class="d-none d-xl-block">
+  <div class="position-fixed">
+    <div id="cta-bar" class="cta-bar">
+      <div class="card" style="width: 12vw;">
+        <img class="card-img-top p-2" src="/assets/images/chocri_logo.png" alt="Card image cap">
+        <div class="card-body text-center">
+          <!-- <h5 class="card-title">chocri</h5> -->
+          <p class="card-text">Individuell gestaltete handgemachte Fair-Trade-Schokolade</p>
+          <span class="affili" data-affili="https://www.awin1.com/awclick.php?gid=341674&mid=11745&awinaffid=731132&linkid=2200539&clickref=" rel="nofollow">
+            <div class="btn btn-success">
+              Besuche chocri
+            </div>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
   <script type="application/ld+json">
     {
         "@context": "https://schema.org/",
@@ -137,7 +154,7 @@
                 <h2 class="text-muted h5">Individuell gestaltete handgemachte Fair-Trade-Schokolade</h2>
                 
                 <p>chocri verkauft fair-trade sowie vegane Schokolade aus aller Welt und gestaltet handgemachte Geschenke nach individuellen Wünschen der Kunden chocri verkauft Schokolade aus nachhaltigem Kakaoanbau und bezeichnet sich selbst als Deutschlands größte Online‑Confiserie. Der Marktführer von individualisierten Tafel-Schokoladen beliefert Privat- und Geschäftskunden in ganz Europa. chocri stellt Schokolade selbst her, verkauft aber auch andere namhafte Hersteller und Marken. chocri produziert Pralinen und Süßigkeiten, ist aber vor allem für seine handbestreuten Manufaktur-Schokoladen bekannt.</p>
-                <span class="affili" data-affili="https://www.awin1.com/awclick.php?gid=341674&mid=11745&awinaffid=731132&linkid=2200539&clickref=" rel="nofollow">
+                <span id="productCta" class="affili" data-affili="https://www.awin1.com/awclick.php?gid=341674&mid=11745&awinaffid=731132&linkid=2200539&clickref=" rel="nofollow">
                     <div class="btn btn-outline-success my-4 w-100">
                         Website von chocri besuchen!
                     </div>
@@ -184,7 +201,6 @@
 
             </div>
         </div>
-
         <div class="col-lg-3 col-sm-12">
             <span class="affili" data-affili="https://www.awin1.com/awclick.php?gid=341674&mid=11745&awinaffid=731132&linkid=2200539&clickref=" rel="nofollow">
                 <div class="text-center mb-3">
@@ -375,7 +391,7 @@
         </div>
     </div>
 </div>
-  <footer class="">
+  <footer>
     <div class="container p-3 text-center">
     <a class="btn btn-light btn-sm ml-1" href="/ueber-uns">Über uns</a>
       <a class="btn btn-light btn-sm mr-1" href="/impressum">Impressum</a>
