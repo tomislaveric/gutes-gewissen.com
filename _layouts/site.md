@@ -35,7 +35,6 @@ layout: base
                 {% endif %}
                 <p>{{ page.shortDescription }} {{ page.description }}</p>
                 <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
-
                     <div class="btn btn-outline-success my-4 w-100">
                         Website von {{ page.title }} besuchen!
                     </div>
@@ -44,11 +43,6 @@ layout: base
             <div class="align-items-center">
                 {{ content }}
             </div>
-            <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
-                {% if page.screenshot %}
-                <img src="{{ page.screenshot }}" class="img-fluid" alt="Website screenshot von {{ page.title }}" />
-                {% endif %}
-            </span>
         </div>
 
         <div class="col-lg-3 col-sm-12">
@@ -68,12 +62,6 @@ layout: base
                     {% endif %}
                 </div>
             </span>
-            {% for element in page.affiliateElements %}
-            {% assign title = element[0] %}
-            {% assign url = element[1] %}
-            {% assign image = element[2] %}
-            {% include affiliate-element.md title=title url=url image=image %}
-            {% endfor %}
             {% if page.payments %}
             {% include simple-list.md title="Zahlungsoptionen" content=page.payments %}
             {% endif %}
@@ -86,8 +74,17 @@ layout: base
             {% if page.tags %}
             {% include tag-list.md title="Themen" content=page.tags %}
             {% endif %}
+            {% for element in page.affiliateElements %}
+            {% assign title = element[0] %}
+            {% assign url = element[1] %}
+            {% assign image = element[2] %}
+            {% include affiliate-element.md title=title url=url image=image %}
+            {% endfor %}
             {% assign category = page.categories[0] %}
             {% include alternatives.md category=category %}
+            {% if page.media %}
+            {% include media.md media=page.media %}
+            {% endif %}
         </div>
     </div>
 </div>

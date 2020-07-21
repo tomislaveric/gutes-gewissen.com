@@ -31,6 +31,7 @@ affiliateElements: [
     "/assets/images/idealo.png"
     ]
 ]
+media: ["https://www.youtube.com/embed/bHbcplEjdB8"]
 shortDescription: "Living Crafts ist ein Hersteller und Versandhaus für umweltbewusste Bio-Kleidung und nachhaltige Naturtextilien aus sozialer fairer Produktion."
 description: "Living Crafts ist ein Online-Shop, der Kleidung und Heimtextilien aus Naturstoffen verkauft. Alle Produkte sind fair produziert, ökologisch verträglich und enthalten der Umwelt und dem Menschen zuliebe keine chemischen Inhaltsstoffe oder Pestizide. Ganz nach seinem Credo 'Langlebigkeit statt Fast Fashion' strebt das Unternehmen danach, Produkte zu schaffen, die langlebig sind – nicht nur in der Qualität, sondern auch im Design. Anstatt jedem Trend zu folgen, entstehen so Produkte, die sich durch zeitlose Designs hervortun."
 ---
@@ -46,6 +47,8 @@ Bei der Auswahl der Rohstoffe sind der ökologische Anbau beziehungsweise Tierha
 ### Die Rohstoffe von Living Crafts
 
 Living Crafts möchte entlang der gesamten Wertschöpfungskette ökologisch, nachhaltig und fair handeln. Deshalb werden ausschließlich nachwachsende Rohstoffe und recycelte Verpackungsmaterialien benutzt und die Pflanzen, aus denen später die Textilien entstehen, stammen zu 100 Prozent aus kontrolliert biologischem Anbau, der von Pestiziden und dem Einsatz chemischer Düngemittel absieht. Auch die Tierhaltung muss strenge Kriterien erfüllen: Living Crafts bezieht ausschließlich Textilien, die aus kontrolliert biologischer Haltung (keine Massentierhaltung) stammen.
+
+{% include screenshot.md %}
 
 ### Das Einkaufen bei Living Crafts
 
