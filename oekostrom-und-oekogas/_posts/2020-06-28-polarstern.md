@@ -43,6 +43,8 @@ Gerade der Gasmarkt schafft heute ein wichtiges Handlungsfeld: Der Energieverbra
 
 Der Polarstern Ökostrom soll jedem Kunden ökologisch erzeugte Energie zu fairen Kosten ins Haus bringen. Die Polarstern Preise sind daher sehr konkurrenzfähig. Ein weiteres Prinzip des Unternehmens ist die Orientierung der Wirtschaft am Gemeinwohl. Dazu gehört im Sinne des Umweltschutzes und der Nachhaltigkeit die Nutzung erneuerbarer Energien. Das Gas des Unternehmens kommt aus Biogasanlagen, die auf Reststoffbasis betrieben werden. Diese Technologie trägt Polarstern inzwischen auch in Entwicklungsländer hinein. Das Unternehmen engagiert sich in Kambodscha und Mali, weitere Länder sollen folgen.
 
+{% include screenshot.md %}
+
 ### Die Preise für Polarstern Ökostrom und Ökogas
 
 Grundsätzlich entstehen die Polarstern Kosten aus einem Grund- und einem Arbeitspreis, es gibt aber Ausnahmen (siehe weiter unten bei Tarifgestaltung). Das Unternehmen gibt sehr lange Preisgarantien, meist bis zum Ende des laufenden Jahres. Wie bei jedem Anbieter sind Steuer- und Netzentgelterhöhungen von der Preisgarantie ausgenommen. 

@@ -45,6 +45,8 @@ Bei den Materialen, aus denen die hessnatur Produkte gefertigt werden, handelt e
 
 hessnatur legt Wert auf die Fertigung seiner Kleidung aus nachhaltigen und natürlichen Stoffen, die im Einklang mit der Natur gewonnen worden. Bewusst geht es in der Philosophie des Online-Shops auch um die Themen Entschleunigung und Verantwortung.  Zu den Sozialstandards, die das Unternehmen seinen Mitarbeitern weltweit garantiert, gehören unter anderem das Zahlen existenzsichernder Löhne, das Einhalten akzeptabler Arbeitszeiten sowie sichere und gesundheitsverträgliche Arbeitsbedingungen.
 
+{% include screenshot.md %}
+
 ### Der Gedanke von hessnatur
 
 Ein wichtiger Bestandteil des Selbstverständnisses von hessnatur ist der Slow-Fashion-Gedanke. Bei der Herstellung seiner Produkte will das Unternehmen weniger Rohstoffe verbrauchen als nachwachsen und außerdem Übriggebliebenes recyceln. In den Produktionsstätten wird außerdem großes Augenmerk auf faire Arbeitsbedingungen gelegt. Ganz nach dem Motto "zufriedene Mitarbeiter arbeiten besser" entstehen so qualitativ hochwertige und im Design zeitlose Kleidungstücke und Textilien mit langer Lebensdauer.

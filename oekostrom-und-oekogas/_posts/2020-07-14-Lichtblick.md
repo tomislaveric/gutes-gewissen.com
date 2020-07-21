@@ -41,6 +41,8 @@ LichtBlick produziert aber nicht nur grünen Strom, sondern engagiert sich auch 
 
 LichtBlick strebt eine Revolutionierung des Energiemarkts an und hat schon viele Schritte getan, um dieses ehrgeizige Ziel zu erreichen. Das Unternehmen sieht sich als Vorläufer und Innovator des deutschen Energiemarkts und wirbt mit intelligenten Lösungen und seinem Engagement für eine saubere, dezentral vernetzte Energiewelt. Erklärtes Ziel ist es, Umweltsünder wie Kohle- und Atomkraftwerke schnellstmöglich abzuschaffen.
 
+{% include screenshot.md %}
+
 ### Der Ökostrom von LichtBlick
 
 Der LichtBlick Ökostrom stammt zu 100 Prozent aus deutscher Wasserkraft. Stromgewinnung aus Wasserkraft ist mittlerweile ein Standardverfahren unter den erneuerbaren Energien und außerdem besonders effektiv und umweltfreundlich. Und so funktioniert es: Der Druck, mit dem das Wasser aus dem Fluss auf die Schaufeln der Turbine trifft, wird genutzt, um diese anzutreiben. Danach hat das Wasser seinen Dienst getan und wird wieder zurück in den Fluss geleitet. Die Turbine stattdessen, die mit dem Rotor des Generators verbunden ist, dreht sich immer weiter. Durch die Drehbewegung entsteht am magnetischen Rotor des Generators ein Magnetfeld. Dieses erzeugt im Zusammenspiel mit den im Generator angebrachten Statoren elektrische Spannung. LichtBlick legt viel Wert auf die Tatsache, dass die Wasserkraftwerke, aus denen das Unternehmen seinen Strom bezieht, Fauna und Flora so wenig wie möglich beeinträchtigen. Auch hier setzt LichtBlick auf Nachhaltigkeit und lässt die Wasserkraftwerke deshalb regelmäßig überprüfen.

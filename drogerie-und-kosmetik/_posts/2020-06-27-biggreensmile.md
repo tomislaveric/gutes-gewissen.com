@@ -42,6 +42,8 @@ BigGreenSmile Produkte im Naturkosmetik-Sortiment reichen von Tages- und Nachtpf
 
 Natürliche Körperpflegeprodukte wie Feuchtigkeitscremes, Bodylotion und Pflegeöle machen die Haut schöner und widerstandsfähiger. Körperbutter wurde speziell für trockene Haut entwickelt, denn sie hinterlässt einen feinen Schutzfilm auf der Haut, der die Feuchtigkeit besonders gut speichern kann. Lotionen sind Emulsionen aus Wasser und Öl und flüssiger als Körperbutter. Da sie weniger fetten, ziehen sie schneller in die Haut ein. Körperöle sind für trockene und beanspruchte Haut ideal und bieten sich außerdem für Massagen an. Natürliche Deodorants sorgen für anhaltende Frische und hinterlassen ein angenehmes Gefühl auf der Haut. Sheabutter und Soda gewährleisten die feste Konsistenz von ökologischen Deodorant-Sticks. Wird der Deo-Stick bei sommerlichen Temperaturen zu weich, dann legen Sie ihn einfach für eine halbe Stunde in den Kühlschrank.
 
+{% include screenshot.md %}
+
 ### Die Artikel für Haushalt & Wäsche
 
 Der [BigGreenSmile Online-Shop](https://www.biggreensmile.de/uber-uns.aspx){:target="_blank"} möchte seine Kunden dazu animieren, auch in diesem wichtigen Bereich des Alltags auf natürliche Produkte zurückzugreifen. Im biologisch orientierten Haushalt haben biologische Waschmittel einen sehr hohen Stellenwert. Entgegen vieler Vorurteile reinigen sie genauso gut wie die viel umworbenen Waschmittel der großen Konzerne, belasten aber nicht das Grundwasser. Außerdem schonen sie die Haut beim Tragen der Kleidung. Für ein optimales Ergebnis ist es wichtig, sich an die Anwendungshinweise zu halten. 

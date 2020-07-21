@@ -44,6 +44,8 @@ Waschbär übernimmt angesichts einer Gesellschaft, die mit großen ökologische
 
 Strenge und umfassende Materialanforderungen und Sozialstandards bilden den Kern der Waschbär-Qualitätsstrategie. Während in den Materialanforderungen festgelegt ist, welche Ansprüche das Material und die Herkunft der Rohstoffe erfüllen müssen, sind in den Sozialstandards für alle Lieferanten verbindliche Arbeitsbedingungen und Beschäftigungsverhältnisse geregelt. Erstere basieren teilweise auf den Kriterien von unabhängigen Siegeln und Zertifizierungen wie GOTS, Bioland, BDIH, eco INSTITUT oder Fairtrade. Letztere beruhen auf den Normen der Internationalen Arbeitsorganisation (ILO) und auf der Erklärung der Menschenrechte. 
 
+{% include screenshot.md %}
+
 ### Die Artikelpässe von Waschbär
 
 Die Einhaltung der Materialanforderungen wird über den gesamten Produktionsweg hinweg anhand selbst entwickelter Artikelpässe sichergestellt. Die Pässe fragen nicht nur herkömmliche Produktmerkmale, sondern auch soziale und ökologische Eigenschaften der Produkte ab und beleuchten sämtliche Produktionsschritte von der Herkunft der Rohstoffe bis hin zur Fertigung. Alle Lieferanten sind verpflichtet, die Artikelpässe auszufüllen. Anschließend werden die Produkte von Waschbär auf Tauglichkeit und Qualität geprüft, bei Bedarf werden zur Unterstützung Gutachten oder Schadstoffanalysen seitens unabhängiger Labore eingeholt.

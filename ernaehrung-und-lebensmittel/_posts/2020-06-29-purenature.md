@@ -45,6 +45,8 @@ Für die Produktauswahl im PureNature Online-Shop profitieren Kunden von einem p
 
 Es besteht eine große Auswahl an Kosmetikartikeln für Allergiker. Die zertifizierte Naturkosmetik bietet veganes Make-up, außerdem Make-up für Allergiker, tierversuchsfreie Kosmetika und Gesichts- und Handpflege für Menschen mit Neurodermitis. Die Qualitätsmarken Logona Naturkosmetik und Natracare sind genauso vertreten wie Aloe Vera Kosmetik, außerdem Allergiker-Shampoo und hochwertige Haarbürsten und Kämme.
 
+{% include screenshot.md %}
+
 ### Die Bio-Produkte im PureNature Online-Shop
 
 Über 1000 laktose-, gluten- und weizenfreie Lebensmittel stehen zur Verfügung. Laktosefreie Mayonnaise oder Sahne, glutenfreie Backmischungen, vielerlei Produkte für alle Bereiche des Kochens sind im Shop erhältlich. Die Hauptlieferanten sind Ecomil, Natumi, Zwergenwiese, Bauckhof und Werz glutenfrei. Im Shop wird auch modische und vielfältige Bio-Bekleidung aus nachhaltiger Erzeugung angeboten, beispielsweise Bio-Socken, Bio-Unterwäsche und Bio-Shirts. 

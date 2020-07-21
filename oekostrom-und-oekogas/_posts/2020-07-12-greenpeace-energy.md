@@ -41,6 +41,8 @@ Während es 2003 bereits 20.000 Kunden zählte, belieferte es 2011 110.000 Mensc
 
 Die Genossenschaft kämpft politisch wie auch mit ihren Technologien für einen nachhaltigeren Umgang mit natürlichen Ressourcen. Profitmaximierung ist zweitrangig, das Interesse des Unternehmens dreht sich um zukunftsfähige Lösungen für eine saubere Energieversorgung. Greenpeace Energy wirbt damit, der einzige deutsche Energieversorger zu sein, der sich an die strengen Vorgaben von Greenpeace Deutschland e.V. hält. Die Kriterien der Umweltorganisation schreiben nicht nur vor, dass Ökostrom aus sauberen Kraftwerken stammen muss, sondern legen auch fest, dass Ökostrom-Anbieter einen Beitrag zum Gelingen der Energiewende leisten müssen. 
 
+{% include screenshot.md %}
+
 ### Das Vertrauen in Greenpeace Energy
 
 Dass die Greenpeace-Kriterien auch wirklich eingehalten werden, wird jedes Jahr von unabhängigen Gutachtern überprüft. Um dem Verbraucher maximale Sicherheit zu bieten, werden die Berichte von TÜV NORD sowie von der OmniCert Umweltgutachter GmbH auf der Webseite von Greenpeace Energy veröffentlicht. Ein Markenzeichen ist außerdem, dass die Genossenschaft nicht an der Börse handelt, sondern den Strom direkt von den Lieferanten kauft. 

@@ -42,6 +42,8 @@ Idee und Prinzipien hinter dem Ökostromanbieter
 
 Das Unternehmen vertritt die [Vision](https://www.naturstrom.de/ueber-uns/naturstrom-ag/vision/){:target="_blank"}, mit nachhaltigen Angeboten in den Bereichen Ökostrom, Wärme und E-Mobilität die Versorgung aus erneuerbaren Energien weiter zu steigern. Fossile und atomare Brennstoffe gehören demnach in die Vergangenheit. Das Ziel ist, stattdessen immer mehr Energie aus erneuerbaren Energieträgern und dezentralen Öko-Kraftwerken zu gewinnen – und das am besten vor Ort, aus der Region für die Region. Dahinter steht der Gedanke, die regionale Wirtschaft zu stärken, indem man die Wertschöpfungskette in der Region belässt und vor Ort Arbeitsplätze schafft und sichert. Stromnetze sollen entlastet werden und den Bau neuer Stromtrassen überflüssig machen. Durch diese Maßnahmen soll die Energieversorgung insgesamt umweltgerechter, verbraucherfreundlicher und sicherer werden. 
 
+{% include screenshot.md %}
+
 ### Infos zur Stromproduktion
 
 Der Ökostrom von NATURSTROM
