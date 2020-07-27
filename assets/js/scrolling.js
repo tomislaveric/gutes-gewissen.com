@@ -12,16 +12,12 @@ $(window).scroll(function () {
 function handleVisibility() {
     if (!$('#productCta').length) { return; }
 
-    if (reachedEnd()) {
-        console.log("reached end");
+    if ($(this).scrollTop() > $('#productCta').offset().top) {
+        $('#ctaBar').slideDown();
         var ctaBarHeight = $('#ctaBar').height();
         $('#footer').css("margin-bottom", ctaBarHeight + 'px');
     } else {
-        if ($(this).scrollTop() > $('#productCta').offset().top) {
-            $('#ctaBar').slideDown();
-        } else {
-            $('#ctaBar').slideUp();
-        }
+        $('#ctaBar').slideUp();
     }
 }
 
