@@ -1,4 +1,3 @@
-<div class="d-none d-lg-block">
 <div id="ctaBar" class="fixed-bottom border-top">
     <div class="container bg-white">
         <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
@@ -7,14 +6,13 @@
                     <img src="{{page.image}}" class="img-cta-bar" />
                 </div>
                 <div class="col-auto">
-                    <h3 class="h5">{{page.title}}</h3>
-                    <p>{{page.slogan}}</p>
+                    <h3 class="h5 d-none d-lg-block">{{page.title}}</h3>
+                    <p class="d-none d-lg-block">{{page.slogan}}</p>
                     <div class="btn btn-success">
-                        Hier geht es zu den {{ page.title }} Angeboten
+                        Besuche {{ page.title }}!
                     </div>
                 </div>
             </div>
         </span>
     </div>
-</div>
 </div>
