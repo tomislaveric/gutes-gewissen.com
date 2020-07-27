@@ -1,3 +1,4 @@
+<div class="d-none d-lg-block">
 <div id="ctaBar" class="fixed-bottom border-top">
     <div class="container bg-white">
         <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
@@ -15,4 +16,5 @@
             </div>
         </span>
     </div>
+</div>
 </div>
