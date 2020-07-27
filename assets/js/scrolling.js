@@ -1,6 +1,9 @@
 $(document).ready(function () {
-    $('#cta-bar').hide();
-    handleVisibility()
+    if (reachedEnd()) {
+        $('#ctaBar').slideDown();
+    } else {
+        $('#ctaBar').hide();
+    }
 });
 $(window).scroll(function () {
     handleVisibility()
@@ -8,9 +11,20 @@ $(window).scroll(function () {
 
 function handleVisibility() {
     if (!$('#productCta').length) { return; }
-    if ($(this).scrollTop() > $('#productCta').offset().top) {
-        $('#cta-bar').slideDown();
+
+    if (reachedEnd()) {
+        console.log("reached end");
+        var ctaBarHeight = $('#ctaBar').height();
+        $('#footer').css("margin-bottom", ctaBarHeight + 'px');
     } else {
-        $('#cta-bar').slideUp();
+        if ($(this).scrollTop() > $('#productCta').offset().top) {
+            $('#ctaBar').slideDown();
+        } else {
+            $('#ctaBar').slideUp();
+        }
     }
+}
+
+function reachedEnd() {
+    return ($(window).innerHeight() - window.innerHeight) <= window.scrollY;
 }

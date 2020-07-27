@@ -33,7 +33,8 @@ websiteTitle: gutes-gewissen
 <body>
   {% include header.md %}
   {{ content }}
-  <footer>
+  {% include ctaBar.md %}
+  <footer id="footer">
     <div class="container p-3 text-center">
     <a class="btn btn-light btn-sm ml-1" href="/ueber-uns">Über uns</a>
       <a class="btn btn-light btn-sm mr-1" href="/impressum">Impressum</a>
@@ -41,5 +42,4 @@ websiteTitle: gutes-gewissen
     </div>
   </footer>
 </body>
-
 </html>

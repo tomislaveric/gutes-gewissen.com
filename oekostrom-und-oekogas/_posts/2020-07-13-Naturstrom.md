@@ -6,8 +6,8 @@ targetUrl: https://www.awin1.com/awclick.php?gid=340209&mid=11937&awinaffid=7311
 image: /assets/images/NATURSTROM.jpg
 screenshot: /assets/images/screenshots/naturstrom.jpg
 rubric: Ökostrom & Ökogas
-shortDescription: NATURSTROM ist ein unabhängiger Ökostrom- und Ökogasanbieter mit einem breiten Portfolio rund Produkte aus umweltschonenden erneuerbaren Energien.
-description: Der Energieversorger NATURSTROM setzt sich dafür ein, dass die Welt auch für nachfolgenden Generationen lebenswert bleibt und produziert Strom aus erneuerbaren Energien, insbesondere aus Wind- und Solarkraft. Sauber, sicher und wirtschaftlich – so beschreibt der Stromanbieter seine Energieversorgung auf Basis erneuerbarer Energien. Dabei betont NATURSTROM immer auch die Wichtigkeit der Beteiligung der Verbraucher und trägt dieser Philosophie mit vielen innovativen Projekten Rechnung, bei denen ökologisch erzeugte, "saubere" Energie direkt vor Ort verbraucht wird.
+shortDescription: "NATURSTROM ist ein unabhängiger Ökostrom- und Ökogasanbieter mit einem breiten Portfolio rund Produkte aus umweltschonenden erneuerbaren Energien."
+description: "Der Energieversorger NATURSTROM setzt sich dafür ein, dass die Welt auch für nachfolgenden Generationen lebenswert bleibt und produziert Strom aus erneuerbaren Energien, insbesondere aus Wind- und Solarkraft. Sauber, sicher und wirtschaftlich – so beschreibt der Stromanbieter seine Energieversorgung auf Basis erneuerbarer Energien. Dabei betont NATURSTROM immer auch die Wichtigkeit der Beteiligung der Verbraucher und trägt dieser Philosophie mit vielen innovativen Projekten Rechnung, bei denen ökologisch erzeugte, 'saubere' Energie direkt vor Ort verbraucht wird."
 sidebarButtonText: Gehe zu NATURSTROM
 tags: [Energieversorger, Ökogasanbieter, Ökostrom, Grüner Strom, CO2 neutral]
 contact: [
