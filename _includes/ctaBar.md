@@ -3,13 +3,22 @@
         <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
             <div class="row py-2 align-items-center">
                 <div class="col-auto">
-                    <img src="{{page.image}}" class="img-cta-bar" />
+                    <img src="{{page.image}}" class="img-cta-bar d-none d-lg-block" />
                 </div>
                 <div class="col-auto">
-                    <h3 class="h5 d-none d-lg-block">{{page.title}}</h3>
-                    <p class="d-none d-lg-block">{{page.slogan}}</p>
-                    <div class="btn btn-success">
-                        Besuche {{ page.title }}!
+                    <div class="d-none d-lg-block">
+                        <h3 class="h5">{{page.title}}</h3>
+                        <p>{{page.slogan}}</p>
+                        <div class="btn btn-success">
+                            Website von {{ page.title }} besuchen!
+                        </div>
+                    </div>
+                </div>
+                <div class="col d-lg-none">
+                    <div class="text-center">
+                        <div class="btn btn-success">
+                            Website von {{ page.title }} besuchen!
+                        </div>
                     </div>
                 </div>
             </div>
