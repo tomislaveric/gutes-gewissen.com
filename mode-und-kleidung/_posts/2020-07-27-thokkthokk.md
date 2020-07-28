@@ -32,7 +32,7 @@ affiliateElements: [
     "/assets/images/idealo.png"
     ]
 ]
-media: ["https://www.youtube.com/embed/T8pjhG5nbuQ"]
+media: ["https://www.youtube.com/embed/MHl5vwosE-s"]
 shortDescription: "ThokkThokk Online-Shop hat ökologisch und fair produzierte Kleidung nach eigenen Designs sowie weiterer unterschiedlicher Labels im Sortiment."
 description: "Das bereits über die Grenzen Deutschlands hinaus bekannte Münchner Label ThokkThokk verkauft fair produzierte Freizeitkleidung. In der Ökoszene sind die typischen minimalistischen Designs der Marke bereits echte Klassiker. Das besondere Lebensgefühl von ThokkThokk findet sich in den verschiedenen Kollektionen des Labels wieder. Diese beschäftigen sich vor allem mit der Beziehung zwischen Mensch und Natur sowie der Fähigkeit unserer natürlichen Umgebung, unsere Kreativität zu wecken."
 ---
@@ -48,6 +48,8 @@ Die umweltfreundliche Idee hinter der [Marke](https://www.thokkthokk.com/#info){
 ### Die Rohstoffe von ThokkThokk
 
 Ein großer Teil der ThokkThokk Produkte besteht gänzlich aus oder enthält anteilig Bio-Baumwolle, die vor allem in Indien angebaut und geerntet wird. Hierbei geht ThokkThokk sicher, dass der Anbau der Baumwolle biologisch verträglich erfolgt. Die Baumwollstoffe bleiben dabei frei von Schadstoffen und punkten in Sachen Qualität, Komfort, Design und Stabilität.
+
+{% include screenshot.md %}
 
 ### Die Produktion von ThokkThokk
 
