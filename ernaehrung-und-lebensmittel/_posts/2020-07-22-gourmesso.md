@@ -3,7 +3,7 @@ author: Michael
 title: Gourmesso
 slogan: Fair-Trade-Kaffee in Nespresso-kompatiblen Kapseln
 targetUrl: https://www.awin1.com/cread.php?awinmid=11382&awinaffid=731132&clickref=&ued=
-image: /assets/images/gourmesso_logo.png
+image: /assets/images/gourmesso_logo.jpg
 screenshot: /assets/images/screenshots/gourmesso_screenshot.jpg
 rubric: Ernährung & Lebensmittel
 tags: [Kaffee, Nachhaltigkeit, Kompostierbar, Ökologisch, Fair-Trade]
@@ -50,7 +50,7 @@ Alle von Gourmesso verkauften Kaffeesorten wurden nachhaltig produziert und sind
 
 ### Das Ziel von Gourmesso
 
-Ziel des Unternehmens ist es, die Öko-Bilanz seiner Kapseln zu verbessern und seinen Kunden langfristig Kapseln anbieten zu können, die zu 100 Prozent aus umweltschonenden Materialien hergestellt werden und kompostierbar sind. Dafür entwickelte Gourmesso eine Kapsel aus kompostierbaren Materialien, die Anfang 2017 auf den Markt ging. Wie das Unternehmen mit Bedauern mitteilt, war diese Kapsellösung jedoch mit einigen Problemen verbunden, die die Kompatibilität der Kapseln und die Qualität des Kaffees (Frische und Haltbarkeit) betrafen. Seither werden die Gourmesso Produkte wieder in Kapseln geliefert, die aus Polypropylen bestehen. Das Unternehmen arbeitet aber an einer vollkompostierbaren Lösung und hält Kunden auf seinem Blog (Link: https://www.gourmesso.de/blogs/recipes) auf dem Laufenden. 
+Ziel des Unternehmens ist es, die Öko-Bilanz seiner Kapseln zu verbessern und seinen Kunden langfristig Kapseln anbieten zu können, die zu 100 Prozent aus umweltschonenden Materialien hergestellt werden und kompostierbar sind. Dafür entwickelte Gourmesso eine Kapsel aus kompostierbaren Materialien, die Anfang 2017 auf den Markt ging. Wie das Unternehmen mit Bedauern mitteilt, war diese Kapsellösung jedoch mit einigen Problemen verbunden, die die Kompatibilität der Kapseln und die Qualität des Kaffees (Frische und Haltbarkeit) betrafen. Seither werden die Gourmesso Produkte wieder in Kapseln geliefert, die aus Polypropylen bestehen. Das Unternehmen arbeitet aber an einer vollkompostierbaren Lösung und hält Kunden auf seinem [Blog](https://www.gourmesso.de/blogs/recipes){:target="_blank"} auf dem Laufenden. 
 
 {% include screenshot.md %}
 

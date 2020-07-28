@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Gourmesso",
+      "url"         : "/ernaehrung-und-lebensmittel/gourmesso/",
+      "category"    : "",
+      "tags"        : "Kaffee, Nachhaltigkeit, Kompostierbar, Ökologisch, Fair-Trade",
+      "date"        : "2020-07-22 00:00:00 +0200",
+      "shippings"   : "Versandkostenfreie Lieferung ab Warenwert von 35 EuroVersandkosten von 3,90 Euro für Bestellungen unter 35 EuroInternationale Lieferung nach Österreich und FrankreichKostenlose Retoure ab 40 Euro Bestellwert",
+      "image"       : "/assets/images/gourmesso_logo.jpg"
+
+    } ,
+  
+    {
+
       "title"       : "chocri",
       "url"         : "/ernaehrung-und-lebensmittel/chocri/",
       "category"    : "",
