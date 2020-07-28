@@ -1,7 +1,7 @@
 {% assign alternatives = site.posts | where: "categories", include.category%}
 {% if alternatives.size > 1 %}
 <h3 class="h5 my-3">{{page.title}} Alternativen</h3>
-{% for post in alternatives %}
+{% for post in alternatives limit:6 %}
 {% if post.title != page.title%}
 <div class="card mb-2">
     <a href="{{post.url}}" ref="nofollow">
