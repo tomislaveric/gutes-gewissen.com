@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "leguano",
+      "url"         : "/mode-und-kleidung/leguano/",
+      "category"    : "",
+      "tags"        : "Schuhe, Barfussschuhe, Nachhaltige Mode, Damen, Herren, Mode, Fashion",
+      "date"        : "2020-07-23 00:00:00 +0200",
+      "shippings"   : "Kostenloser Versand innerhalb DeutschlandsInternationale Lieferungen ins Ausland möglich",
+      "image"       : "/assets/images/leguano_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Gourmesso",
       "url"         : "/ernaehrung-und-lebensmittel/gourmesso/",
       "category"    : "",
