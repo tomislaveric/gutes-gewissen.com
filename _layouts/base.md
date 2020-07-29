@@ -33,7 +33,6 @@ websiteTitle: gutes-gewissen
 <body>
   {% include header.md %}
   {{ content }}
-  {% include ctaBar.md %}
   <footer id="footer">
     <div class="container p-3 text-center">
     <a class="btn btn-light btn-sm ml-1" href="/ueber-uns">Über uns</a>
