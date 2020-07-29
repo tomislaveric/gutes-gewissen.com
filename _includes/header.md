@@ -7,7 +7,6 @@
       <div class="card" style="width: 12vw;">
         <img class="card-img-top p-2" src="{{page.image}}" alt="Card image cap">
         <div class="card-body text-center">
-          <!-- <h5 class="card-title">{{page.title}}</h5> -->
           <p class="card-text">{{page.slogan}}</p>
           <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
             <div class="btn btn-success">

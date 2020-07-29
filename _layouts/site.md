@@ -24,6 +24,7 @@ layout: base
 </script>
 <div class="container">
     <div class="row">
+{% include breadcrumbs.md %}
         <div class="col-lg-9
          col-sm-12 mt-4">
             <div>
