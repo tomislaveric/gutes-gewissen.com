@@ -23,7 +23,11 @@ websiteTitle: gutes-gewissen
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content="{% if page.shortDescription %}{{ page.shortDescription }}{% else %}{{ page.description }}{% endif %}">
   <meta name="keywords" content="{{ page.tags | join: ', ' }}">
-  {% include open-graph.md %}
+  {% if page.layout == 'site' %}
+    {% include open-graph.md type="product" %}
+  {% elsif page.layout == 'rubric' %}
+    {% include open-graph.md type="article" %}
+  {% endif %}
   
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
   <link rel="stylesheet" href="/assets/css/main.css" />
