@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Avocadostore",
+      "url"         : "/mode-und-kleidung/avocadostore/",
+      "category"    : "",
+      "tags"        : "Kleidung, Made-in-Germany, CO₂-sparend, Fair, Nachhaltige Bio-Kleidung, Damen, Herren, Mode, Fashion, Vegan",
+      "date"        : "2020-12-18 00:00:00 +0100",
+      "shippings"   : "Versandkosten und Retourebedingungen vom jeweiligen Verkäufer abhängig",
+      "image"       : "/assets/images/avocadostore.png"
+
+    } ,
+  
+    {
+
       "title"       : "ThokkThokk",
       "url"         : "/mode-und-kleidung/thokkthokk/",
       "category"    : "",
