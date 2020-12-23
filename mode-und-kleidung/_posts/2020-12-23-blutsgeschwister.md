@@ -8,11 +8,10 @@ screenshot: /assets/images/screenshots/blutsgeschwister_screenshot.jpg
 rubric: Mode & Kleidung
 tags: [Kleidung, Made-in-Germany, CO₂-sparend, Fair, Nachhaltige Bio-Kleidung, Damen, Herren, Mode, Fashion, Vegan]
 payments: [
-    PayPal
-    Kreditkarte
-    "Sofortüberweisung"
+    PayPal,
+    Kreditkarte,
+    "Sofortüberweisung",
     Kauf auf Rechnung mit Klarna
-
 ]
 shippings:
   [
@@ -20,7 +19,6 @@ shippings:
     "Versand an Packstationen und Postfilialen möglich",
     "Kostenfreier Versand innerhalb Europas für Bestellungen ab 29 Euro",
     "Umtausch und Rücksendungen gratis"
-
   ]
 contact: [
     "Telefon: 0800 25 88 835", 

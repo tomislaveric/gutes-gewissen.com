@@ -14,6 +14,18 @@
   
     {
 
+      "title"       : "glore",
+      "url"         : "/mode-und-kleidung/glore/",
+      "category"    : "",
+      "tags"        : "Kleidung, Made-in-Germany, CO₂-sparend, Fair, Nachhaltige Bio-Kleidung, Damen, Herren, Mode, Fashion, Vegan",
+      "date"        : "2020-12-22 00:00:00 +0100",
+      "shippings"   : "Versandkosten von 2,50 Euro ohne MindestbestellwertLieferung an Packstation möglichWeltweiter Versand verfügbarKostenlose Rücksendungen innerhalb Deutschlands",
+      "image"       : "/assets/images/glore.jpg"
+
+    } ,
+  
+    {
+
       "title"       : "Avocadostore",
       "url"         : "/mode-und-kleidung/avocadostore/",
       "category"    : "",

@@ -25,8 +25,10 @@ layout: base
 <div class="container">
     <div class="row">
 {% include breadcrumbs.md %}
+</div>
+<div class="row">
         <div class="col-lg-9
-         col-sm-12 mt-4">
+         col-sm-12 mt-2">
             <div>
                 {% if page.slogan %}
                 <h1 class="h2">{{ page.title }}</h1>
