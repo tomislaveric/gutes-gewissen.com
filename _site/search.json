@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "GREENALITY",
+      "url"         : "/mode-und-kleidung/greenality/",
+      "category"    : "",
+      "tags"        : "Kleidung, CO₂-sparend, Fair-Trade, Nachhaltige Bio-Kleidung, Damen, Herren, Mode, Fashion, Vegan",
+      "date"        : "2020-12-24 00:00:00 +0100",
+      "shippings"   : "Versandkosten von 2,50 Euro ohne MindestbestellwertLieferung an Packstation oder Postfiliale möglichKostenlose Rücksendungen innerhalb DeutschlandsVersand ins europäische Ausland verfügbar",
+      "image"       : "/assets/images/greenality.jpg"
+
+    } ,
+  
+    {
+
       "title"       : "Blutsgeschwister",
       "url"         : "/mode-und-kleidung/blutsgeschwister/",
       "category"    : "",
