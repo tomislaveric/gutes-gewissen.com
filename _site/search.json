@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Jojeco Fairfashion",
+      "url"         : "/mode-und-kleidung/jojeco/",
+      "category"    : "",
+      "tags"        : "Kleidung, CO₂-sparend, Fair-Trade, Nachhaltige Bio-Kleidung, Damen, Herren, Mode, Fashion, Vegan",
+      "date"        : "2020-12-25 00:00:00 +0100",
+      "shippings"   : "Versandkosten von 4 Euro für Bestellungen bis 100 EuroKostenfreier Versand ab 100 Euro BestellwertLieferung nach Österreich und in die Schweiz möglichKostenlose Retoure innerhalb Deutschlands",
+      "image"       : "/assets/images/jojeco.jpg"
+
+    } ,
+  
+    {
+
       "title"       : "GREENALITY",
       "url"         : "/mode-und-kleidung/greenality/",
       "category"    : "",
