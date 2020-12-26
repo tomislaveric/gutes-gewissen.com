@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "mbaetz",
+      "url"         : "/mode-und-kleidung/mbaetz/",
+      "category"    : "",
+      "tags"        : "Schuhe, Fair-Trade, Nachhaltige Bio-Schuhe, Damen, Herren, Mode, Fashion",
+      "date"        : "2020-12-26 00:00:00 +0100",
+      "shippings"   : "Versandkosten von 5,50 Euro für Bestellungen bis 80 EuroKostenloser Versand ab 80 Euro BestellwertLieferung an Packstationen möglichKostenfreie Retoure innerhalb Deutschlands",
+      "image"       : "/assets/images/mbaetz.jpg"
+
+    } ,
+  
+    {
+
       "title"       : "Jojeco Fairfashion",
       "url"         : "/mode-und-kleidung/jojeco/",
       "category"    : "",
