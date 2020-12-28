@@ -31,8 +31,9 @@ layout: base
          col-sm-12 mt-2">
             <div>
                 {% if page.slogan %}
-                <h1 class="h2">{{ page.title }}</h1>
+                <h1 class="h2">{{ page.title }}
                 <h2 class="text-muted h5">{{ page.slogan }}</h2>
+                </h1>
                 {% else %}
                 <h1 class="h2">{{ page.title }}</h1>
                 {% endif %}
