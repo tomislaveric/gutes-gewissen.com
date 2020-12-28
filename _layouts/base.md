@@ -5,13 +5,15 @@ websiteTitle: gutes-gewissen
 <html lang="de">
 
 <head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-161504796-1"></script>
   <script src="/assets/js/jquery-3.5.1.js"></script>
   <script src="/assets/js/popper.min.js"></script>
   <script src="/assets/js/link-masking.js"></script>
   <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
   <script src="/assets/js/scrolling.js"></script>
+  <!-- AdSense - Google AdSense -->  
+  <script data-ad-client="ca-pub-4092276681239296" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
