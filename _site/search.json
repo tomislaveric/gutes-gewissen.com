@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "HYDROPHIL",
+      "url"         : "/drogerie-und-kosmetik/hydrophil/",
+      "category"    : "",
+      "tags"        : "Naturkosmetik, Nachhaltige-Körperpflege, CO₂-sparend, Wasserschutz, Mundhygiene, Fair",
+      "date"        : "2020-12-28 00:00:00 +0100",
+      "shippings"   : "Versandkosten von 4,90 Euro für Bestellungen unter 10 EuroKostenloser Versand ab 10 Euro BestellwertLieferung an Packstationen möglich",
+      "image"       : "/assets/images/hydrophil.jpg"
+
+    } ,
+  
+    {
+
       "title"       : "ubup",
       "url"         : "/mode-und-kleidung/ubup/",
       "category"    : "",
