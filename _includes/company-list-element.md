@@ -2,9 +2,9 @@
     <div class="card h-100">
     <a href="{{ post.url }}" ref="nofollow" class="black-link">
         <div class="card-header bg-transparent">
-            <h1 class="h5 mt-0">{{ post.title }}
+            <h2 class="h5 mt-0">{{ post.title }}
             <div class="text-muted h6 mt-1">{{ post.slogan }}</div>
-            </h1>
+            </h2>
         </div>
         </a>
         <div class="row no-gutters h-100 position-relative">
