@@ -6,7 +6,7 @@ targetUrl: https://luna.r.lafamo.com/ts/i5541197/tsc?typ=r&amc=con.blbn.490871.5
 image: /assets/images/hydrophil.jpg
 screenshot: /assets/images/screenshots/hydrophil_screenshot.jpg
 rubric: Drogerie & Kosmetik
-tags: [Naturkosmetik, Nachhaltige-Körperpflege, CO₂-sparend, Wasserschutz, Mundhygiene, Fair]
+tags: [Naturkosmetik, Nachhaltige-Körperpflege, CO₂-sparend, Wasserschutz, Mundhygiene, Fair, Vegan]
 payments: [
     Vorkasse,
     Kreditkarte,
