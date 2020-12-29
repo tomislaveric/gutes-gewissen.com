@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "ubup",
+      "url"         : "/mode-und-kleidung/ubup/",
+      "category"    : "",
+      "tags"        : "Kleidung, CO₂-sparend, Second-hand, Nachhaltige Bio-Kleidung, Damen, Herren, Mode, Fashion",
+      "date"        : "2020-12-27 00:00:00 +0100",
+      "shippings"   : "Kostenlose Lieferung innerhalb DeutschlandsVersand ins europäische Ausland möglichKostenlose Retoure/Rücksendung",
+      "image"       : "/assets/images/ubup.jpg"
+
+    } ,
+  
+    {
+
       "title"       : "mbaetz",
       "url"         : "/mode-und-kleidung/mbaetz/",
       "category"    : "",
