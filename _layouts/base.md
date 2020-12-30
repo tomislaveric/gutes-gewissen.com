@@ -35,6 +35,12 @@ websiteTitle: gutes-gewissen
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
   <link rel="stylesheet" href="/assets/css/main.css" />
   <title>{{ page.title }} {% if page.slogan %} | {{ page.slogan }} {% endif %}</title>
+
+<!-- Unique/Canonical urls -->  
+  <link rel="canonical" href="https://www.gutes-gewissen.com/"/>
+    {% for rubric in site.rubrics %}
+      <link rel="canonical" href="{{ rubric.url }}"/>
+    {% endfor %}
 </head>
 
 <body>
