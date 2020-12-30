@@ -1,6 +1,6 @@
 <div class="col mb-4">
     <div class="card h-100">
-    <a href="{{ post.url }}" ref="nofollow" class="black-link">
+    <a href="{{ post.url }}" rel="canonical" class="black-link">
         <div class="card-header bg-transparent">
             <h2 class="h5 mt-0">{{ post.title }}
             <div class="text-muted h6 mt-1">{{ post.slogan }}</div>
@@ -13,7 +13,7 @@
             </div>
             <div class="col-lg-8 position-static p-2 pl-md-0">
                 <p>{{ post.description | strip_html | truncatewords: 25 }}
-                    <a href="{{post.url}}" class="stretched-link" ref="nofollow">weiter</a>
+                    <a href="{{post.url}}" class="stretched-link" rel="canonical">weiter</a>
                 </p>
             </div>
         </div>
