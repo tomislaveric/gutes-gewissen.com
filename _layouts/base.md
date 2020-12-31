@@ -38,6 +38,9 @@ websiteTitle: gutes-gewissen
 
 <!-- Unique/Canonical urls -->  
   <link rel="canonical" href="{{ site.url }}"/>
+  <link rel="canonical" href="{{ site.url }}/ueber-uns"/>
+  <link rel="canonical" href="{{ site.url }}/impressum"/>
+  <link rel="canonical" href="{{ site.url }}/datenschutz"/>
     {% for rubric in site.rubrics %}
       <link rel="canonical" href="{{ site.url }}{{ rubric.url }}"/>
     {% endfor %}
