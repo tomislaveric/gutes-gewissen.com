@@ -18,7 +18,7 @@
             </div>
         </div>
         <div class="card-footer bg-transparent">
-            <div class="text-muted footer-text">Hinzugefügt zu <a href="{{post.categories[0]}}">{{post.rubric}}</a></div>
+            <div class="text-muted footer-text">Hinzugefügt zu <a href="{{post.categories[0]}}" rel="nofollow">{{post.rubric}}</a></div>
         </div>
     </div>
 </div>
