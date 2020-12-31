@@ -37,9 +37,9 @@ websiteTitle: gutes-gewissen
   <title>{{ page.title }} {% if page.slogan %} | {{ page.slogan }} {% endif %}</title>
 
 <!-- Unique/Canonical urls -->  
-  <link rel="canonical" href="https://www.gutes-gewissen.com/"/>
+  <link rel="canonical" href="{{ site.url }}"/>
     {% for rubric in site.rubrics %}
-      <link rel="canonical" href="{{ rubric.url }}"/>
+      <link rel="canonical" href="{{ site.url }}{{ rubric.url }}"/>
     {% endfor %}
 </head>
 
