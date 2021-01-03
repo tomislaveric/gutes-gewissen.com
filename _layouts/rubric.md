@@ -12,4 +12,4 @@ layout: base
 </div>
 <div class="container">
     {% include rubric-list.md rubric=page.title %}
-</div>s
+</div>
