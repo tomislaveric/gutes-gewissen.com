@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "BIOZOYG",
+      "url"         : "/haus-und-garten/biozoyg/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Schadstofffrei, Klimaneutral, Wiederverwendbar, BPA-Frei",
+      "date"        : "2021-01-02 00:00:00 +0100",
+      "shippings"   : "Versandkosten von 4,90 Euro für Bestellungen unter 20 EuroKostenloser Versand ab 20 Euro BestellwertLieferung an Packstationen möglichKostenfreie Retoure ab 40 Euro Warenwert",
+      "image"       : "/assets/images/biozoyg.jpg"
+
+    } ,
+  
+    {
+
       "title"       : "Upcycling Deluxe",
       "url"         : "/secondhand-und-upcycling/upcycling-deluxe/",
       "category"    : "",
