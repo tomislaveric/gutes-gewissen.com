@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Oxfam Unverpackt",
+      "url"         : "/geschenke-und-erlebnisse/oxfam-unverpackt/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Wohltätigkeit, Tierschutz, Spende, Steuervorteil",
+      "date"        : "2021-01-03 00:00:00 +0100",
+      "shippings"   : "Versandkosten von 5,90 Euro für Bestellungen unter 75 EuroKostenlose Lieferung ab 75 Euro BestellwertVersand an Packstation möglichLieferung innerhalb der EU verfügbar",
+      "image"       : "/assets/images/oxfam-unverpackt.jpg"
+
+    } ,
+  
+    {
+
       "title"       : "BIOZOYG",
       "url"         : "/haus-und-garten/biozoyg/",
       "category"    : "",
