@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "naftie",
+      "url"         : "/tierfutter-und-tierbedarf/naftie/",
+      "category"    : "",
+      "tags"        : "Nachhaltiges-Tierfutter, Nachhaltiger-Tierbedarf, Tierversuchsfrei, Made-in-Germany, Keine-Tierversuche",
+      "date"        : "2021-01-04 00:00:00 +0100",
+      "shippings"   : "DPD-Versand 3,80 Euro für Bestellungen unter 49 EuroDHL-Versand 4,78 Euro bis 50 Euro BestellwertDHL-Versand 2,83 Euro ab 50 Euro BestellwertLieferung an Packstation mit DHL-Versand möglich",
+      "image"       : "/assets/images/naftie.jpg"
+
+    } ,
+  
+    {
+
       "title"       : "Oxfam Unverpackt",
       "url"         : "/geschenke-und-erlebnisse/oxfam-unverpackt/",
       "category"    : "",
