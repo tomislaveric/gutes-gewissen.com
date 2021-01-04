@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Greenpicks",
+      "url"         : "/secondhand-und-upcycling/greenpicks/",
+      "category"    : "",
+      "tags"        : "Marktplatz, Secondhand, Upcycling, Nachhaltige-Produkte, Nachhaltiger-Lebensstil",
+      "date"        : "2020-12-31 00:00:00 +0100",
+      "shippings"   : "Höhe der Versandkosten und Bedingungen der Retoure von jeweiligem Anbieter abhängig",
+      "image"       : "/assets/images/greenpicks.jpg"
+
+    } ,
+  
+    {
+
       "title"       : "KAHLA Porzellan",
       "url"         : "/haus-und-garten/kahla-porzellan/",
       "category"    : "",
