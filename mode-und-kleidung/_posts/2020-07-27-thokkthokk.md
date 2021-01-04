@@ -27,7 +27,7 @@ contact: [
 ]
 affiliateElements: [
     [
-    "ThokkThokk Produkte im Preisvergleich von idealo.de", 
+    "Produkte im Preisvergleich von idealo.de", 
     "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&clickref=&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DThokkThokk", 
     "/assets/images/idealo.png"
     ]
