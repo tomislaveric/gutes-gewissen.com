@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Upcycling Deluxe",
+      "url"         : "/secondhand-und-upcycling/upcycling-deluxe/",
+      "category"    : "",
+      "tags"        : "Marktplatz, Secondhand, Upcycling, Nachhaltige-Produkte, Nachhaltiger-Lebensstil",
+      "date"        : "2021-01-01 00:00:00 +0100",
+      "shippings"   : "Versandkosten von 4,90 Euro für Bestellungen unter 200 EuroKostenlose Lieferung ab 200 Euro BestellwertVersand in europäische Länder möglich",
+      "image"       : "/assets/images/upcycling-deluxe.jpg"
+
+    } ,
+  
+    {
+
       "title"       : "Greenpicks",
       "url"         : "/secondhand-und-upcycling/greenpicks/",
       "category"    : "",
