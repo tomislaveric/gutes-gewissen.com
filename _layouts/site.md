@@ -45,12 +45,11 @@ layout: base
                     {{ page.highlight }}
                 </div>
                 {% endif %}
-                    <div class="btn btn-outline-success w-100">
+                    <div class="btn btn-outline-success mb-4 w-100">
                         Website von {{ page.title }} besuchen!
                     </div>
                 </span>
             </div>
-{% include adsense-block.md content="horizontal" %}
             <div class="align-items-center">
                 {{ content }}
             </div>
@@ -84,7 +83,6 @@ layout: base
             {% if page.shippings %}
             {% include simple-list.md title="Versandoptionen" content=page.shippings %}
             {% endif %}
-{% include adsense-block.md content="vertical" %}
             {% if page.contact %}
             {% include simple-list.md title="Kontakt" content=page.contact %}
             {% endif %}
