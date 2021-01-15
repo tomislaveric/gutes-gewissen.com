@@ -39,7 +39,13 @@ layout: base
                 {% endif %}
                 <p>{{ page.shortDescription }} {{ page.description }}</p>
                 <span id="productCta" class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
-                    <div class="btn btn-outline-success my-4 w-100">
+                {% if page.highlight %}
+                <h2 class="h4">Aktuelles Angebot</h2>
+                <div class="alert alert-success text-center" role="alert">
+                    {{ page.highlight }}
+                </div>
+                {% endif %}
+                    <div class="btn btn-outline-success w-100">
                         Website von {{ page.title }} besuchen!
                     </div>
                 </span>

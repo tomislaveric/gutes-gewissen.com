@@ -31,6 +31,7 @@ contact: [
 ]
 shortDescription: PureNature Online-Shop ist spezialisiert auf nachhaltige Produkte für die Allergiker und das vegane Leben aus den verschiedensten Bereichen.
 description: "Der PureNature Online-Shop bietet ein breites Spektrum natürlicher Erzeugnisse. Das Sortiment reicht von Bio-Lebensmitteln bis zu nachhaltigen Artikeln rund ums Wohnen. Die Philosophie des Familienunternehmens: Mit hochwertigen Produkten, kompetenten Mitarbeitern und fundiertem Know-How Gesundheit und Nachhaltigkeit für die Kunden zu ermöglichen."
+highlight: "FFP2 Atemschutzmaske für <b>4,95€</b></br><b>20% Rabatt</b> auf FFP2 Atemschutzmasken im 10er Pack"
 ---
 
 ### Die Produktpalette im PureNature Online-Shop
