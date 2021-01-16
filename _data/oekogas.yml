@@ -1,0 +1,16 @@
+- name: Greenpeace Energy
+  logo: /assets/images/greenpeace-energy.png
+  tarife: 
+    - name: Ökostrom aktiv
+      arbeitspreis: 29.80
+      grundpreise: 8.90
+      mindestvertragszeit: keine
+      kündigungsfrist: 4 Wochen
+      preisgarantie: Bis zum 31.12.2021
+
+    - name: Solarstrom plus
+      arbeitspreis: 31.00
+      grundpreise: 8.90
+      mindestvertragszeit: keine
+      kündigungsfrist: 4 Wochen
+      preisgarantie: Bis zum 31.12.2021
