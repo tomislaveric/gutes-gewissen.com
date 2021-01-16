@@ -36,15 +36,7 @@ affiliateElements: [
 media: ["https://www.youtube.com/embed/zyYFVirXoKU"]
 shortDescription: 'Die Mode-Marke Blutsgeschwister steht für hohe Qualitätsstandards, einen umweltschonenden Einsatz natürlicher Ressourcen und ein langlebiges Produktdesign'
 description: 'Die Marke Blutsgeschwister entwirft farbenfrohe Kleidung in ausgefallenen Schnitten und setzt dabei auf die ökologisch und sozial nachhaltige Produktion seiner Kleidungsstücke. Inzwischen findet man den Hauptsitz des Unternehmens in Berlin Kreuzberg. Dort arbeiten etwa 30 Mitarbeiter*innen an der Weiterentwicklung der Marke.'
-highlight: '
-<!-- START ADVERTISER: blutsgeschwister DE from awin.com -->
-
-<a href="https://www.awin1.com/cread.php?s=2609117&v=19052&q=386079&r=731132">
-    <img src="https://www.awin1.com/cshow.php?s=2609117&v=19052&q=386079&r=731132" border="0">
-</a>
-
-<!-- END ADVERTISER: blutsgeschwister DE from awin.com -->
-'
+highlight: '<img src="/assets/images/highlights/blutsgeschwister_highlight.jpg">'
 ---
 
 ### Die Idee von Blutsgeschwister
