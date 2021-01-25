@@ -4,7 +4,7 @@
     - name: Ökostrom aktiv
       typ: strom
       arbeitspreis: 29.80
-      grundpreise: 8.90
+      grundpreis: 8.90
       mindestvertragszeit: keine
       kündigungsfrist: 4 Wochen
       preisgarantie: Bis zum 31.12.2021
@@ -12,7 +12,7 @@
     - name: Solarstrom plus
       typ: strom
       arbeitspreis: 31.00
-      grundpreise: 8.90
+      grundpreis: 8.90
       mindestvertragszeit: keine
       kündigungsfrist: 4 Wochen
       preisgarantie: Bis zum 31.12.2021
@@ -20,7 +20,7 @@
     - name: proWindgas
       typ: gas
       arbeitspreis: 6.90
-      grundpreise: 9.90
+      grundpreis: 9.90
       mindestvertragszeit: keine
       kündigungsfrist: 4 Wochen
       preisgarantie: Bis zum 31.12.2021
@@ -28,7 +28,7 @@
     - name: proWindgas vegan
       typ: gas
       arbeitspreis: 7.20
-      grundpreise: 9.90
+      grundpreis: 9.90
       mindestvertragszeit: keine
       kündigungsfrist: 4 Wochen
       preisgarantie: Bis zum 31.12.2021
@@ -36,7 +36,7 @@
     - name: proWindgas plus
       typ: gas
       arbeitspreis: 7.40
-      grundpreise: 9.90
+      grundpreis: 9.90
       mindestvertragszeit: keine
       kündigungsfrist: 4 Wochen
       preisgarantie: Bis zum 31.12.2021
@@ -44,7 +44,7 @@
     - name: proWindgas vegan plus
       typ: gas
       arbeitspreis: 7.80
-      grundpreise: 9.90
+      grundpreis: 9.90
       mindestvertragszeit: keine
       kündigungsfrist: 4 Wochen
       preisgarantie: Bis zum 31.12.2021
@@ -55,7 +55,7 @@
     - name: ÖkoStrom Relax
       typ: strom
       arbeitspreis: 29.08
-      grundpreise: 10.45
+      grundpreis: 10.45
       mindestvertragszeit: 24 Monate
       kündigungsfrist: 4 Wochen zum Monatsende
       preisgarantie: keine
@@ -63,7 +63,7 @@
     - name: ÖkoStrom Komfort
       typ: strom
       arbeitspreis: 29.19
-      grundpreise: 10.45
+      grundpreis: 10.45
       mindestvertragszeit: 12 Monate
       kündigungsfrist: 4 Wochen zum Monatsende
       preisgarantie: 12 Monate
@@ -71,7 +71,7 @@
     - name: ÖkoStrom Flex
       typ: strom
       arbeitspreis: 29.70
-      grundpreise: 10.45
+      grundpreis: 10.45
       mindestvertragszeit: keine
       kündigungsfrist: 4 Wochen
       preisgarantie: 24 Monate
@@ -79,7 +79,7 @@
     - name: ÖkoGas Relax
       typ: gas
       arbeitspreis: 6.23
-      grundpreise: 14.34
+      grundpreis: 14.34
       mindestvertragszeit: 24 Monate
       kündigungsfrist: 4 Wochen
       preisgarantie: keine
@@ -87,7 +87,7 @@
     - name: ÖkoGas Komfort
       typ: gas
       arbeitspreis: 6.33
-      grundpreise: 14.34
+      grundpreis: 14.34
       mindestvertragszeit: 12 Monate
       kündigungsfrist: 4 Wochen
       preisgarantie: 12 Monate
@@ -95,7 +95,7 @@
     - name: ÖkoGas Flex
       typ: gas
       arbeitspreis: 6.63
-      grundpreise: 14.34
+      grundpreis: 14.34
       mindestvertragszeit: keine
       kündigungsfrist: 4 Wochen
       preisgarantie: 24 Monate
@@ -106,7 +106,7 @@
     - name: Naturstrom
       typ: strom
       arbeitspreis: 28.95
-      grundpreise: 8.90
+      grundpreis: 8.90
       mindestvertragszeit: keine
       kündigungsfrist: 4 Wochen
       preisgarantie: Bis zum 31.12.2021
@@ -114,7 +114,7 @@
     - name: Naturstrom gold
       typ: strom
       arbeitspreis: 30.14
-      grundpreise: 8.90
+      grundpreis: 8.90
       mindestvertragszeit: keine
       kündigungsfrist: 4 Wochen
       preisgarantie: Bis zum 31.12.2021
@@ -122,7 +122,7 @@
     - name: biogas 10 %
       typ: gas
       arbeitspreis: 6.45
-      grundpreise: 9.90
+      grundpreis: 9.90
       mindestvertragszeit: keine
       kündigungsfrist: 4 Wochen
       preisgarantie: Bis zum 31.12.2021
@@ -130,7 +130,7 @@
     - name: biogas 20 %
       typ: gas
       arbeitspreis: 6.95
-      grundpreise: 9.90
+      grundpreis: 9.90
       mindestvertragszeit: keine
       kündigungsfrist: 4 Wochen
       preisgarantie: Bis zum 31.12.2021
@@ -138,7 +138,7 @@
     - name: biogas 100 %
       typ: gas
       arbeitspreis: 10.45
-      grundpreise: 9.90
+      grundpreis: 9.90
       mindestvertragszeit: keine
       kündigungsfrist: 4 Wochen
       preisgarantie: Bis zum 31.12.2021
@@ -149,7 +149,7 @@
     - name: Wirklich Ökostrom
       typ: strom
       arbeitspreis: 29.15
-      grundpreise: 9.80
+      grundpreis: 9.80
       mindestvertragszeit: keine
       kündigungsfrist: 2 Wochen
       preisgarantie: Bis zum 31.12.2021
@@ -157,7 +157,7 @@
     - name: Wirklich Ökogas
       typ: gas
       arbeitspreis: 8.78
-      grundpreise: 12.10
+      grundpreis: 12.10
       mindestvertragszeit: keine
       kündigungsfrist: 2 Wochen
       preisgarantie: Bis zum 31.12.2021

@@ -123,8 +123,43 @@
 
 
 {% for anbieter in site.data.oekostrom-und-oekogas %}
-{{ anbieter.name }}
+{% assign anbieterIndex = forloop.index %}
 {% for tarif in anbieter.tarife %}
-{{ tarif.name }}
+{% assign tarifIndex = forloop.index %}
+{% assign id = anbieterIndex | append: tarifIndex %}
+
+<div id="workPrice{{id}}" data-value="{{ tarif.arbeitspreis }}"></div>
+<div id="basePrice{{id}}" data-value="{{ tarif.grundpreis }}"></div>
+
+<div class="row">
+    <div class="col">
+        <img src="{{ anbieter.logo }}" class="img-fluid">
+    </div>
+    <div class="col">
+        <table class="tarif" id="{{id}}">
+            <tr>
+                <td>Jahrespreis: </td>
+                <td id="annualPriceText{{id}}"></td>
+            </tr>
+            <tr>
+                <td>Arbeitspreis: </td>
+                <td id="workPriceText{{id}}"></td>
+            </tr>
+            <tr>
+                <td>Grundpreis: </td>
+                <td id="basePriceText{{id}}"></td>
+            </tr>
+        </table>
+    </div>
+    <div class="col">
+        <table>
+            <tr>
+                <td>Monatspreis: </td>
+                <td id="monthlyPriceText{{id}}"></td>
+            </tr>
+        </table>
+    </div>
+    <div class="col"></div>
+</div>
 {% endfor %}
 {% endfor %}
