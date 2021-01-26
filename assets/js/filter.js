@@ -9,11 +9,15 @@ $(document).ready(function () {
 
 function getData() {
   var dictionary = [];
-  $(".tarif").each(function () {
+  $(".tarife-table").each(function () {
     var id = $(this).attr("id");
     var basePrice = $("#basePrice" + id).attr("data-value");
     var workPrice = $("#workPrice" + id).attr("data-value");
-    var tarif = {id: id, basePrice: basePrice, workPrice: workPrice};
+    var minContract = $("#minContract" + id).attr("data-value");
+    var cancellation = $("#cancellation" + id).attr("data-value");
+    var warranty = $("#warranty" + id).attr("data-value");
+    
+    var tarif = {id: id, basePrice: basePrice, workPrice: workPrice, minContract: minContract, cancellation: cancellation, warranty: warranty};
     dictionary.push(tarif);
     return this.innerHTML;
   }).get();
@@ -21,23 +25,23 @@ function getData() {
 }
 
 function updateValues() {
-  $(".tarif").each(function (index) {
+  $(".tarife-table").each(function (index) {
     var id = $(this).attr("id");
-    var annualSelector = $("#annualPriceText" + id);
-    var monthlySelector = $("#monthlyPriceText" + id);
-    var basePriceSelector = $("#basePriceText" + id);
-    var workPriceSelector = $("#workPriceText" + id);
-    
+   
     var formatter = new Intl.NumberFormat('de-DE', {
       style: 'currency',
       currency: 'EUR'
     });
     var annualPrice = ((tarife[index].workPrice / 100) * currentEnergy) + (tarife[index].basePrice * 12)
     
-    basePriceSelector.text(formatter.format(tarife[index].basePrice));
-    workPriceSelector.text(formatter.format(tarife[index].workPrice));
-    annualSelector.text(formatter.format(annualPrice));
-    monthlySelector.text(formatter.format(annualPrice / 12));
+    $("#basePriceText" + id).text(formatter.format(tarife[index].basePrice));
+    $("#workPriceText" + id).text(formatter.format(tarife[index].workPrice));
+    $("#annualPriceText" + id).text(formatter.format(annualPrice));
+    $("#monthlyPriceText" + id).text(formatter.format(annualPrice / 12));
+
+    $("#minContractText" + id).text(tarife[index].minContract);
+    $("#cancellationText" + id).text(tarife[index].cancellation);
+    $("#warrantyText" + id).text(tarife[index].warranty);
   });
 }
 

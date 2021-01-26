@@ -130,16 +130,88 @@
 
 <div id="workPrice{{id}}" data-value="{{ tarif.arbeitspreis }}"></div>
 <div id="basePrice{{id}}" data-value="{{ tarif.grundpreis }}"></div>
+<div id="minContract{{id}}" data-value="{{ tarif.minContract }}"></div>
+<div id="cancellation{{id}}" data-value="{{ tarif.cancellation }}"></div>
+<div id="warranty{{id}}" data-value="{{ tarif.warranty }}"></div>
 
-<div class="row">
-    <div class="col">
-        <img src="{{ anbieter.logo }}" class="img-fluid">
+<div class="tarife-table mb-4 bg-light" id="{{id}}">
+    <div class="row">
+        <div class="col-3">
+            <img src="{{ anbieter.logo }}" class="img-fluid">
+        </div>
+        <div class="col-7">
+            <div class="row">
+                <div class="h4">{{anbieter.name}} {{ tarif.name }}</div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div class="h5 list-inline-item" id="monthlyPriceText{{id}}"></div>
+                    <div class="h5 list-inline-item">pro Monat</div>
+                    <div class="row">
+                        <div class="col-auto">
+                            <div>Arbeitspreis:</div>
+                            <div>Grundpreis:</div>
+                        </div>
+                        <div class="col">
+                            <div id="workPriceText{{id}}"></div>
+                            <div id="basePriceText{{id}}"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="h5 list-inline-item" id="annualPriceText{{id}}"></div>
+                    <div class="h5 list-inline-item">pro Jahr</div>
+                    <div class="row">
+                        <div class="col-auto">
+                            <div>Mindestvertragslaufzeit:</div>
+                            <div>Kündigungsfrist:</div>
+                            <div>Preisgarantie:</div>
+                        </div>
+                        <div class="col">
+                            <div id="minContractText{{id}}"></div>
+                            <div id="cancellationText{{id}}"></div>
+                            <div id="warrantyText{{id}}"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-2">
+            <div class="text-center">
+                <div class="btn btn-success">
+                    Zum Anbieter
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="col">
-        <table class="tarif" id="{{id}}">
+</div>
+{% endfor %}
+{% endfor %}
+
+<div>Arbeitspreis: </div>
+<div id="workPriceText{{id}}"></div>
+<div>Grundpreis: </div>
+<div id="basePriceText{{id}}"></div>
+
+
+
+<!-- <table class="tarife-table" id="{{id}}">
             <tr>
-                <td>Jahrespreis: </td>
-                <td id="annualPriceText{{id}}"></td>
+                <td class="h4" colspan="4">{{anbieter.name}} {{ tarif.name }}</td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <div class="h5 list-inline-item" id="annualPriceText{{id}}"></div>
+                    <div class="h5 list-inline-item">
+                        pro Jahr
+                    </div>
+                </td>
+                <td colspan="2">
+                    <div class="h5 list-inline-item" id="monthlyPriceText{{id}}"></div>
+                    <div class="h5 list-inline-item">
+                        pro Monat
+                    </div>
+                </td>
             </tr>
             <tr>
                 <td>Arbeitspreis: </td>
@@ -149,17 +221,4 @@
                 <td>Grundpreis: </td>
                 <td id="basePriceText{{id}}"></td>
             </tr>
-        </table>
-    </div>
-    <div class="col">
-        <table>
-            <tr>
-                <td>Monatspreis: </td>
-                <td id="monthlyPriceText{{id}}"></td>
-            </tr>
-        </table>
-    </div>
-    <div class="col"></div>
-</div>
-{% endfor %}
-{% endfor %}
+        </table> -->
