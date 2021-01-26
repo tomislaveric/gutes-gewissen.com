@@ -134,8 +134,8 @@
 <div id="cancellation{{id}}" data-value="{{ tarif.cancellation }}"></div>
 <div id="warranty{{id}}" data-value="{{ tarif.warranty }}"></div>
 
-<div class="tarife-table mb-4 bg-light" id="{{id}}">
-    <div class="row">
+<div class="tarife-table mb-4" id="{{id}}">
+    <div class="row p-2">
         <div class="col-3">
             <img src="{{ anbieter.logo }}" class="img-fluid">
         </div>
@@ -144,7 +144,7 @@
                 <div class="h4">{{anbieter.name}} {{ tarif.name }}</div>
             </div>
             <div class="row">
-                <div class="col">
+                <div class="col-auto">
                     <div class="h5 list-inline-item" id="monthlyPriceText{{id}}"></div>
                     <div class="h5 list-inline-item">pro Monat</div>
                     <div class="row">
@@ -185,40 +185,6 @@
         </div>
     </div>
 </div>
+<hr>
 {% endfor %}
 {% endfor %}
-
-<div>Arbeitspreis: </div>
-<div id="workPriceText{{id}}"></div>
-<div>Grundpreis: </div>
-<div id="basePriceText{{id}}"></div>
-
-
-
-<!-- <table class="tarife-table" id="{{id}}">
-            <tr>
-                <td class="h4" colspan="4">{{anbieter.name}} {{ tarif.name }}</td>
-            </tr>
-            <tr>
-                <td colspan="2">
-                    <div class="h5 list-inline-item" id="annualPriceText{{id}}"></div>
-                    <div class="h5 list-inline-item">
-                        pro Jahr
-                    </div>
-                </td>
-                <td colspan="2">
-                    <div class="h5 list-inline-item" id="monthlyPriceText{{id}}"></div>
-                    <div class="h5 list-inline-item">
-                        pro Monat
-                    </div>
-                </td>
-            </tr>
-            <tr>
-                <td>Arbeitspreis: </td>
-                <td id="workPriceText{{id}}"></td>
-            </tr>
-            <tr>
-                <td>Grundpreis: </td>
-                <td id="basePriceText{{id}}"></td>
-            </tr>
-        </table> -->
