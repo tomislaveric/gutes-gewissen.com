@@ -1,10 +1,19 @@
 var tarife = [];
 var currentEnergy = 1500;
+var selectedType = "strom";
+var isWarrantyActive = false;
+var isMinContractActive = false;
+const initialEnergyValue = 1500;
+const initialGasValue = 500;
 
 $(document).ready(function () {
   tarife = getData();
+  setCheckboxValue
+  setEnergy(1500);
   updateValues();
   handleHouseholdSelection();
+  updateVisibility();
+  handleTypeSelection();
 })
 
 function getData() {
@@ -16,8 +25,9 @@ function getData() {
     var minContract = $("#minContract" + id).attr("data-value");
     var cancellation = $("#cancellation" + id).attr("data-value");
     var warranty = $("#warranty" + id).attr("data-value");
-    
-    var tarif = {id: id, basePrice: basePrice, workPrice: workPrice, minContract: minContract, cancellation: cancellation, warranty: warranty};
+    var type = $("#type" + id).attr("data-value");
+
+    var tarif = { id: id, type: type, basePrice: basePrice, workPrice: workPrice, minContract: minContract, cancellation: cancellation, warranty: warranty };
     dictionary.push(tarif);
     return this.innerHTML;
   }).get();
@@ -27,13 +37,13 @@ function getData() {
 function updateValues() {
   $(".tarife-table").each(function (index) {
     var id = $(this).attr("id");
-   
+
     var formatter = new Intl.NumberFormat('de-DE', {
       style: 'currency',
       currency: 'EUR'
     });
     var annualPrice = ((tarife[index].workPrice / 100) * currentEnergy) + (tarife[index].basePrice * 12)
-    
+
     $("#basePriceText" + id).text(formatter.format(tarife[index].basePrice));
     $("#workPriceText" + id).text(formatter.format(tarife[index].workPrice));
     $("#annualPriceText" + id).text(formatter.format(annualPrice));
@@ -45,51 +55,90 @@ function updateValues() {
   });
 }
 
-function handleHouseholdSelection() {
-  var stromSelectorInput = "#energyInput";
-  $(stromSelectorInput).val(currentEnergy);
-  $("#stromOption1").click(function () {
-    currentEnergy = 1500;
-    $(stromSelectorInput).val(currentEnergy);
-    updateValues();
-  });
-  $("#stromOption2").click(function () {
-    currentEnergy = 2500;
-    $(stromSelectorInput).val(currentEnergy);
-    updateValues();
-  });
-  $("#stromOption3").click(function () {
-    currentEnergy = 3500
-    $(stromSelectorInput).val(currentEnergy);
-    updateValues();
-  });
-  $("#stromOption4").click(function () {
-    currentEnergy = 4250
-    $(stromSelectorInput).val(currentEnergy);
-    updateValues();
+function handleTypeSelection() {
+  $("#gas-tab").click(function () {
+    selectedType = "gas";
+    currentEnergy = 5000;
+    setEnergy(currentEnergy);
+    updateVisibility();
   });
 
-  var gasSelectorInput = "#gasInput";
-  currentEnergy = 5000;
-  $(gasSelectorInput).val(currentEnergy);
+  $("#strom-tab").click(function () {
+    selectedType = "strom";
+    currentEnergy = 1500;
+    setEnergy(currentEnergy);
+    updateVisibility();
+  });
+}
+
+function updateVisibility() {
+
+  var selector = "";
+  tarife.forEach(function (tarif) {
+
+    var warrantyFilter = (isWarrantyActive && tarif.warranty == "keine");
+    var minContractFilter = (isMinContractActive && tarif.minContract != "keine");
+
+    selector = $("#" + tarif.id);
+
+    if (tarif.type == selectedType) {
+      if (warrantyFilter && minContractFilter) {
+        selector.hide();
+      } else if (warrantyFilter) {
+        selector.hide();
+      } else if (minContractFilter) {
+        selector.hide();
+      } else {
+        selector.show();
+      }
+    } else {
+      selector.hide();
+    }
+  });
+}
+
+function setCheckboxValue() {
+  isWarrantyActive = $("#warranty").prop("checked");
+  isMinContractActive = $("#minContract").prop("checked");
+  updateVisibility();
+}
+
+function setEnergy(value) {
+  var selectorInput = "#energyInput";
+  currentEnergy = value;
+  $(selectorInput).val(currentEnergy);
+  updateValues();
+}
+
+function handleHouseholdSelection() {
+  $("#stromOption1").click(function () {
+    setEnergy(1500);
+  });
+
+  $("#stromOption2").click(function () {
+    setEnergy(2500);
+  });
+
+  $("#stromOption3").click(function () {
+    setEnergy(3500);
+  });
+
+  $("#stromOption4").click(function () {
+    setEnergy(4250);
+  });
+  
   $("#gasOption1").click(function () {
-    currentEnergy = 5000;
-    $(gasSelectorInput).val(currentEnergy);
-    updateValues();
+    setEnergy(5000);
   });
+
   $("#gasOption2").click(function () {
-    currentEnergy = 12000
-    $(gasSelectorInput).val(currentEnergy);
-    updateValues();
+    setEnergy(12000);
   });
+
   $("#gasOption3").click(function () {
-    currentEnergy = 18000
-    $(gasSelectorInput).val(currentEnergy);
-    updateValues();
+    setEnergy(18000);
   });
   $("#gasOption4").click(function () {
-    currentEnergy = 35000;
-    $(gasSelectorInput).val(currentEnergy);
-    updateValues();
+    setEnergy(3500);
   });
 }

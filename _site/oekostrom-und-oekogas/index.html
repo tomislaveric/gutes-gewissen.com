@@ -199,117 +199,100 @@
             aria-selected="false">Ökogas</a>
     </li>
 </ul>
-<div class="tab-content">
-    <div class="tab-pane fade show active" id="strom" role="tabpanel" aria-labelledby="strom-tab">
-        <div class="alert alert-success">
-            <div class="row d-flex align-items-center">
-                <div class="col-auto">
-                    <div>Personen im Haushalt</div>
-                    <div class="btn-group btn-group-toggle" data-toggle="buttons">
-                        <label class="btn btn btn-outline-secondary">
-                            <input type="radio" name="options" id="stromOption1" autocomplete="off" checked>
-                            <i class="fa fa-user" aria-hidden="true"></i>
-                        </label>
-                        <label class="btn btn btn-outline-secondary">
-                            <input type="radio" name="options" id="stromOption2" autocomplete="off">
-                            <i class="fa fa-user" aria-hidden="true"></i>
-                            <i class="fa fa-user" aria-hidden="true"></i>
-                        </label>
-                        <label class="btn btn btn-outline-secondary">
-                            <input type="radio" name="options" id="stromOption3" autocomplete="off">
-                            <i class="fa fa-user" aria-hidden="true"></i>
-                            <i class="fa fa-user" aria-hidden="true"></i>
-                            <i class="fa fa-user" aria-hidden="true"></i>
-                        </label>
-                        <label class="btn btn btn-outline-secondary">
-                            <input type="radio" name="options" id="stromOption4" autocomplete="off">
-                            <i class="fa fa-user" aria-hidden="true"></i>
-                            <i class="fa fa-user" aria-hidden="true"></i>
-                            <i class="fa fa-user" aria-hidden="true"></i>
-                            <i class="fa fa-user" aria-hidden="true"></i>
-                        </label>
-                    </div>
-                </div>
-                <div class="col-auto">
-                    <div>Ihr jährlicher Verbrauch</div>
-                    <div class="input-group">
-                        <input id="energyInput" type="text" class="form-control" aria-label="1500kWh">
-                        <div class="input-group-append">
-                            <span class="input-group-text">kWh</span>
+<div class="row">
+    <div class="col-autp">
+        <div class="tab-content">
+            <div class="tab-pane fade show active" id="strom" role="tabpanel" aria-labelledby="strom-tab">
+
+                <div class="row d-flex align-items-center">
+                    <div class="col-auto">
+                        <div>Personen im Haushalt</div>
+                        <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                            <label class="btn btn btn-outline-secondary">
+                                <input type="radio" name="options" id="stromOption1" autocomplete="off" checked>
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                            </label>
+                            <label class="btn btn btn-outline-secondary">
+                                <input type="radio" name="options" id="stromOption2" autocomplete="off">
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                            </label>
+                            <label class="btn btn btn-outline-secondary">
+                                <input type="radio" name="options" id="stromOption3" autocomplete="off">
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                            </label>
+                            <label class="btn btn btn-outline-secondary">
+                                <input type="radio" name="options" id="stromOption4" autocomplete="off">
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                            </label>
                         </div>
                     </div>
                 </div>
-                <div class="col">
-                    <div class="form-check">
-                        <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-                        <label class="form-check-label" for="defaultCheck1">
-                            Ohne Mindestvertragslaufzeit
-                        </label>
-                    </div>
-                    <div class="form-check">
-                        <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-                        <label class="form-check-label" for="defaultCheck1">
-                            Mit Preisgarantie
-                        </label>
+            </div>
+            <div class="tab-pane fade" id="gas" role="tabpanel" aria-labelledby="gas-tab">
+                <div class="row d-flex align-items-center">
+                    <div class="col-auto">
+                        <div>Größe Ihres Haushalts</div>
+                        <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                            <label class="btn btn btn-outline-secondary">
+                                <input type="radio" name="options" id="gasOption1" autocomplete="off" checked>
+                                <i class="fa fa-home" aria-hidden="true"></i>
+                                <div class="small">50 m²</div>
+                            </label>
+                            <label class="btn btn btn-outline-secondary">
+                                <input type="radio" name="options" id="gasOption2" autocomplete="off">
+                                <i class="fa fa-home" aria-hidden="true"></i>
+                                <div class="small">100 m²</div>
+                            </label>
+                            <label class="btn btn btn-outline-secondary">
+                                <input type="radio" name="options" id="gasOption3" autocomplete="off">
+                                <i class="fa fa-home" aria-hidden="true"></i>
+                                <div class="small">150 m²</div>
+                            </label>
+                            <label class="btn btn btn-outline-secondary">
+                                <input type="radio" name="options" id="gasOption4" autocomplete="off">
+                                <i class="fa fa-home" aria-hidden="true"></i>
+                                <div class="small">Haus</div>
+                            </label>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="tab-pane fade" id="gas" role="tabpanel" aria-labelledby="gas-tab">
-        <div class="alert alert-info" role="alert">
-            <div class="row d-flex align-items-center">
-                <div class="col-auto">
-                    <div>Größe Ihres Haushalts</div>
-                    <div class="btn-group btn-group-toggle" data-toggle="buttons">
-                        <label class="btn btn btn-outline-secondary">
-                            <input type="radio" name="options" id="gasOption1" autocomplete="off" checked>
-                            <i class="fa fa-home" aria-hidden="true"></i>
-                            <div class="small">50 m²</div>
-                        </label>
-                        <label class="btn btn btn-outline-secondary">
-                            <input type="radio" name="options" id="gasOption2" autocomplete="off">
-                            <i class="fa fa-home" aria-hidden="true"></i>
-                            <div class="small">100 m²</div>
-                        </label>
-                        <label class="btn btn btn-outline-secondary">
-                            <input type="radio" name="options" id="gasOption3" autocomplete="off">
-                            <i class="fa fa-home" aria-hidden="true"></i>
-                            <div class="small">150 m²</div>
-                        </label>
-                        <label class="btn btn btn-outline-secondary">
-                            <input type="radio" name="options" id="gasOption4" autocomplete="off">
-                            <i class="fa fa-home" aria-hidden="true"></i>
-                            <div class="small">Haus</div>
-                        </label>
-                    </div>
-                </div>
-                <div class="col-3">
-                    <div>Ihr jährlicher Verbrauch</div>
-                    <div class="input-group">
-                        <input id="gasInput" type="text" class="form-control" aria-label="1500kWh">
-                        <div class="input-group-append">
-                            <span class="input-group-text">kWh</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3">
-                    <div class="form-check">
-                        <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-                        <label class="form-check-label" for="defaultCheck1">
-                            Ohne Mindestvertragslaufzeit
-                        </label>
-                    </div>
-                    <div class="form-check">
-                        <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-                        <label class="form-check-label" for="defaultCheck1">
-                            Mit Preisgarantie
-                        </label>
-                    </div>
+    <div class="col-auto">
+    <div class="row">
+        <div class="col-auto">
+            <div>Ihr jährlicher Verbrauch</div>
+            <div class="input-group">
+                <input id="energyInput" type="text" class="form-control" aria-label="1500kWh">
+                <div class="input-group-append">
+                    <span class="input-group-text">kWh</span>
                 </div>
             </div>
         </div>
+
+        <div class="col-auto">
+            <div class="form-check">
+                <input class="form-check-input" onclick="setCheckboxValue()" id="minContract" type="checkbox" value="">
+                <label class="form-check-label" for="defaultCheck1">
+                    Ohne Mindestvertragslaufzeit
+                </label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" onclick="setCheckboxValue()" id="warranty" type="checkbox" value="">
+                <label class="form-check-label" for="defaultCheck1">
+                    Mit Preisgarantie
+                </label>
+            </div>
+        </div>
     </div>
+</div>
 </div>
 
 
@@ -324,9 +307,10 @@
 <div id="minContract11" data-value="keine"></div>
 <div id="cancellation11" data-value="4 Wochen"></div>
 <div id="warranty11" data-value="Bis zum 31.12.2021"></div>
+<div id="type11" data-value="strom"></div>
 
 <div class="tarife-table mb-4" id="11">
-    <div class="row p-2">
+    <div class="row p-2 d-flex align-items-center">
         <div class="col-3">
             <img src="/assets/images/greenpeace-energy.png" class="img-fluid">
         </div>
@@ -349,6 +333,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col">
                     <div class="h5 list-inline-item" id="annualPriceText11"></div>
                     <div class="h5 list-inline-item">pro Jahr</div>
@@ -375,8 +360,8 @@
             </div>
         </div>
     </div>
+    <hr>
 </div>
-<hr>
 
 
 
@@ -386,9 +371,10 @@
 <div id="minContract12" data-value="keine"></div>
 <div id="cancellation12" data-value="4 Wochen"></div>
 <div id="warranty12" data-value="Bis zum 31.12.2021"></div>
+<div id="type12" data-value="strom"></div>
 
 <div class="tarife-table mb-4" id="12">
-    <div class="row p-2">
+    <div class="row p-2 d-flex align-items-center">
         <div class="col-3">
             <img src="/assets/images/greenpeace-energy.png" class="img-fluid">
         </div>
@@ -411,6 +397,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col">
                     <div class="h5 list-inline-item" id="annualPriceText12"></div>
                     <div class="h5 list-inline-item">pro Jahr</div>
@@ -437,8 +424,8 @@
             </div>
         </div>
     </div>
+    <hr>
 </div>
-<hr>
 
 
 
@@ -448,9 +435,10 @@
 <div id="minContract13" data-value="keine"></div>
 <div id="cancellation13" data-value="4 Wochen"></div>
 <div id="warranty13" data-value="Bis zum 31.12.2021"></div>
+<div id="type13" data-value="gas"></div>
 
 <div class="tarife-table mb-4" id="13">
-    <div class="row p-2">
+    <div class="row p-2 d-flex align-items-center">
         <div class="col-3">
             <img src="/assets/images/greenpeace-energy.png" class="img-fluid">
         </div>
@@ -473,6 +461,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col">
                     <div class="h5 list-inline-item" id="annualPriceText13"></div>
                     <div class="h5 list-inline-item">pro Jahr</div>
@@ -499,8 +488,8 @@
             </div>
         </div>
     </div>
+    <hr>
 </div>
-<hr>
 
 
 
@@ -510,9 +499,10 @@
 <div id="minContract14" data-value="keine"></div>
 <div id="cancellation14" data-value="4 Wochen"></div>
 <div id="warranty14" data-value="Bis zum 31.12.2021"></div>
+<div id="type14" data-value="gas"></div>
 
 <div class="tarife-table mb-4" id="14">
-    <div class="row p-2">
+    <div class="row p-2 d-flex align-items-center">
         <div class="col-3">
             <img src="/assets/images/greenpeace-energy.png" class="img-fluid">
         </div>
@@ -535,6 +525,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col">
                     <div class="h5 list-inline-item" id="annualPriceText14"></div>
                     <div class="h5 list-inline-item">pro Jahr</div>
@@ -561,8 +552,8 @@
             </div>
         </div>
     </div>
+    <hr>
 </div>
-<hr>
 
 
 
@@ -572,9 +563,10 @@
 <div id="minContract15" data-value="keine"></div>
 <div id="cancellation15" data-value="4 Wochen"></div>
 <div id="warranty15" data-value="Bis zum 31.12.2021"></div>
+<div id="type15" data-value="gas"></div>
 
 <div class="tarife-table mb-4" id="15">
-    <div class="row p-2">
+    <div class="row p-2 d-flex align-items-center">
         <div class="col-3">
             <img src="/assets/images/greenpeace-energy.png" class="img-fluid">
         </div>
@@ -597,6 +589,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col">
                     <div class="h5 list-inline-item" id="annualPriceText15"></div>
                     <div class="h5 list-inline-item">pro Jahr</div>
@@ -623,8 +616,8 @@
             </div>
         </div>
     </div>
+    <hr>
 </div>
-<hr>
 
 
 
@@ -634,9 +627,10 @@
 <div id="minContract16" data-value="keine"></div>
 <div id="cancellation16" data-value="4 Wochen"></div>
 <div id="warranty16" data-value="Bis zum 31.12.2021"></div>
+<div id="type16" data-value="gas"></div>
 
 <div class="tarife-table mb-4" id="16">
-    <div class="row p-2">
+    <div class="row p-2 d-flex align-items-center">
         <div class="col-3">
             <img src="/assets/images/greenpeace-energy.png" class="img-fluid">
         </div>
@@ -659,6 +653,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col">
                     <div class="h5 list-inline-item" id="annualPriceText16"></div>
                     <div class="h5 list-inline-item">pro Jahr</div>
@@ -685,8 +680,8 @@
             </div>
         </div>
     </div>
+    <hr>
 </div>
-<hr>
 
 
 
@@ -699,9 +694,10 @@
 <div id="minContract21" data-value="24 Monate"></div>
 <div id="cancellation21" data-value="4 Wochen zum Monatsende"></div>
 <div id="warranty21" data-value="keine"></div>
+<div id="type21" data-value="strom"></div>
 
 <div class="tarife-table mb-4" id="21">
-    <div class="row p-2">
+    <div class="row p-2 d-flex align-items-center">
         <div class="col-3">
             <img src="/assets/images/lichtblick.jpg" class="img-fluid">
         </div>
@@ -724,6 +720,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col">
                     <div class="h5 list-inline-item" id="annualPriceText21"></div>
                     <div class="h5 list-inline-item">pro Jahr</div>
@@ -750,8 +747,8 @@
             </div>
         </div>
     </div>
+    <hr>
 </div>
-<hr>
 
 
 
@@ -761,9 +758,10 @@
 <div id="minContract22" data-value="12 Monate"></div>
 <div id="cancellation22" data-value="4 Wochen zum Monatsende"></div>
 <div id="warranty22" data-value="12 Monate"></div>
+<div id="type22" data-value="strom"></div>
 
 <div class="tarife-table mb-4" id="22">
-    <div class="row p-2">
+    <div class="row p-2 d-flex align-items-center">
         <div class="col-3">
             <img src="/assets/images/lichtblick.jpg" class="img-fluid">
         </div>
@@ -786,6 +784,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col">
                     <div class="h5 list-inline-item" id="annualPriceText22"></div>
                     <div class="h5 list-inline-item">pro Jahr</div>
@@ -812,8 +811,8 @@
             </div>
         </div>
     </div>
+    <hr>
 </div>
-<hr>
 
 
 
@@ -823,9 +822,10 @@
 <div id="minContract23" data-value="keine"></div>
 <div id="cancellation23" data-value="4 Wochen"></div>
 <div id="warranty23" data-value="24 Monate"></div>
+<div id="type23" data-value="strom"></div>
 
 <div class="tarife-table mb-4" id="23">
-    <div class="row p-2">
+    <div class="row p-2 d-flex align-items-center">
         <div class="col-3">
             <img src="/assets/images/lichtblick.jpg" class="img-fluid">
         </div>
@@ -848,6 +848,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col">
                     <div class="h5 list-inline-item" id="annualPriceText23"></div>
                     <div class="h5 list-inline-item">pro Jahr</div>
@@ -874,8 +875,8 @@
             </div>
         </div>
     </div>
+    <hr>
 </div>
-<hr>
 
 
 
@@ -885,9 +886,10 @@
 <div id="minContract24" data-value="24 Monate"></div>
 <div id="cancellation24" data-value="4 Wochen"></div>
 <div id="warranty24" data-value="keine"></div>
+<div id="type24" data-value="gas"></div>
 
 <div class="tarife-table mb-4" id="24">
-    <div class="row p-2">
+    <div class="row p-2 d-flex align-items-center">
         <div class="col-3">
             <img src="/assets/images/lichtblick.jpg" class="img-fluid">
         </div>
@@ -910,6 +912,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col">
                     <div class="h5 list-inline-item" id="annualPriceText24"></div>
                     <div class="h5 list-inline-item">pro Jahr</div>
@@ -936,8 +939,8 @@
             </div>
         </div>
     </div>
+    <hr>
 </div>
-<hr>
 
 
 
@@ -947,9 +950,10 @@
 <div id="minContract25" data-value="12 Monate"></div>
 <div id="cancellation25" data-value="4 Wochen"></div>
 <div id="warranty25" data-value="12 Monate"></div>
+<div id="type25" data-value="gas"></div>
 
 <div class="tarife-table mb-4" id="25">
-    <div class="row p-2">
+    <div class="row p-2 d-flex align-items-center">
         <div class="col-3">
             <img src="/assets/images/lichtblick.jpg" class="img-fluid">
         </div>
@@ -972,6 +976,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col">
                     <div class="h5 list-inline-item" id="annualPriceText25"></div>
                     <div class="h5 list-inline-item">pro Jahr</div>
@@ -998,8 +1003,8 @@
             </div>
         </div>
     </div>
+    <hr>
 </div>
-<hr>
 
 
 
@@ -1009,9 +1014,10 @@
 <div id="minContract26" data-value="keine"></div>
 <div id="cancellation26" data-value="4 Wochen"></div>
 <div id="warranty26" data-value="24 Monate"></div>
+<div id="type26" data-value="gas"></div>
 
 <div class="tarife-table mb-4" id="26">
-    <div class="row p-2">
+    <div class="row p-2 d-flex align-items-center">
         <div class="col-3">
             <img src="/assets/images/lichtblick.jpg" class="img-fluid">
         </div>
@@ -1034,6 +1040,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col">
                     <div class="h5 list-inline-item" id="annualPriceText26"></div>
                     <div class="h5 list-inline-item">pro Jahr</div>
@@ -1060,8 +1067,8 @@
             </div>
         </div>
     </div>
+    <hr>
 </div>
-<hr>
 
 
 
@@ -1074,9 +1081,10 @@
 <div id="minContract31" data-value="keine"></div>
 <div id="cancellation31" data-value="4 Wochen"></div>
 <div id="warranty31" data-value="Bis zum 31.12.2021"></div>
+<div id="type31" data-value="strom"></div>
 
 <div class="tarife-table mb-4" id="31">
-    <div class="row p-2">
+    <div class="row p-2 d-flex align-items-center">
         <div class="col-3">
             <img src="/assets/images/NATURSTROM.jpg" class="img-fluid">
         </div>
@@ -1099,6 +1107,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col">
                     <div class="h5 list-inline-item" id="annualPriceText31"></div>
                     <div class="h5 list-inline-item">pro Jahr</div>
@@ -1125,8 +1134,8 @@
             </div>
         </div>
     </div>
+    <hr>
 </div>
-<hr>
 
 
 
@@ -1136,9 +1145,10 @@
 <div id="minContract32" data-value="keine"></div>
 <div id="cancellation32" data-value="4 Wochen"></div>
 <div id="warranty32" data-value="Bis zum 31.12.2021"></div>
+<div id="type32" data-value="strom"></div>
 
 <div class="tarife-table mb-4" id="32">
-    <div class="row p-2">
+    <div class="row p-2 d-flex align-items-center">
         <div class="col-3">
             <img src="/assets/images/NATURSTROM.jpg" class="img-fluid">
         </div>
@@ -1161,6 +1171,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col">
                     <div class="h5 list-inline-item" id="annualPriceText32"></div>
                     <div class="h5 list-inline-item">pro Jahr</div>
@@ -1187,8 +1198,8 @@
             </div>
         </div>
     </div>
+    <hr>
 </div>
-<hr>
 
 
 
@@ -1198,9 +1209,10 @@
 <div id="minContract33" data-value="keine"></div>
 <div id="cancellation33" data-value="4 Wochen"></div>
 <div id="warranty33" data-value="Bis zum 31.12.2021"></div>
+<div id="type33" data-value="gas"></div>
 
 <div class="tarife-table mb-4" id="33">
-    <div class="row p-2">
+    <div class="row p-2 d-flex align-items-center">
         <div class="col-3">
             <img src="/assets/images/NATURSTROM.jpg" class="img-fluid">
         </div>
@@ -1223,6 +1235,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col">
                     <div class="h5 list-inline-item" id="annualPriceText33"></div>
                     <div class="h5 list-inline-item">pro Jahr</div>
@@ -1249,8 +1262,8 @@
             </div>
         </div>
     </div>
+    <hr>
 </div>
-<hr>
 
 
 
@@ -1260,9 +1273,10 @@
 <div id="minContract34" data-value="keine"></div>
 <div id="cancellation34" data-value="4 Wochen"></div>
 <div id="warranty34" data-value="Bis zum 31.12.2021"></div>
+<div id="type34" data-value="gas"></div>
 
 <div class="tarife-table mb-4" id="34">
-    <div class="row p-2">
+    <div class="row p-2 d-flex align-items-center">
         <div class="col-3">
             <img src="/assets/images/NATURSTROM.jpg" class="img-fluid">
         </div>
@@ -1285,6 +1299,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col">
                     <div class="h5 list-inline-item" id="annualPriceText34"></div>
                     <div class="h5 list-inline-item">pro Jahr</div>
@@ -1311,8 +1326,8 @@
             </div>
         </div>
     </div>
+    <hr>
 </div>
-<hr>
 
 
 
@@ -1322,9 +1337,10 @@
 <div id="minContract35" data-value="keine"></div>
 <div id="cancellation35" data-value="4 Wochen"></div>
 <div id="warranty35" data-value="Bis zum 31.12.2021"></div>
+<div id="type35" data-value="gas"></div>
 
 <div class="tarife-table mb-4" id="35">
-    <div class="row p-2">
+    <div class="row p-2 d-flex align-items-center">
         <div class="col-3">
             <img src="/assets/images/NATURSTROM.jpg" class="img-fluid">
         </div>
@@ -1347,6 +1363,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col">
                     <div class="h5 list-inline-item" id="annualPriceText35"></div>
                     <div class="h5 list-inline-item">pro Jahr</div>
@@ -1373,8 +1390,8 @@
             </div>
         </div>
     </div>
+    <hr>
 </div>
-<hr>
 
 
 
@@ -1387,9 +1404,10 @@
 <div id="minContract41" data-value="keine"></div>
 <div id="cancellation41" data-value="2 Wochen"></div>
 <div id="warranty41" data-value="Bis zum 31.12.2021"></div>
+<div id="type41" data-value="strom"></div>
 
 <div class="tarife-table mb-4" id="41">
-    <div class="row p-2">
+    <div class="row p-2 d-flex align-items-center">
         <div class="col-3">
             <img src="/assets/images/Polarstern.png" class="img-fluid">
         </div>
@@ -1412,6 +1430,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col">
                     <div class="h5 list-inline-item" id="annualPriceText41"></div>
                     <div class="h5 list-inline-item">pro Jahr</div>
@@ -1438,8 +1457,8 @@
             </div>
         </div>
     </div>
+    <hr>
 </div>
-<hr>
 
 
 
@@ -1449,9 +1468,10 @@
 <div id="minContract42" data-value="keine"></div>
 <div id="cancellation42" data-value="2 Wochen"></div>
 <div id="warranty42" data-value="Bis zum 31.12.2021"></div>
+<div id="type42" data-value="gas"></div>
 
 <div class="tarife-table mb-4" id="42">
-    <div class="row p-2">
+    <div class="row p-2 d-flex align-items-center">
         <div class="col-3">
             <img src="/assets/images/Polarstern.png" class="img-fluid">
         </div>
@@ -1474,6 +1494,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col">
                     <div class="h5 list-inline-item" id="annualPriceText42"></div>
                     <div class="h5 list-inline-item">pro Jahr</div>
@@ -1500,8 +1521,8 @@
             </div>
         </div>
     </div>
+    <hr>
 </div>
-<hr>
 
 
 
