@@ -12,28 +12,27 @@
     <div class="col-autp">
         <div class="tab-content">
             <div class="tab-pane fade show active" id="strom" role="tabpanel" aria-labelledby="strom-tab">
-
                 <div class="row d-flex align-items-center">
                     <div class="col-auto">
                         <div>Personen im Haushalt</div>
-                        <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                        <div id="electricity-toggle" class="btn-group btn-group-toggle" data-toggle="buttons">
                             <label class="btn btn btn-outline-secondary">
-                                <input type="radio" name="options" id="stromOption1" autocomplete="off" checked>
+                                <input type="radio" name="options" id="electricityOption0" autocomplete="off">
                                 <i class="fa fa-user" aria-hidden="true"></i>
                             </label>
                             <label class="btn btn btn-outline-secondary">
-                                <input type="radio" name="options" id="stromOption2" autocomplete="off">
-                                <i class="fa fa-user" aria-hidden="true"></i>
-                                <i class="fa fa-user" aria-hidden="true"></i>
-                            </label>
-                            <label class="btn btn btn-outline-secondary">
-                                <input type="radio" name="options" id="stromOption3" autocomplete="off">
-                                <i class="fa fa-user" aria-hidden="true"></i>
+                                <input type="radio" name="options" id="electricityOption1" autocomplete="off">
                                 <i class="fa fa-user" aria-hidden="true"></i>
                                 <i class="fa fa-user" aria-hidden="true"></i>
                             </label>
                             <label class="btn btn btn-outline-secondary">
-                                <input type="radio" name="options" id="stromOption4" autocomplete="off">
+                                <input type="radio" name="options" id="electricityOption2" autocomplete="off">
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                            </label>
+                            <label class="btn btn btn-outline-secondary">
+                                <input type="radio" name="options" id="electricityOption3" autocomplete="off">
                                 <i class="fa fa-user" aria-hidden="true"></i>
                                 <i class="fa fa-user" aria-hidden="true"></i>
                                 <i class="fa fa-user" aria-hidden="true"></i>
@@ -49,22 +48,22 @@
                         <div>Größe Ihres Haushalts</div>
                         <div class="btn-group btn-group-toggle" data-toggle="buttons">
                             <label class="btn btn btn-outline-secondary">
-                                <input type="radio" name="options" id="gasOption1" autocomplete="off" checked>
+                                <input type="radio" name="options" id="gasOption0" autocomplete="off" checked>
                                 <i class="fa fa-home" aria-hidden="true"></i>
                                 <div class="small">50 m²</div>
                             </label>
                             <label class="btn btn btn-outline-secondary">
-                                <input type="radio" name="options" id="gasOption2" autocomplete="off">
+                                <input type="radio" name="options" id="gasOption1" autocomplete="off">
                                 <i class="fa fa-home" aria-hidden="true"></i>
                                 <div class="small">100 m²</div>
                             </label>
                             <label class="btn btn btn-outline-secondary">
-                                <input type="radio" name="options" id="gasOption3" autocomplete="off">
+                                <input type="radio" name="options" id="gasOption2" autocomplete="off">
                                 <i class="fa fa-home" aria-hidden="true"></i>
                                 <div class="small">150 m²</div>
                             </label>
                             <label class="btn btn btn-outline-secondary">
-                                <input type="radio" name="options" id="gasOption4" autocomplete="off">
+                                <input type="radio" name="options" id="gasOption3" autocomplete="off">
                                 <i class="fa fa-home" aria-hidden="true"></i>
                                 <div class="small">Haus</div>
                             </label>
@@ -85,7 +84,6 @@
                 </div>
             </div>
         </div>
-
         <div class="col-auto">
             <div class="form-check">
                 <input class="form-check-input" onclick="setCheckboxValue()" id="minContract" type="checkbox" value="">
@@ -120,12 +118,12 @@
 
 <div class="tarife-table mb-4" id="{{id}}">
     <div class="row p-2 d-flex align-items-center">
-        <div class="col-3">
+        <div class="col-2">
             <img src="{{ anbieter.logo }}" class="img-fluid">
         </div>
         <div class="col-7">
             <div class="row">
-                <div class="h4">{{anbieter.name}} {{ tarif.name }}</div>
+                <div class="h4 text-secondary">{{anbieter.name}} {{ tarif.name }}</div>
             </div>
             <div class="row">
                 <div class="col-auto">

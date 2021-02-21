@@ -203,28 +203,27 @@
     <div class="col-autp">
         <div class="tab-content">
             <div class="tab-pane fade show active" id="strom" role="tabpanel" aria-labelledby="strom-tab">
-
                 <div class="row d-flex align-items-center">
                     <div class="col-auto">
                         <div>Personen im Haushalt</div>
-                        <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                        <div id="electricity-toggle" class="btn-group btn-group-toggle" data-toggle="buttons">
                             <label class="btn btn btn-outline-secondary">
-                                <input type="radio" name="options" id="stromOption1" autocomplete="off" checked>
+                                <input type="radio" name="options" id="electricityOption0" autocomplete="off">
                                 <i class="fa fa-user" aria-hidden="true"></i>
                             </label>
                             <label class="btn btn btn-outline-secondary">
-                                <input type="radio" name="options" id="stromOption2" autocomplete="off">
-                                <i class="fa fa-user" aria-hidden="true"></i>
-                                <i class="fa fa-user" aria-hidden="true"></i>
-                            </label>
-                            <label class="btn btn btn-outline-secondary">
-                                <input type="radio" name="options" id="stromOption3" autocomplete="off">
-                                <i class="fa fa-user" aria-hidden="true"></i>
+                                <input type="radio" name="options" id="electricityOption1" autocomplete="off">
                                 <i class="fa fa-user" aria-hidden="true"></i>
                                 <i class="fa fa-user" aria-hidden="true"></i>
                             </label>
                             <label class="btn btn btn-outline-secondary">
-                                <input type="radio" name="options" id="stromOption4" autocomplete="off">
+                                <input type="radio" name="options" id="electricityOption2" autocomplete="off">
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                            </label>
+                            <label class="btn btn btn-outline-secondary">
+                                <input type="radio" name="options" id="electricityOption3" autocomplete="off">
                                 <i class="fa fa-user" aria-hidden="true"></i>
                                 <i class="fa fa-user" aria-hidden="true"></i>
                                 <i class="fa fa-user" aria-hidden="true"></i>
@@ -240,22 +239,22 @@
                         <div>Größe Ihres Haushalts</div>
                         <div class="btn-group btn-group-toggle" data-toggle="buttons">
                             <label class="btn btn btn-outline-secondary">
-                                <input type="radio" name="options" id="gasOption1" autocomplete="off" checked>
+                                <input type="radio" name="options" id="gasOption0" autocomplete="off" checked>
                                 <i class="fa fa-home" aria-hidden="true"></i>
                                 <div class="small">50 m²</div>
                             </label>
                             <label class="btn btn btn-outline-secondary">
-                                <input type="radio" name="options" id="gasOption2" autocomplete="off">
+                                <input type="radio" name="options" id="gasOption1" autocomplete="off">
                                 <i class="fa fa-home" aria-hidden="true"></i>
                                 <div class="small">100 m²</div>
                             </label>
                             <label class="btn btn btn-outline-secondary">
-                                <input type="radio" name="options" id="gasOption3" autocomplete="off">
+                                <input type="radio" name="options" id="gasOption2" autocomplete="off">
                                 <i class="fa fa-home" aria-hidden="true"></i>
                                 <div class="small">150 m²</div>
                             </label>
                             <label class="btn btn btn-outline-secondary">
-                                <input type="radio" name="options" id="gasOption4" autocomplete="off">
+                                <input type="radio" name="options" id="gasOption3" autocomplete="off">
                                 <i class="fa fa-home" aria-hidden="true"></i>
                                 <div class="small">Haus</div>
                             </label>
@@ -276,7 +275,6 @@
                 </div>
             </div>
         </div>
-
         <div class="col-auto">
             <div class="form-check">
                 <input class="form-check-input" onclick="setCheckboxValue()" id="minContract" type="checkbox" value="">
@@ -311,12 +309,12 @@
 
 <div class="tarife-table mb-4" id="11">
     <div class="row p-2 d-flex align-items-center">
-        <div class="col-3">
+        <div class="col-2">
             <img src="/assets/images/greenpeace-energy.png" class="img-fluid">
         </div>
         <div class="col-7">
             <div class="row">
-                <div class="h4">Greenpeace Energy Ökostrom aktiv</div>
+                <div class="h4 text-secondary">Greenpeace Energy Ökostrom aktiv</div>
             </div>
             <div class="row">
                 <div class="col-auto">
@@ -375,12 +373,12 @@
 
 <div class="tarife-table mb-4" id="12">
     <div class="row p-2 d-flex align-items-center">
-        <div class="col-3">
+        <div class="col-2">
             <img src="/assets/images/greenpeace-energy.png" class="img-fluid">
         </div>
         <div class="col-7">
             <div class="row">
-                <div class="h4">Greenpeace Energy Solarstrom plus</div>
+                <div class="h4 text-secondary">Greenpeace Energy Solarstrom plus</div>
             </div>
             <div class="row">
                 <div class="col-auto">
@@ -439,12 +437,12 @@
 
 <div class="tarife-table mb-4" id="13">
     <div class="row p-2 d-flex align-items-center">
-        <div class="col-3">
+        <div class="col-2">
             <img src="/assets/images/greenpeace-energy.png" class="img-fluid">
         </div>
         <div class="col-7">
             <div class="row">
-                <div class="h4">Greenpeace Energy proWindgas</div>
+                <div class="h4 text-secondary">Greenpeace Energy proWindgas</div>
             </div>
             <div class="row">
                 <div class="col-auto">
@@ -503,12 +501,12 @@
 
 <div class="tarife-table mb-4" id="14">
     <div class="row p-2 d-flex align-items-center">
-        <div class="col-3">
+        <div class="col-2">
             <img src="/assets/images/greenpeace-energy.png" class="img-fluid">
         </div>
         <div class="col-7">
             <div class="row">
-                <div class="h4">Greenpeace Energy proWindgas vegan</div>
+                <div class="h4 text-secondary">Greenpeace Energy proWindgas vegan</div>
             </div>
             <div class="row">
                 <div class="col-auto">
@@ -567,12 +565,12 @@
 
 <div class="tarife-table mb-4" id="15">
     <div class="row p-2 d-flex align-items-center">
-        <div class="col-3">
+        <div class="col-2">
             <img src="/assets/images/greenpeace-energy.png" class="img-fluid">
         </div>
         <div class="col-7">
             <div class="row">
-                <div class="h4">Greenpeace Energy proWindgas plus</div>
+                <div class="h4 text-secondary">Greenpeace Energy proWindgas plus</div>
             </div>
             <div class="row">
                 <div class="col-auto">
@@ -631,12 +629,12 @@
 
 <div class="tarife-table mb-4" id="16">
     <div class="row p-2 d-flex align-items-center">
-        <div class="col-3">
+        <div class="col-2">
             <img src="/assets/images/greenpeace-energy.png" class="img-fluid">
         </div>
         <div class="col-7">
             <div class="row">
-                <div class="h4">Greenpeace Energy proWindgas vegan plus</div>
+                <div class="h4 text-secondary">Greenpeace Energy proWindgas vegan plus</div>
             </div>
             <div class="row">
                 <div class="col-auto">
@@ -698,12 +696,12 @@
 
 <div class="tarife-table mb-4" id="21">
     <div class="row p-2 d-flex align-items-center">
-        <div class="col-3">
+        <div class="col-2">
             <img src="/assets/images/lichtblick.jpg" class="img-fluid">
         </div>
         <div class="col-7">
             <div class="row">
-                <div class="h4">Lichtblick ÖkoStrom Relax</div>
+                <div class="h4 text-secondary">Lichtblick ÖkoStrom Relax</div>
             </div>
             <div class="row">
                 <div class="col-auto">
@@ -762,12 +760,12 @@
 
 <div class="tarife-table mb-4" id="22">
     <div class="row p-2 d-flex align-items-center">
-        <div class="col-3">
+        <div class="col-2">
             <img src="/assets/images/lichtblick.jpg" class="img-fluid">
         </div>
         <div class="col-7">
             <div class="row">
-                <div class="h4">Lichtblick ÖkoStrom Komfort</div>
+                <div class="h4 text-secondary">Lichtblick ÖkoStrom Komfort</div>
             </div>
             <div class="row">
                 <div class="col-auto">
@@ -826,12 +824,12 @@
 
 <div class="tarife-table mb-4" id="23">
     <div class="row p-2 d-flex align-items-center">
-        <div class="col-3">
+        <div class="col-2">
             <img src="/assets/images/lichtblick.jpg" class="img-fluid">
         </div>
         <div class="col-7">
             <div class="row">
-                <div class="h4">Lichtblick ÖkoStrom Flex</div>
+                <div class="h4 text-secondary">Lichtblick ÖkoStrom Flex</div>
             </div>
             <div class="row">
                 <div class="col-auto">
@@ -890,12 +888,12 @@
 
 <div class="tarife-table mb-4" id="24">
     <div class="row p-2 d-flex align-items-center">
-        <div class="col-3">
+        <div class="col-2">
             <img src="/assets/images/lichtblick.jpg" class="img-fluid">
         </div>
         <div class="col-7">
             <div class="row">
-                <div class="h4">Lichtblick ÖkoGas Relax</div>
+                <div class="h4 text-secondary">Lichtblick ÖkoGas Relax</div>
             </div>
             <div class="row">
                 <div class="col-auto">
@@ -954,12 +952,12 @@
 
 <div class="tarife-table mb-4" id="25">
     <div class="row p-2 d-flex align-items-center">
-        <div class="col-3">
+        <div class="col-2">
             <img src="/assets/images/lichtblick.jpg" class="img-fluid">
         </div>
         <div class="col-7">
             <div class="row">
-                <div class="h4">Lichtblick ÖkoGas Komfort</div>
+                <div class="h4 text-secondary">Lichtblick ÖkoGas Komfort</div>
             </div>
             <div class="row">
                 <div class="col-auto">
@@ -1018,12 +1016,12 @@
 
 <div class="tarife-table mb-4" id="26">
     <div class="row p-2 d-flex align-items-center">
-        <div class="col-3">
+        <div class="col-2">
             <img src="/assets/images/lichtblick.jpg" class="img-fluid">
         </div>
         <div class="col-7">
             <div class="row">
-                <div class="h4">Lichtblick ÖkoGas Flex</div>
+                <div class="h4 text-secondary">Lichtblick ÖkoGas Flex</div>
             </div>
             <div class="row">
                 <div class="col-auto">
@@ -1085,12 +1083,12 @@
 
 <div class="tarife-table mb-4" id="31">
     <div class="row p-2 d-flex align-items-center">
-        <div class="col-3">
+        <div class="col-2">
             <img src="/assets/images/NATURSTROM.jpg" class="img-fluid">
         </div>
         <div class="col-7">
             <div class="row">
-                <div class="h4">Naturstrom Naturstrom</div>
+                <div class="h4 text-secondary">Naturstrom Naturstrom</div>
             </div>
             <div class="row">
                 <div class="col-auto">
@@ -1149,12 +1147,12 @@
 
 <div class="tarife-table mb-4" id="32">
     <div class="row p-2 d-flex align-items-center">
-        <div class="col-3">
+        <div class="col-2">
             <img src="/assets/images/NATURSTROM.jpg" class="img-fluid">
         </div>
         <div class="col-7">
             <div class="row">
-                <div class="h4">Naturstrom Naturstrom gold</div>
+                <div class="h4 text-secondary">Naturstrom Naturstrom gold</div>
             </div>
             <div class="row">
                 <div class="col-auto">
@@ -1213,12 +1211,12 @@
 
 <div class="tarife-table mb-4" id="33">
     <div class="row p-2 d-flex align-items-center">
-        <div class="col-3">
+        <div class="col-2">
             <img src="/assets/images/NATURSTROM.jpg" class="img-fluid">
         </div>
         <div class="col-7">
             <div class="row">
-                <div class="h4">Naturstrom biogas 10 %</div>
+                <div class="h4 text-secondary">Naturstrom biogas 10 %</div>
             </div>
             <div class="row">
                 <div class="col-auto">
@@ -1277,12 +1275,12 @@
 
 <div class="tarife-table mb-4" id="34">
     <div class="row p-2 d-flex align-items-center">
-        <div class="col-3">
+        <div class="col-2">
             <img src="/assets/images/NATURSTROM.jpg" class="img-fluid">
         </div>
         <div class="col-7">
             <div class="row">
-                <div class="h4">Naturstrom biogas 20 %</div>
+                <div class="h4 text-secondary">Naturstrom biogas 20 %</div>
             </div>
             <div class="row">
                 <div class="col-auto">
@@ -1341,12 +1339,12 @@
 
 <div class="tarife-table mb-4" id="35">
     <div class="row p-2 d-flex align-items-center">
-        <div class="col-3">
+        <div class="col-2">
             <img src="/assets/images/NATURSTROM.jpg" class="img-fluid">
         </div>
         <div class="col-7">
             <div class="row">
-                <div class="h4">Naturstrom biogas 100 %</div>
+                <div class="h4 text-secondary">Naturstrom biogas 100 %</div>
             </div>
             <div class="row">
                 <div class="col-auto">
@@ -1408,12 +1406,12 @@
 
 <div class="tarife-table mb-4" id="41">
     <div class="row p-2 d-flex align-items-center">
-        <div class="col-3">
+        <div class="col-2">
             <img src="/assets/images/Polarstern.png" class="img-fluid">
         </div>
         <div class="col-7">
             <div class="row">
-                <div class="h4">Polarstern Wirklich Ökostrom</div>
+                <div class="h4 text-secondary">Polarstern Wirklich Ökostrom</div>
             </div>
             <div class="row">
                 <div class="col-auto">
@@ -1472,12 +1470,12 @@
 
 <div class="tarife-table mb-4" id="42">
     <div class="row p-2 d-flex align-items-center">
-        <div class="col-3">
+        <div class="col-2">
             <img src="/assets/images/Polarstern.png" class="img-fluid">
         </div>
         <div class="col-7">
             <div class="row">
-                <div class="h4">Polarstern Wirklich Ökogas</div>
+                <div class="h4 text-secondary">Polarstern Wirklich Ökogas</div>
             </div>
             <div class="row">
                 <div class="col-auto">
