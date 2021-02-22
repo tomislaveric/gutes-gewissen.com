@@ -1,8 +1,8 @@
 var tarife = [];
 var currentEnergy;
 var selectedType = "strom";
-// var isWarrantyActive = false;
-// var isMinContractActive = false;
+var isWarrantyActive = false;
+var isMinContractActive = false;
 
 const electricity = [1500, 2500, 3500, 4250];
 const gas = [5000, 12000, 18000, 35000];
@@ -53,12 +53,25 @@ function updateValues() {
     $("#cancellationText" + id).text(tarif.cancellation);
     $("#warrantyText" + id).text(tarif.warranty);
 
+    var element = $("#" + tarif.id)
+
     if (tarif.type == selectedType) {
-      $("#" + tarif.id).show()
+      if (shouldHideWarranty(tarif.warranty) || shouldHideMinContract(tarif.minContract)) {
+        element.hide();
+      } else {
+        element.show()
+      }
     } else {
-      $("#" + tarif.id).hide()
+      element.hide();
     }
   });
+}
+
+function shouldHideWarranty(warranty) {
+  return warranty == "keine" && $("#warranty").prop("checked");
+}
+function shouldHideMinContract(minContract) {
+  return minContract != "keine" && $("#minContract").prop("checked");
 }
 
 function getAnnualPrice(basePrice, workPrice, energy) {
@@ -79,11 +92,9 @@ function handleTypeSelection() {
   });
 }
 
-// function setCheckboxValue() {
-//   isWarrantyActive = $("#warranty").prop("checked");
-//   isMinContractActive = $("#minContract").prop("checked");
-//   updateVisibility();
-// }
+function setCheckboxValue() {
+  updateValues();
+}
 
 function setEnergy(value) {
   var selectorInput = "#energyInput";
