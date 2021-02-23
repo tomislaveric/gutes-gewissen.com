@@ -264,33 +264,44 @@
             </div>
         </div>
     </div>
-    <div class="col-auto">
-    <div class="row">
-        <div class="col-auto">
-            <div>Ihr jährlicher Verbrauch</div>
-            <div class="input-group">
-                <input id="energyInput" type="text" class="form-control" aria-label="1500kWh">
-                <div class="input-group-append">
-                    <span class="input-group-text">kWh</span>
+    <div class="col">
+        <div class="row">
+            <div class="col-auto">
+                <div>Ihr jährlicher Verbrauch</div>
+                <div class="input-group">
+                    <input id="energyInput" type="text" class="form-control" aria-label="1500kWh">
+                    <div class="input-group-append">
+                        <span class="input-group-text">kWh</span>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="col-auto">
-            <div class="form-check">
-                <input class="form-check-input" onclick="setCheckboxValue()" id="minContract" type="checkbox" value="">
-                <label class="form-check-label" for="defaultCheck1">
-                    Ohne Mindestvertragslaufzeit
-                </label>
+            <div class="col-auto">
+                <div class="form-check">
+                    <input class="form-check-input" onclick="setCheckboxValue()" id="minContract" type="checkbox"
+                        value="">
+                    <label class="form-check-label" for="defaultCheck1">
+                        Ohne Mindestvertragslaufzeit
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" onclick="setCheckboxValue()" id="warranty" type="checkbox" value="">
+                    <label class="form-check-label" for="defaultCheck1">
+                        Mit Preisgarantie
+                    </label>
+                </div>
             </div>
-            <div class="form-check">
-                <input class="form-check-input" onclick="setCheckboxValue()" id="warranty" type="checkbox" value="">
-                <label class="form-check-label" for="defaultCheck1">
-                    Mit Preisgarantie
-                </label>
+            <div class="col">
+                <div>Sortiere nach...</div>
+                <div class="input-group mb-3">
+                    <select class="custom-select" id="sortSelection">
+                      <option value="1">Gesamtpreis</option>
+                      <option value="2">Grundpreis</option>
+                      <option value="3">Arbeitspreis</option>
+                    </select>
+                  </div>
             </div>
         </div>
     </div>
-</div>
 </div>
 
 
