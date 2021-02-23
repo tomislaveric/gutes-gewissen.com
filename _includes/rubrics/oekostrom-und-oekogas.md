@@ -8,13 +8,14 @@
             aria-selected="false">Ökogas</a>
     </li>
 </ul>
+<div class="alert alert-success">
 <div class="row">
-    <div class="col-autp">
+    <div class="col-auto">
         <div class="tab-content">
             <div class="tab-pane fade show active" id="strom" role="tabpanel" aria-labelledby="strom-tab">
                 <div class="row d-flex align-items-center">
                     <div class="col-auto">
-                        <div>Personen im Haushalt</div>
+                        <div class="my-1"><b>Personen im Haushalt</b></div>
                         <div id="electricity-toggle" class="btn-group btn-group-toggle" data-toggle="buttons">
                             <label class="btn btn btn-outline-secondary">
                                 <input type="radio" name="options" id="electricityOption0" autocomplete="off">
@@ -45,7 +46,7 @@
             <div class="tab-pane fade" id="gas" role="tabpanel" aria-labelledby="gas-tab">
                 <div class="row d-flex align-items-center">
                     <div class="col-auto">
-                        <div>Größe Ihres Haushalts</div>
+                        <div class="my-1"><b>Größe Ihres Haushalts</b></div>
                         <div class="btn-group btn-group-toggle" data-toggle="buttons">
                             <label class="btn btn btn-outline-secondary">
                                 <input type="radio" name="options" id="gasOption0" autocomplete="off" checked>
@@ -76,7 +77,7 @@
     <div class="col">
         <div class="row">
             <div class="col-auto">
-                <div>Ihr jährlicher Verbrauch</div>
+                <div class="my-1"><b>Ihr jährlicher Verbrauch</b></div>
                 <div class="input-group">
                     <input id="energyInput" type="text" class="form-control" aria-label="1500kWh">
                     <div class="input-group-append">
@@ -85,6 +86,7 @@
                 </div>
             </div>
             <div class="col-auto">
+                <div class="my-1"><b>Weitere Optionen</b></div>
                 <div class="form-check">
                     <input class="form-check-input" onclick="setCheckboxValue()" id="minContract" type="checkbox"
                         value="">
@@ -100,7 +102,7 @@
                 </div>
             </div>
             <div class="col">
-                <div>Sortiere nach...</div>
+                <div class="my-1"><b>Sortiere nach...</b></div>
                 <div class="input-group mb-3">
                     <select class="custom-select" id="sortSelection">
                       <option value="1">Gesamtpreis</option>
@@ -111,9 +113,9 @@
             </div>
         </div>
     </div>
+
 </div>
-
-
+</div>
 {% for anbieter in site.data.oekostrom-und-oekogas %}
 {% assign anbieterIndex = forloop.index %}
 {% for tarif in anbieter.tarife %}
