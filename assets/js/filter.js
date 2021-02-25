@@ -2,21 +2,19 @@ const electricity = [1500, 2500, 3500, 4250];
 const gas = [5000, 12000, 18000, 35000];
 
 var tarife = [];
-var currentEnergy = electricity[0];
+var currentEnergy = electricity[0] ;
 var selectedType = "strom";
 var isWarrantyActive = false;
 var isMinContractActive = false;
 
 $(document).ready(function () {
   tarife = getData();
-  tarife.sort(sortByAnnualPrice);
-  setEnergy(electricity[0]);
+  setHousehold(0);
   updateValues();
   
   handleTypeSelection();
   handleHouseholdSelection();
   handleSortSelection();
-  
 })
 
 function getData() {
@@ -30,8 +28,7 @@ function getData() {
     var cancellation = $("#cancellation" + id).attr("data-value");
     var warranty = $("#warranty" + id).attr("data-value");
     var type = $("#type" + id).attr("data-value");
-    // var annualPrice = getAnnualPrice(basePrice, workPrice, currentEnergy);
-    // var monthlyPrice = annualPrice / 12;
+    
     var tarif = { id: id, type: type, basePrice: basePrice, workPrice: workPrice, minContract: minContract, cancellation: cancellation, warranty: warranty };
     dictionary.push(tarif);
 
@@ -74,8 +71,10 @@ function updateValues() {
 }
 
 function recalculate(tarif) {
+  console.log(currentEnergy, "CURRENT");
   tarif.annualPrice = getAnnualPrice(tarif.basePrice, tarif.workPrice, currentEnergy);
   tarif.monthlyPrice = tarif.annualPrice/12;
+  console.log(tarif.annualPrice, "ANNUAL");
   return tarif
 }
 
@@ -92,17 +91,26 @@ function getAnnualPrice(basePrice, workPrice, energy) {
 
 function handleTypeSelection() {
   $("#gas-tab").click(function () {
-    selectedType = "gas";
-    $("#gasOption0").trigger("click");
-    setEnergy(gas[0]);
+    selectedType = "gas"
+    setHousehold(0)
   });
 
   $("#strom-tab").click(function () {
-    selectedType = "strom";
-    $("#electricityOption0").trigger("click");
-    setEnergy(electricity[0]);
+    selectedType = "strom"
+    setHousehold(0)
   });
 }
+
+function setHousehold(id) {
+  
+  $("#electricityOption"+id).trigger("click");
+  if (selectedType == "strom" ){
+    setEnergy(electricity[id]);
+  } else {
+    setEnergy(gas[id]);
+  }
+}
+
 
 function setCheckboxValue() {
   updateValues();

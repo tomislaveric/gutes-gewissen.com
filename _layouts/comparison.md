@@ -11,5 +11,5 @@ layout: base
     </div>
 </div>
 <div class="container">
-    {% include rubric-list.md rubric=page.title %}
+    {{content}}
 </div>

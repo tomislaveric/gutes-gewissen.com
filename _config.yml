@@ -39,6 +39,12 @@ collections:
     output: true
   pages:
     output: true
+  
+  comparisons:
+    permalink: /preisvergleich/:title/
+    output: true
+  pages:
+    output: true
 
 defaults:
   -

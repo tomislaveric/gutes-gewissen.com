@@ -1,3 +1,12 @@
+---
+layout: comparison
+title: "Ökostrom & Ökogas Tarife"
+headline: "Ökostrom und Ökogas im Preisvergleich – Vergleich der Tarife von unabhängigen Energieversorgern"
+shortDescription: "100 % Ökostrom & Ökogas im Preisvergleich mit Tarifrechner."
+description: "Ökostromtarife und Ökogastarife im Preisvergleich - Vergleich der Preise und Tarife für 100 % Ökostrom und
+100 % Ökogas von unabhängigen Energieversorgern."
+---
+
 <ul class="nav nav-tabs" id="myTab" role="tablist">
     <li class="nav-item">
         <a class="nav-link active" id="strom-tab" data-toggle="tab" href="#strom" role="tab" aria-controls="strom"
@@ -86,8 +95,7 @@
         <div class="col-sm-12 col-md-6 col-lg-auto">
             <div class="my-1"><b>Weitere Optionen</b></div>
             <div class="form-check">
-                <input class="form-check-input" onclick="setCheckboxValue()" id="minContract" type="checkbox"
-                    value="">
+                <input class="form-check-input" onclick="setCheckboxValue()" id="minContract" type="checkbox" value="">
                 <label class="form-check-label" for="minContract">
                     Ohne Mindestvertragslaufzeit
                 </label>
@@ -103,82 +111,78 @@
             <div class="my-1"><b>Sortiere nach...</b></div>
             <div class="input-group mb-3">
                 <select class="custom-select" id="sortSelection">
-                  <option value="1">Gesamtpreis</option>
-                  <option value="2">Grundpreis</option>
-                  <option value="3">Arbeitspreis</option>
+                    <option value="1">Gesamtpreis</option>
+                    <option value="2">Grundpreis</option>
+                    <option value="3">Arbeitspreis</option>
                 </select>
-              </div>
-        </div>
-    </div>
-    </div>
-    {% for anbieter in site.data.oekostrom-und-oekogas %}
-    {% assign anbieterIndex = forloop.index %}
-    {% for tarif in anbieter.tarife %}
-    {% assign tarifIndex = forloop.index %}
-    {% assign id = anbieterIndex | append: tarifIndex %}
-
-    <div id="workPrice{{id}}" data-value="{{ tarif.arbeitspreis }}"></div>
-    <div id="basePrice{{id}}" data-value="{{ tarif.grundpreis }}"></div>
-    <div id="minContract{{id}}" data-value="{{ tarif.minContract }}"></div>
-    <div id="cancellation{{id}}" data-value="{{ tarif.cancellation }}"></div>
-    <div id="warranty{{id}}" data-value="{{ tarif.warranty }}"></div>
-    <div id="type{{id}}" data-value="{{ tarif.typ }}"></div>
-
-    <div class="tarife-table mb-4" id="{{id}}">
-        <div class="row mx-2">
-            <div class="h4 text-secondary">{{anbieter.name}} {{ tarif.name }}</div>
-        </div>
-        <div class="row d-flex align-items-center">
-            <div class="col-sm-12 col-md-6 col-lg-2">
-                <img src="{{ anbieter.logo }}" class="img-fluid">
             </div>
-            <div class="col-sm-12 col-md-6 col-lg-7">
-                
-                <div class="row">
-                    <div class="col-sm-12 col-md-12 col-lg-auto my-2">
-                        <div class="h5 list-inline-item" id="annualPriceText{{id}}"></div>
-                        <div class="h5 list-inline-item">pro Jahr</div>
-                        <div class="row">
-                            <div class="col-auto">
-                                <div>Arbeitspreis:</div>
-                                <div>Grundpreis:</div>
-                            </div>
-                            <div class="col">
-                                <div id="workPriceText{{id}}"></div>
-                                <div id="basePriceText{{id}}"></div>
-                            </div>
+        </div>
+    </div>
+</div>
+{% for anbieter in site.data.oekostrom-und-oekogas %}
+{% assign anbieterIndex = forloop.index %}
+{% for tarif in anbieter.tarife %}
+{% assign tarifIndex = forloop.index %}
+{% assign id = anbieterIndex | append: tarifIndex %}
+<div id="workPrice{{id}}" data-value="{{ tarif.arbeitspreis }}"></div>
+<div id="basePrice{{id}}" data-value="{{ tarif.grundpreis }}"></div>
+<div id="minContract{{id}}" data-value="{{ tarif.minContract }}"></div>
+<div id="cancellation{{id}}" data-value="{{ tarif.cancellation }}"></div>
+<div id="warranty{{id}}" data-value="{{ tarif.warranty }}"></div>
+<div id="type{{id}}" data-value="{{ tarif.typ }}"></div>
+<div class="tarife-table mb-4" id="{{id}}">
+    <div class="row mx-2">
+        <div class="h4 text-secondary">{{anbieter.name}} {{ tarif.name }}</div>
+    </div>
+    <div class="row d-flex align-items-center">
+        <div class="col-sm-12 col-md-6 col-lg-2">
+            <img src="{{ anbieter.logo }}" class="img-fluid">
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-7">
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-auto my-2">
+                    <div class="h5 list-inline-item" id="annualPriceText{{id}}"></div>
+                    <div class="h5 list-inline-item">pro Jahr</div>
+                    <div class="row">
+                        <div class="col-auto">
+                            <div>Arbeitspreis:</div>
+                            <div>Grundpreis:</div>
+                        </div>
+                        <div class="col">
+                            <div id="workPriceText{{id}}"></div>
+                            <div id="basePriceText{{id}}"></div>
                         </div>
                     </div>
-
-                    <div class="col-sm-12 col-md-12 col-lg-auto my-2">
-                        <div class="h5 list-inline-item" id="monthlyPriceText{{id}}"></div>
-                        <div class="h5 list-inline-item">pro Monat</div>
-                        <div class="row">
-                            <div class="col-auto">
-                                <div>Mindestvertragslaufzeit:</div>
-                                <div>Kündigungsfrist:</div>
-                                <div>Preisgarantie:</div>
-                            </div>
-                            <div class="col">
-                                <div id="minContractText{{id}}"></div>
-                                <div id="cancellationText{{id}}"></div>
-                                <div id="warrantyText{{id}}"></div>
-                            </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-auto my-2">
+                    <div class="h5 list-inline-item" id="monthlyPriceText{{id}}"></div>
+                    <div class="h5 list-inline-item">pro Monat</div>
+                    <div class="row">
+                        <div class="col-auto">
+                            <div>Mindestvertragslaufzeit:</div>
+                            <div>Kündigungsfrist:</div>
+                            <div>Preisgarantie:</div>
+                        </div>
+                        <div class="col">
+                            <div id="minContractText{{id}}"></div>
+                            <div id="cancellationText{{id}}"></div>
+                            <div id="warrantyText{{id}}"></div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-sm-12 col-md-12 col-lg-3">
-                <span class="affili" data-affili="{{ anbieter.url }}" rel="nofollow">
-                    <div class="text-center">
-                        <div class="btn btn-success">
-                            {{anbieter.name}} zeigen
-                        </div>
-                    </div>
-                </span>
-            </div>
         </div>
-        <hr>
+        <div class="col-sm-12 col-md-12 col-lg-3">
+            <span class="affili" data-affili="{{ anbieter.url }}" rel="nofollow">
+                <div class="text-center">
+                    <div class="btn btn-success">
+                        {{anbieter.name}} zeigen
+                    </div>
+                </div>
+            </span>
+        </div>
     </div>
-    {% endfor %}
-    {% endfor %}
+    <hr>
+</div>
+{% endfor %}
+{% endfor %}
