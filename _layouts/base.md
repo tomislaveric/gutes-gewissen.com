@@ -11,6 +11,8 @@ websiteTitle: gutes-gewissen
   <script src="/assets/js/link-masking.js"></script>
   <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
   <script src="/assets/js/scrolling.js"></script>
+  <script src="/assets/js/filter.js"></script>
+
   <!-- AdSense - Google AdSense -->  
   <script data-ad-client="ca-pub-4092276681239296" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -18,7 +20,6 @@ websiteTitle: gutes-gewissen
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
-
     gtag('config', 'UA-161504796-1');
   </script>
   <meta charset="utf-8" />
@@ -34,6 +35,7 @@ websiteTitle: gutes-gewissen
 
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
   <link rel="stylesheet" href="/assets/css/main.css" />
+  <link rel="stylesheet" href="/assets/fontawesome/css/font-awesome.min.css"/>
   <title>{{ page.title }} {% if page.slogan %} | {{ page.slogan }} {% endif %}</title>
 
 <!-- Unique/Canonical urls -->  

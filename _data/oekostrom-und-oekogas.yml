@@ -1,0 +1,183 @@
+- name: Greenpeace Energy
+  url: https://www.awin1.com/awclick.php?gid=359225&mid=14852&awinaffid=731132&linkid=2355126&clickref=
+  logo: /assets/images/greenpeace-energy.png
+  tarife: 
+    - name: Ökostrom aktiv
+      typ: strom
+      arbeitspreis: 29.80
+      grundpreis: 8.90
+      minContract: keine
+      cancellation: 4 Wochen
+      warranty: Bis zum 31.12.2021
+
+    - name: Solarstrom plus
+      typ: strom
+      arbeitspreis: 31.00
+      grundpreis: 8.90
+      minContract: keine
+      cancellation: 4 Wochen
+      warranty: Bis zum 31.12.2021
+
+    - name: proWindgas
+      typ: gas
+      arbeitspreis: 6.80
+      grundpreis: 9.90
+      minContract: keine
+      cancellation: 4 Wochen
+      warranty: Bis zum 31.12.2021
+  
+    - name: proWindgas vegan
+      typ: gas
+      arbeitspreis: 7.20
+      grundpreis: 9.90
+      minContract: keine
+      cancellation: 4 Wochen
+      warranty: Bis zum 31.12.2021
+
+    - name: proWindgas plus
+      typ: gas
+      arbeitspreis: 7.40
+      grundpreis: 9.90
+      minContract: keine
+      cancellation: 4 Wochen
+      warranty: Bis zum 31.12.2021
+
+    - name: proWindgas vegan plus
+      typ: gas
+      arbeitspreis: 7.80
+      grundpreis: 9.90
+      minContract: keine
+      cancellation: 4 Wochen
+      warranty: Bis zum 31.12.2021
+
+- name: Lichtblick
+  url: https://www.awin1.com/cread.php?awinmid=19047&awinaffid=731132&clickref=&ued=
+  logo: /assets/images/lichtblick.jpg
+  tarife: 
+    - name: ÖkoStrom Relax
+      typ: strom
+      arbeitspreis: 29.08
+      grundpreis: 10.45
+      minContract: 24 Monate
+      cancellation: 4 Wochen zum Monatsende
+      warranty: keine
+
+    - name: ÖkoStrom Komfort
+      typ: strom
+      arbeitspreis: 29.19
+      grundpreis: 10.45
+      minContract: 12 Monate
+      cancellation: 4 Wochen zum Monatsende
+      warranty: 12 Monate
+    
+    - name: ÖkoStrom Flex
+      typ: strom
+      arbeitspreis: 29.70
+      grundpreis: 10.45
+      minContract: keine
+      cancellation: 4 Wochen
+      warranty: 24 Monate
+    
+    - name: ÖkoGas Relax
+      typ: gas
+      arbeitspreis: 6.23
+      grundpreis: 14.34
+      minContract: 24 Monate
+      cancellation: 4 Wochen
+      warranty: keine
+    
+    - name: ÖkoGas Komfort
+      typ: gas
+      arbeitspreis: 6.33
+      grundpreis: 14.34
+      minContract: 12 Monate
+      cancellation: 4 Wochen
+      warranty: 12 Monate
+    
+    - name: ÖkoGas Flex
+      typ: gas
+      arbeitspreis: 6.63
+      grundpreis: 14.34
+      minContract: keine
+      cancellation: 4 Wochen
+      warranty: 24 Monate
+
+- name: Naturstrom
+  url: https://www.awin1.com/awclick.php?gid=340209&mid=11937&awinaffid=731132&linkid=2188340&clickref=
+  logo: /assets/images/NATURSTROM.jpg
+  tarife: 
+    - name: "basis"
+      typ: strom
+      arbeitspreis: 28.95
+      grundpreis: 8.90
+      minContract: keine
+      cancellation: 4 Wochen
+      warranty: Bis zum 31.12.2021
+
+    - name: gold
+      typ: strom
+      arbeitspreis: 30.14
+      grundpreis: 8.90
+      minContract: keine
+      cancellation: 4 Wochen
+      warranty: Bis zum 31.12.2021
+    
+    - name: biogas 10 %
+      typ: gas
+      arbeitspreis: 6.45
+      grundpreis: 9.90
+      minContract: keine
+      cancellation: 4 Wochen
+      warranty: Bis zum 31.12.2021
+    
+    - name: biogas 20 %
+      typ: gas
+      arbeitspreis: 6.95
+      grundpreis: 9.90
+      minContract: keine
+      cancellation: 4 Wochen
+      warranty: Bis zum 31.12.2021
+    
+    - name: biogas 100 %
+      typ: gas
+      arbeitspreis: 10.45
+      grundpreis: 9.90
+      minContract: keine
+      cancellation: 4 Wochen
+      warranty: Bis zum 31.12.2021
+
+- name: Polarstern
+  url: https://www.awin1.com/awclick.php?gid=366239&mid=14186&awinaffid=731132&linkid=2416609&clickref=
+  logo: /assets/images/Polarstern.png
+  tarife: 
+    - name: Wirklich Ökostrom
+      typ: strom
+      arbeitspreis: 29.15
+      grundpreis: 9.80
+      minContract: keine
+      cancellation: 2 Wochen
+      warranty: Bis zum 31.12.2021
+    
+    - name: Wirklich Ökogas Klassik
+      typ: gas
+      arbeitspreis: 8.78
+      grundpreis: 12.10
+      minContract: keine
+      cancellation: 2 Wochen
+      warranty: Bis zum 31.12.2021
+    
+    - name: Wirklich Ökogas Vegan
+      typ: gas
+      arbeitspreis: 9.08
+      grundpreis: 12.10
+      minContract: keine
+      cancellation: 2 Wochen
+      warranty: Bis zum 31.12.2021
+
+    - name: Wirklich Ökogas GEG
+      typ: gas
+      arbeitspreis: 9.78
+      grundpreis: 12.10
+      minContract: keine
+      cancellation: 2 Wochen
+      warranty: Bis zum 31.12.2021

@@ -11,5 +11,9 @@ layout: base
     </div>
 </div>
 <div class="container">
+{% if page.url == "/oekostrom-und-oekogas/" %}
+    {% include rubrics/oekostrom-und-oekogas.md %}
+{% else %}
     {% include rubric-list.md rubric=page.title %}
+{% endif %}
 </div>

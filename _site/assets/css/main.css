@@ -37,4 +37,6 @@ a:hover { color: #145523; text-decoration: none; }
 
 .img-cta-bar { max-height: 10vh; max-width: 10vw; }
 
+.tarife-table td { border: 1px solid black; }
+
 /*# sourceMappingURL=main.css.map */
