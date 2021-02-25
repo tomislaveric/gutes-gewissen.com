@@ -90,13 +90,13 @@
                 <div class="form-check">
                     <input class="form-check-input" onclick="setCheckboxValue()" id="minContract" type="checkbox"
                         value="">
-                    <label class="form-check-label" for="defaultCheck1">
+                    <label class="form-check-label" for="minContract">
                         Ohne Mindestvertragslaufzeit
                     </label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" onclick="setCheckboxValue()" id="warranty" type="checkbox" value="">
-                    <label class="form-check-label" for="defaultCheck1">
+                    <label class="form-check-label" for="warranty">
                         Mit Preisgarantie
                     </label>
                 </div>
@@ -173,11 +173,13 @@
             </div>
         </div>
         <div class="col-2">
+            <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
             <div class="text-center">
                 <div class="btn btn-success">
                     Zum Anbieter
                 </div>
             </div>
+        </span>
         </div>
     </div>
     <hr>
