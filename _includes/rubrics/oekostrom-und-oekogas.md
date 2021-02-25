@@ -125,18 +125,19 @@
     <div id="type{{id}}" data-value="{{ tarif.typ }}"></div>
 
     <div class="tarife-table mb-4" id="{{id}}">
-        <div class="row p-2 d-flex align-items-center">
-            <div class="col-2">
+        <div class="row mx-2">
+            <div class="h4 text-secondary">{{anbieter.name}} {{ tarif.name }}</div>
+        </div>
+        <div class="row d-flex align-items-center">
+            <div class="col-sm-12 col-md-6 col-lg-2">
                 <img src="{{ anbieter.logo }}" class="img-fluid">
             </div>
-            <div class="col-7">
+            <div class="col-sm-12 col-md-6 col-lg-7">
+                
                 <div class="row">
-                    <div class="h4 text-secondary">{{anbieter.name}} {{ tarif.name }}</div>
-                </div>
-                <div class="row">
-                    <div class="col-auto">
-                        <div class="h5 list-inline-item" id="monthlyPriceText{{id}}"></div>
-                        <div class="h5 list-inline-item">pro Monat</div>
+                    <div class="col-sm-12 col-md-12 col-lg-auto my-2">
+                        <div class="h5 list-inline-item" id="annualPriceText{{id}}"></div>
+                        <div class="h5 list-inline-item">pro Jahr</div>
                         <div class="row">
                             <div class="col-auto">
                                 <div>Arbeitspreis:</div>
@@ -149,9 +150,9 @@
                         </div>
                     </div>
 
-                    <div class="col">
-                        <div class="h5 list-inline-item" id="annualPriceText{{id}}"></div>
-                        <div class="h5 list-inline-item">pro Jahr</div>
+                    <div class="col-sm-12 col-md-12 col-lg-auto my-2">
+                        <div class="h5 list-inline-item" id="monthlyPriceText{{id}}"></div>
+                        <div class="h5 list-inline-item">pro Monat</div>
                         <div class="row">
                             <div class="col-auto">
                                 <div>Mindestvertragslaufzeit:</div>
@@ -167,11 +168,11 @@
                     </div>
                 </div>
             </div>
-            <div class="col-2">
-                <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
+            <div class="col-sm-12 col-md-12 col-lg-3">
+                <span class="affili" data-affili="{{ anbieter.url }}" rel="nofollow">
                     <div class="text-center">
                         <div class="btn btn-success">
-                            Zum Anbieter
+                            {{anbieter.name}} zeigen
                         </div>
                     </div>
                 </span>

@@ -1,4 +1,5 @@
 - name: Greenpeace Energy
+  url: https://www.awin1.com/awclick.php?gid=359225&mid=14852&awinaffid=731132&linkid=2355126&clickref=
   logo: /assets/images/greenpeace-energy.png
   tarife: 
     - name: Ökostrom aktiv
@@ -19,7 +20,7 @@
 
     - name: proWindgas
       typ: gas
-      arbeitspreis: 6.90
+      arbeitspreis: 6.80
       grundpreis: 9.90
       minContract: keine
       cancellation: 4 Wochen
@@ -50,6 +51,7 @@
       warranty: Bis zum 31.12.2021
 
 - name: Lichtblick
+  url: https://www.awin1.com/cread.php?awinmid=19047&awinaffid=731132&clickref=&ued=
   logo: /assets/images/lichtblick.jpg
   tarife: 
     - name: ÖkoStrom Relax
@@ -101,9 +103,10 @@
       warranty: 24 Monate
 
 - name: Naturstrom
+  url: https://www.awin1.com/awclick.php?gid=340209&mid=11937&awinaffid=731132&linkid=2188340&clickref=
   logo: /assets/images/NATURSTROM.jpg
   tarife: 
-    - name: Naturstrom
+    - name: "basis"
       typ: strom
       arbeitspreis: 28.95
       grundpreis: 8.90
@@ -111,7 +114,7 @@
       cancellation: 4 Wochen
       warranty: Bis zum 31.12.2021
 
-    - name: Naturstrom gold
+    - name: gold
       typ: strom
       arbeitspreis: 30.14
       grundpreis: 8.90
@@ -144,6 +147,7 @@
       warranty: Bis zum 31.12.2021
 
 - name: Polarstern
+  url: https://www.awin1.com/awclick.php?gid=366239&mid=14186&awinaffid=731132&linkid=2416609&clickref=
   logo: /assets/images/Polarstern.png
   tarife: 
     - name: Wirklich Ökostrom
@@ -154,9 +158,25 @@
       cancellation: 2 Wochen
       warranty: Bis zum 31.12.2021
     
-    - name: Wirklich Ökogas
+    - name: Wirklich Ökogas Klassik
       typ: gas
       arbeitspreis: 8.78
+      grundpreis: 12.10
+      minContract: keine
+      cancellation: 2 Wochen
+      warranty: Bis zum 31.12.2021
+    
+    - name: Wirklich Ökogas Vegan
+      typ: gas
+      arbeitspreis: 9.08
+      grundpreis: 12.10
+      minContract: keine
+      cancellation: 2 Wochen
+      warranty: Bis zum 31.12.2021
+
+    - name: Wirklich Ökogas GEG
+      typ: gas
+      arbeitspreis: 9.78
       grundpreis: 12.10
       minContract: keine
       cancellation: 2 Wochen
