@@ -2,7 +2,7 @@
 layout: comparison
 title: "Ökostrom & Ökogas Tarife"
 headline: "Ökostrom und Ökogas im Preisvergleich – Vergleich der Tarife von unabhängigen Energieversorgern"
-shortDescription: "100 % Ökostrom & Ökogas im Preisvergleich mit Tarifrechner."
+seoTitle: "100 % Ökostrom & Ökogas im Preisvergleich mit Tarifrechner."
 description: "Ökostromtarife und Ökogastarife im Preisvergleich - Vergleich der Preise und Tarife für 100 % Ökostrom und
 100 % Ökogas von unabhängigen Energieversorgern."
 ---
@@ -175,8 +175,8 @@ description: "Ökostromtarife und Ökogastarife im Preisvergleich - Vergleich de
         <div class="col-sm-12 col-md-12 col-lg-3">
             <span class="affili" data-affili="{{ anbieter.url }}" rel="nofollow">
                 <div class="text-center">
-                    <div class="btn btn-success">
-                        {{anbieter.name}} zeigen
+                    <div class="btn btn-success w-100">
+                        Gehe zu {{tarif.name}}
                     </div>
                 </div>
             </span>

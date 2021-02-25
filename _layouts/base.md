@@ -36,7 +36,7 @@ websiteTitle: gutes-gewissen
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
   <link rel="stylesheet" href="/assets/css/main.css" />
   <link rel="stylesheet" href="/assets/fontawesome/css/font-awesome.min.css"/>
-  <title>{{ page.title }} {% if page.slogan %} | {{ page.slogan }} {% endif %}</title>
+  <title>{% if page.seoTitle %}{{page.seoTitle}}{% else %}{{ page.title }} {% if page.slogan %} | {{ page.slogan }} {% endif %}{% endif %}</title>
 
 <!-- Unique/Canonical urls -->  
   <link rel="canonical" href="{{ site.url }}"/>
