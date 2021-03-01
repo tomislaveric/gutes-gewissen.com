@@ -15,6 +15,7 @@ $(document).ready(function () {
   handleTypeSelection();
   handleHouseholdSelection();
   handleSortSelection();
+  handleInput();
 })
 
 function getData() {
@@ -29,35 +30,41 @@ function getData() {
     var warranty = $("#warranty" + id).attr("data-value");
     var type = $("#type" + id).attr("data-value");
     
+    var formatter = new Intl.NumberFormat('de-DE', {
+      style: 'currency',
+      currency: 'EUR'
+    });
+    
+    $("#basePriceText" + id).text(formatter.format(basePrice));
+    $("#workPriceText" + id).text(formatter.format(workPrice));
+    $("#minContractText" + id).text(minContract);
+    $("#cancellationText" + id).text(cancellation);
+    $("#warrantyText" + id).text(warranty);
+
     var tarif = { id: id, type: type, basePrice: basePrice, workPrice: workPrice, minContract: minContract, cancellation: cancellation, warranty: warranty };
     dictionary.push(tarif);
 
     return this.innerHTML;
   }).get();
+  
   return dictionary;
 }
 
 function updateValues() {
-  
-  $(".tarife-table").each(function (index) {
-    var id = $(this).attr("id");
-    var formatter = new Intl.NumberFormat('de-DE', {
-      style: 'currency',
-      currency: 'EUR'
-    });
-    var tarif = recalculate(tarife[index]);
+  var formatter = new Intl.NumberFormat('de-DE', {
+    style: 'currency',
+    currency: 'EUR'
+  });
 
-    $("#basePriceText" + id).text(formatter.format(tarif.basePrice));
-    $("#workPriceText" + id).text(formatter.format(tarif.workPrice));
-    $("#annualPriceText" + id).text(formatter.format(tarif.annualPrice));
-    $("#monthlyPriceText" + id).text(formatter.format(tarif.monthlyPrice));
+  tarife.forEach((tarif) => {
+    var id = tarif.id;
+    var annualPrice = ((tarif.workPrice / 100) * currentEnergy) + (tarif.basePrice * 12);
+    var monthlyPrice = annualPrice/12;
+    
+    $("#annualPriceText" + id).text(formatter.format(annualPrice));
+    $("#monthlyPriceText" + id).text(formatter.format(monthlyPrice));
 
-    $("#minContractText" + id).text(tarif.minContract);
-    $("#cancellationText" + id).text(tarif.cancellation);
-    $("#warrantyText" + id).text(tarif.warranty);
-
-    var element = $("#" + tarif.id)
-
+    var element = $("#" + id)
     if (tarif.type == selectedType) {
       if (shouldHideWarranty(tarif.warranty) || shouldHideMinContract(tarif.minContract)) {
         element.hide();
@@ -68,15 +75,14 @@ function updateValues() {
       element.hide();
     }
   });
+  tarife.sort(sortByAnnualPrice);
 }
 
-function recalculate(tarif) {
-  console.log(currentEnergy, "CURRENT");
-  tarif.annualPrice = getAnnualPrice(tarif.basePrice, tarif.workPrice, currentEnergy);
-  tarif.monthlyPrice = tarif.annualPrice/12;
-  console.log(tarif.annualPrice, "ANNUAL");
-  return tarif
-}
+// function recalculate(tarif) {
+//   tarif.annualPrice = getAnnualPrice(tarif.basePrice, tarif.workPrice, currentEnergy);
+//   tarif.monthlyPrice = tarif.annualPrice/12;
+//   return tarif
+// }
 
 function shouldHideWarranty(warranty) {
   return warranty == "keine" && $("#warranty").prop("checked");
@@ -85,9 +91,9 @@ function shouldHideMinContract(minContract) {
   return minContract != "keine" && $("#minContract").prop("checked");
 }
 
-function getAnnualPrice(basePrice, workPrice, energy) {
-  return ((workPrice / 100) * energy) + (basePrice * 12);
-}
+// function getAnnualPrice(basePrice, workPrice, energy) {
+//   return ((workPrice / 100) * energy) + (basePrice * 12);
+// }
 
 function handleTypeSelection() {
   $("#gas-tab").click(function () {
@@ -123,6 +129,15 @@ function setEnergy(value) {
   updateValues();
 }
 
+function handleInput() {
+  var selector = $("#energyInput");
+  selector.on('input', () => {
+    var value = selector.val();
+    currentEnergy = value;
+    updateValues();
+  });
+}
+
 function handleHouseholdSelection() {
 
   $(".btn-group-toggle input:radio").on('change', function () {
@@ -144,15 +159,12 @@ function handleSortSelection() {
     switch (parseInt(selection)) {
       case 1:
         tarife.sort(sortByAnnualPrice);
-        console.log("annual")
         break;
       case 2:
         tarife.sort(sortByBasePrice);
-        console.log("basePrice")
         break;
       case 3:
         tarife.sort(sortByWorkPrice);
-        console.log("work")
         break;
     }
     updateValues();
