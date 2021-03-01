@@ -23,6 +23,19 @@
                         {% endfor %}
                     </div>
                 </li>
+                <li class="nav-item dropdown dropdown-links">
+                    <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle"
+                        data-toggle="dropdown" id="navbarDropdown" role="button">
+                        Preisvergleiche
+                    </a>
+                    <div aria-labelledby="navbarDropdown" class="dropdown-menu">
+                        {% for comparison in site.comparisons %}
+                        <button class="dropdown-item" href="#" type="button">
+                            <a href="{{ comparison.url }}">{{ comparison.title }}</a>
+                        </button>
+                        {% endfor %}
+                    </div>
+                </li>
             </ul>
             <ul class="navbar-nav">
                 <li>
