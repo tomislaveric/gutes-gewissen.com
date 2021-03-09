@@ -45,9 +45,15 @@ layout: base
                     {{ page.highlight }}
                 </div>
                 {% endif %}
+                {% if page.contentButtonText %}
+                    <div class="btn btn-outline-success mb-4 w-100">
+                        {{ page.contentButtonText }}
+                    </div>
+                {% else %}
                     <div class="btn btn-outline-success mb-4 w-100">
                         Website von {{ page.title }} besuchen!
                     </div>
+                {% endif %}
                 </span>
             </div>
             <div class="align-items-center">
