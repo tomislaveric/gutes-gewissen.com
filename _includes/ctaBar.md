@@ -10,14 +10,22 @@
                         <h3 class="h5">{{page.title}}</h3>
                         <p>{{page.slogan}}</p>
                         <div class="btn btn-success">
+                        {% if page.ctaButtonText %}
+                            {{page.ctaButtonText}}
+                        {% else %}
                             Website von {{ page.title }} besuchen!
+                        {% endif %}
                         </div>
                     </div>
                 </div>
                 <div class="col d-lg-none">
                     <div class="text-center">
                         <div class="btn btn-success">
+                        {% if page.ctaButtonText %}
+                            {{page.ctaButtonText}}
+                        {% else %}
                             Website von {{ page.title }} besuchen!
+                        {% endif %}
                         </div>
                     </div>
                 </div>
