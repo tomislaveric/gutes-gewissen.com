@@ -1,6 +1,6 @@
 <div class="col mb-4">
     <div class="card h-100">
-    <a href="{{ post.url }}" rel="nofollow" class="black-link">
+    <a href="{{ post.url }}" class="black-link">
         <div class="card-header bg-transparent">
             <h2 class="h5 mt-0">{{ post.title }}
             <div class="text-muted h6 mt-1">{{ post.slogan }}</div>
