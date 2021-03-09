@@ -9,5 +9,6 @@ layout: base
     </div>
 </div>
 <div class="container">
+<p>{{ page.description }}</p>
     {{content}}
 </div>
