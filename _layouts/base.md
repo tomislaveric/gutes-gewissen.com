@@ -39,7 +39,6 @@ websiteTitle: gutes-gewissen
   <title>{% if page.seoTitle %}{{page.seoTitle}}{% else %}{{ page.title }} {% if page.slogan %} | {{ page.slogan }} {% endif %}{% endif %}</title>
 
 <!-- Unique/Canonical urls -->  
-  <link rel="canonical" href="{{ site.url }}"/>
   <link rel="canonical" href="{{ site.url }}/ueber-uns"/>
   <link rel="canonical" href="{{ site.url }}/impressum"/>
   <link rel="canonical" href="{{ site.url }}/datenschutz"/>
