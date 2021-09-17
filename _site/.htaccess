@@ -5,6 +5,8 @@
     RewriteEngine On
     RewriteBase /
     
+    AddHandler x-mapp-php6 .php3 .php4 .php .phtml    
+    
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteRule . /_site/index.php [L]
