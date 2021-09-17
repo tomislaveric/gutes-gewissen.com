@@ -13,5 +13,5 @@
 # If you want to make 301 redirect from non-www to www domain add this following code:
     RewriteCond %{HTTP_HOST} !^www\.
     RewriteRule ^(.*)$ https://www.%{HTTP_HOST}/$1 [R=301,L]
-    
+    Redirect 301 "/oekostrom-und-oekogas/greenpeace-energy/" "/oekostrom-und-oekogas/green-planet-energy/"
     </IfModule>
