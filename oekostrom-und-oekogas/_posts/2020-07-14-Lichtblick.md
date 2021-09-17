@@ -3,7 +3,7 @@ author: Tomislav
 title: LichtBlick
 slogan: Deutschlands führender Ökostom- und Ökogasanbieter
 targetUrl: https://www.awin1.com/cread.php?awinmid=19047&awinaffid=731132&clickref=&ued=
-image: /assets/images/LichtBlick.jpg
+image: /assets/images/lichtblick.jpg
 screenshot: /assets/images/screenshots/lichtblick.jpg
 rubric: Ökostrom & Ökogas
 shortDescription: LichtBlick ist ein unabhängiger Energieversorger und bietet seinen Kunden 100-prozentigen Ökostrom sowie Okogas neben Vorteilen für Elektroautofahrer.
