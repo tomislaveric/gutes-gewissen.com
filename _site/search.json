@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "wunderwerk",
+      "url"         : "/mode-und-kleidung/wunderwerk/",
+      "category"    : "",
+      "tags"        : "Kleidung, Nachhaltige Mode, Damen, Herren, Mode, Fashion, Fair",
+      "date"        : "2021-12-01 00:00:00 +0100",
+      "shippings"   : "Kostenlose Lieferung innerhalb Deutschlands ab 50,00 Euro WarenwertVersandkostenpauschale von 5,95 Euro für Bestellungen bis 49,99 EuroVersandkosten ins EU-Ausland 11,95 EuroVersand in die Schweiz und Großbritannien 15,90 EuroKostenfreie Rücksendungen für Besteller aus Deutschland",
+      "image"       : "/assets/images/wunderwerk.png"
+
+    } ,
+  
+    {
+
       "title"       : "naftie",
       "url"         : "/tierfutter-und-tierbedarf/naftie/",
       "category"    : "",

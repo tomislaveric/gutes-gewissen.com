@@ -184,6 +184,20 @@
 </div>
   
 <?php
+$file = 'https://neso.r.niwepa.com/ts/i5541365/tsc?amc=con.blbn.490871.505057.14452568&rmd=3&trg=https%3A%2F%2Fwww.wunderwerk.com';
+$title = 'wunderwerk';
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
+    echo $title . " -> " . "NOT FOUND";
+} else if (str_contains($content, 'This link is inactive')) {
+    echo $title . " -> " . "INACTIVE";
+} else {
+    echo $title . " -> " . "OK";
+}
+?>
+
+<?php
 $file = 'https://atlas.r.akipam.com/ts/i5042092/tsc?typ=r&amc=con.blbn.490871.505057.CRT4S_CjPyu';
 $title = 'naftie';
 $file_headers = @get_headers($file);
