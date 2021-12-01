@@ -14,6 +14,18 @@
   
     {
 
+      "title"       : "Deerberg",
+      "url"         : "/mode-und-kleidung/deerberg/",
+      "category"    : "",
+      "tags"        : "Kleidung, Nachhaltige Mode, Damen, Mode, Fashion, GOTS zertifiziert, Wohntextilien",
+      "date"        : "2021-12-01 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands 6,95 EuroLieferkosten innerhalb der EU 13,95 EuroWeltweiter Versand 24,90 EuroKostenlose Retoure/Rückversand verfügbar",
+      "image"       : "/assets/images/deerberg.png"
+
+    } ,
+  
+    {
+
       "title"       : "naftie",
       "url"         : "/tierfutter-und-tierbedarf/naftie/",
       "category"    : "",
