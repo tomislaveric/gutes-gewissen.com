@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Robin",
+      "url"         : "/mode-und-kleidung/robin/",
+      "category"    : "",
+      "tags"        : "Nachhaltige Mode, Damen, Herren, Mode, Fashion, Made-in-Germany, Caps, Mützen",
+      "date"        : "2021-12-02 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands 3,90 EuroKostenlose Lieferung ab 70 Euro BestellwertLieferkosten nach Österreich 5,90 EuroKostenfreier Versand nach Österreich ab 100 EuroGratis Retoure/Rücksendung innerhalb Deutschlands",
+      "image"       : "/assets/images/Robin.jpg"
+
+    } ,
+  
+    {
+
       "title"       : "wunderwerk",
       "url"         : "/mode-und-kleidung/wunderwerk/",
       "category"    : "",
