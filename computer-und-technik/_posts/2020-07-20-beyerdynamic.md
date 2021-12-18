@@ -33,7 +33,7 @@ contact: [
 media: ["https://www.youtube.com/embed/XCA1CCv9Sc4", "https://www.youtube.com/embed/ctJvWQw-N7Q"]
 affiliateElements: [
     [
-    "beyerdynamic Produkte im Online-Shop von otto.de", 
+    "Produkte im Online-Shop von otto.de", 
     "https://www.awin1.com/cread.php?awinmid=14336&awinaffid=731132&clickref=&ued=https%3A%2F%2Fwww.otto.de%2Fsuche%2FBeyerdynamic%2F",
     "/assets/images/otto.png"
     ],

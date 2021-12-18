@@ -32,7 +32,7 @@ affiliateElements: [
     "/assets/images/idealo.png"
     ],
     [
-    "Mey Bodywear Produkte im Online-Shop von otto.de", 
+    "Produkte im Online-Shop von otto.de", 
     "https://www.awin1.com/cread.php?awinmid=14336&awinaffid=731132&clickref=&ued=https%3A%2F%2Fwww.otto.de%2Fsuche%2FMey%2F", 
     "/assets/images/otto.png"
     ]
