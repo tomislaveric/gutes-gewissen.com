@@ -38,6 +38,18 @@
   
     {
 
+      "title"       : "Green Petfood",
+      "url"         : "/tierfutter-und-tierbedarf/green_petfood/",
+      "category"    : "",
+      "tags"        : "Nachhaltiges-Tierfutter, Vegan, Klimaneutral, Bio, Ökologisch",
+      "date"        : "2021-12-21 00:00:00 +0100",
+      "shippings"   : "Versandkostenfreie Lieferung innerhalb Deutschlands ab 19 Euro BestellwertVersandkosten von 3,95 Euro für Bestellungen unter 19 EuroKostenlose Lieferung nach Österreich ab 39 Euro WarenwertLieferkosten nach Österreich von 4,95 für Bestellungen unter 39 EuroMindestbestellwert 4,99 Euro",
+      "image"       : "/assets/images/green-petfood.png"
+
+    } ,
+  
+    {
+
       "title"       : "Futtershop.de",
       "url"         : "/tierfutter-und-tierbedarf/futtershop/",
       "category"    : "",
