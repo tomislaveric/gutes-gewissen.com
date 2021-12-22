@@ -62,6 +62,18 @@
   
     {
 
+      "title"       : "Natural Food Shop",
+      "url"         : "/ernaehrung-und-lebensmittel/Natural_Food_Shop/",
+      "category"    : "",
+      "tags"        : "Bio, Ökologisch, Nachhaltig, Lebensmittel, Nahrungsergänzungsmittel, Allergiker, Vegan",
+      "date"        : "2021-12-22 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands 4,90 EuroVersandkostenfreie Lieferung ab 50 Euro BestellwertVersand in weitere europäische Länder verfügbarLieferung an Packstation möglich",
+      "image"       : "/assets/images/Natural_Food_Shop.jpg"
+
+    } ,
+  
+    {
+
       "title"       : "Green Petfood",
       "url"         : "/tierfutter-und-tierbedarf/green_petfood/",
       "category"    : "",
