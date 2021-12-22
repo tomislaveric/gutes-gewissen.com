@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "4betterdays",
+      "url"         : "/haus-und-garten/4betterdays/",
+      "category"    : "",
+      "tags"        : "Made-in-Germany, Nachhaltige-Produkte, Haushalt, Möbel, Handwerk, Handgemacht",
+      "date"        : "2021-12-22 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands 6,90 EuroVersand für Waren ab 20,1 kg für 70 EuroLieferung innerhalb Europas ab 16 EuroWeltweiter Versand ab 170 Euro",
+      "image"       : "/assets/images/4betterdays.png"
+
+    } ,
+  
+    {
+
       "title"       : "Robin",
       "url"         : "/mode-und-kleidung/robin/",
       "category"    : "",
