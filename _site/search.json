@@ -110,6 +110,18 @@
   
     {
 
+      "title"       : "JOSERA",
+      "url"         : "/tierfutter-und-tierbedarf/josera/",
+      "category"    : "",
+      "tags"        : "Tierfutter, Tiernahrung, Katze, Hund, Pferd, Klimaneutral",
+      "date"        : "2021-12-19 00:00:00 +0100",
+      "shippings"   : "Kostenloser Versand innerhalb Deutschlands für Bestellungen ab 19 EuroVersandkosten in Deutschland von 3,95 Euro für Bestellungen bis 19 EuroKostenfreie Lieferung nach Österreich ab 39 Euro BestellwertLieferkosten nach Österreich von 4,95 Euro bis 39 Euro WarenwertAllgemeine Mindestbestellwert von 4,99 Euro",
+      "image"       : "/assets/images/JOSERA.png"
+
+    } ,
+  
+    {
+
       "title"       : "Robin",
       "url"         : "/mode-und-kleidung/robin/",
       "category"    : "",
