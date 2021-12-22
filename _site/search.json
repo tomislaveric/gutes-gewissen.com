@@ -158,6 +158,30 @@
   
     {
 
+      "title"       : "Locamo",
+      "url"         : "/mode-und-kleidung/locamo/",
+      "category"    : "",
+      "tags"        : "Kleidung, Damen, Herren, Mode, Fashion, Nachhaltiger-Lebensstil, Nachhaltigkeit",
+      "date"        : "2021-12-18 00:00:00 +0100",
+      "shippings"   : "Versandkosten abhängig von Artikel und HändlerKostenlose Lieferung je nach Händler verfügbarAbholung gekaufter Artikel vor Ort möglich",
+      "image"       : "/assets/images/Locamo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "MeineTrenntoilette.de",
+      "url"         : "/haus-und-garten/MeineTrenntoilette/",
+      "category"    : "",
+      "tags"        : "Wasserschutz, Nachhaltige-Produkte, Camping, Wohnmobil, Wohnwagen, Chemiefrei",
+      "date"        : "2021-12-18 00:00:00 +0100",
+      "shippings"   : "Kostenfreie Lieferung für Bestellungen ab 129 EuroVersandkosten von 6,90 bis 129 Euro WarenwertKostenloser Versand nach Österreich und in die Niederlande möglichVersandpauschale in die Schweiz von 49,90 Euro",
+      "image"       : "/assets/images/MeineTrenntoilette.png"
+
+    } ,
+  
+    {
+
       "title"       : "Robin",
       "url"         : "/mode-und-kleidung/robin/",
       "category"    : "",
