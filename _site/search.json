@@ -50,6 +50,18 @@
   
     {
 
+      "title"       : "ForestFinance",
+      "url"         : "/geschenke-und-erlebnisse/ForestFinance/",
+      "category"    : "",
+      "tags"        : "Nachhaltigkeit, Nachhaltige-Investments, Investieren, Nachhaltig, Geschenke, Geschenkideen",
+      "date"        : "2021-12-21 00:00:00 +0100",
+      "shippings"   : "Kostenloser Versand für Geschenkideen",
+      "image"       : "/assets/images/ForestFinance.png"
+
+    } ,
+  
+    {
+
       "title"       : "Robin",
       "url"         : "/mode-und-kleidung/robin/",
       "category"    : "",
