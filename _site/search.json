@@ -146,6 +146,18 @@
   
     {
 
+      "title"       : "Little Big Change",
+      "url"         : "/drogerie-und-kosmetik/little-big-change/",
+      "category"    : "",
+      "tags"        : "Baby, Windeln, Nachhaltig, Umweltschonend, Schadstofffrei, Ökologisch",
+      "date"        : "2021-12-19 00:00:00 +0100",
+      "shippings"   : "Gratis Versand im Windel-Abo",
+      "image"       : "/assets/images/Little_Big_Change.jpg"
+
+    } ,
+  
+    {
+
       "title"       : "Robin",
       "url"         : "/mode-und-kleidung/robin/",
       "category"    : "",
