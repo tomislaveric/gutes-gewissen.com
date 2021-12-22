@@ -26,6 +26,18 @@
   
     {
 
+      "title"       : "Coffee Circle",
+      "url"         : "/ernaehrung-und-lebensmittel/coffee-circle/",
+      "category"    : "",
+      "tags"        : "Kaffee, Fair-Trade, Gerechte-Arbeitsbedingungen, Nachhaltig, Sozial",
+      "date"        : "2021-12-22 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands 4,90 EuroKostenlose Lieferung ab 39 Euro BestellwertVersand in viele europäische Länder verfügbarLieferung an Postfiliale und Packstation möglichGratis Rücksendung/Retoure",
+      "image"       : "/assets/images/coffee-circle.png"
+
+    } ,
+  
+    {
+
       "title"       : "Robin",
       "url"         : "/mode-und-kleidung/robin/",
       "category"    : "",
