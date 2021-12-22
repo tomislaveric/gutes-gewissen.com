@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "atisan",
+      "url"         : "/haus-und-garten/atisan/",
+      "category"    : "",
+      "tags"        : "Fair-Trade, Gerechte-Arbeitsbedingungen, Handgemacht, Handmade, Wohnaccessoires, Wohntextilien",
+      "date"        : "2021-12-22 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 4,50 EuroKostenloser Versand in Deutschland ab 50 Euro WarenwertLieferung in europäische Länder ab 10 Euro möglich",
+      "image"       : "/assets/images/atisan.png"
+
+    } ,
+  
+    {
+
       "title"       : "4betterdays",
       "url"         : "/haus-und-garten/4betterdays/",
       "category"    : "",
