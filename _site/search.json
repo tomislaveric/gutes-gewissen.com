@@ -38,6 +38,18 @@
   
     {
 
+      "title"       : "Elkline",
+      "url"         : "/mode-und-kleidung/elkline/",
+      "category"    : "",
+      "tags"        : "Kleidung, Nachhaltige Mode, Damen, Herren, Mode, Fashion, Fair",
+      "date"        : "2021-12-21 00:00:00 +0100",
+      "shippings"   : "Versandkostenfreie Lieferung innerhalb Deutschlands für alle BestellungenKostenlose Rücksendung/Retoure",
+      "image"       : "/assets/images/elkline.png"
+
+    } ,
+  
+    {
+
       "title"       : "Robin",
       "url"         : "/mode-und-kleidung/robin/",
       "category"    : "",
