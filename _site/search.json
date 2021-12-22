@@ -38,6 +38,18 @@
   
     {
 
+      "title"       : "Futtershop.de",
+      "url"         : "/tierfutter-und-tierbedarf/futtershop/",
+      "category"    : "",
+      "tags"        : "Tierversuchsfrei, Tiernahrung, Katze, Hund, Artgerecht, Schadstofffrei",
+      "date"        : "2021-12-21 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 4,50 EuroKostenloser Versand in Deutschland ab 25 Euro WarenwertLieferkosten nach Österreich von 9 EuroKostenfreier Versand nach Österreich ab 35 Euro Bestellwert",
+      "image"       : "/assets/images/Futtershop.jpg"
+
+    } ,
+  
+    {
+
       "title"       : "Elkline",
       "url"         : "/mode-und-kleidung/elkline/",
       "category"    : "",
