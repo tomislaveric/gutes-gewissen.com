@@ -38,6 +38,18 @@
   
     {
 
+      "title"       : "myProduct.at",
+      "url"         : "/ernaehrung-und-lebensmittel/myProduct/",
+      "category"    : "",
+      "tags"        : "Handwerk, Bio, Fair-Trade, Handgemacht, Handmade, Lebensmittel, Ökologisch",
+      "date"        : "2021-12-22 00:00:00 +0100",
+      "shippings"   : "Versandkosten nach Deutschland und Österreich 4,90 EuroKostenloser Versand für Bestellungen ab 70 Euro Warenwert",
+      "image"       : "/assets/images/myProduct.png"
+
+    } ,
+  
+    {
+
       "title"       : "Coffee Circle",
       "url"         : "/ernaehrung-und-lebensmittel/coffee-circle/",
       "category"    : "",
