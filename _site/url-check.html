@@ -184,8 +184,106 @@
 </div>
   
 <?php
+$file = 'https://www.awin1.com/cread.php?awinmid=14449&awinaffid=731132';
+$title = 'Zizzz';
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
+    echo $title . " -> " . "NOT FOUND";
+} else if (str_contains($content, 'This link is inactive')) {
+    echo $title . " -> " . "INACTIVE";
+} else {
+    echo $title . " -> " . "OK";
+}
+?>
+
+<?php
+$file = 'https://www.awin1.com/cread.php?awinmid=21642&awinaffid=731132';
+$title = 'Sneakers Unplugged';
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
+    echo $title . " -> " . "NOT FOUND";
+} else if (str_contains($content, 'This link is inactive')) {
+    echo $title . " -> " . "INACTIVE";
+} else {
+    echo $title . " -> " . "OK";
+}
+?>
+
+<?php
+$file = 'IDEALO LINK im BUTTON https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DSimon%2BPike';
+$title = 'Simon Pike';
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
+    echo $title . " -> " . "NOT FOUND";
+} else if (str_contains($content, 'This link is inactive')) {
+    echo $title . " -> " . "INACTIVE";
+} else {
+    echo $title . " -> " . "OK";
+}
+?>
+
+<?php
+$file = 'https://www.awin1.com/cread.php?awinmid=20084&awinaffid=731132';
+$title = 'ULTRA-GREEN.DE';
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
+    echo $title . " -> " . "NOT FOUND";
+} else if (str_contains($content, 'This link is inactive')) {
+    echo $title . " -> " . "INACTIVE";
+} else {
+    echo $title . " -> " . "OK";
+}
+?>
+
+<?php
+$file = 'https://www.awin1.com/cread.php?awinmid=12643&awinaffid=731132';
+$title = 'SIGG';
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
+    echo $title . " -> " . "NOT FOUND";
+} else if (str_contains($content, 'This link is inactive')) {
+    echo $title . " -> " . "INACTIVE";
+} else {
+    echo $title . " -> " . "OK";
+}
+?>
+
+<?php
+$file = 'https://www.awin1.com/cread.php?awinmid=14396&awinaffid=731132';
+$title = 'Zotter';
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
+    echo $title . " -> " . "NOT FOUND";
+} else if (str_contains($content, 'This link is inactive')) {
+    echo $title . " -> " . "INACTIVE";
+} else {
+    echo $title . " -> " . "OK";
+}
+?>
+
+<?php
 $file = 'https://www.awin1.com/cread.php?awinmid=22422&awinaffid=731132';
 $title = 'HOME IS WHERE YOUR HEART IS';
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
+    echo $title . " -> " . "NOT FOUND";
+} else if (str_contains($content, 'This link is inactive')) {
+    echo $title . " -> " . "INACTIVE";
+} else {
+    echo $title . " -> " . "OK";
+}
+?>
+
+<?php
+$file = 'https://www.awin1.com/cread.php?awinmid=22801&awinaffid=731132';
+$title = 'Sisters Republic';
 $file_headers = @get_headers($file);
 $content = file_get_contents($file);
 if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
@@ -422,8 +520,36 @@ if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
 ?>
 
 <?php
+$file = 'https://www.awin1.com/cread.php?awinmid=21356&awinaffid=731132';
+$title = 'Tranquillo';
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
+    echo $title . " -> " . "NOT FOUND";
+} else if (str_contains($content, 'This link is inactive')) {
+    echo $title . " -> " . "INACTIVE";
+} else {
+    echo $title . " -> " . "OK";
+}
+?>
+
+<?php
 $file = 'https://www.awin1.com/cread.php?awinmid=19076&awinaffid=731132';
 $title = 'Second Life Fashion';
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
+    echo $title . " -> " . "NOT FOUND";
+} else if (str_contains($content, 'This link is inactive')) {
+    echo $title . " -> " . "INACTIVE";
+} else {
+    echo $title . " -> " . "OK";
+}
+?>
+
+<?php
+$file = 'https://www.awin1.com/cread.php?awinmid=22904&awinaffid=731132';
+$title = 'Treesteem';
 $file_headers = @get_headers($file);
 $content = file_get_contents($file);
 if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {

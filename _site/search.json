@@ -2,6 +2,78 @@
   
     {
 
+      "title"       : "Zizzz",
+      "url"         : "/mode-und-kleidung/zizzz/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Umweltschonened, Babyschlafsäcke, Bettwäsche, Bettdecken, Schlafanzüge, Wohntextilien",
+      "date"        : "2021-12-23 00:00:00 +0100",
+      "shippings"   : "Kostenloser Versand innerhalb der EU und in die SchweizGratis Rückversand für registrierte Kunden in Deutschland und der Schweiz",
+      "image"       : "/assets/images/zizzz.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Sneakers Unplugged",
+      "url"         : "/mode-und-kleidung/sneakers-unplugged/",
+      "category"    : "",
+      "tags"        : "Schuhe, Damen, Herren, Nachhaltigkeit, Vegan, Nachhaltige Bio-Schuhe",
+      "date"        : "2021-12-23 00:00:00 +0100",
+      "shippings"   : "Kostenlose Lieferung innerhalb Deutschlands ab 60 Euro BestellwertKostenfreie Retoure möglichVersandkostenfreie Lieferung nach ÖsterreichVersand in EU-Länder für 9,90 EuroWeltweite Zustellung für 19,90 Euro",
+      "image"       : "/assets/images/sneakers_unplugged.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Simon Pike",
+      "url"         : "/mode-und-kleidung/Simon_Pike/",
+      "category"    : "",
+      "tags"        : "Accessoires, Fair, Handgemacht, Handmade, Made-in-Germany, Nachhaltige-Produkte",
+      "date"        : "2021-12-23 00:00:00 +0100",
+      "shippings"   : "Kostenloser Versand innerhalb Deutschlands für alle BestellungenLieferung ins Ausland ab 8,90 Euro verfügbar",
+      "image"       : "/assets/images/Simon_Pike.png"
+
+    } ,
+  
+    {
+
+      "title"       : "ULTRA-GREEN.DE",
+      "url"         : "/haus-und-garten/ultra-green/",
+      "category"    : "",
+      "tags"        : "Plastikfrei, Nachhaltige-Produkte, Nachhaltiger-Lebensstil, Haushalt, Naturkosmetik",
+      "date"        : "2021-12-23 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands 4,99 EuroKostenloser Versand für Bestellungen ab 60 EuroLieferung in europäisches Ausland für 12,90 EuroMindestbestellwert 15 Euro",
+      "image"       : "/assets/images/ultra-green.png"
+
+    } ,
+  
+    {
+
+      "title"       : "SIGG",
+      "url"         : "/haus-und-garten/sigg/",
+      "category"    : "",
+      "tags"        : "Schadstofffrei, Nachhaltig, Hochwertig, Made-in-Swiss, Trinkflaschen",
+      "date"        : "2021-12-23 00:00:00 +0100",
+      "shippings"   : "Kostenloser Versand für Bestellungen ab 29,95 Euro",
+      "image"       : "/assets/images/SIGG.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Zotter",
+      "url"         : "/ernaehrung-und-lebensmittel/zotter/",
+      "category"    : "",
+      "tags"        : "Bio, Fair-Traid, Schokolade, Made-in-Österreich",
+      "date"        : "2021-12-23 00:00:00 +0100",
+      "shippings"   : "Versandkostenfreie Lieferung nach Deutschland ab 35 Euro BestellwertVersandkosten von 8,90 Euro für Bestellungen bis 24,99 EuroVersandkosten von 7,90 Euro für Bestellungen ab 25,00 EuroKostenloser Versand innerhalb Österreichs ab 25 Euro WarenwertKostenfreie Lieferung innerhalb Europas ab 45 Euro Bestellwert",
+      "image"       : "/assets/images/zotter.jpg"
+
+    } ,
+  
+    {
+
       "title"       : "HOME IS WHERE YOUR HEART IS",
       "url"         : "/mode-und-kleidung/home-is-where-your-heart-is/",
       "category"    : "",
@@ -9,6 +81,18 @@
       "date"        : "2021-12-22 00:00:00 +0100",
       "shippings"   : "Versandkosten innerhalb Deutschlands 5 EuroVersandkostenfreie Lieferung in Deutschland ab 80 Euro BestellwertVersand ins Ausland ab 9 EuroGratis Lieferung ins Ausland für Bestellungen ab 150 Euro",
       "image"       : "/assets/images/home-is-where-your-heart-is.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Sisters Republic",
+      "url"         : "/mode-und-kleidung/Sisters_Republic/",
+      "category"    : "",
+      "tags"        : "Kleidung, Nachhaltige Mode, Damen, Nachhaltigkeit, Unterwäsche",
+      "date"        : "2021-12-22 00:00:00 +0100",
+      "shippings"   : "Versandkosten von 6,10 Euro für Bestellungen unter 40 EuroKostenloser Versand für Bestellungen über 40 Euro WarenwertLieferung innerhalb Europas und weltweit möglich",
+      "image"       : "/assets/images/Sisters_Republic.png"
 
     } ,
   
@@ -206,6 +290,18 @@
   
     {
 
+      "title"       : "Tranquillo",
+      "url"         : "/mode-und-kleidung/Tranquillo/",
+      "category"    : "",
+      "tags"        : "Kleidung, Nachhaltige Mode, Damen, Herren, Mode, Fair, Fashion, GOTS zertifiziert",
+      "date"        : "2021-12-17 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 3,95 Euro pro BestellungLieferung in viele weitere Länder ab 6,95 Euro möglichKostenlose Rücksendungen für Kunden aus Deutschland",
+      "image"       : "/assets/images/Tranquillo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Second Life Fashion",
       "url"         : "/mode-und-kleidung/Second_Life_Fashion/",
       "category"    : "",
@@ -213,6 +309,18 @@
       "date"        : "2021-12-17 00:00:00 +0100",
       "shippings"   : "Versandkosten innerhalb Deutschlands 3,90 EuroGratis Versand innerhalb Deutschlands ab 30 Euro WarenwertLieferkosten nach Österreich 9,90 EuroKostenloser Versand nach Österreich ab 80 Euro BestellwertKostenfreie Rücksendungen aus Deutschland",
       "image"       : "/assets/images/Second_Life_Fashion.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Treesteem",
+      "url"         : "/mode-und-kleidung/Treesteem/",
+      "category"    : "",
+      "tags"        : "Nachhaltige Mode, Damen, Herren, Mode, Fashion, Made-in-Germany, Kleidung, Bio",
+      "date"        : "2021-12-16 00:00:00 +0100",
+      "shippings"   : "Kostenloser Versand weltweit ohne MindestbestellwertLieferzeit innerhalb Deutschlands 2-9 TageLieferung in Europa innerhalb 2-14 TageWeltweiter Versand in 4-21 Tagen",
+      "image"       : "/assets/images/Treesteem.png"
 
     } ,
   
