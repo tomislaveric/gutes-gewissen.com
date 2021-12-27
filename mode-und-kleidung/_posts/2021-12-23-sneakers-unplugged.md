@@ -36,6 +36,7 @@ Das abwechslungsreiche Angebot besteht aus ausschließlich europäische Schuhmar
 ### Die Philosophie von Sneakers Unplugged
 
 Nachhaltigkeit ist mehr als ein Schlagwort – sondern ist den Gründern eine Herzensangelegenheit. Das Kriterium ist es, Schuhe so zu produzieren, dass die Herstellung dauerhaft im Einklang mit der Umwelt geschieht. Es geht auch darum, einen bewussten Konsum zu fördern, in dem die vorhandenen Ressourcen sinnvoll genutzt werden. Eine nachhaltige Kreislaufwirtschaft ist hier das Motto. Auch freiwillige soziale Maßnahmen, faire Arbeitsbedingungen und Arbeitssicherheit sind ein wesentlicher Bestandteil der Philosophie. Damit wird der Anspruch der Nachhaltigkeit zu 100 % erfüllt.
+
 Der Einsatz von den innovativen Materialien als auch das Recycling spielen hier eine wichtige Rolle. Dazu zählen zum Beispiel Mais- oder Kaktusleder. Wenn tierisches Leder eingesetzt wird, muss dieses den strengen Vorgaben der Lederherstellung entsprechen und eine Zertifizierung vorweisen. Andere Materialien wie Textilien aus Polyester und Baumwolle finden ebenfalls Verwendung. Hier wird auf das Kennzeichen OEKO-TEX 100 gesetzt. Dieses gibt Verbrauchern eine gute Orientierung. 
 
 ### Das Sortiment von Sneakers Unplugged
@@ -71,12 +72,15 @@ Wer Sneakers liebt und Wert auf ganzheitliche Nachhaltigkeit, Kundenfreundlichke
 ### Der Online-Shops von Sneakers Unplugged
 
 Der Sneakers Unplugged Online-Shop ist in seiner Menüführung nutzerfreundlich, die informelle Sprache spiegelt die Firmenphilosophie wider. Bei der Suchfunktion ist es möglich, nach dem Alphabet, dem Datum, dem- Preis, dem Rabatt oder nach den meistverkauften Artikeln zu sortieren. Die Darstellung von den Produktinformationen kann flexibel gewählt werden. Dieses Feature verleiht dem Shop zusätzlich etwas Besonderes.
+
 Die Lieblingsprodukte in dem Sneakers Unplugged Online-Shop können mit dem Anklicken eines Herzens zu einer Wishlist hinzugefügt werden. Generell ist die Produktbeschreibung übersichtlich gestaltet und die Kunden haben die Möglichkeit, die ausgewählte Ware direkt per PayPal zu kaufen oder für weitere Zahlungsvarianten in den Einkaufswagen zu legen.
+
 Unter der Rubrik [„Unplugged World“](https://www.sneakers-unplugged.de/pages/nachhaltige-vegane-sneakers-marken-coming-soon){:target="_blank"} stellen der Gründer Christian Ohm und seine Mitarbeiterin Svenya Scholl die Entstehung des Konzepts ausführlich vor. 
 
 ### Das Einkaufen bei Sneakers Unplugged
 
 Online einkaufen hat seinen Reiz, doch wer seine Sneakers lieber vor Ort ausprobieren und sich persönlich unmittelbar beraten lassen möchte, kann dies in den verschiedenen Stores tun. Dies ist beispielsweise in dem Sneakers Unplugged Store in der Alten Wallgasse Köln möglich. Zudem gibt es immer wieder Pop-up Verkäufe, bislang beispielsweise in Köln und in Düsseldorf.
+
 Die Pop-up Stores finden vorübergehend u.a. in branchenfremden oder leerstehenden Geschäftsräumen statt. Dies spricht vor allem ein spontanes Publikum an. Diese Veranstaltungen werden auf der Homepage mit einer entsprechenden Vorlaufzeit beworben. Diese Events finden in verschiedenen Städten regelmäßig statt und sind eine schöne Ergänzung zum Hauptladen in Köln. 
 
 ### Die Sneakers Unplugged Zahlungsarten
@@ -85,5 +89,6 @@ Wer bei Sneakers Unplugged online Schuhe bestellt, hat eine Bandbreite an prakti
 
 ### Die Sneakers Unplugged Versandkosten
 
-Bei einer Lieferung nach Hause ab 60,00 € entfallen die Sneakers Unplugged Versandkosten. Dies gilt ebenso für die Retouren. Hier wird auf die Ökologie geachtet: Pro Kunden werden maximal 4 Sneaker, also 2 Pakete, versendet. Die übliche Lieferzeit dauert zwischen 1-2 Werktage. 
+Bei einer Lieferung nach Hause ab 60,00 € entfallen die Sneakers Unplugged Versandkosten. Dies gilt ebenso für die Retouren. Hier wird auf die Ökologie geachtet: Pro Kunden werden maximal 4 Sneaker, also 2 Pakete, versendet. Die übliche Lieferzeit dauert zwischen 1-2 Werktage.
+
 Es ist das gesetzlich festgelegte Umtauschrecht von 14 Tagen nach Warenerhalt gültig. Getragene Ware ist davon selbstverständlich ausgeschlossen. Lieferbedingungen außerhalb der EU sind im Einzelnen der Homepage zu entnehmen.
