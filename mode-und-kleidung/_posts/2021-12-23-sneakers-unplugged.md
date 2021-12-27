@@ -42,6 +42,7 @@ Der Einsatz von den innovativen Materialien als auch das Recycling spielen hier 
 
 Die Auswahl bei Sneakers Unplugged ist sehr vielseitig im Stil und in den Preisklassen. Abseits von dem Mainstream finden Sneaker-Fans hier europäische Marken jeder Couleur. 
 Die Sneakers Unplugged Produkte sind unterteilt in:
+
 * Vegane Sneakers
 * Recycelte Materialien
 * Mid / High Top Styles
@@ -50,7 +51,9 @@ Die Sneakers Unplugged Produkte sind unterteilt in:
 * Business Casual Styles
 * Unsere Lieblingsstücke
 * In Europa produziert
+
 Das Sortiment umfasst folgende Marken:
+
 * ACBC Italy
 * BeFlamboyant
 * CLAE
@@ -62,6 +65,7 @@ Das Sortiment umfasst folgende Marken:
 * Humans are Vain
 * Saye Brand
 * VEGETARIAN Shoes
+
 Wer Sneakers liebt und Wert auf ganzheitliche Nachhaltigkeit, Kundenfreundlichkeit sowie einzigartige Designs legt, ist bei Sneakers Unplugged genau richtig.
 
 ### Der Online-Shops von Sneakers Unplugged

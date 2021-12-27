@@ -27,7 +27,7 @@
     {
 
       "title"       : "Simon Pike",
-      "url"         : "/mode-und-kleidung/Simon-Pike/",
+      "url"         : "/mode-und-kleidung/simon-pike/",
       "category"    : "",
       "tags"        : "Accessoires, Fair, Handgemacht, Handmade, Made-in-Germany, Nachhaltige-Produkte",
       "date"        : "2021-12-23 00:00:00 +0100",
@@ -74,6 +74,18 @@
   
     {
 
+      "title"       : "Sisters Republic",
+      "url"         : "/mode-und-kleidung/sisters-republic/",
+      "category"    : "",
+      "tags"        : "Kleidung, Nachhaltige Mode, Damen, Nachhaltigkeit, Unterwäsche",
+      "date"        : "2021-12-22 00:00:00 +0100",
+      "shippings"   : "Versandkosten von 6,10 Euro für Bestellungen unter 40 EuroKostenloser Versand für Bestellungen über 40 Euro WarenwertLieferung innerhalb Europas und weltweit möglich",
+      "image"       : "/assets/images/Sisters_Republic.png"
+
+    } ,
+  
+    {
+
       "title"       : "HOME IS WHERE YOUR HEART IS",
       "url"         : "/mode-und-kleidung/home-is-where-your-heart-is/",
       "category"    : "",
@@ -81,18 +93,6 @@
       "date"        : "2021-12-22 00:00:00 +0100",
       "shippings"   : "Versandkosten innerhalb Deutschlands 5 EuroVersandkostenfreie Lieferung in Deutschland ab 80 Euro BestellwertVersand ins Ausland ab 9 EuroGratis Lieferung ins Ausland für Bestellungen ab 150 Euro",
       "image"       : "/assets/images/home-is-where-your-heart-is.png"
-
-    } ,
-  
-    {
-
-      "title"       : "Sisters Republic",
-      "url"         : "/mode-und-kleidung/Sisters_Republic/",
-      "category"    : "",
-      "tags"        : "Kleidung, Nachhaltige Mode, Damen, Nachhaltigkeit, Unterwäsche",
-      "date"        : "2021-12-22 00:00:00 +0100",
-      "shippings"   : "Versandkosten von 6,10 Euro für Bestellungen unter 40 EuroKostenloser Versand für Bestellungen über 40 Euro WarenwertLieferung innerhalb Europas und weltweit möglich",
-      "image"       : "/assets/images/Sisters_Republic.png"
 
     } ,
   
@@ -122,6 +122,18 @@
   
     {
 
+      "title"       : "Natural Food Shop",
+      "url"         : "/ernaehrung-und-lebensmittel/natural-food-shop/",
+      "category"    : "",
+      "tags"        : "Bio, Ökologisch, Nachhaltig, Lebensmittel, Nahrungsergänzungsmittel, Allergiker, Vegan",
+      "date"        : "2021-12-22 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands 4,90 EuroVersandkostenfreie Lieferung ab 50 Euro BestellwertVersand in weitere europäische Länder verfügbarLieferung an Packstation möglich",
+      "image"       : "/assets/images/Natural_Food_Shop.jpg"
+
+    } ,
+  
+    {
+
       "title"       : "myProduct.at",
       "url"         : "/ernaehrung-und-lebensmittel/myProduct/",
       "category"    : "",
@@ -141,18 +153,6 @@
       "date"        : "2021-12-22 00:00:00 +0100",
       "shippings"   : "Versandkosten innerhalb Deutschlands 4,90 EuroKostenlose Lieferung ab 39 Euro BestellwertVersand in viele europäische Länder verfügbarLieferung an Postfiliale und Packstation möglichGratis Rücksendung/Retoure",
       "image"       : "/assets/images/coffee-circle.png"
-
-    } ,
-  
-    {
-
-      "title"       : "Natural Food Shop",
-      "url"         : "/ernaehrung-und-lebensmittel/Natural-Food-Shop/",
-      "category"    : "",
-      "tags"        : "Bio, Ökologisch, Nachhaltig, Lebensmittel, Nahrungsergänzungsmittel, Allergiker, Vegan",
-      "date"        : "2021-12-22 00:00:00 +0100",
-      "shippings"   : "Versandkosten innerhalb Deutschlands 4,90 EuroVersandkostenfreie Lieferung ab 50 Euro BestellwertVersand in weitere europäische Länder verfügbarLieferung an Packstation möglich",
-      "image"       : "/assets/images/Natural_Food_Shop.jpg"
 
     } ,
   
@@ -195,7 +195,7 @@
     {
 
       "title"       : "ForestFinance",
-      "url"         : "/geschenke-und-erlebnisse/ForestFinance/",
+      "url"         : "/geschenke-und-erlebnisse/forestfinance/",
       "category"    : "",
       "tags"        : "Nachhaltigkeit, Nachhaltige-Investments, Investieren, Nachhaltig, Geschenke, Geschenkideen",
       "date"        : "2021-12-21 00:00:00 +0100",
@@ -279,12 +279,24 @@
     {
 
       "title"       : "MeineTrenntoilette.de",
-      "url"         : "/haus-und-garten/MeineTrenntoilette/",
+      "url"         : "/haus-und-garten/meinetrenntoilette/",
       "category"    : "",
       "tags"        : "Wasserschutz, Nachhaltige-Produkte, Camping, Wohnmobil, Wohnwagen, Chemiefrei",
       "date"        : "2021-12-18 00:00:00 +0100",
       "shippings"   : "Kostenfreie Lieferung für Bestellungen ab 129 EuroVersandkosten von 6,90 bis 129 Euro WarenwertKostenloser Versand nach Österreich und in die Niederlande möglichVersandpauschale in die Schweiz von 49,90 Euro",
       "image"       : "/assets/images/MeineTrenntoilette.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Second Life Fashion",
+      "url"         : "/mode-und-kleidung/second-life-fashion/",
+      "category"    : "",
+      "tags"        : "Second Hand, Mode, Fashion, Damen, Herren, Kleidung",
+      "date"        : "2021-12-17 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands 3,90 EuroGratis Versand innerhalb Deutschlands ab 30 Euro WarenwertLieferkosten nach Österreich 9,90 EuroKostenloser Versand nach Österreich ab 80 Euro BestellwertKostenfreie Rücksendungen aus Deutschland",
+      "image"       : "/assets/images/Second_Life_Fashion.png"
 
     } ,
   
@@ -302,20 +314,8 @@
   
     {
 
-      "title"       : "Second Life Fashion",
-      "url"         : "/mode-und-kleidung/Second-Life-Fashion/",
-      "category"    : "",
-      "tags"        : "Second Hand, Mode, Fashion, Damen, Herren, Kleidung",
-      "date"        : "2021-12-17 00:00:00 +0100",
-      "shippings"   : "Versandkosten innerhalb Deutschlands 3,90 EuroGratis Versand innerhalb Deutschlands ab 30 Euro WarenwertLieferkosten nach Österreich 9,90 EuroKostenloser Versand nach Österreich ab 80 Euro BestellwertKostenfreie Rücksendungen aus Deutschland",
-      "image"       : "/assets/images/Second_Life_Fashion.png"
-
-    } ,
-  
-    {
-
       "title"       : "Treesteem",
-      "url"         : "/mode-und-kleidung/Treesteem/",
+      "url"         : "/mode-und-kleidung/treesteem/",
       "category"    : "",
       "tags"        : "Nachhaltige Mode, Damen, Herren, Mode, Fashion, Made-in-Germany, Kleidung, Bio",
       "date"        : "2021-12-16 00:00:00 +0100",
@@ -663,7 +663,7 @@
     {
 
       "title"       : "LichtBlick",
-      "url"         : "/oekostrom-und-oekogas/Lichtblick/",
+      "url"         : "/oekostrom-und-oekogas/lichtblick/",
       "category"    : "",
       "tags"        : "Energieversorger, Ökogasanbieter, Ökostrom, Grüner Strom, CO2 neutral",
       "date"        : "2020-07-14 00:00:00 +0200",
@@ -675,7 +675,7 @@
     {
 
       "title"       : "NATURSTROM",
-      "url"         : "/oekostrom-und-oekogas/Naturstrom/",
+      "url"         : "/oekostrom-und-oekogas/naturstrom/",
       "category"    : "",
       "tags"        : "Energieversorger, Ökogasanbieter, Ökostrom, Grüner Strom, CO2 neutral",
       "date"        : "2020-07-13 00:00:00 +0200",

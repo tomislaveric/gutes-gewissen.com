@@ -184,7 +184,7 @@
 </div>
   
 <?php
-$file = 'https://www.awin1.com/cread.php?awinmid=14449&awinaffid=731132';
+$file = 'https://www.awin1.com/cread.php?awinmid=16530&awinaffid=731132';
 $title = 'Zizzz';
 $file_headers = @get_headers($file);
 $content = file_get_contents($file);
@@ -212,7 +212,7 @@ if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
 ?>
 
 <?php
-$file = 'IDEALO LINK im BUTTON https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DSimon%2BPike';
+$file = 'https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DSimon%2BPike';
 $title = 'Simon Pike';
 $file_headers = @get_headers($file);
 $content = file_get_contents($file);
@@ -268,8 +268,8 @@ if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
 ?>
 
 <?php
-$file = 'https://www.awin1.com/cread.php?awinmid=22422&awinaffid=731132';
-$title = 'HOME IS WHERE YOUR HEART IS';
+$file = 'https://www.awin1.com/cread.php?awinmid=22801&awinaffid=731132';
+$title = 'Sisters Republic';
 $file_headers = @get_headers($file);
 $content = file_get_contents($file);
 if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
@@ -282,8 +282,8 @@ if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
 ?>
 
 <?php
-$file = 'https://www.awin1.com/cread.php?awinmid=22801&awinaffid=731132';
-$title = 'Sisters Republic';
+$file = 'https://www.awin1.com/cread.php?awinmid=22422&awinaffid=731132';
+$title = 'HOME IS WHERE YOUR HEART IS';
 $file_headers = @get_headers($file);
 $content = file_get_contents($file);
 if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
@@ -324,6 +324,20 @@ if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
 ?>
 
 <?php
+$file = 'https://www.awin1.com/cread.php?awinmid=21874&awinaffid=731132';
+$title = 'Natural Food Shop';
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
+    echo $title . " -> " . "NOT FOUND";
+} else if (str_contains($content, 'This link is inactive')) {
+    echo $title . " -> " . "INACTIVE";
+} else {
+    echo $title . " -> " . "OK";
+}
+?>
+
+<?php
 $file = 'https://pluto.r.powuta.com/ts/i5043566/tsc?amc=con.blbn.490871.505057.14447707&rmd=3&trg=https%3A%2F%2Fmyproduct.at%2F';
 $title = 'myProduct.at';
 $file_headers = @get_headers($file);
@@ -340,20 +354,6 @@ if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
 <?php
 $file = 'https://www.awin1.com/cread.php?awinmid=14018&awinaffid=731132';
 $title = 'Coffee Circle';
-$file_headers = @get_headers($file);
-$content = file_get_contents($file);
-if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
-    echo $title . " -> " . "NOT FOUND";
-} else if (str_contains($content, 'This link is inactive')) {
-    echo $title . " -> " . "INACTIVE";
-} else {
-    echo $title . " -> " . "OK";
-}
-?>
-
-<?php
-$file = 'https://www.awin1.com/cread.php?awinmid=21874&awinaffid=731132';
-$title = 'Natural Food Shop';
 $file_headers = @get_headers($file);
 $content = file_get_contents($file);
 if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
@@ -520,8 +520,8 @@ if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
 ?>
 
 <?php
-$file = 'https://www.awin1.com/cread.php?awinmid=21356&awinaffid=731132';
-$title = 'Tranquillo';
+$file = 'https://www.awin1.com/cread.php?awinmid=19076&awinaffid=731132';
+$title = 'Second Life Fashion';
 $file_headers = @get_headers($file);
 $content = file_get_contents($file);
 if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
@@ -534,8 +534,8 @@ if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
 ?>
 
 <?php
-$file = 'https://www.awin1.com/cread.php?awinmid=19076&awinaffid=731132';
-$title = 'Second Life Fashion';
+$file = 'https://www.awin1.com/cread.php?awinmid=21356&awinaffid=731132';
+$title = 'Tranquillo';
 $file_headers = @get_headers($file);
 $content = file_get_contents($file);
 if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {

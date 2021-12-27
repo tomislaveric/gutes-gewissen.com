@@ -121,7 +121,8 @@ description: "Ökostromtarife und Ökogastarife im Preisvergleich - Vergleich de
 </div>
 {% for anbieter in site.data.oekostrom-und-oekogas %}
 {% assign anbieterIndex = forloop.index %}
-{% for tarif in anbieter.tarife %}
+{% assign sorted = anbieter.tarife | sort: 'grundpreis' %}
+{% for tarif in sorted %}
 {% assign tarifIndex = forloop.index %}
 {% assign id = anbieterIndex | append: tarifIndex %}
 <div id="workPrice{{id}}" data-value="{{ tarif.arbeitspreis }}"></div>
