@@ -32,11 +32,12 @@ function getData() {
     
     var formatter = new Intl.NumberFormat('de-DE', {
       style: 'currency',
-      currency: 'EUR'
+      currency: 'EUR',
+      maximumFractionDigits: 2
     });
     
-    $("#basePriceText" + id).text(formatter.format(basePrice));
-    $("#workPriceText" + id).text(formatter.format(workPrice));
+    $("#basePriceText" + id).text(formatter.format(basePrice) + " Euro/Monat");
+    $("#workPriceText" + id).text(formatter.format(workPrice) + " Cent/kWh");
     $("#minContractText" + id).text(minContract);
     $("#cancellationText" + id).text(cancellation);
     $("#warrantyText" + id).text(warranty);

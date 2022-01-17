@@ -59,7 +59,7 @@
       arbeitspreis: 29.08
       grundpreis: 10.45
       minContract: 24 Monate
-      cancellation: 4 Wochen zum Monatsende
+      cancellation: 4 Wochen*
       warranty: keine
 
     - name: ÖkoStrom Komfort
@@ -67,7 +67,7 @@
       arbeitspreis: 29.19
       grundpreis: 10.45
       minContract: 12 Monate
-      cancellation: 4 Wochen zum Monatsende
+      cancellation: 4 Wochen*
       warranty: 12 Monate
     
     - name: ÖkoStrom Flex

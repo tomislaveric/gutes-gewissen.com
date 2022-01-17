@@ -19,7 +19,7 @@ description: "Ökostromtarife und Ökogastarife im Preisvergleich - Vergleich de
 </ul>
 <div class="alert alert-info">
     <div class="row">
-        <div class="col-sm-12 col-md-6 col-lg-auto">
+        <div class="col-sm-12 col-md-6 col-lg-4">
             <div class="tab-content">
                 <div class="tab-pane fade show active" id="strom" role="tabpanel" aria-labelledby="strom-tab">
                     <div class="row d-flex align-items-center">
@@ -83,7 +83,7 @@ description: "Ökostromtarife und Ökogastarife im Preisvergleich - Vergleich de
                 </div>
             </div>
         </div>
-        <div class="col-sm-12 col-md-6 col-lg-auto">
+        <div class="col-sm-12 col-md-6 col-lg-4">
             <div class="my-1"><b>Ihr jährlicher Verbrauch</b></div>
             <div class="input-group">
                 <input id="energyInput" type="text" class="form-control" aria-label="1500kWh">
@@ -92,7 +92,7 @@ description: "Ökostromtarife und Ökogastarife im Preisvergleich - Vergleich de
                 </div>
             </div>
         </div>
-        <div class="col-sm-12 col-md-6 col-lg-auto">
+        <div class="col-sm-12 col-md-6 col-lg-4">
             <div class="my-1"><b>Weitere Optionen</b></div>
             <div class="form-check">
                 <input class="form-check-input" onclick="setCheckboxValue()" id="minContract" type="checkbox" value="">
@@ -105,16 +105,6 @@ description: "Ökostromtarife und Ökogastarife im Preisvergleich - Vergleich de
                 <label class="form-check-label" for="warranty">
                     Mit Preisgarantie
                 </label>
-            </div>
-        </div>
-        <div class="col-sm-12 col-md-6 col-lg-auto">
-            <div class="my-1"><b>Sortiere nach...</b></div>
-            <div class="input-group mb-3">
-                <select class="custom-select" id="sortSelection">
-                    <option value="1">Gesamtpreis</option>
-                    <option value="2">Grundpreis</option>
-                    <option value="3">Arbeitspreis</option>
-                </select>
             </div>
         </div>
     </div>
@@ -187,3 +177,5 @@ description: "Ökostromtarife und Ökogastarife im Preisvergleich - Vergleich de
 </div>
 {% endfor %}
 {% endfor %}
+
+<p>* zum Monatsende</p>
