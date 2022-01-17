@@ -1,0 +1,126 @@
+[
+    {
+        "name": "Green Planet Energy",
+        "url": "https://www.awin1.com/awclick.php?gid=359225&mid=14852&awinaffid=731132&linkid=2355126&clickref=",
+        "logo": "/assets/images/green-planet-energy.jpg",
+        "tarife": [
+            {
+                "id": 1,
+                "name": "Ökostrom aktiv",
+                "typ": "strom",
+                "arbeitspreis": 29.80,
+                "grundpreis": 8.90,
+                "minContract": "keine",
+                "cancellation": "4 Wochen",
+                "warranty": "Bis zum 31.12.2021"
+            },
+            {
+                "id": 2,
+                "name": "Solarstrom plus",
+                "typ": "strom",
+                "arbeitspreis": 31.00,
+                "grundpreis": 8.90,
+                "minContract": "keine",
+                "cancellation": "4 Wochen",
+                "warranty": "Bis zum 31.12.2021"
+            },
+            {
+                "id": 3,
+                "name": "proWindgas",
+                "typ": "gas",
+                "arbeitspreis": 6.80,
+                "grundpreis": 9.90,
+                "minContract": "keine",
+                "cancellation": "4 Wochen",
+                "warranty": "Bis zum 31.12.2021"
+            },
+            {
+                "id": 4,
+                "name": "proWindgas vegan",
+                "typ": "gas",
+                "arbeitspreis": 7.20,
+                "grundpreis": 9.90,
+                "minContract": "keine",
+                "cancellation": "4 Wochen",
+                "warranty": "Bis zum 31.12.2021"
+            },
+            {
+                "id": 5,
+                "name": "proWindgas plus",
+                "typ": "gas",
+                "arbeitspreis": 7.40,
+                "grundpreis": 9.90,
+                "minContract": "keine",
+                "cancellation": "4 Wochen",
+                "warranty": "Bis zum 31.12.2021"
+            },
+            {
+                "id": 6,
+                "name": "proWindgas vegan plus",
+                "typ": "gas",
+                "arbeitspreis": 7.80,
+                "grundpreis": 9.90,
+                "minContract": "keine",
+                "cancellation": "4 Wochen",
+                "warranty": "Bis zum 31.12.2021"
+            }
+        ]
+    },
+    {
+        "name": "Lichtblick",
+        "url": "https://www.awin1.com/cread.php?awinmid=19047&awinaffid=731132&clickref=&ued=",
+        "logo": "/assets/images/LichtBlick.jpg",
+        "tarife": [
+            {
+                "id": 7,
+                "name": "ÖkoStrom Relax",
+                "typ": "strom",
+                "arbeitspreis": 29.08,
+                "grundpreis": 10.45,
+                "minContract": "24 Monate",
+                "cancellation": "4 Wochen zum Monatsende",
+                "warranty": "keine"
+            },
+            {
+                "id": 8,
+                "name": "ÖkoStrom Komfort",
+                "typ": "strom",
+                "arbeitspreis": 29.19,
+                "grundpreis": 10.45,
+                "minContract": "12 Monate",
+                "cancellation": "4 Wochen zum Monatsende",
+                "warranty": "12 Monate"
+            },
+            {
+                "id": 9,
+                "name": "ÖkoStrom Flex",
+                "typ": "strom",
+                "arbeitspreis": 29.70,
+                "grundpreis": 10.45,
+                "minContract": "keine",
+                "cancellation": "4 Wochen",
+                "warranty": "24 Monate"
+            },
+            {
+                "id": 10,
+                "name": "ÖkoGas Relax",
+                "typ": "gas",
+                "arbeitspreis": 6.33,
+                "grundpreis": 14.34,
+                "minContract": "12 Monate",
+                "cancellation": "4 Wochen",
+                "warranty": "12 Monate"
+            },
+            {
+                "id": 11,
+                "name": "ÖkoGas Flex",
+                "typ": "gas",
+                "arbeitspreis": 6.63,
+                "grundpreis": 14.34,
+                "minContract": "keine",
+                "cancellation": "4 Wochen",
+                "warranty": "24 Monate"
+            }
+        ]
+    }
+]

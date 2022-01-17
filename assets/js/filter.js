@@ -2,190 +2,170 @@ const electricity = [1500, 2500, 3500, 4250];
 const gas = [5000, 12000, 18000, 35000];
 
 var tarife = [];
-var currentEnergy = electricity[0] ;
-var selectedType = "strom";
-var isWarrantyActive = false;
-var isMinContractActive = false;
+var currentEnergy = electricity[0];
+var selectedType = "strom";;
+var data = null;
 
 $(document).ready(function () {
-  tarife = getData();
-  setHousehold(0);
-  updateValues();
-  
-  handleTypeSelection();
-  handleHouseholdSelection();
-  handleSortSelection();
-  handleInput();
+  loadData();
 })
 
-function getData() {
-  var dictionary = [];
-  $(".tarife-table").each(function () {
-    var id = $(this).attr("id");
-
-    var basePrice = $("#basePrice" + id).attr("data-value");
-    var workPrice = $("#workPrice" + id).attr("data-value");
-    var minContract = $("#minContract" + id).attr("data-value");
-    var cancellation = $("#cancellation" + id).attr("data-value");
-    var warranty = $("#warranty" + id).attr("data-value");
-    var type = $("#type" + id).attr("data-value");
-    
-    var formatter = new Intl.NumberFormat('de-DE', {
-      maximumFractionDigits: 2,
-      minimumFractionDigits: 2
-    });
-    
-    $("#basePriceText" + id).text(formatter.format(basePrice) + " Euro/Monat");
-    $("#workPriceText" + id).text(formatter.format(workPrice) + " Cent/kWh");
-    $("#minContractText" + id).text(minContract);
-    $("#cancellationText" + id).text(cancellation);
-    $("#warrantyText" + id).text(warranty);
-
-    var tarif = { id: id, type: type, basePrice: basePrice, workPrice: workPrice, minContract: minContract, cancellation: cancellation, warranty: warranty };
-    dictionary.push(tarif);
-
-    return this.innerHTML;
-  }).get();
-  
-  return dictionary;
+function setPersonCount(id) {
+  setEnergy(electricity[id]);
 }
 
-function updateValues() {
-  var formatter = new Intl.NumberFormat('de-DE', {
-    style: 'currency',
-    currency: 'EUR'
-  });
-
-  tarife.forEach((tarif) => {
-    var id = tarif.id;
-    var annualPrice = ((tarif.workPrice / 100) * currentEnergy) + (tarif.basePrice * 12);
-    var monthlyPrice = annualPrice/12;
-    
-    $("#annualPriceText" + id).text(formatter.format(annualPrice));
-    $("#monthlyPriceText" + id).text(formatter.format(monthlyPrice));
-
-    var element = $("#" + id)
-    if (tarif.type == selectedType) {
-      if (shouldHideWarranty(tarif.warranty) || shouldHideMinContract(tarif.minContract)) {
-        element.hide();
-      } else {
-        element.show()
-      }
-    } else {
-      element.hide();
-    }
-  });
-  tarife.sort(sortByAnnualPrice);
+function setHouseSize(id) {
+  setEnergy(gas[id]);
 }
 
-// function recalculate(tarif) {
-//   tarif.annualPrice = getAnnualPrice(tarif.basePrice, tarif.workPrice, currentEnergy);
-//   tarif.monthlyPrice = tarif.annualPrice/12;
-//   return tarif
-// }
-
-function shouldHideWarranty(warranty) {
-  return warranty == "keine" && $("#warranty").prop("checked");
-}
-function shouldHideMinContract(minContract) {
-  return minContract != "keine" && $("#minContract").prop("checked");
+function onTabClick(value) {
+  selectedType = value;
+  resetEnergy(value);
+  reload();
 }
 
-// function getAnnualPrice(basePrice, workPrice, energy) {
-//   return ((workPrice / 100) * energy) + (basePrice * 12);
-// }
-
-function handleTypeSelection() {
-  $("#gas-tab").click(function () {
-    selectedType = "gas"
-    setHousehold(0)
-  });
-
-  $("#strom-tab").click(function () {
-    selectedType = "strom"
-    setHousehold(0)
-  });
-}
-
-function setHousehold(id) {
-  
-  $("#electricityOption"+id).trigger("click");
-  if (selectedType == "strom" ){
-    setEnergy(electricity[id]);
-  } else {
-    setEnergy(gas[id]);
+function resetEnergy(type) {
+  switch (type) {
+    case "strom":
+      var index = getActiveIndexOf("#electricity-toggle");
+      currentEnergy = electricity[index];
+      break;
+    case "gas":
+      var index = getActiveIndexOf("#gas-toggle");
+      currentEnergy = gas[index];
+      break;
   }
 }
 
-
-function setCheckboxValue() {
-  updateValues();
+function getActiveIndexOf(toggle) {
+  var activeIndex = 0;
+  $(toggle).each(function () {
+    $(this.children).each(function (index) {
+      if ($(this).hasClass("active")) {
+        activeIndex = index;
+      }
+    })
+  });
+  return activeIndex;
 }
 
 function setEnergy(value) {
-  var selectorInput = "#energyInput";
   currentEnergy = value;
-  $(selectorInput).val(currentEnergy);
-  updateValues();
+  $("#energyInput").val(currentEnergy);
+  reload();
 }
 
-function handleInput() {
-  var selector = $("#energyInput");
-  selector.on('input', () => {
-    var value = selector.val();
-    currentEnergy = value;
-    updateValues();
+function setManualInput(input) {
+  currentEnergy = input;
+  resetActiveHousehold(selectedType);
+  reload();
+}
+
+function resetActiveHousehold(currentSelection) {
+  var existingIndex = null;
+  if (currentSelection == "strom") {
+    existingIndex = electricity.indexOf(parseInt(currentEnergy))
+  }
+  else if (currentSelection == "gas") {
+    existingIndex = gas.indexOf(parseInt(currentEnergy))
+  }
+
+  if (existingIndex > -1) {
+    var toggle = currentSelection == "strom" ? "#electricity-toggle" : "#gas-toggle";
+    $(toggle).each(function () {
+      $(this.children).each(function (index) {
+        if (existingIndex == index) {
+          ($(this).addClass("active"))
+        }
+      })
+    });
+  }
+  else {
+    var toggle = currentSelection == "strom" ? "#electricity-toggle" : "#gas-toggle";
+    $(toggle).each(function () {
+      $(this.children).each(function (index) {
+        ($(this).removeClass("active"))
+      })
+    });
+  }
+}
+
+function toEuro(value) {
+  return value.toLocaleString("de-DE", {
+    minimumFractionDigits: 2,
+    style: "currency",
+    currency: "EUR"
   });
 }
 
-function handleHouseholdSelection() {
-
-  $(".btn-group-toggle input:radio").on('change', function () {
-    var selectedId = $(this).attr('id');
-    var stromId = selectedId.slice("electricityOption".length);
-    var gasId = selectedId.slice("gasOption".length);
-
-    if (stromId) {
-      setEnergy(electricity[stromId]);
-    } else if (gasId) {
-      setEnergy(gas[gasId]);
-    }
-  })
+function getAnnualPrice(tarif) {
+  return ((tarif.arbeitspreis / 100) * currentEnergy) + (tarif.grundpreis * 12);
 }
 
-function handleSortSelection() {
-  $("#sortSelection").change(() => {
-    var selection = $('#sortSelection option:selected').attr('value');
-    switch (parseInt(selection)) {
-      case 1:
-        tarife.sort(sortByAnnualPrice);
-        break;
-      case 2:
-        tarife.sort(sortByBasePrice);
-        break;
-      case 3:
-        tarife.sort(sortByWorkPrice);
-        break;
+function createTable() {
+  $('#tarife-table')
+.append(`
+<thead>
+<tr>
+    <th class="table-company-col">Versorger</th>
+    <th>Preis pro Jahr</th>
+    <th>Preis pro Monat</th>
+    <th>Arbeitspreis</th>
+    <th>Grundpreis</th>
+    <th class="table-details-col">Details</th>
+</tr>
+</thead>
+<tbody>
+`)
+  reload();
+  $('#tarife-table')
+  .append(`
+    </tbody>
+  `);
+  initializeSort();
+}
+
+function reload() {
+  $('#tarife-table > tbody').empty();
+  $.each(data, function (anbieterKey, anbieter) {
+    $.each(anbieter.tarife, function (tarifKey, tarif) {
+      var isHidden = selectedType == tarif.typ ? "" : "style='display:none;'";
+      var annualPrice = toEuro(getAnnualPrice(tarif));
+      var monthlyPrice = toEuro(getAnnualPrice(tarif) / 12);
+      var workingPrice = toEuro(tarif.arbeitspreis);
+      var basePrice = toEuro(tarif.grundpreis);
+      
+      $('#tarife-table tbody').append(`
+      <tr id="`+ tarif.typ + tarif.id + `"` + isHidden +`">
+      <td>
+        <div>` + tarif.name + `</div>
+        <img src="` + anbieter.logo + `" class="tarife-table-img">
+      </td>
+      <td>` + annualPrice + `</td>
+      <td>` + monthlyPrice + `</td>
+      <td>` + workingPrice + `</td>
+      <td>` + basePrice + `</td>
+      <td>` + annualPrice + `</td>
+      </tr>
+      `);
+    });
+});
+}
+
+function initializeSort() {
+  $('#tarife-table').tablesorter({
+    theme: 'bootstrap',
+    headers: {
+      '.table-details-col' : {
+        sorter: false
+      }
     }
-    updateValues();
   });
 }
 
-function sortByAnnualPrice(a, b) {
-  var a1 = parseFloat(a.annualPrice), b1 = parseFloat(b.annualPrice);
-  if (a1 == b1) return 0;
-  return a1 > b1 ? 1 : -1;
-}
-
-function sortByBasePrice(a, b) {
-  
-  var a1 = parseFloat(a.basePrice), b1 = parseFloat(b.basePrice);
-  if (a1 == b1) return 0;
-  return a1 > b1 ? 1 : -1;
-}
-
-function sortByWorkPrice(a, b) {
-  var a1 = parseFloat(a.workPrice), b1 = parseFloat(b.workPrice);
-  if (a1 == b1) return 0;
-  return a1 > b1 ? 1 : -1;
+function loadData() {
+  $.getJSON("/assets/data/oekostrom-und-oekogas.json", function (result) {
+    data = result;
+    createTable()
+  });
 }

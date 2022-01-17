@@ -6,12 +6,13 @@ websiteTitle: gutes-gewissen
 
 <head>
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-161504796-1"></script>
-  <script src="/assets/js/jquery-3.5.1.js"></script>
-  <script src="/assets/js/popper.min.js"></script>
-  <script src="/assets/js/link-masking.js"></script>
-  <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
-  <script src="/assets/js/scrolling.js"></script>
-  <script src="/assets/js/filter.js"></script>
+  <script src="/assets/js/jquery-3.6.0.min.js" type="text/javascript"></script>
+  <script src="/assets/js/jquery.tablesorter.min.js" type="text/javascript"></script>
+  <script src="/assets/js/popper.min.js" type="text/javascript"></script>
+  <script src="/assets/js/link-masking.js" type="text/javascript"></script>
+  <script src="/assets/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/assets/js/scrolling.js" type="text/javascript"></script>
+  <script src="/assets/js/filter.js" type="text/javascript"></script>
 
   <!-- AdSense - Google AdSense -->  
   <script data-ad-client="ca-pub-4092276681239296" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -37,7 +38,7 @@ websiteTitle: gutes-gewissen
   <link rel="stylesheet" href="/assets/css/main.css" />
   <link rel="stylesheet" href="/assets/fontawesome/css/font-awesome.min.css"/>
   <title>{% if page.seoTitle %}{{page.seoTitle}}{% else %}{{ page.title }} {% if page.slogan %} | {{ page.slogan }} {% endif %}{% endif %}</title>
-
+  <link rel="stylesheet" href="/assets/css/theme.bootstrap_4.min.css">
 <!-- Unique/Canonical urls -->  
   <link rel="canonical" href="{{ site.url }}/ueber-uns"/>
   <link rel="canonical" href="{{ site.url }}/impressum"/>
