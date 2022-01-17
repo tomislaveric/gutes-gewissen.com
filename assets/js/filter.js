@@ -30,11 +30,7 @@ function getData() {
     var warranty = $("#warranty" + id).attr("data-value");
     var type = $("#type" + id).attr("data-value");
     
-    var formatter = new Intl.NumberFormat('de-DE', {
-      style: 'currency',
-      currency: 'EUR',
-      maximumFractionDigits: 2
-    });
+    var formatter = new Intl.NumberFormat('de-DE');
     
     $("#basePriceText" + id).text(formatter.format(basePrice) + " Euro/Monat");
     $("#workPriceText" + id).text(formatter.format(workPrice) + " Cent/kWh");
