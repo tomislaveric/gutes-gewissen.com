@@ -7,7 +7,8 @@ var selectedType = "strom";;
 var data = null;
 
 $(document).ready(function () {
-  loadData();
+  initializeTable();
+  resetActiveHousehold(selectedType);
 })
 
 function setPersonCount(id) {
@@ -21,7 +22,7 @@ function setHouseSize(id) {
 function onTabClick(value) {
   selectedType = value;
   resetEnergy(value);
-  reload();
+  update();
 }
 
 function resetEnergy(type) {
@@ -52,13 +53,13 @@ function getActiveIndexOf(toggle) {
 function setEnergy(value) {
   currentEnergy = value;
   $("#energyInput").val(currentEnergy);
-  reload();
+  update();
 }
 
 function setManualInput(input) {
   currentEnergy = input;
   resetActiveHousehold(selectedType);
-  reload();
+  update();
 }
 
 function resetActiveHousehold(currentSelection) {
@@ -93,79 +94,109 @@ function resetActiveHousehold(currentSelection) {
 function toEuro(value) {
   return value.toLocaleString("de-DE", {
     minimumFractionDigits: 2,
-    style: "currency",
-    currency: "EUR"
+    maximumFractionDigits: 2
   });
 }
 
-function getAnnualPrice(tarif) {
-  return ((tarif.arbeitspreis / 100) * currentEnergy) + (tarif.grundpreis * 12);
+function getAnnualPrice(workPrice, basePrice) {
+  return ((workPrice / 100) * currentEnergy) + (basePrice * 12);
 }
 
 function createTable() {
-  $('#tarife-table')
-.append(`
+  $('#tarife-table').append(`
 <thead>
-<tr>
+<tr id="table-header">
     <th class="table-company-col">Versorger</th>
-    <th>Preis pro Jahr</th>
-    <th>Preis pro Monat</th>
+    <th>Jahrespreis</th>
+    <th>Monatspreis</th>
     <th>Arbeitspreis</th>
     <th>Grundpreis</th>
     <th class="table-details-col">Details</th>
 </tr>
 </thead>
-<tbody>
 `)
-  reload();
-  $('#tarife-table')
-  .append(`
-    </tbody>
-  `);
-  initializeSort();
-}
-
-function reload() {
-  $('#tarife-table > tbody').empty();
+  $('#tarife-table').append('<tbody>');
   $.each(data, function (anbieterKey, anbieter) {
     $.each(anbieter.tarife, function (tarifKey, tarif) {
-      var isHidden = selectedType == tarif.typ ? "" : "style='display:none;'";
-      var annualPrice = toEuro(getAnnualPrice(tarif));
-      var monthlyPrice = toEuro(getAnnualPrice(tarif) / 12);
-      var workingPrice = toEuro(tarif.arbeitspreis);
-      var basePrice = toEuro(tarif.grundpreis);
-      
       $('#tarife-table tbody').append(`
-      <tr id="`+ tarif.typ + tarif.id + `"` + isHidden +`">
+      <tr id="`+ tarif.typ + `"">
       <td>
         <div>` + tarif.name + `</div>
         <img src="` + anbieter.logo + `" class="tarife-table-img">
       </td>
-      <td>` + annualPrice + `</td>
-      <td>` + monthlyPrice + `</td>
-      <td>` + workingPrice + `</td>
-      <td>` + basePrice + `</td>
-      <td>` + annualPrice + `</td>
+      <td id="annualPrice"></td>
+      <td id="monthlyPrice"></td>
+      <td id="workPrice" data-value="` + tarif.arbeitspreis + `"></td>
+      <td id="basePrice" data-value="` + tarif.grundpreis + `"></td>
+      <td id="detail">
+        <div id="minContract">
+          Mindestvertrafslaufzeit: `+ tarif.minContract +`
+        </div>
+        <div id="cancellation">
+          Kündigungsfrist: `+ tarif.cancellation +`
+        </div>
+        <div id="warranty">
+          Preisgarantie: `+ tarif.warranty +`
+        </div>
+      </td>
       </tr>
       `);
     });
-});
+  });
+}
+
+function update() {
+  handleVisibility();
+  updateValues();
+}
+
+function handleVisibility() {
+  $('#tarife-table tr').each(function (index, row) {
+    if (row.id.startsWith(selectedType)) {
+      $(row).show();
+    } else if (row.id != "table-header") {
+      $(row).hide();
+    }
+  });
+}
+
+function updateValues() {
+  $('#tarife-table tr').each(function (index, tr) {
+    var workPrice = 0;
+    var basePrice = 0;
+    $(tr).find('td').each(function (index, td) {
+      switch (td.id) {
+        case "workPrice":
+          workPrice = $(td).data().value;
+          $(td).html(toEuro(workPrice) + " Ct/kWh");
+          break;
+        case "basePrice":
+          basePrice = $(td).data().value;
+          $(td).html(toEuro(basePrice) + " €/Monat");
+          break;
+      }
+    });
+    $(tr).find("td[id='annualPrice']").html(toEuro(getAnnualPrice(workPrice, basePrice)) + " €");
+    $(tr).find("td[id='monthlyPrice']").html(toEuro(getAnnualPrice(workPrice, basePrice) / 12) + " €");
+  });
 }
 
 function initializeSort() {
   $('#tarife-table').tablesorter({
     theme: 'bootstrap',
     headers: {
-      '.table-details-col' : {
+      '.table-details-col': {
         sorter: false
       }
     }
   });
 }
 
-function loadData() {
+function initializeTable() {
   $.getJSON("/assets/data/oekostrom-und-oekogas.json", function (result) {
     data = result;
-    createTable()
+    createTable();
+    update();
+    initializeSort();
   });
 }

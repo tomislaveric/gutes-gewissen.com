@@ -122,5 +122,109 @@
                 "warranty": "24 Monate"
             }
         ]
+    },
+    {
+        "name": "Naturstrom",
+        "url": "https://www.awin1.com/awclick.php?gid=340209&mid=11937&awinaffid=731132&linkid=2188340&clickref=",
+        "logo": "/assets/images/NATURSTROM.jpg",
+        "tarife": [
+            {
+                "id": 12,
+                "name": "Naturstrom",
+                "typ": "strom",
+                "arbeitspreis": 28.95,
+                "grundpreis": 8.90,
+                "minContract": "keine",
+                "cancellation": "4 Wochen",
+                "warranty": "Bis zum 31.12.2021"
+            },
+            {
+                "id": 13,
+                "name": "gold",
+                "typ": "strom",
+                "arbeitspreis": 30.14,
+                "grundpreis": 8.90,
+                "minContract": "keine",
+                "cancellation": "4 Wochen",
+                "warranty": "Bis zum 31.12.2021"
+            },
+            {
+                "id": 14,
+                "name": "biogas 10 %",
+                "typ": "gas",
+                "arbeitspreis": 6.45,
+                "grundpreis": 9.90,
+                "minContract": "keine",
+                "cancellation": "4 Wochen",
+                "warranty": "Bis zum 31.12.2021"
+            },
+            {
+                "id": 15,
+                "name": "biogas 20 %",
+                "typ": "gas",
+                "arbeitspreis": 6.95,
+                "grundpreis": 9.90,
+                "minContract": "keine",
+                "cancellation": "4 Wochen",
+                "warranty": "Bis zum 31.12.2021"
+            },
+            {
+                "id": 16,
+                "name": "iogas 100 %",
+                "typ": "gas",
+                "arbeitspreis": 10.45,
+                "grundpreis": 9.90,
+                "minContract": "keine",
+                "cancellation": "4 Wochen",
+                "warranty": "Bis zum 31.12.2021"
+            }
+        ]
+    },
+    {
+        "name": "Polarstern",
+        "url": "https://www.awin1.com/awclick.php?gid=366239&mid=14186&awinaffid=731132&linkid=2416609&clickref=",
+        "logo": "/assets/images/Polarstern.png",
+        "tarife": [
+            {
+                "id": 17,
+                "name": "Wirklich Ökostrom",
+                "typ": "strom",
+                "arbeitspreis": 29.15,
+                "grundpreis": 9.80,
+                "minContract": "keine",
+                "cancellation": "2 Wochen",
+                "warranty": "Bis zum 31.12.2021"
+            },
+            {
+                "id": 18,
+                "name": "Wirklich Ökogas Klassik",
+                "typ": "gas",
+                "arbeitspreis": 8.78,
+                "grundpreis": 12.10,
+                "minContract": "keine",
+                "cancellation": "2 Wochen",
+                "warranty": "Bis zum 31.12.2021"
+            },
+            {
+                "id": 19,
+                "name": "Wirklich Ökogas Vegan",
+                "typ": "gas",
+                "arbeitspreis": 9.08,
+                "grundpreis": 12.10,
+                "minContract": "keine",
+                "cancellation": "2 Wochen",
+                "warranty": "Bis zum 31.12.2021"
+            },
+            {
+                "id": 20,
+                "name": "Wirklich Ökogas GEG",
+                "typ": "gas",
+                "arbeitspreis": 9.78,
+                "grundpreis": 12.10,
+                "minContract": "keine",
+                "cancellation": "2 Wochen",
+                "warranty": "Bis zum 31.12.2021"
+            }
+        ]
     }
 ]
