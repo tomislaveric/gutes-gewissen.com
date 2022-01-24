@@ -142,21 +142,21 @@ function createTable() {
         </div>
       <div class="row">
       <div class="col-6">
-      Mindestvertrafslaufzeit
+      <small>Mindestvertrafslaufzeit</small>
       </div>
-      <div id="minContract`+ tarif.id +`" class="col-6">` + tarif.minContract + `</small></div>
-      </div>
-      <div class="row">
-      <div class="col-6">
-      Preisgarantie
-      </div>
-      <div id="warranty`+ tarif.id +`" class="col-6">` + tarif.warranty + `</small></div>
+      <small><div id="minContract`+ tarif.id +`" class="col-6">` + tarif.minContract + `</small></div>
       </div>
       <div class="row">
       <div class="col-6">
-      Kündigungsfrist
+      <small>Preisgarantie</small>
       </div>
-      <div id="cancellation`+ tarif.id +`" class="col-6">` + tarif.cancellation + `</small></div>
+      <small><div id="warranty`+ tarif.id +`" class="col-6">` + tarif.warranty + `</small></div>
+      </div>
+      <div class="row">
+      <div class="col-6">
+      <small>Kündigungsfrist</small>
+      </div>
+      <small><div id="cancellation`+ tarif.id +`" class="col-6">` + tarif.cancellation + `</small></div>
       </div>
         
       </td>
