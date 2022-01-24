@@ -9,6 +9,7 @@ var data = null;
 $(document).ready(function () {
   initializeTable();
   resetActiveHousehold(selectedType);
+  setCheckboxValue();
 })
 
 function setPersonCount(id) {
@@ -23,6 +24,15 @@ function onTabClick(value) {
   selectedType = value;
   resetEnergy(value);
   update();
+}
+
+var warrantyChecked = false;
+var minContractChecked = false;
+
+function setCheckboxValue() {
+  warrantyChecked = $("#warranty").prop("checked");
+  minContractChecked = $("#minContract").prop("checked");
+  handleVisibility();
 }
 
 function resetEnergy(type) {
@@ -119,25 +129,36 @@ function createTable() {
   $.each(data, function (anbieterKey, anbieter) {
     $.each(anbieter.tarife, function (tarifKey, tarif) {
       $('#tarife-table tbody').append(`
-      <tr id="`+ tarif.typ + `"">
+      <tr class="tarif" id="`+ tarif.id + `" data-type="`+ tarif.typ +`"">
       <td>
-        <div>` + tarif.name + `</div>
         <img src="` + anbieter.logo + `" class="tarife-table-img">
       </td>
-      <td id="annualPrice"></td>
-      <td id="monthlyPrice"></td>
+      <td id="annualPrice" class="h5"></td>
+      <td id="monthlyPrice" class="h5"></td>
       <td id="workPrice" data-value="` + tarif.arbeitspreis + `"></td>
       <td id="basePrice" data-value="` + tarif.grundpreis + `"></td>
       <td id="detail">
-        <div id="minContract">
-          Mindestvertrafslaufzeit: `+ tarif.minContract +`
-        </div>
-        <div id="cancellation">
-          Kündigungsfrist: `+ tarif.cancellation +`
-        </div>
-        <div id="warranty">
-          Preisgarantie: `+ tarif.warranty +`
-        </div>
+      <div class="h5">` + tarif.name + `</div>
+      <div class="row">
+      <div class="col-6">
+        Mindestvertrafslaufzeit: 
+      </div>
+      <div id="minContract`+ tarif.id +`" class="col-6">` + tarif.minContract + `</div>
+      </div>
+      <div class="row">
+      <div class="col-6">
+      Preisgarantie: 
+      </div>
+      <div id="warranty`+ tarif.id +`" class="col-6">` + tarif.warranty + `</div>
+      </div>
+      <div class="row">
+      <div class="col-6">
+        Kündigungsfrist: 
+      </div>
+      <div id="cancellation`+ tarif.id +`" class="col-6">
+        ` + tarif.cancellation + `
+      </div>
+      </div>
       </td>
       </tr>
       `);
@@ -152,10 +173,18 @@ function update() {
 
 function handleVisibility() {
   $('#tarife-table tr').each(function (index, row) {
-    if (row.id.startsWith(selectedType)) {
-      $(row).show();
-    } else if (row.id != "table-header") {
-      $(row).hide();
+    var type = $(row).data().type;
+    if (!type) { return; }
+    var warranty = $('#warranty' + row.id).text();
+    var minContract = $('#minContract' + row.id).text();
+    if ((warrantyChecked && warranty == "keine") || (minContractChecked && minContract != "keine")) {
+      $(row).hide(200);
+    } else {
+      if (type.startsWith(selectedType)) {
+        $(row).show(200);
+      } else {
+        $(row).hide(200);
+      }
     }
   });
 }
