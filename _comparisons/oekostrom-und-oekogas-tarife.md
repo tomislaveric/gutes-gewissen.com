@@ -110,5 +110,5 @@ description: "Ökostromtarife und Ökogastarife im Preisvergleich - Vergleich de
     </div>
 </div>
 
-<table id="tarife-table" class="table table-light tablesorter">
+<table id="tarife-table" class="table tablesorter">
 </table>
