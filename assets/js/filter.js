@@ -160,9 +160,9 @@ function createTable() {
       </div>
         
       </td>
-      <td id="annualPrice" class="h5"></td>
+      <td id="annualPrice" class="h5 table-annualprice"></td>
       <td id="monthlyPrice" class="h5"></td>
-      <td id="workPrice" data-value="` + tarif.arbeitspreis + `"></td>
+      <td class="bla" id="workPrice" data-value="` + tarif.arbeitspreis + `"></td>
       <td id="basePrice" data-value="` + tarif.grundpreis + `"></td>
       <td id="detail">
       <span class="affili" data-affili="`+ anbieter.url +`" rel="nofollow">
@@ -226,13 +226,12 @@ function updateValues() {
 function initializeSort() {
   $("#tarife-table thead th:eq(4)").data("sorter", false);
   $("#tarife-table thead th:eq(0)").data("sorter", false);
-  
   $('#tarife-table').tablesorter({
     theme: 'bootstrap',
+    sortList : [[2,0]],
     headers: {
-      '.table-details-col, table-company-col': {
-        sorter: false
-      }
+      0 : { sorter: false },
+      5 : { sorter: false }
     }
   });
   

@@ -28,7 +28,7 @@ description: "Ökostromtarife und Ökogastarife im Preisvergleich - Vergleich de
                             <div id="electricity-toggle" class="btn-group btn-group-toggle" data-toggle="buttons">
                                 <label class="btn btn btn-outline-secondary">
                                     <input type="radio" name="options" onclick="setPersonCount(0)" autocomplete="off">
-                                    <i class="fa fa-user" aria-hidden="true"></i>
+                                    <i class="fa fa-user m-1" aria-hidden="true"></i>
                                 </label>
                                 <label class="btn btn btn-outline-secondary">
                                     <input type="radio" name="options" onclick="setPersonCount(1)" autocomplete="off">
