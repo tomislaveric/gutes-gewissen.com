@@ -109,6 +109,7 @@ description: "Ökostromtarife und Ökogastarife im Preisvergleich - Vergleich de
         </div>
     </div>
 </div>
-
+<div class="table-responsive">
 <table id="tarife-table" class="table tablesorter">
 </table>
+</div>
