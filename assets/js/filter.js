@@ -131,7 +131,7 @@ function createTable() {
     $.each(anbieter.tarife, function (tarifKey, tarif) {
       $('#tarife-table tbody').append(`
       <tr class="tarif" id="`+ tarif.id + `" data-type="`+ tarif.typ +`"">
-      <td>
+      <td class="company-col">
         <div class="row">
           <div class="col-6">
           <img src="` + anbieter.logo + `" class="tarife-table-img">

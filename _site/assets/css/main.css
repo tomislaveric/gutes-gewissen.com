@@ -45,4 +45,6 @@ a:hover { color: #145523; text-decoration: none; }
 
 .table .tablesorter-header { background-color: white !important; }
 
+.company-col { min-width: 22rem; }
+
 /*# sourceMappingURL=main.css.map */
