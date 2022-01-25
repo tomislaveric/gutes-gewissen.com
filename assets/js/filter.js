@@ -224,7 +224,7 @@ function updateValues() {
 }
 
 function initializeSort() {
-  $("#tarife-table thead th:eq(4)").data("sorter", false);
+  $("#tarife-table thead th:eq(5)").data("sorter", false);
   $("#tarife-table thead th:eq(0)").data("sorter", false);
   $('#tarife-table').tablesorter({
     theme: 'bootstrap',
