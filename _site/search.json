@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "ALPHAZOO",
+      "url"         : "/tierfutter-und-tierbedarf/alphazoo/",
+      "category"    : "",
+      "tags"        : "Nachhaltiges-Tierfutter, Nachhaltig, Tierfutter, Katze, Hund",
+      "date"        : "2022-01-09 00:00:00 +0100",
+      "shippings"   : "Versandkosten von 4,50 Euro bis 19 Euro BestellwertVersandkostenfreie Lieferung ab 19 Euro WarenwertKostenloser Versand nach Österreich, in die Schweiz und in die Niederlande möglich",
+      "image"       : "/assets/images/alphazoo_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "AfB Campus",
       "url"         : "/computer-und-technik/afb-campus/",
       "category"    : "",
