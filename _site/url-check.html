@@ -199,6 +199,20 @@ if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
 ?>
 
 <?php
+$file = 'https://pluto.r.powuta.com/ts/i5041712/tsc?amc=con.blbn.490871.505057.14181632&rmd=3&trg=https%3A%2F%2Fwww.blattkultur.com%2F';
+$title = 'Blattkultur Naturkosmetik';
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
+    echo $title . " -> " . "NOT FOUND";
+} else if (str_contains($content, 'This link is inactive')) {
+    echo $title . " -> " . "INACTIVE";
+} else {
+    echo $title . " -> " . "OK";
+}
+?>
+
+<?php
 $file = 'https://www.awin1.com/cread.php?awinmid=14829&awinaffid=731132';
 $title = 'asgoodasnew';
 $file_headers = @get_headers($file);
