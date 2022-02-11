@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "CARE Hilfsorganisation",
+      "url"         : "/geschenke-und-erlebnisse/care-hilfsorganisation/",
+      "category"    : "",
+      "tags"        : "Spende, Steuervorteil, Wohltätigkeit, Geschenkidee",
+      "date"        : "2022-01-10 00:00:00 +0100",
+      "shippings"   : "",
+      "image"       : "/assets/images/care-hilfsorganisation_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "ALPHAZOO",
       "url"         : "/tierfutter-und-tierbedarf/alphazoo/",
       "category"    : "",
