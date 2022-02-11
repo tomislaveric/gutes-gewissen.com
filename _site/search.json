@@ -14,6 +14,18 @@
   
     {
 
+      "title"       : "Gorillas",
+      "url"         : "/ernaehrung-und-lebensmittel/gorillas/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Lebensmittel, Lieferdienst, Lieferung, Nachhaltiger-Lebensstil, Obst, Gemüse",
+      "date"        : "2022-01-10 00:00:00 +0100",
+      "shippings"   : "Versandkosten in Deutschland von 1,80 EuroKein Mindestbestellwert und kein HöchstbestellwertLieferzuschlag in manchen deutschen Städten für Bestellungen unter 15 Euro",
+      "image"       : "/assets/images/gorillas_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "CHARGE Sports Drinks",
       "url"         : "/ernaehrung-und-lebensmittel/charge-sports-drinks/",
       "category"    : "",
