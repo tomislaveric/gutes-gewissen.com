@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Grutto",
+      "url"         : "/ernaehrung-und-lebensmittel/grutto/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Lebensmittel, Bio, Biofleisch, Fleisch",
+      "date"        : "2022-01-11 00:00:00 +0100",
+      "shippings"   : "Versandkosten in Deutschland von 6,95 EuroLieferung nach Österreich möglich",
+      "image"       : "/assets/images/grutto_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "CARE Hilfsorganisation",
       "url"         : "/geschenke-und-erlebnisse/care-hilfsorganisation/",
       "category"    : "",
