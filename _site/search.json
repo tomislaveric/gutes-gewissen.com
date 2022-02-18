@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Holivio",
+      "url"         : "/haus-und-garten/holivio/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Nachhaltige-Produkte, Holz, Handgemacht, Handmade, Haushalt",
+      "date"        : "2022-01-15 00:00:00 +0100",
+      "shippings"   : "Versandkosten von 4,99 Euro für Bestellungen unter 40 EuroKostenloser Versand für Bestellungen über 40 EuroInternationale Lieferung innerhalb EU verfügbar",
+      "image"       : "/assets/images/holivio_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Grutto",
       "url"         : "/ernaehrung-und-lebensmittel/grutto/",
       "category"    : "",
