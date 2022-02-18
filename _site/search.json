@@ -26,6 +26,18 @@
   
     {
 
+      "title"       : "Meina Naturkosmetik",
+      "url"         : "/drogerie-und-kosmetik/meina-naturkosmetik/",
+      "category"    : "",
+      "tags"        : "Kosmetik, Nachhaltige-Körperpflege, Vegan, Tierversuchsfrei, Plastikfrei, Beauty",
+      "date"        : "2022-01-16 00:00:00 +0100",
+      "shippings"   : "Kostenlose Lieferung innerhalb DeutschlandsVersandkosten ins Ausland nach Gewicht ab 12,99 Euro",
+      "image"       : "/assets/images/meina-naturkosmetik_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Holivio",
       "url"         : "/haus-und-garten/holivio/",
       "category"    : "",
