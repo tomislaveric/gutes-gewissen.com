@@ -40,7 +40,6 @@ layout: base
                 <p>{{ page.shortDescription }} {{ page.description }}</p>
                 <span id="productCta" class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
                 {% if page.highlight %}
-                <h2 class="h4">Aktuelles Angebot</h2>
                 <div class="alert alert-success text-center" role="alert">
                     {{ page.highlight }}
                 </div>
