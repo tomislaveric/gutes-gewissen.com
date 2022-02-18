@@ -14,6 +14,18 @@
   
     {
 
+      "title"       : "Kinderhilfswerk Plan",
+      "url"         : "/geschenke-und-erlebnisse/kinderhilfswerk-plan/",
+      "category"    : "",
+      "tags"        : "Spende, Steuervorteil, Wohltätigkeit, Geschenkidee, Patenschaft",
+      "date"        : "2022-01-15 00:00:00 +0100",
+      "shippings"   : "",
+      "image"       : "/assets/images/kinderhilfswerk-plan_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Grutto",
       "url"         : "/ernaehrung-und-lebensmittel/grutto/",
       "category"    : "",
