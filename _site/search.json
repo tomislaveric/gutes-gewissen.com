@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "momox fashion",
+      "url"         : "/secondhand-und-upcycling/momox-fashion/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Second Hand, Gebrauchtware, Kleidung, Mode, Damen, Herren, Fashion",
+      "date"        : "2022-01-17 00:00:00 +0100",
+      "shippings"   : "Kostenloser Versand innerhalb DeutschlandsGratis Rückversand innerhalb DeutschlandsLieferung ins europäische Ausland ab 3,95 Euro",
+      "image"       : "/assets/images/momox-fashion_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "memolife.de",
       "url"         : "/ernaehrung-und-lebensmittel/memolife-de/",
       "category"    : "",
