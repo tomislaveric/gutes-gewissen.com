@@ -26,6 +26,18 @@
   
     {
 
+      "title"       : "OTTO products",
+      "url"         : "/haus-und-garten/otto-products/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Möbel, Kleidung, Fashion, Bio, Ökologisch, Made-in-Germany",
+      "date"        : "2022-01-17 00:00:00 +0100",
+      "shippings"   : "Standard-Versand Paket 2,95 Euro24-Stunden-Versand Paket 12,90 EuroStandard-Lieferung Spedition 29,95 Euro24-Stunden-Lieferung Spedition 49,90 Euro",
+      "image"       : "/assets/images/otto-products_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "memolife.de",
       "url"         : "/ernaehrung-und-lebensmittel/memolife-de/",
       "category"    : "",
