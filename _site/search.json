@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "memolife.de",
+      "url"         : "/ernaehrung-und-lebensmittel/memolife-de/",
+      "category"    : "",
+      "tags"        : "Nachhaltige-Produkte, Nachhaltiger-Lebensstil, Bio, Öko, Fair-Trade, Online-Shop",
+      "date"        : "2022-01-17 00:00:00 +0100",
+      "shippings"   : "Versandkosten für DPD, Lastenfahrrad oder Spedition ab 5,29 EuroVersandkosten für Belieferung mit DHL ab 6,54 EuroLieferung ins Ausland ab 15,90 Euro möglich",
+      "image"       : "/assets/images/memolife-de_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Kinderzimmerhaus",
       "url"         : "/haus-und-garten/kinderzimmerhaus/",
       "category"    : "",
