@@ -14,6 +14,18 @@
   
     {
 
+      "title"       : "MICARAA Naturkosmetik",
+      "url"         : "/drogerie-und-kosmetik/micaraa-naturkosmetik/",
+      "category"    : "",
+      "tags"        : "Kosmetik, Nachhaltige-Körperpflege, Vegan, Tierversuchsfrei, Plastikfrei, Beauty",
+      "date"        : "2022-01-17 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands 3,90 EuroKostenloser Versand für Bestellungen ab 50 EuroGratis Lieferung für Mitglieder von MICARAA & FriendsLieferung in die Schweiz und europäisches Ausland möglich",
+      "image"       : "/assets/images/micaraa-naturkosmetik_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Kinderzimmerhaus",
       "url"         : "/haus-und-garten/kinderzimmerhaus/",
       "category"    : "",
