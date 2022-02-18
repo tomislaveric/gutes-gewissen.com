@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Kinderzimmerhaus",
+      "url"         : "/haus-und-garten/kinderzimmerhaus/",
+      "category"    : "",
+      "tags"        : "Nachhaltige-Produkte, Nachhaltiger-Lebensstil, Möbel, Kinder",
+      "date"        : "2022-01-16 00:00:00 +0100",
+      "shippings"   : "Versandkosten von 4,90 Euro bis 50 Euro BestellwertKostenloser Versand für Bestellungen ab 50 EuroGratis Speditionslieferungen innerhalb DeutschlandsPaketpauschale für Auslandslieferungen ab 15 EuroInternationale Lieferung per Spedition ab 100 Euro",
+      "image"       : "/assets/images/kinderzimmerhaus_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Holivio",
       "url"         : "/haus-und-garten/holivio/",
       "category"    : "",
