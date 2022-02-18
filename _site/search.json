@@ -26,6 +26,18 @@
   
     {
 
+      "title"       : "rebuy",
+      "url"         : "/computer-und-technik/rebuy/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Gebrauchtware, Generalüberholt, Elektronik, Apple, Medienartikel, Second Hand",
+      "date"        : "2022-01-18 00:00:00 +0100",
+      "shippings"   : "Versandkosten pro Lieferung 3,99 EuroKostenloser Versand für ausgewählte Artikel verfügbarLieferung an DHL Packstation möglichGratis Retoure für Artikel über 40 Euro",
+      "image"       : "/assets/images/rebuy_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "momox fashion",
       "url"         : "/secondhand-und-upcycling/momox-fashion/",
       "category"    : "",
