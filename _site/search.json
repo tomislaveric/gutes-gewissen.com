@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Pazls",
+      "url"         : "/haus-und-garten/pazls/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Möbel, Modular, Made-in-Germany, Nachhaltiger-Lebensstil",
+      "date"        : "2022-01-18 00:00:00 +0100",
+      "shippings"   : "Kostenloser Versand mit PaketdienstLieferung per Spedition ab 40 Euro möglichVersand ins Ausland verfügbar",
+      "image"       : "/assets/images/pazls_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "momox fashion",
       "url"         : "/secondhand-und-upcycling/momox-fashion/",
       "category"    : "",
