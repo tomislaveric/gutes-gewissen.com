@@ -26,6 +26,18 @@
   
     {
 
+      "title"       : "refurbed",
+      "url"         : "/computer-und-technik/refurbed/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Gebrauchtware, Generalüberholt, Elektronik, Apple, Medienartikel, Second Hand",
+      "date"        : "2022-01-18 00:00:00 +0100",
+      "shippings"   : "Kostenloser Versand für alle BestellungenGratis Rückversand bei Retoure",
+      "image"       : "/assets/images/refurbed_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "rebuy",
       "url"         : "/computer-und-technik/rebuy/",
       "category"    : "",
