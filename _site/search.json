@@ -14,6 +14,18 @@
   
     {
 
+      "title"       : "Rausch.de",
+      "url"         : "/ernaehrung-und-lebensmittel/rausch-de/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Schokolade, Fair-Trade, Süßigkeiten, Direct-Trade",
+      "date"        : "2022-01-18 00:00:00 +0100",
+      "shippings"   : "Kosten für Standard-Versand von 4,90 EuroKostenloser Versand für Bestellungen ab 39 EuroKosten für Express-Versand von 12,90 EuroInternationale Lieferungen ab 6,90 Euro möglich",
+      "image"       : "/assets/images/rausch_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "momox fashion",
       "url"         : "/secondhand-und-upcycling/momox-fashion/",
       "category"    : "",
