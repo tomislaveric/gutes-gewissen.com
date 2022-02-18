@@ -14,6 +14,18 @@
   
     {
 
+      "title"       : "Kombuchery",
+      "url"         : "/ernaehrung-und-lebensmittel/kombuchery/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Gesundheit, Getränke, Bio, Vegan",
+      "date"        : "2022-01-16 00:00:00 +0100",
+      "shippings"   : "Kostenloser Versand innerhalb DeutschlandsLieferung ins Ausland ab 8,99 Euro möglichGratis Rücksendung für Pfandflaschen verfügbar",
+      "image"       : "/assets/images/kombuchery_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Holivio",
       "url"         : "/haus-und-garten/holivio/",
       "category"    : "",
