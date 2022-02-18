@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Stapelstein",
+      "url"         : "/spielzeug-und-hobby/stapelstein/",
+      "category"    : "",
+      "tags"        : "Spielzeug, Nachhaltigkeit, Kinder, Recyclebar, Schadstofffrei",
+      "date"        : "2022-01-18 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands 4,50 EuroKostenloser Versand in Deutschland ab 85,00 Euro BestellwertLieferung ins EU-Ausland ab 12,00 Euro möglich",
+      "image"       : "/assets/images/stapelstein_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Pazls",
       "url"         : "/haus-und-garten/pazls/",
       "category"    : "",
