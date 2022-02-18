@@ -14,6 +14,18 @@
   
     {
 
+      "title"       : "NORDLICHT",
+      "url"         : "/mode-und-kleidung/nordlicht/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Slow-Fashion, Taschen, Rucksäcke, Geldbeutel",
+      "date"        : "2022-01-17 00:00:00 +0100",
+      "shippings"   : "Kostenloser Versand innerhalb DeutschlandsGratis Retoure für deutsche KundenLieferung in EU-Länder ab 4,90 EuroVersand außerhalb der EU-Länder ab 9,00 Euro",
+      "image"       : "/assets/images/nordlicht_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "memolife.de",
       "url"         : "/ernaehrung-und-lebensmittel/memolife-de/",
       "category"    : "",
