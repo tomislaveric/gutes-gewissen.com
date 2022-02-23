@@ -2,7 +2,7 @@
 author: Tomislav
 title: HOME IS WHERE YOUR HEART IS
 slogan: Nachhaltige Mode und Accessoires
-targetUrl: https://www.awin1.com/cread.php?awinmid=22422&awinaffid=731132
+targetUrl: https://homeiswhereyourheartis.de
 image: /assets/images/home-is-where-your-heart-is.png
 screenshot: /assets/images/screenshots/home-is-where-your-heart-is_screenshot.jpg
 rubric: Mode & Kleidung
