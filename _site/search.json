@@ -398,18 +398,6 @@
   
     {
 
-      "title"       : "Natural Food Shop",
-      "url"         : "/ernaehrung-und-lebensmittel/natural-food-shop/",
-      "category"    : "",
-      "tags"        : "Bio, Ökologisch, Nachhaltig, Lebensmittel, Nahrungsergänzungsmittel, Allergiker, Vegan",
-      "date"        : "2021-12-22 00:00:00 +0100",
-      "shippings"   : "Versandkosten innerhalb Deutschlands 4,90 EuroVersandkostenfreie Lieferung ab 50 Euro BestellwertVersand in weitere europäische Länder verfügbarLieferung an Packstation möglich",
-      "image"       : "/assets/images/Natural_Food_Shop.jpg"
-
-    } ,
-  
-    {
-
       "title"       : "myProduct.at",
       "url"         : "/ernaehrung-und-lebensmittel/myProduct/",
       "category"    : "",
@@ -429,6 +417,18 @@
       "date"        : "2021-12-22 00:00:00 +0100",
       "shippings"   : "Versandkosten innerhalb Deutschlands 4,90 EuroKostenlose Lieferung ab 39 Euro BestellwertVersand in viele europäische Länder verfügbarLieferung an Postfiliale und Packstation möglichGratis Rücksendung/Retoure",
       "image"       : "/assets/images/coffee-circle.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Natural Food Shop",
+      "url"         : "/ernaehrung-und-lebensmittel/Natural-Food-Shop/",
+      "category"    : "",
+      "tags"        : "Bio, Ökologisch, Nachhaltig, Lebensmittel, Nahrungsergänzungsmittel, Allergiker, Vegan",
+      "date"        : "2021-12-22 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands 4,90 EuroVersandkostenfreie Lieferung ab 50 Euro BestellwertVersand in weitere europäische Länder verfügbarLieferung an Packstation möglich",
+      "image"       : "/assets/images/Natural_Food_Shop.jpg"
 
     } ,
   
@@ -471,7 +471,7 @@
     {
 
       "title"       : "ForestFinance",
-      "url"         : "/geschenke-und-erlebnisse/forestfinance/",
+      "url"         : "/geschenke-und-erlebnisse/ForestFinance/",
       "category"    : "",
       "tags"        : "Nachhaltigkeit, Nachhaltige-Investments, Investieren, Nachhaltig, Geschenke, Geschenkideen",
       "date"        : "2021-12-21 00:00:00 +0100",
@@ -555,7 +555,7 @@
     {
 
       "title"       : "MeineTrenntoilette.de",
-      "url"         : "/haus-und-garten/meinetrenntoilette/",
+      "url"         : "/haus-und-garten/MeineTrenntoilette/",
       "category"    : "",
       "tags"        : "Wasserschutz, Nachhaltige-Produkte, Camping, Wohnmobil, Wohnwagen, Chemiefrei",
       "date"        : "2021-12-18 00:00:00 +0100",
@@ -591,7 +591,7 @@
     {
 
       "title"       : "Treesteem",
-      "url"         : "/mode-und-kleidung/treesteem/",
+      "url"         : "/mode-und-kleidung/Treesteem/",
       "category"    : "",
       "tags"        : "Nachhaltige Mode, Damen, Herren, Mode, Fashion, Made-in-Germany, Kleidung, Bio",
       "date"        : "2021-12-16 00:00:00 +0100",

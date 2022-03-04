@@ -19,7 +19,7 @@ a:hover { color: #145523; text-decoration: none; }
 
 .affili { cursor: pointer; }
 
-.black-link { color: black; }
+.black-link, .black-link:hover { color: black; }
 
 .btn-outline-success { background-color: white !important; }
 
@@ -46,5 +46,7 @@ a:hover { color: #145523; text-decoration: none; }
 .table .tablesorter-header { background-color: white !important; }
 
 .company-col { min-width: 22rem; }
+
+#front-jumbo { padding-top: 1rem; padding-bottom: 1rem; }
 
 /*# sourceMappingURL=main.css.map */
