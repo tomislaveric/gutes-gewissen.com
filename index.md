@@ -13,13 +13,13 @@ tags: [Nachhaltigkeit, Naturprodukte, Fair-Trade, Made in Germany]
       <hr class="my-1">
 </div>
 <div class="row">
-<div class="col-12 col-lg-8">
+<div class="col-12 col-lg-9">
     {% for post in site.posts %}
       {% include company-list-element.md content=post %}
     {% endfor %}
 <div class="my-4">{{ page.description }}</div>
 </div>
-<div class="col-12 col-lg-4">
+<div class="col-12 col-lg-3">
 <div class="sticky-top">
 {% include right-sidebar.md %}
 </div>
