@@ -1,4 +1,4 @@
-<div class="sticky-top">
+<div>
   {% include menu.md %}
 </div>
 <div class="d-none d-xl-block">
