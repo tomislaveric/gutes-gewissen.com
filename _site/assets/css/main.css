@@ -49,4 +49,6 @@ a:hover { color: #145523; text-decoration: none; }
 
 #front-jumbo { padding-top: 1rem; padding-bottom: 1rem; }
 
+.list-group-item.active { color: white; background-color: #d2f0d4; border-color: #d2f0d4; }
+
 /*# sourceMappingURL=main.css.map */

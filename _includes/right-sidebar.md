@@ -1,7 +1,11 @@
 <h4>Rubriken</h4>
 <ul class="list-group">
  {% for rubric in site.rubrics %}
+ {% if include.rubric == rubric.slug %}
+ <li class="list-group-item d-flex justify-content-between align-items-center active">
+ {% else %}
  <li class="list-group-item d-flex justify-content-between align-items-center">
+ {% endif %}
  <a href="{{ rubric.url }}" class="black-link">
     <small>{{ rubric.title }}</small>
   </a>
