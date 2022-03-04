@@ -10,6 +10,7 @@ tags: [Nachhaltigkeit, Naturprodukte, Fair-Trade, Made in Germany]
     <div class="py-4">
       <h1 class="h3">{{ page.title }}</h1>
       <h2 class="lead text-muted">{{ page.slogan }}</h2>
+      <hr class="my-1">
     </div>
     {% for post in site.posts %}
       {% include company-list-element.md content=post %}
