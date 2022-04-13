@@ -3,7 +3,7 @@ author: Michael
 title: Upcycling Deluxe
 slogan: "Online-Shop für nachhaltiges Upcycling-Design"
 sidebarButtonText: "Gehe zu Upcycling Deluxe"
-targetUrl: https://luna.r.lafamo.com/ts/i5540515/tsc?typ=r&amc=con.blbn.490871.505057.CRTaDsbKkPe
+targetUrl: https://www.upcycling-deluxe.com/
 image: /assets/images/upcycling-deluxe.jpg
 screenshot: /assets/images/screenshots/upcycling-deluxe_screenshot.jpg
 rubric: Secondhand & Upcycling
