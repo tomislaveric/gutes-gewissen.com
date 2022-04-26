@@ -3,7 +3,7 @@ author: Tomislav
 title: Living Crafts
 slogan: Hersteller für Bio-Kleidung und Naturtextilien
 targetUrl: https://www.awin1.com/awclick.php?gid=364635&mid=13807&awinaffid=731132&linkid=2398755&clickref=
-image: /assets/images/livingcrafts.jpg
+image: /assets/images/living_crafts_logo.png
 screenshot: /assets/images/screenshots/livingcrafts.jpg
 rubric: Mode & Kleidung
 tags: [Kleidung, Nachhaltige Mode, Damen, Herren, Mode, Fashion]

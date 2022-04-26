@@ -3,7 +3,7 @@ author: Tomislav
 title: Futtershop.de
 slogan: Hochwertige Zutaten für artgerechte Ernährung
 targetUrl: https://www.awin1.com/cread.php?awinmid=21156&awinaffid=731132
-image: /assets/images/Futtershop.jpg
+image: /assets/images/futtershop_logo.png
 screenshot: /assets/images/screenshots/Futtershop_screenshot.jpg
 rubric: Tierfutter & Tierbedarf
 tags: [Tierversuchsfrei, Tiernahrung, Katze, Hund, Artgerecht, Schadstofffrei]

@@ -3,7 +3,7 @@ author: Tomislav
 title: ThokkThokk
 slogan: Online-Shop für nachhaltige Bio-Kleidung
 targetUrl: https://www.awin1.com/awclick.php?gid=365281&mid=13720&awinaffid=731132&linkid=2404971&clickref=
-image: /assets/images/ThokkThokk.png
+image: /assets/images/thokkthokk_logo.png
 screenshot: /assets/images/screenshots/ThokkThokk_screenshot.jpg
 rubric: Mode & Kleidung
 tags: [Kleidung, Nachhaltige Bio-Kleidung, Damen, Herren, Mode, Fashion, Vegane Wolle, Tencel]

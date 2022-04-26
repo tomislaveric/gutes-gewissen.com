@@ -3,7 +3,7 @@ author: Tomislav
 title: Blutsgeschwister
 slogan: "Ökologisch und sozial nachhaltige Mode"
 targetUrl: https://www.awin1.com/cread.php?awinmid=19052&awinaffid=731132
-image: /assets/images/blutsgeschwister.jpg
+image: /assets/images/blutsgeschwister_logo.png
 screenshot: /assets/images/screenshots/blutsgeschwister_screenshot.jpg
 rubric: Mode & Kleidung
 tags: [Kleidung, Made-in-Germany, CO₂-sparend, Fair, Nachhaltige Bio-Kleidung, Damen, Herren, Mode, Fashion, Vegan]

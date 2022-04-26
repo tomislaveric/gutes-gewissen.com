@@ -3,7 +3,7 @@ author: Tomislav
 title: kühnle'waiko
 slogan: Umweltbewusster Büromöbelhersteller und Einrichter
 targetUrl: https://www.awin1.com/cread.php?awinmid=22733&awinaffid=731132
-image: /assets/images/kühnle_waiko.png
+image: /assets/images/kuehnle_waiko_logo.png
 screenshot: /assets/images/screenshots/kühnle_waiko_screenshot.jpg
 rubric: Haus & Garten
 tags: [Möbel, Büromöbel, Büroausstattung, Nachhaltig, Individuell, Umweltbewusst]

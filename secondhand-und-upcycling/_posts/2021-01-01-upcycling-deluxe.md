@@ -4,7 +4,7 @@ title: Upcycling Deluxe
 slogan: "Online-Shop für nachhaltiges Upcycling-Design"
 sidebarButtonText: "Gehe zu Upcycling Deluxe"
 targetUrl: https://www.upcycling-deluxe.com/
-image: /assets/images/upcycling-deluxe.jpg
+image: /assets/images/upcycling_deluxe_logo.png
 screenshot: /assets/images/screenshots/upcycling-deluxe_screenshot.jpg
 rubric: Secondhand & Upcycling
 tags: [Marktplatz, Secondhand, Upcycling, Nachhaltige-Produkte, Nachhaltiger-Lebensstil]

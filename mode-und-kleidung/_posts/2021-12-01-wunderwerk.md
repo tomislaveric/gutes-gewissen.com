@@ -3,7 +3,7 @@ author: Tomislav
 title: wunderwerk
 slogan: Umweltschonende und nachhaltige Modemarke
 targetUrl: https://neso.r.niwepa.com/ts/i5541365/tsc?amc=con.blbn.490871.505057.14452568&rmd=3&trg=https%3A%2F%2Fwww.wunderwerk.com
-image: /assets/images/wunderwerk.png
+image: /assets/images/wunderwerk_logo.png
 screenshot: /assets/images/screenshots/biggreensmile.jpg
 rubric: Mode & Kleidung
 tags: [Kleidung, Nachhaltige Mode, Damen, Herren, Mode, Fashion, Fair]

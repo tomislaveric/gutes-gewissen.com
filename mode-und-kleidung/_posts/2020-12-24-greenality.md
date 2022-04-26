@@ -3,7 +3,7 @@ author: Michael
 title: GREENALITY
 slogan: "Online-Shop für Fair-Trade-Kleidung und Bio-Mode"
 targetUrl: https://neso.r.niwepa.com/ts/i5033488/tsc?typ=r&amc=con.blbn.490871.505057.CRT2VgLsvRm
-image: /assets/images/greenality.jpg
+image: /assets/images/greenality_logo.png
 screenshot: /assets/images/screenshots/greenality_screenshot.jpg
 rubric: Mode & Kleidung
 tags: [Kleidung, CO₂-sparend, Fair-Trade, Nachhaltige Bio-Kleidung, Damen, Herren, Mode, Fashion, Vegan]

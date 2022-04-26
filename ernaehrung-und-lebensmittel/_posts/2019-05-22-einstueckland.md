@@ -4,7 +4,7 @@ title: EinStückLand
 slogan: Nachhaltiges Fleisch bei artgerechter Haltung
 targetUrl: https://einstueckland.de
 image: /assets/images/einstueckland.png
-screenshot: /assets/images/screenshots/einstueckland.jpg
+screenshot: /assets/images/screenshots/einstückland_logo.png
 rubric: Ernährung & Lebensmittel
 tags: [Nachhaltigkeit, Made in Germany, Bio, Biofleisch, Fleisch]
 payments: [PayPal, Überweisung, Kreditkarte]

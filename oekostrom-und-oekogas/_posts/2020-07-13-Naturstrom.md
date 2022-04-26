@@ -3,7 +3,7 @@ author: Tomislav
 title: NATURSTROM
 slogan: Unabhängiger Energieversorger für Strom und Gas
 targetUrl: https://www.awin1.com/awclick.php?gid=340209&mid=11937&awinaffid=731132&linkid=2188340&clickref=
-image: /assets/images/NATURSTROM.jpg
+image: /assets/images/naturstrom_logo.png
 screenshot: /assets/images/screenshots/naturstrom.jpg
 rubric: Ökostrom & Ökogas
 shortDescription: "NATURSTROM ist ein unabhängiger Ökostrom- und Ökogasanbieter mit einem breiten Portfolio rund Produkte aus umweltschonenden erneuerbaren Energien."

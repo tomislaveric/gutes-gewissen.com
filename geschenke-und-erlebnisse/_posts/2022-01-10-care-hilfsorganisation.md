@@ -4,7 +4,7 @@ title: CARE Hilfsorganisation
 slogan: CARE-Pakete als Spende verschenken
 sidebarButtonText: "Gehe zur CARE Hilfsorganisation"
 targetUrl: https://www.awin1.com/cread.php?awinmid=17480&awinaffid=731132
-image: /assets/images/care-hilfsorganisation_logo.png
+image: /assets/images/care_hilfsorganisation_logo.png
 screenshot: /assets/images/screenshots/care-hilfsorganisation_screenshot.jpg
 rubric: Geschenke & Erlebnisse
 tags: [Spende, Steuervorteil, Wohltätigkeit, Geschenkidee]

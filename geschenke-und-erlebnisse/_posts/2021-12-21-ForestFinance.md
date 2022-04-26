@@ -3,7 +3,7 @@ author: Tomislav
 title: ForestFinance
 slogan: Nachhaltige Investments und Öko-Geschenke
 targetUrl: https://www.awin1.com/cread.php?awinmid=17372&awinaffid=731132
-image: /assets/images/ForestFinance.png
+image: /assets/images/forestfinance_logo.png
 screenshot: /assets/images/screenshots/ForestFinance_screenshot.jpg
 rubric: Geschenke & Erlebnisse
 tags: [Nachhaltigkeit, Nachhaltige-Investments, Investieren, Nachhaltig, Geschenke, Geschenkideen]

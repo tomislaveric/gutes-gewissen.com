@@ -4,7 +4,7 @@ title: Oxfam Unverpackt
 sidebarButtonText: "Gehe zu Oxfam Unverpackt"
 slogan: Besondere Geschenkideen gegen Armut
 targetUrl: https://pluto.r.oxfam.de/ts/i5043550/tsc?typ=r&amc=con.blbn.490871.505057.CRTR-WgLvF4
-image: /assets/images/oxfam-unverpackt.jpg
+image: /assets/images/oxfam_logo.png
 screenshot: /assets/images/screenshots/oxfam-unverpackt_screenshot.jpg
 rubric: Geschenke & Erlebnisse
 tags: [Nachhaltig, Wohltätigkeit, Tierschutz, Spende, Steuervorteil]

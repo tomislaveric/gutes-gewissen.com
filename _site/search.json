@@ -92,7 +92,7 @@
       "tags"        : "Nachhaltig, Möbel, Kleidung, Fashion, Bio, Ökologisch, Made-in-Germany",
       "date"        : "2022-01-17 00:00:00 +0100",
       "shippings"   : "Standard-Versand Paket 2,95 Euro24-Stunden-Versand Paket 12,90 EuroStandard-Lieferung Spedition 29,95 Euro24-Stunden-Lieferung Spedition 49,90 Euro",
-      "image"       : "/assets/images/otto-products_logo.png"
+      "image"       : "/assets/images/otto_products_logo.png"
 
     } ,
   
@@ -200,7 +200,7 @@
       "tags"        : "Spende, Steuervorteil, Wohltätigkeit, Geschenkidee",
       "date"        : "2022-01-10 00:00:00 +0100",
       "shippings"   : "",
-      "image"       : "/assets/images/care-hilfsorganisation_logo.png"
+      "image"       : "/assets/images/care_hilfsorganisation_logo.png"
 
     } ,
   
@@ -224,7 +224,7 @@
       "tags"        : "Nachhaltig, Sport, Gesundheit, Getränke, Zuckerfrei",
       "date"        : "2022-01-10 00:00:00 +0100",
       "shippings"   : "Versandkosten von 3,99 Euro für Bestellungen unter 29 EuroKostenloser Versand ab 29 Euro BestellwertLieferung nach Österreich und Deutschland möglichGratis Rücksendung für Retouren verfügbar",
-      "image"       : "/assets/images/charge-sports-drinks_logo.png"
+      "image"       : "/assets/images/charge_sports_drinks_logo.png"
 
     } ,
   
@@ -344,7 +344,7 @@
       "tags"        : "Bio, Fair-Traid, Schokolade, Made-in-Österreich",
       "date"        : "2021-12-23 00:00:00 +0100",
       "shippings"   : "Versandkostenfreie Lieferung nach Deutschland ab 35 Euro BestellwertVersandkosten von 8,90 Euro für Bestellungen bis 24,99 EuroVersandkosten von 7,90 Euro für Bestellungen ab 25,00 EuroKostenloser Versand innerhalb Österreichs ab 25 Euro WarenwertKostenfreie Lieferung innerhalb Europas ab 45 Euro Bestellwert",
-      "image"       : "/assets/images/zotter.jpg"
+      "image"       : "/assets/images/zotter_schokolade_logo.png"
 
     } ,
   
@@ -428,7 +428,7 @@
       "tags"        : "Bio, Ökologisch, Nachhaltig, Lebensmittel, Nahrungsergänzungsmittel, Allergiker, Vegan",
       "date"        : "2021-12-22 00:00:00 +0100",
       "shippings"   : "Versandkosten innerhalb Deutschlands 4,90 EuroVersandkostenfreie Lieferung ab 50 Euro BestellwertVersand in weitere europäische Länder verfügbarLieferung an Packstation möglich",
-      "image"       : "/assets/images/Natural_Food_Shop.jpg"
+      "image"       : "/assets/images/natural_food_shop_logo.png"
 
     } ,
   
@@ -452,7 +452,7 @@
       "tags"        : "Tierversuchsfrei, Tiernahrung, Katze, Hund, Artgerecht, Schadstofffrei",
       "date"        : "2021-12-21 00:00:00 +0100",
       "shippings"   : "Versandkosten innerhalb Deutschlands von 4,50 EuroKostenloser Versand in Deutschland ab 25 Euro WarenwertLieferkosten nach Österreich von 9 EuroKostenfreier Versand nach Österreich ab 35 Euro Bestellwert",
-      "image"       : "/assets/images/Futtershop.jpg"
+      "image"       : "/assets/images/futtershop_logo.png"
 
     } ,
   
@@ -476,7 +476,7 @@
       "tags"        : "Nachhaltigkeit, Nachhaltige-Investments, Investieren, Nachhaltig, Geschenke, Geschenkideen",
       "date"        : "2021-12-21 00:00:00 +0100",
       "shippings"   : "Kostenloser Versand für Geschenkideen",
-      "image"       : "/assets/images/ForestFinance.png"
+      "image"       : "/assets/images/forestfinance_logo.png"
 
     } ,
   
@@ -500,7 +500,7 @@
       "tags"        : "Tierfutter, Tiernahrung, Katze, Hund, Pferd, Klimaneutral",
       "date"        : "2021-12-19 00:00:00 +0100",
       "shippings"   : "Kostenloser Versand innerhalb Deutschlands für Bestellungen ab 19 EuroVersandkosten in Deutschland von 3,95 Euro für Bestellungen bis 19 EuroKostenfreie Lieferung nach Österreich ab 39 Euro BestellwertLieferkosten nach Österreich von 4,95 Euro bis 39 Euro WarenwertAllgemeine Mindestbestellwert von 4,99 Euro",
-      "image"       : "/assets/images/JOSERA.png"
+      "image"       : "/assets/images/josera_logo.png"
 
     } ,
   
@@ -524,7 +524,7 @@
       "tags"        : "Möbel, Büromöbel, Büroausstattung, Nachhaltig, Individuell, Umweltbewusst",
       "date"        : "2021-12-19 00:00:00 +0100",
       "shippings"   : "Versandkosten prozentual zum Warenwert berechnetLieferung innerhalb Deutschlands und nach Österreich möglich",
-      "image"       : "/assets/images/kühnle_waiko.png"
+      "image"       : "/assets/images/kuehnle_waiko_logo.png"
 
     } ,
   
@@ -536,7 +536,7 @@
       "tags"        : "Baby, Windeln, Nachhaltig, Umweltschonend, Schadstofffrei, Ökologisch",
       "date"        : "2021-12-19 00:00:00 +0100",
       "shippings"   : "Gratis Versand im Windel-Abo",
-      "image"       : "/assets/images/Little_Big_Change.jpg"
+      "image"       : "/assets/images/little_big_change_logo.png"
 
     } ,
   
@@ -548,7 +548,7 @@
       "tags"        : "Kleidung, Damen, Herren, Mode, Fashion, Nachhaltiger-Lebensstil, Nachhaltigkeit",
       "date"        : "2021-12-18 00:00:00 +0100",
       "shippings"   : "Versandkosten abhängig von Artikel und HändlerKostenlose Lieferung je nach Händler verfügbarAbholung gekaufter Artikel vor Ort möglich",
-      "image"       : "/assets/images/Locamo.png"
+      "image"       : "/assets/images/locamo_logo.png"
 
     } ,
   
@@ -584,7 +584,7 @@
       "tags"        : "Kleidung, Nachhaltige Mode, Damen, Herren, Mode, Fair, Fashion, GOTS zertifiziert",
       "date"        : "2021-12-17 00:00:00 +0100",
       "shippings"   : "Versandkosten innerhalb Deutschlands von 3,95 Euro pro BestellungLieferung in viele weitere Länder ab 6,95 Euro möglichKostenlose Rücksendungen für Kunden aus Deutschland",
-      "image"       : "/assets/images/Tranquillo.png"
+      "image"       : "/assets/images/tranquillo_logo.png"
 
     } ,
   
@@ -608,7 +608,7 @@
       "tags"        : "Nachhaltige Mode, Damen, Herren, Mode, Fashion, Made-in-Germany, Caps, Mützen",
       "date"        : "2021-12-02 00:00:00 +0100",
       "shippings"   : "Versandkosten innerhalb Deutschlands 3,90 EuroKostenlose Lieferung ab 70 Euro BestellwertLieferkosten nach Österreich 5,90 EuroKostenfreier Versand nach Österreich ab 100 EuroGratis Retoure/Rücksendung innerhalb Deutschlands",
-      "image"       : "/assets/images/Robin.jpg"
+      "image"       : "/assets/images/robin_logo.png"
 
     } ,
   
@@ -620,7 +620,7 @@
       "tags"        : "Kleidung, Nachhaltige Mode, Damen, Herren, Mode, Fashion, Fair",
       "date"        : "2021-12-01 00:00:00 +0100",
       "shippings"   : "Kostenlose Lieferung innerhalb Deutschlands ab 50,00 Euro WarenwertVersandkostenpauschale von 5,95 Euro für Bestellungen bis 49,99 EuroVersandkosten ins EU-Ausland 11,95 EuroVersand in die Schweiz und Großbritannien 15,90 EuroKostenfreie Rücksendungen für Besteller aus Deutschland",
-      "image"       : "/assets/images/wunderwerk.png"
+      "image"       : "/assets/images/wunderwerk_logo.png"
 
     } ,
   
@@ -632,7 +632,7 @@
       "tags"        : "Kleidung, Nachhaltige Mode, Damen, Mode, Fashion, GOTS zertifiziert, Wohntextilien",
       "date"        : "2021-12-01 00:00:00 +0100",
       "shippings"   : "Versandkosten innerhalb Deutschlands 6,95 EuroLieferkosten innerhalb der EU 13,95 EuroWeltweiter Versand 24,90 EuroKostenlose Retoure/Rückversand verfügbar",
-      "image"       : "/assets/images/deerberg.png"
+      "image"       : "/assets/images/deerberg_logo.png"
 
     } ,
   
@@ -644,7 +644,7 @@
       "tags"        : "Nachhaltiges-Tierfutter, Nachhaltiger-Tierbedarf, Tierversuchsfrei, Made-in-Germany, Keine-Tierversuche",
       "date"        : "2021-01-04 00:00:00 +0100",
       "shippings"   : "DPD-Versand 3,80 Euro für Bestellungen unter 49 EuroDHL-Versand 4,78 Euro bis 50 Euro BestellwertDHL-Versand 2,83 Euro ab 50 Euro BestellwertLieferung an Packstation mit DHL-Versand möglich",
-      "image"       : "/assets/images/naftie.jpg"
+      "image"       : "/assets/images/naftie_logo.png"
 
     } ,
   
@@ -656,7 +656,7 @@
       "tags"        : "Nachhaltig, Wohltätigkeit, Tierschutz, Spende, Steuervorteil",
       "date"        : "2021-01-03 00:00:00 +0100",
       "shippings"   : "Versandkosten von 5,90 Euro für Bestellungen unter 75 EuroKostenlose Lieferung ab 75 Euro BestellwertVersand an Packstation möglichLieferung innerhalb der EU verfügbar",
-      "image"       : "/assets/images/oxfam-unverpackt.jpg"
+      "image"       : "/assets/images/oxfam_logo.png"
 
     } ,
   
@@ -668,7 +668,7 @@
       "tags"        : "Nachhaltig, Schadstofffrei, Klimaneutral, Wiederverwendbar, BPA-Frei",
       "date"        : "2021-01-02 00:00:00 +0100",
       "shippings"   : "Versandkosten von 4,90 Euro für Bestellungen unter 20 EuroKostenloser Versand ab 20 Euro BestellwertLieferung an Packstationen möglichKostenfreie Retoure ab 40 Euro Warenwert",
-      "image"       : "/assets/images/biozoyg.jpg"
+      "image"       : "/assets/images/biozoyg_logo.png"
 
     } ,
   
@@ -680,7 +680,7 @@
       "tags"        : "Marktplatz, Secondhand, Upcycling, Nachhaltige-Produkte, Nachhaltiger-Lebensstil",
       "date"        : "2021-01-01 00:00:00 +0100",
       "shippings"   : "Versandkosten von 4,90 Euro für Bestellungen unter 200 EuroKostenlose Lieferung ab 200 Euro BestellwertVersand in europäische Länder möglich",
-      "image"       : "/assets/images/upcycling-deluxe.jpg"
+      "image"       : "/assets/images/upcycling_deluxe_logo.png"
 
     } ,
   
@@ -692,7 +692,7 @@
       "tags"        : "Marktplatz, Secondhand, Upcycling, Nachhaltige-Produkte, Nachhaltiger-Lebensstil",
       "date"        : "2020-12-31 00:00:00 +0100",
       "shippings"   : "Höhe der Versandkosten und Bedingungen der Retoure von jeweiligem Anbieter abhängig",
-      "image"       : "/assets/images/greenpicks.jpg"
+      "image"       : "/assets/images/greenpicks_logo.png"
 
     } ,
   
@@ -704,7 +704,7 @@
       "tags"        : "Geschirr, Made-in-Germany, Nachhaltig, Schadstofffrei, Klimaneutral, Wiederverwendbar, BPA-Frei",
       "date"        : "2020-12-30 00:00:00 +0100",
       "shippings"   : "Versandkosten von 3,95 Euro für Bestellungen unter 49 EuroKostenfreie Lieferung ab 49 Euro BestellwertVersand in andere Länder Europas möglich",
-      "image"       : "/assets/images/kahla-porzellan.jpg"
+      "image"       : "/assets/images/kahla_porzellan_logo.png"
 
     } ,
   
@@ -716,7 +716,7 @@
       "tags"        : "Nachhaltig, Schadstofffrei, Klimaneutral, Wiederverwendbar, BPA-Frei",
       "date"        : "2020-12-29 00:00:00 +0100",
       "shippings"   : "Versandkosten von 5,90 Euro für Bestellungen unter 75 EuroKostenlose Lieferung ab 75 Euro BestellwertVersand an Packstation möglichLieferung innerhalb der EU verfügbar",
-      "image"       : "/assets/images/klean-kanteen.jpg"
+      "image"       : "/assets/images/klean_kanteen_logo.png"
 
     } ,
   
@@ -728,7 +728,7 @@
       "tags"        : "Naturkosmetik, Nachhaltige-Körperpflege, CO₂-sparend, Wasserschutz, Mundhygiene, Fair, Vegan",
       "date"        : "2020-12-28 00:00:00 +0100",
       "shippings"   : "Versandkosten von 4,90 Euro für Bestellungen unter 10 EuroKostenloser Versand ab 10 Euro BestellwertLieferung an Packstationen möglich",
-      "image"       : "/assets/images/hydrophil.jpg"
+      "image"       : "/assets/images/hydrophil_logo.png"
 
     } ,
   
@@ -740,7 +740,7 @@
       "tags"        : "Kleidung, CO₂-sparend, Second-hand, Nachhaltige Bio-Kleidung, Damen, Herren, Mode, Fashion",
       "date"        : "2020-12-27 00:00:00 +0100",
       "shippings"   : "Kostenlose Lieferung innerhalb DeutschlandsVersand ins europäische Ausland möglichKostenlose Retoure/Rücksendung",
-      "image"       : "/assets/images/ubup.jpg"
+      "image"       : "/assets/images/ubup_logo.png"
 
     } ,
   
@@ -752,7 +752,7 @@
       "tags"        : "Schuhe, Fair-Trade, Nachhaltige Bio-Schuhe, Damen, Herren, Mode, Fashion",
       "date"        : "2020-12-26 00:00:00 +0100",
       "shippings"   : "Versandkosten von 5,50 Euro für Bestellungen bis 80 EuroKostenloser Versand ab 80 Euro BestellwertLieferung an Packstationen möglichKostenfreie Retoure innerhalb Deutschlands",
-      "image"       : "/assets/images/mbaetz.jpg"
+      "image"       : "/assets/images/mbaetz_logo.png"
 
     } ,
   
@@ -764,7 +764,7 @@
       "tags"        : "Kleidung, CO₂-sparend, Fair-Trade, Nachhaltige Bio-Kleidung, Damen, Herren, Mode, Fashion, Vegan",
       "date"        : "2020-12-25 00:00:00 +0100",
       "shippings"   : "Versandkosten von 4 Euro für Bestellungen bis 100 EuroKostenfreier Versand ab 100 Euro BestellwertLieferung nach Österreich und in die Schweiz möglichKostenlose Retoure innerhalb Deutschlands",
-      "image"       : "/assets/images/jojeco.jpg"
+      "image"       : "/assets/images/jojeco_logo.png"
 
     } ,
   
@@ -776,7 +776,7 @@
       "tags"        : "Kleidung, CO₂-sparend, Fair-Trade, Nachhaltige Bio-Kleidung, Damen, Herren, Mode, Fashion, Vegan",
       "date"        : "2020-12-24 00:00:00 +0100",
       "shippings"   : "Versandkosten von 2,50 Euro ohne MindestbestellwertLieferung an Packstation oder Postfiliale möglichKostenlose Rücksendungen innerhalb DeutschlandsVersand ins europäische Ausland verfügbar",
-      "image"       : "/assets/images/greenality.jpg"
+      "image"       : "/assets/images/greenality_logo.png"
 
     } ,
   
@@ -788,7 +788,7 @@
       "tags"        : "Kleidung, Made-in-Germany, CO₂-sparend, Fair, Nachhaltige Bio-Kleidung, Damen, Herren, Mode, Fashion, Vegan",
       "date"        : "2020-12-23 00:00:00 +0100",
       "shippings"   : "Kostenlose Lieferung ohne MindestbestellwertVersand an Packstationen und Postfilialen möglichKostenfreier Versand innerhalb Europas für Bestellungen ab 29 EuroUmtausch und Rücksendungen gratis",
-      "image"       : "/assets/images/blutsgeschwister.jpg"
+      "image"       : "/assets/images/blutsgeschwister_logo.png"
 
     } ,
   
@@ -800,7 +800,7 @@
       "tags"        : "Kleidung, Made-in-Germany, CO₂-sparend, Fair, Nachhaltige Bio-Kleidung, Damen, Herren, Mode, Fashion, Vegan",
       "date"        : "2020-12-22 00:00:00 +0100",
       "shippings"   : "Versandkosten von 2,50 Euro ohne MindestbestellwertLieferung an Packstation möglichWeltweiter Versand verfügbarKostenlose Rücksendungen innerhalb Deutschlands",
-      "image"       : "/assets/images/glore.jpg"
+      "image"       : "/assets/images/glore_logo.png"
 
     } ,
   
@@ -824,7 +824,7 @@
       "tags"        : "Kleidung, Nachhaltige Bio-Kleidung, Damen, Herren, Mode, Fashion, Vegane Wolle, Tencel",
       "date"        : "2020-07-27 00:00:00 +0200",
       "shippings"   : "Versandkostenfreie Lieferung in DeutschlandKeine Versandkosten nach Österreich und in die SchweizLieferung an Packstation möglichKostenlose Retoure innerhalb Deutschlands",
-      "image"       : "/assets/images/ThokkThokk.png"
+      "image"       : "/assets/images/thokkthokk_logo.png"
 
     } ,
   
@@ -908,7 +908,7 @@
       "tags"        : "Kleidung, Nachhaltige Mode, Damen, Herren, Mode, Fashion",
       "date"        : "2020-07-15 00:00:00 +0200",
       "shippings"   : "Versandkostenfreie Lieferung ab Warenwert von 150 EuroVersandkosten von 5,95 Euro für Bestellungen unter 150 EuroMindestbestellwert von 25 Euro",
-      "image"       : "/assets/images/livingcrafts.jpg"
+      "image"       : "/assets/images/living_crafts_logo.png"
 
     } ,
   
@@ -920,7 +920,7 @@
       "tags"        : "Kleidung, Nachhaltige Mode, Damen, Herren, Mode, Fashion",
       "date"        : "2020-07-15 00:00:00 +0200",
       "shippings"   : "Versandkosten innerhalb Deutschlands von 5,95 EuroKostenlose Retouren und Rücksendungen",
-      "image"       : "/assets/images/hessnatur.gif"
+      "image"       : "/assets/images/hessnatur_logo.png"
 
     } ,
   
@@ -944,7 +944,7 @@
       "tags"        : "Energieversorger, Ökogasanbieter, Ökostrom, Grüner Strom, CO2 neutral",
       "date"        : "2020-07-14 00:00:00 +0200",
       "shippings"   : "",
-      "image"       : "/assets/images/LichtBlick.jpg"
+      "image"       : "/assets/images/lichtblick_logo.png"
 
     } ,
   
@@ -956,7 +956,7 @@
       "tags"        : "Energieversorger, Ökogasanbieter, Ökostrom, Grüner Strom, CO2 neutral",
       "date"        : "2020-07-13 00:00:00 +0200",
       "shippings"   : "",
-      "image"       : "/assets/images/NATURSTROM.jpg"
+      "image"       : "/assets/images/naturstrom_logo.png"
 
     } ,
   
@@ -992,7 +992,7 @@
       "tags"        : "Vegan, Allergiker, Naturkost, Nachhaltigkeit, Bio, Obst, Gemüse",
       "date"        : "2020-06-29 00:00:00 +0200",
       "shippings"   : "Versandkostenfreie Lieferung ab Warenwert von 75 EuroVersandkosten von 5,95 Euro für Bestellungen unter 75 EuroMindestbestellwert von 10 EuroLieferung ab Packstation möglichKostenloser Versand nach Österreich ab 75 Euro Bestellwert",
-      "image"       : "/assets/images/PureNature.png"
+      "image"       : "/assets/images/purenature_logo.png"
 
     } ,
   
@@ -1076,7 +1076,7 @@
       "tags"        : "Kleidung, Damen, Herren, Mode, Fashion, Made in Germany",
       "date"        : "2019-05-23 00:00:00 +0200",
       "shippings"   : "Kostenloser Standardversand ab 100 EuroVersand in Deutschland 5 EuroVersand in Europa 14 EuroVersandkostenpauschale unabhängig vom Gewicht",
-      "image"       : "/assets/images/manomama.png"
+      "image"       : "/assets/images/manomama_logo.png"
 
     } ,
   

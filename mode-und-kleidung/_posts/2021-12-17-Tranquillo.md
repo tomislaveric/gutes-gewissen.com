@@ -3,7 +3,7 @@ author: Tomislav
 title: Tranquillo 
 slogan: Shop für Fair-Fashion und nachhaltigen Lifestyle
 targetUrl: https://www.awin1.com/cread.php?awinmid=21356&awinaffid=731132
-image: /assets/images/Tranquillo.png
+image: /assets/images/tranquillo_logo.png
 screenshot: /assets/images/screenshots/Tranquillo_screenshot.jpg
 rubric: Mode & Kleidung
 tags: [Kleidung, Nachhaltige Mode, Damen, Herren, Mode, Fair, Fashion, GOTS zertifiziert]

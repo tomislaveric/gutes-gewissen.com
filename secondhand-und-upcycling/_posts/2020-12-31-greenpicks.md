@@ -3,7 +3,7 @@ author: Michael
 title: Greenpicks
 slogan: "Marktplatz für Öko- und Upcycling-Produkte"
 targetUrl: https://pluto.r.powuta.com/ts/i5038020/tsc?typ=r&amc=con.blbn.490871.505057.CRT3csrg6WW
-image: /assets/images/greenpicks.jpg
+image: /assets/images/greenpicks_logo.png
 screenshot: /assets/images/screenshots/greenpicks_screenshot.jpg
 rubric: Secondhand & Upcycling
 tags: [Marktplatz, Secondhand, Upcycling, Nachhaltige-Produkte, Nachhaltiger-Lebensstil]

@@ -3,7 +3,7 @@ author: Tomislav
 title: CHARGE Sports Drinks
 slogan: Funktionelle und nachhaltige Getränke
 targetUrl: https://www.awin1.com/cread.php?awinmid=18508&awinaffid=731132
-image: /assets/images/charge-sports-drinks_logo.png
+image: /assets/images/charge_sports_drinks_logo.png
 screenshot: /assets/images/screenshots/charge-sports-drinks_screenshot.jpg
 rubric: Ernährung & Lebensmittel
 tags: [Nachhaltig, Sport, Gesundheit, Getränke, Zuckerfrei]

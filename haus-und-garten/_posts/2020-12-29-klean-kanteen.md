@@ -3,7 +3,7 @@ author: Tomislav
 title: Klean Kanteen
 slogan: Schadstofffreie und nachhaltige Trinkflaschen
 targetUrl: https://atlas.r.akipam.com/ts/i5541187/tsc?typ=r&amc=con.blbn.490871.505057.CRT6aSrl_Tl
-image: /assets/images/klean-kanteen.jpg
+image: /assets/images/klean_kanteen_logo.png
 screenshot: /assets/images/screenshots/klean-kanteen_screenshot.jpg
 rubric: Haus & Garten
 tags: [Nachhaltig, Schadstofffrei, Klimaneutral, Wiederverwendbar, BPA-Frei]

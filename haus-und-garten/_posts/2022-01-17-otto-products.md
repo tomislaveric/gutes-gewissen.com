@@ -3,7 +3,7 @@ author: Tomislav
 title: OTTO products
 slogan: OTTO Eigenmarke als nachhaltige Alternative
 targetUrl: https://www.awin1.com/cread.php?awinmid=14336&awinaffid=731132&ued=https%3A%2F%2Fwww.otto.de%2Fsuche%2Fotto%2520products%2F
-image: /assets/images/otto-products_logo.png
+image: /assets/images/otto_products_logo.png
 screenshot: /assets/images/screenshots/otto-products_screenshot.jpg
 rubric: Haus & Garten
 tags: [Nachhaltig, Möbel, Kleidung, Fashion, Bio, Ökologisch, Made-in-Germany]

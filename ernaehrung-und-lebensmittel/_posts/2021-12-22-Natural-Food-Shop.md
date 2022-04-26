@@ -3,7 +3,7 @@ author: Tomislav
 title: Natural Food Shop
 slogan: Ökologische Lebensmittel und natürliche Nahrungsergänzungsmittel
 targetUrl: https://www.awin1.com/cread.php?awinmid=21874&awinaffid=731132
-image: /assets/images/Natural_Food_Shop.jpg
+image: /assets/images/natural_food_shop_logo.png
 screenshot: /assets/images/screenshots/Natural_Food_Shop_screenshot.jpg
 rubric: Ernährung & Lebensmittel
 tags: [Bio, Ökologisch, Nachhaltig, Lebensmittel, Nahrungsergänzungsmittel, Allergiker, Vegan]
