@@ -69,6 +69,8 @@ Das Sortiment umfasst folgende Marken:
 
 Wer Sneakers liebt und Wert auf ganzheitliche Nachhaltigkeit, Kundenfreundlichkeit sowie einzigartige Designs legt, ist bei Sneakers Unplugged genau richtig.
 
+{% include screenshot.md %}
+
 ### Der Online-Shops von Sneakers Unplugged
 
 Der Sneakers Unplugged Online-Shop ist in seiner Menüführung nutzerfreundlich, die informelle Sprache spiegelt die Firmenphilosophie wider. Bei der Suchfunktion ist es möglich, nach dem Alphabet, dem Datum, dem- Preis, dem Rabatt oder nach den meistverkauften Artikeln zu sortieren. Die Darstellung von den Produktinformationen kann flexibel gewählt werden. Dieses Feature verleiht dem Shop zusätzlich etwas Besonderes.
