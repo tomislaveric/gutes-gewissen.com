@@ -77,7 +77,7 @@ Wir können Ihre Angaben und Kontaktanfrage in unserem Customer-Relationship-Man
 Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Für die personenbezogenen Daten aus der Eingabemaske des Kontaktformulars und diejenigen, die per E-Mail übersandt wurden, ist dies dann der Fall, wenn die jeweilige Konversation mit Ihnen beendet ist. Beendet ist die Konversation dann, wenn sich aus den Umständen entnehmen lässt, dass der betroffene Sachverhalt abschließend geklärt ist. Anfragen von Nutzern, die über einen Account bzw. Vertrag mit uns verfügen, speichern wir bis zum Ablauf von zwei Jahren nach Vertragsbeendigung. Im Fall von gesetzlichen Archivierungspflichten erfolgt die Löschung nach deren Ablauf: Ende handelsrechtlicher (6 Jahre) und steuerrechtlicher (10 Jahre) Aufbewahrungspflicht.
 
 Sie haben jederzeit die Möglichkeit, die Einwilligung nach Art. 6 Abs. 1 S. 1 lit. a) DS-GVO zur Verarbeitung der personenbezogenen Daten zu widerrufen. Nehmen Sie per E-Mail Kontakt mit uns auf, so können Sie der Speicherung der personenbezogenen Daten jederzeit widersprechen.
-
+<!-- 
 ## Google Adsense
 
 Wir haben Werbeanzeigen des Google Dienstes „Adsense“ (Google Ireland Limited, Registernr.: 368047, Gordon House, Barrow Street, Dublin 4, Irland) auf unserer Webseite integriert. Die Werbeanzeigen sind über den (i)-Hinweis „Google-Anzeigen“ in jeder Anzeige gekennzeichnet. Wir haben dabei die personalisierten Anzeigen aktiviert, um Ihnen interessantere Werbung anzuzeigen, die die kommerzielle Nutzung unserer Website unterstützt, den Wert für uns steigert und für Sie die Nutzererfahrung verbessert. Mithilfe personalisierter Werbung können wir über Adsense Nutzer auf Grundlage ihrer Interessen und demografischen Merkmale (z.B. "Sportbegeisterte") erreichen.
@@ -112,7 +112,7 @@ Sie können der Installation von Cookies durch Google Adsense auf verschiedene A
 
 • Sie können die personalisierten Anzeigen der Drittanbieter, die an der Werbeselbstregulierungsinitiaive “About Ads” teilnehmen über den Link https://optout.aboutads.info für US-Seiten oder für EU-Seiten unter http://www.youronlinechoices.com/de/praferenzmanagement/ deaktivieren, wobei diese Einstellung nur solange Bestand hat, bis Sie all Ihre Cookies löschen; • Sie können durch ein Browser-Plug-in für Chrome, Firefox oder Internet-Explorer unter dem Link https://support.google.com/ads/answer/7395996 dauerhaft Cookies deaktivieren. Diese Deaktivierung kann zur Folge haben, dass Sie nicht alle Funktionen unserer Website mehr vollumfänglich nutzen können.
 
-In der Datenschutzerklärung für Werbung von Google unter https://policies.google.com/technologies/ads finden Sie weitere Informationen zur Verwendung von Google Cookies in Anzeigen und deren Werbetechnologien, Speicherdauer, Anonymisierung, Standortdaten, Funktionsweise und Ihre Rechte.
+In der Datenschutzerklärung für Werbung von Google unter https://policies.google.com/technologies/ads finden Sie weitere Informationen zur Verwendung von Google Cookies in Anzeigen und deren Werbetechnologien, Speicherdauer, Anonymisierung, Standortdaten, Funktionsweise und Ihre Rechte. -->
 
 ## Amazon-Partnerprogramm
 
