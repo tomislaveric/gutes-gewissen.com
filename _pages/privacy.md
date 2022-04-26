@@ -77,42 +77,6 @@ Wir können Ihre Angaben und Kontaktanfrage in unserem Customer-Relationship-Man
 Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Für die personenbezogenen Daten aus der Eingabemaske des Kontaktformulars und diejenigen, die per E-Mail übersandt wurden, ist dies dann der Fall, wenn die jeweilige Konversation mit Ihnen beendet ist. Beendet ist die Konversation dann, wenn sich aus den Umständen entnehmen lässt, dass der betroffene Sachverhalt abschließend geklärt ist. Anfragen von Nutzern, die über einen Account bzw. Vertrag mit uns verfügen, speichern wir bis zum Ablauf von zwei Jahren nach Vertragsbeendigung. Im Fall von gesetzlichen Archivierungspflichten erfolgt die Löschung nach deren Ablauf: Ende handelsrechtlicher (6 Jahre) und steuerrechtlicher (10 Jahre) Aufbewahrungspflicht.
 
 Sie haben jederzeit die Möglichkeit, die Einwilligung nach Art. 6 Abs. 1 S. 1 lit. a) DS-GVO zur Verarbeitung der personenbezogenen Daten zu widerrufen. Nehmen Sie per E-Mail Kontakt mit uns auf, so können Sie der Speicherung der personenbezogenen Daten jederzeit widersprechen.
-<!-- 
-## Google Adsense
-
-Wir haben Werbeanzeigen des Google Dienstes „Adsense“ (Google Ireland Limited, Registernr.: 368047, Gordon House, Barrow Street, Dublin 4, Irland) auf unserer Webseite integriert. Die Werbeanzeigen sind über den (i)-Hinweis „Google-Anzeigen“ in jeder Anzeige gekennzeichnet. Wir haben dabei die personalisierten Anzeigen aktiviert, um Ihnen interessantere Werbung anzuzeigen, die die kommerzielle Nutzung unserer Website unterstützt, den Wert für uns steigert und für Sie die Nutzererfahrung verbessert. Mithilfe personalisierter Werbung können wir über Adsense Nutzer auf Grundlage ihrer Interessen und demografischen Merkmale (z.B. "Sportbegeisterte") erreichen.
-
-Zu diesen Zwecken erhält Google beim Besuch unserer Website die Information, dass Sie unsere Website aufgerufen haben. Dazu setzt Google einen Web-Beacon bzw. Cookie auf Ihren Computer. Der volle Umfang der Datenverarbeitung und die Speicherdauer ist uns nicht bekannt. Die Daten werden auch in die USA übertragen und dort analysiert. Wenn Sie mit einem Google-Account eingeloggt sind, können durch Adsense die Daten Ihrem Account zugeordnet werden. Wenn Sie dies nicht wünschen, müssen Sie sich vor dem Besuch unserer Website ausloggen.
-
-Aber auch andere Informationen können hierfür durch Google herangezogen werden:
-
-• die Art der von Ihnen besuchten Websites sowie der auf Ihrem Gerät installierten mobilen Apps;
-
-• Cookies in Ihrem Browser und Einstellungen in Ihrem Google-Konto;
-
-• Websites und Apps, die Sie besucht haben;
-
-• Ihre Aktivitäten auf anderen Geräten;
-
-• vorherige Interaktionen mit Anzeigen oder Werbediensten von Google;
-
-• Ihre Google-Kontoaktivitäten und -informationen.
-
-Bei einem Klick auf eine Adsense-Anzeige wird die IP der Nutzer durch Google verarbeitet (Nutzungsdaten), wobei die Verarbeitung pseudonymisiert (sog. „Werbe-ID“) erfolgt, indem die IP um die letzten beiden Stellen gekürzt wird.
-
-Google verknüpft bei personalisierter Werbung Kennungen aus Cookies oder ähnlichen Technologien nicht mit besonderen Kategorien personenbezogener Daten nach Art. 9 DS-GVO wie ethnischer Herkunft, Religion, sexueller Orientierung oder Gesundheit.
-
-Es ist nicht auszuschließen, dass die obigen Daten an Dritte, Behörden oder Google Partner weitergegeben werden. Diese Website hat auch Google AdSense-Anzeigen von Drittanbietern aktiviert. Die vorgenannten Daten können an diese Drittanbieter (benannt unter https://support.google.com/dfp_sb/answer/94149) übertragen werden.
-
-Rechtsgrundlage für die Verarbeitung Ihrer Daten ist Art. 6 Abs. 1 S. 1 lit. f) DS-GVO. Google ist nach dem EU-US Privacy Shield zertifiziert: https://www.privacyshield.gov/EU-US-Framework.
-
-Sie können der Installation von Cookies durch Google Adsense auf verschiedene Arten widersprechen bzw. diese verhindern: • Sie können die Cookies in Ihrem Browser durch die Einstellung “keine Cookies akzeptieren” unterbinden, was auch die Cookies von Drittanbietern beinhaltet;
-
-• Sie können direkt bei Google über den Link https://adssettings.google.com die personenbezogenen Anzeigen bei Google deaktivieren, wobei diese Einstellung nur solange Bestand hat bis Sie Ihre Cookies löschen. Zur Deaktivierung der personalisierten Werbung auf Mobilgeräten finden Sie hier eine Anleitung: https://support.google.com/adsense/troubleshooter/1631343;
-
-• Sie können die personalisierten Anzeigen der Drittanbieter, die an der Werbeselbstregulierungsinitiaive “About Ads” teilnehmen über den Link https://optout.aboutads.info für US-Seiten oder für EU-Seiten unter http://www.youronlinechoices.com/de/praferenzmanagement/ deaktivieren, wobei diese Einstellung nur solange Bestand hat, bis Sie all Ihre Cookies löschen; • Sie können durch ein Browser-Plug-in für Chrome, Firefox oder Internet-Explorer unter dem Link https://support.google.com/ads/answer/7395996 dauerhaft Cookies deaktivieren. Diese Deaktivierung kann zur Folge haben, dass Sie nicht alle Funktionen unserer Website mehr vollumfänglich nutzen können.
-
-In der Datenschutzerklärung für Werbung von Google unter https://policies.google.com/technologies/ads finden Sie weitere Informationen zur Verwendung von Google Cookies in Anzeigen und deren Werbetechnologien, Speicherdauer, Anonymisierung, Standortdaten, Funktionsweise und Ihre Rechte. -->
 
 ## Amazon-Partnerprogramm
 
