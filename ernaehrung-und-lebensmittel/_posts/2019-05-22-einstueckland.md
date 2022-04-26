@@ -3,7 +3,7 @@ author: Tomislav
 title: EinStückLand
 slogan: Nachhaltiges Fleisch bei artgerechter Haltung
 targetUrl: https://einstueckland.de
-image: /assets/images/einstückland_logo.png
+image: /assets/images/einstueckland_logo.png
 screenshot: /assets/images/screenshots/einstueckland.jpg
 rubric: Ernährung & Lebensmittel
 tags: [Nachhaltigkeit, Made in Germany, Bio, Biofleisch, Fleisch]
