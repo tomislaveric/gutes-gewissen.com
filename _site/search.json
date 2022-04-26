@@ -968,7 +968,7 @@
       "tags"        : "Energieversorger, Gasanbieter, Grüner Strom, CO2 neutral",
       "date"        : "2020-07-12 00:00:00 +0200",
       "shippings"   : "",
-      "image"       : "/assets/images/green-planet-energy.jpg"
+      "image"       : "/assets/images/green_planet_energy_logo.png"
 
     } ,
   
@@ -1088,7 +1088,7 @@
       "tags"        : "Nachhaltigkeit, Made in Germany, Bio, Biofleisch, Fleisch",
       "date"        : "2019-05-22 00:00:00 +0200",
       "shippings"   : "Kostenloser VersandTrockeneis Lieferung",
-      "image"       : "/assets/images/einstueckland.png"
+      "image"       : "/assets/images/einstückland_logo.png"
 
     } 
   
