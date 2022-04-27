@@ -2,7 +2,7 @@
     {
         "name": "Green Planet Energy",
         "url": "https://www.awin1.com/awclick.php?gid=359225&mid=14852&awinaffid=731132&linkid=2355126&clickref=",
-        "logo": "/assets/images/green-planet-energy.jpg",
+        "logo": "/assets/images/green_planet_energy_logo.png",
         "tarife": [
             {
                 "id": 1,
@@ -69,7 +69,7 @@
     {
         "name": "Lichtblick",
         "url": "https://www.awin1.com/cread.php?awinmid=19047&awinaffid=731132&clickref=&ued=",
-        "logo": "/assets/images/LichtBlick.jpg",
+        "logo": "/assets/images/lichtblick_logo.png",
         "tarife": [
             {
                 "id": 7,
@@ -126,7 +126,7 @@
     {
         "name": "Naturstrom",
         "url": "https://www.awin1.com/awclick.php?gid=340209&mid=11937&awinaffid=731132&linkid=2188340&clickref=",
-        "logo": "/assets/images/NATURSTROM.jpg",
+        "logo": "/assets/images/naturstrom_logo.png",
         "tarife": [
             {
                 "id": 12,
