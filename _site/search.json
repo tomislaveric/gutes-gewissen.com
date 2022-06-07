@@ -14,6 +14,18 @@
   
     {
 
+      "title"       : "momox",
+      "url"         : "/secondhand-und-upcycling/momox/",
+      "category"    : "",
+      "tags"        : "Second Hand, Gebrauchtware, Bücher verkaufen, CDs verkaufen, DVDs verkaufen, Spiele verkaufen, Ankauf",
+      "date"        : "2022-06-06 00:00:00 +0200",
+      "shippings"   : "Keine Versandkosten an momox ab 10 Euro Ankaufswert",
+      "image"       : "/assets/images/momox_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "VANTASTIC-FOODS.com",
       "url"         : "/ernaehrung-und-lebensmittel/vantastic-foods-com/",
       "category"    : "",
