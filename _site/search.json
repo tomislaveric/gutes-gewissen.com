@@ -2,6 +2,210 @@
   
     {
 
+      "title"       : "Yello Solar",
+      "url"         : "/oekostrom-und-oekogas/yello-solar/",
+      "category"    : "",
+      "tags"        : "Ökostrom, Grüner Strom, Solaranlage kostenlos, Photovoltaik kostenlos, Solaranlage mieten, PV-Anlage mieten",
+      "date"        : "2022-06-07 00:00:00 +0200",
+      "shippings"   : "",
+      "image"       : "/assets/images/yello-solar_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "VANTASTIC-FOODS.com",
+      "url"         : "/ernaehrung-und-lebensmittel/vantastic-foods-com/",
+      "category"    : "",
+      "tags"        : "Bio, Vegan, Vegetarisch, Fair, Fair-Trade, Lebensmittel, Tierschutz",
+      "date"        : "2022-06-05 00:00:00 +0200",
+      "shippings"   : "Kostenlose Lieferung innerhalb Deutschlands ab 29 Euro BestellwertVersandkosten von 4,90 Euro bis 29 Euro WarenwertVersand ins europäische Ausland und nach China ab 12,90 Euro möglich",
+      "image"       : "/assets/images/vantastic-foods_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "School-Mood",
+      "url"         : "/spielzeug-und-hobby/school-mood/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Klimaneutral, Schultaschen, Schulranzen, Ranzen, Taschen",
+      "date"        : "2022-06-04 00:00:00 +0200",
+      "shippings"   : "Kostenlose Lieferung ab 90 Euro BestellwertVersandkosten von 4,95 Euro bis 90 Euro WarenwertVersand innerhalb der EU für 6,90 EuroGratis Lieferung innerhalb der EU ab 90 Euro",
+      "image"       : "/assets/images/school-mood_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Sellpy",
+      "url"         : "/secondhand-und-upcycling/sellpy/",
+      "category"    : "",
+      "tags"        : "Second Hand, Mode, Fashion, Kleidung, Gebrauchtware, Damen, Herren",
+      "date"        : "2022-06-04 00:00:00 +0200",
+      "shippings"   : "Versandkosten von 5,95 Euro nach Deutschland und ÖsterreichKostenlose Lieferung für Bestellungen ab 100 Euro möglichKostenloser Versand an Sellpy beim Verkauf",
+      "image"       : "/assets/images/sellpy_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "OGNX",
+      "url"         : "/mode-und-kleidung/ognx/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Fair, Sportkleidung, Yogakleidung, Sport, Yoga, Fashion, Mode",
+      "date"        : "2022-06-04 00:00:00 +0200",
+      "shippings"   : "Kostenfreie Lieferung für Bestellungen ab 50 EuroVersandkosten von 4,90 Euro bis 50 Euro EinkaufswertVersand ins Ausland ab 9,90 Euro möglichGratis Rücksendung in Deutschland verfügbar",
+      "image"       : "/assets/images/ognx_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "UNMILK",
+      "url"         : "/ernaehrung-und-lebensmittel/unmilk/",
+      "category"    : "",
+      "tags"        : "Milch-Alternative, Milch-Ersatz, Ökologisch, Nachhaltig, Pflanzlich",
+      "date"        : "2022-06-04 00:00:00 +0200",
+      "shippings"   : "Kostenlose Lieferung innerhalb Deutschlands und nach Österreich ab 30 Euro WarenwertVersandkosten von 3,90 Euro für Bestellungen bis 30 Euro Einkaufswert",
+      "image"       : "/assets/images/unmilk_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Medimops",
+      "url"         : "/secondhand-und-upcycling/medimops/",
+      "category"    : "",
+      "tags"        : "Second Hand, Gebrauchtware, Bücher kaufen, CDs kaufen, DVDs kaufen, Spiele kaufen",
+      "date"        : "2022-06-03 00:00:00 +0200",
+      "shippings"   : "Gratis Versand für Bestellungen ab 19 EuroVersandkosten von 1,99 Euro bis 19 Euro BestellwertLieferung ins Ausland ab 1,00 Euro pro Artikel verfügbar",
+      "image"       : "/assets/images/medimops_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Moonboon",
+      "url"         : "/haus-und-garten/moonboon/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Ökologisch, Schadstofffrei, Babyausstattung, Babyprodukte",
+      "date"        : "2022-06-03 00:00:00 +0200",
+      "shippings"   : "Kostenfreier Versand für Bestellungen ab 90 EuroVersandkosten ab 2,99 Euro bei Einkaufswert unter 90 EuroLieferung nach Österreich und in die Schweiz möglich",
+      "image"       : "/assets/images/moonboon_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "koziol",
+      "url"         : "/haus-und-garten/koziol/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Made-in-Germany, Recyclebar, Klimaneutral, Nachhaltiger-Lebensstil",
+      "date"        : "2022-06-03 00:00:00 +0200",
+      "shippings"   : "Kostenlose Lieferung für Bestellungen ab 39 EuroVersandkosten von 4,95 Euro bis 39 Euro WarenwertVersand ins Ausland ab 11,95 Euro möglich",
+      "image"       : "/assets/images/koziol_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "NICAMA",
+      "url"         : "/drogerie-und-kosmetik/nicama/",
+      "category"    : "",
+      "tags"        : "Seife, Shampoo, Plastikfrei, Kosmetikprodukte, Drogerieprodukte",
+      "date"        : "2022-06-03 00:00:00 +0200",
+      "shippings"   : "Kostenloser Versand für Bestellungen ab 35 EuroLieferkosten von 2,99 Euro bis 34,99 Euro WarenwertLieferung ins EU-Ausland für 11,99 Euro möglichAbholung vor Ort in Dresden verfügbar",
+      "image"       : "/assets/images/nicama_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Greenstorm",
+      "url"         : "/secondhand-und-upcycling/greenstorm/",
+      "category"    : "",
+      "tags"        : "Nachhaltige Mobilität, Second Hand, E-Bikes, Fahrräder, Elektrofahrräder",
+      "date"        : "2022-06-02 00:00:00 +0200",
+      "shippings"   : "Versandkosten von 79 Euro innerhalb DeutschlandsLieferung nach Österreich für 79 Euro möglichVersand ins europäische Ausland ab 115 Euro verfügbar",
+      "image"       : "/assets/images/greenstorm_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Kartoffelshop",
+      "url"         : "/ernaehrung-und-lebensmittel/kartoffelshop/",
+      "category"    : "",
+      "tags"        : "Kartoffeln, Direktverkauf, Lebensmittel, Made-in-Germany",
+      "date"        : "2022-06-02 00:00:00 +0200",
+      "shippings"   : "Versandkosten von 6,95 Euro für Bestellungen bis 26 Kilogramm",
+      "image"       : "/assets/images/kartoffelshop_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "everdrop",
+      "url"         : "/drogerie-und-kosmetik/everdrop/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Ökologisch, Plastikfrei, Wasserschutz, Putzmittel, Reinigungsmittel, Kosmetik",
+      "date"        : "2022-06-02 00:00:00 +0200",
+      "shippings"   : "Kostenfreier Versand ab 20 Euro BestellwertLieferkosten von 2,00 Euro für Briefsendungen und 3,90 Euro für PaketsendungenVersandkostenfreie Lieferung ins Ausland möglich",
+      "image"       : "/assets/images/everdrop_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "GreenPanda.de",
+      "url"         : "/computer-und-technik/greenpanda-de/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Gebrauchtware, Generalüberholt, Second Hand, Computer, Notebooks, Smartphones",
+      "date"        : "2022-06-02 00:00:00 +0200",
+      "shippings"   : "Kostenloser Versand ab 50 Euro WarenwertLieferung für 5,90 Euro für Bestellungen bis 50 EuroVersandkosten ins Ausland ab 14,90 EuroAbholung vor Ort möglich",
+      "image"       : "/assets/images/greenpanda-de_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Enpal",
+      "url"         : "/oekostrom-und-oekogas/enpal/",
+      "category"    : "",
+      "tags"        : "Ökostrom, Grüner Strom, Solaranlage kostenlos, Photovoltaik kostenlos, Solaranlage mieten, PV-Anlage mieten",
+      "date"        : "2022-06-01 00:00:00 +0200",
+      "shippings"   : "",
+      "image"       : "/assets/images/enpal_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Botanicly",
+      "url"         : "/haus-und-garten/botanicly/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Zimmerpflanzen, Pflanzen, Klimapositiv, Klimaneutral",
+      "date"        : "2022-06-01 00:00:00 +0200",
+      "shippings"   : "Kostenloser Versand für Bestellungen ab 40 EuroVersandkosten von 4,99 Euro bis 40 Euro WarenwertLieferung ins europäische Ausland möglich",
+      "image"       : "/assets/images/botanicly_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Bambusliebe",
+      "url"         : "/haus-und-garten/bambusliebe/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Bambus, Ökologisch, Plastikfrei, Nachhaltiger-Lebensstil",
+      "date"        : "2022-06-01 00:00:00 +0200",
+      "shippings"   : "Kostenlose Lieferung für Bestellungen ab 49 EuroVersandkosten von 3,50 Euro bis 49 Euro WarenwertVersand ins europäische Ausland für 5,00 Euro",
+      "image"       : "/assets/images/bambusliebe_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Stapelstein",
       "url"         : "/spielzeug-und-hobby/stapelstein/",
       "category"    : "",
