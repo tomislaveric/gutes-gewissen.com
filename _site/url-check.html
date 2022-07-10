@@ -190,6 +190,20 @@
 </div>
   
 <?php
+$file = 'https://www.awin1.com/cread.php?awinmid=26053&awinaffid=731132';
+$title = 'the nu company';
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == 'HTTP/1.1 404 Not Found') {
+    echo $title . " -> " . "NOT FOUND";
+} else if (str_contains($content, 'This link is inactive')) {
+    echo $title . " -> " . "INACTIVE";
+} else {
+    echo $title . " -> " . "OK";
+}
+?>
+
+<?php
 $file = 'https://www.awin1.com/cread.php?awinmid=19656&awinaffid=731132';
 $title = 'Yello Solar';
 $file_headers = @get_headers($file);

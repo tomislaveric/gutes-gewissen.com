@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "the nu company",
+      "url"         : "/ernaehrung-und-lebensmittel/the-nu-company/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Vegan, Bio, Fair, Fair-Trade, Schokolade, Plastikfrei",
+      "date"        : "2022-07-10 00:00:00 +0200",
+      "shippings"   : "Versandkosten von 3,90 Euro für Bestellungen unter 30 EuroKostenfreie Lieferung ab 30 Euro BestellwertVersand ins Ausland ab 3,90 Euro verfügbarGratis Lieferung ins Ausland ab 60 Euro Warenwert",
+      "image"       : "/assets/images/the-nu-company_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Yello Solar",
       "url"         : "/oekostrom-und-oekogas/yello-solar/",
       "category"    : "",
