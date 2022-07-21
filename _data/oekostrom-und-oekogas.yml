@@ -104,7 +104,7 @@
 
 - name: Naturstrom
   url: https://www.awin1.com/awclick.php?gid=340209&mid=11937&awinaffid=731132&linkid=2188340&clickref=
-  logo: /assets/images/NATURSTROM.jpg
+  logo: /assets/images/naturstrom_logo.png
   tarife: 
     - name: Naturstrom
       typ: strom
