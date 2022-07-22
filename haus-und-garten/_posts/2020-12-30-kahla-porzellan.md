@@ -3,6 +3,7 @@ author: Tomislav
 title: KAHLA Porzellan
 slogan: Online-Shop für Geschirr Made in Germany
 sidebarButtonText: Produkte von KAHLA Porzellan ansehen
+contentButtonText: "Produkte von KAHLA Porzellan im Preisvergleich auf idealo.de ansehen"
 targetUrl: https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dkahla
 image: /assets/images/kahla_porzellan_logo.png
 screenshot: /assets/images/screenshots/kahla-porzellan_screenshot.jpg
