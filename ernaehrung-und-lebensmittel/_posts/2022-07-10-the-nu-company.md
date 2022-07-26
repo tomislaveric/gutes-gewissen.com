@@ -22,7 +22,7 @@ shippings: [
 ]
 contact: [
     "Email: info@the-nu-company.com",
-    "Adresse: the nu company GmbH, Karl-Liebknecht-Str. 8, 04107 Leipzig"
+    "Adresse: the nu company GmbH, Naumburger Str. 25, 04229 Leipzig"
 ]
 affiliateElements: [
     [
