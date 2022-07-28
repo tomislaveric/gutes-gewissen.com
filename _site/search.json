@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "green IT Onlineshop",
+      "url"         : "/computer-und-technik/green-it-onlineshop/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Gebrauchtware, Generalüberholt, Elektronik, Second Hand, Computer, Notebooks",
+      "date"        : "2022-07-28 00:00:00 +0200",
+      "shippings"   : "Versand für 5,95 Euro für Bestellungen bis 300 EuroVersandkostenfreie Lieferung ab 300 Euro BestellwertLieferung ins Ausland für 19,95 Euro möglich",
+      "image"       : "/assets/images/green-it-onlineshop_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "the nu company",
       "url"         : "/ernaehrung-und-lebensmittel/the-nu-company/",
       "category"    : "",
