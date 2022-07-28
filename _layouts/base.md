@@ -45,13 +45,6 @@ websiteTitle: gutes-gewissen
   <title>{% if page.seoTitle %}{{page.seoTitle}}{% else %}{{ page.title }} {% if page.slogan %} | {{ page.slogan }} {%
     endif %}{% endif %}</title>
   <link rel="stylesheet" href="/assets/css/theme.bootstrap_4.min.css">
-  <!-- Unique/Canonical urls -->
-  <link rel="canonical" href="{{ site.url }}/ueber-uns" />
-  <link rel="canonical" href="{{ site.url }}/impressum" />
-  <link rel="canonical" href="{{ site.url }}/datenschutz" />
-  {% for rubric in site.rubrics %}
-  <link rel="canonical" href="{{ site.url }}{{ rubric.url }}" />
-  {% endfor %}
 </head>
 
 <body>
