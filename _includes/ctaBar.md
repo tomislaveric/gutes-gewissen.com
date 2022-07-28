@@ -3,7 +3,7 @@
         <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
             <div class="row py-2 align-items-center">
                 <div class="col-auto">
-                    <img src="{{page.image}}" class="img-cta-bar d-none d-lg-block" />
+                    <img src="{{page.image}}" alt="{{ page.title }} Call to action" class="img-cta-bar d-none d-lg-block" />
                 </div>
                 <div class="col-auto">
                     <div class="d-none d-lg-block">

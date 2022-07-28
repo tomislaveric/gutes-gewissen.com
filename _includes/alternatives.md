@@ -6,7 +6,7 @@
 <div class="card mb-2">
     <a href="{{post.url}}" rel="nofollow">
         <div class="card-body align-items-center d-flex justify-content-center">
-            <img src="{{post.image}}" class="alternative-list-img" alt="{{ post.image }} logo">
+            <img src="{{post.image}}" class="alternative-list-img" alt="{{ page.title }} logo">
         </div>
     </a>
 </div>

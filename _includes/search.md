@@ -14,6 +14,6 @@
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
     json: '/search.json',
-    searchResultTemplate: '<div class="dropdown-item m-2"><img class="search-result-img" src="{{site.image}}{image}"/><a class="ml-2" href="{{ site.url }}{url}">{title}</a></div>'
+    searchResultTemplate: '<div class="dropdown-item m-2"><img class="search-result-img" src="{{site.image}}{image}" alt="{{ site.title }} logo" /><a class="ml-2" href="{{ site.url }}{url}">{title}</a></div>'
   });
 </script>

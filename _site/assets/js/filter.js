@@ -134,7 +134,7 @@ function createTable() {
       <td class="company-col">
         <div class="row">
           <div class="col-6">
-          <img src="` + anbieter.logo + `" class="tarife-table-img">
+          <img src="` + anbieter.logo + `" class="tarife-table-img alt="` + tarif.name + ` logo">
           </div>
           <div class="col-6">
           <div class="h5">` + tarif.name + `</div>
