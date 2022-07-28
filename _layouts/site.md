@@ -63,7 +63,7 @@ layout: base
             <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
                 <div class="text-center mb-3">
                     <div>
-                        <img class="img-fluid mt-4" src="{{ page.image }}" />
+                        <img class="img-fluid mt-4" src="{{ page.image }}" alt="{{ page.title }} Logo" />
                     </div>
                     {% if page.sidebarButtonText %}
                     <div class="btn btn-success mt-4 mb-3">

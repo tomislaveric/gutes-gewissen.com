@@ -1,7 +1,7 @@
 ---
 websiteTitle: gutes-gewissen
 ---
-
+<!DOCTYPE html>
 <html lang="de">
 
 <head>
@@ -37,6 +37,8 @@ websiteTitle: gutes-gewissen
   {% include open-graph.md type="product" %}
   {% elsif page.layout == 'rubric' %}
   {% include open-graph.md type="article" %}
+  {% else %}
+  {% include open-graph.md type="website" %}
   {% endif %}
 
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
