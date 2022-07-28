@@ -1,15 +1,13 @@
 $(document).ready(function () {
+    
     if (reachedEnd()) {
         $('#ctaBar').slideDown();
     } else {
         $('#ctaBar').hide();
     }
 });
-$(window).scroll(function () {
-    handleVisibility()
-});
 
-function handleVisibility() {
+$(window).scroll(function () {
     if (!$('#productCta').length) { return; }
 
     if ($(this).scrollTop() > $('#productCta').offset().top) {
@@ -19,7 +17,7 @@ function handleVisibility() {
     } else {
         $('#ctaBar').slideUp();
     }
-}
+});
 
 function reachedEnd() {
     return ($(window).innerHeight() - window.innerHeight) <= window.scrollY;
