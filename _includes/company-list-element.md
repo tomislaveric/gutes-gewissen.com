@@ -5,7 +5,7 @@
   </a>
   <a href="{{ post.url }}" class="black-link">
   <p class="lead">{{ post.title }} - {{ post.slogan }}</p>
-  <p>{{ post.description }}</p>
+  <p>{{ post.shortDescription }} {{ post.description }}</p>
   </a>
   <a class="btn btn-success" href="{{ post.url }}" role="button">Über {{ post.title }} weiterlesen</a>
 </div>
