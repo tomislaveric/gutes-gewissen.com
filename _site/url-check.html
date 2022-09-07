@@ -175,6 +175,34 @@
 </div>
   
 <p>&lt;?php
+$file = ‘https://www.awin1.com/awclick.php?gid=436266&amp;mid=29539&amp;awinaffid=731132&amp;linkid=3130610&amp;clickref=’;
+$title = ‘Anifree-Shoes’;
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
+    echo $title . “ -&gt; “ . “NOT FOUND”;
+} else if (str_contains($content, ‘This link is inactive’)) {
+    echo $title . “ -&gt; “ . “INACTIVE”;
+} else {
+    echo $title . “ -&gt; “ . “OK”;
+}
+?&gt;</p>
+
+<p>&lt;?php
+$file = ‘https://t.adcell.com/p/click?promoId=134477&amp;slotId=101181&amp;param0=https%3A%2F%2Ffair-einkaufen.com%2F’;
+$title = ‘fair-einkaufen.com’;
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
+    echo $title . “ -&gt; “ . “NOT FOUND”;
+} else if (str_contains($content, ‘This link is inactive’)) {
+    echo $title . “ -&gt; “ . “INACTIVE”;
+} else {
+    echo $title . “ -&gt; “ . “OK”;
+}
+?&gt;</p>
+
+<p>&lt;?php
 $file = ‘https://green-it.shop/notebooks/?tt=33719<em>1870196_428626</em>&amp;r=’;
 $title = ‘green IT Onlineshop’;
 $file_headers = @get_headers($file);

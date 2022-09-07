@@ -2,6 +2,30 @@
   
     {
 
+      "title"       : "Anifree-Shoes",
+      "url"         : "/mode-und-kleidung/anifree-shoes/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Nachhaltige Bio-Schuhe, Vegan, Nachhaltige Mode, Fashion, Fair",
+      "date"        : "2022-09-07 00:00:00 +0200",
+      "shippings"   : "Versandkostenfreie Lieferung innerhalb Deutschlands ohne MindestbestellwertVersand ins europäische Ausland, Türkei und USA für 6,99 EuroKostenlose Rücksendungen für Bestellungen aus Deutschland",
+      "image"       : "/assets/images/anifree-shoes_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "fair-einkaufen.com",
+      "url"         : "/ernaehrung-und-lebensmittel/fair-einkaufen-com/",
+      "category"    : "",
+      "tags"        : "Bio, Fair, Fair-Trade, Lebensmittel, Nachhaltige-Produkte",
+      "date"        : "2022-09-07 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 4,95 Euro bis 60 Euro BestellwertKostenlose Lieferung für Bestellungen ab 60 Euro WarenwertVersand ins Ausland auf Anfrage möglich",
+      "image"       : "/assets/images/fair-einkaufen-com_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "green IT Onlineshop",
       "url"         : "/computer-und-technik/green-it-onlineshop/",
       "category"    : "",
