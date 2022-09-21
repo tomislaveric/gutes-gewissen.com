@@ -13,8 +13,9 @@ payments: [
     Kauf auf Rechnung
 ]
 shippings: [
-    "Kostenloser Versand innerhalb Deutschlands",
-    "Gratis Rückversand innerhalb Deutschlands",
+    "Versandkostenfreie Lieferung für Bestellungen ab 25 Euro",
+    "Versandkosten von 4,90 Euro bis 25 Euro Mindestbestellwert",
+    "Kostenfreier Rückversand innerhalb Deutschlands",
     "Lieferung ins europäische Ausland ab 3,95 Euro"
 ]
 contact: [
@@ -59,7 +60,7 @@ Zu den momox fashion Zahlungsarten gehören Kreditkarte, PayPal und der Kauf auf
 
 ### Die momox fashion Versandkosten
 
-Bei einer Bestellung vor 13 Uhr ist die Ware innerhalb von 24 Stunden versandbereit. Innerhalb von Deutschland erfolgt die Lieferung von momox fashion versandkostenfrei und ist versichert. Mit DHL als Versandpartner lässt sich das Paket problemlos über eine Sendungsnummer verfolgen. Für Lieferungen ins Ausland fallen unterschiedliche Versandkosten an. Diese bewegen sich zwischen 3,95 Euro und 15,95 Euro.
+Bei einer Bestellung vor 13 Uhr ist die Ware innerhalb von 24 Stunden versandbereit. Innerhalb von Deutschland erfolgt die Lieferung von momox fashion versandkostenfrei für Bestellungen ab 25 Euro und ist versichert. Bis zu einem Mindestbestellwert von 25 Euro berechnet momox fashion Versandkosten in Höhe von 4,90 Euro. Mit DHL als Versandpartner lässt sich das Paket problemlos über eine Sendungsnummer verfolgen. Für den momox fashion Versand ins Ausland fallen unterschiedliche Versandkosten an. Diese bewegen sich zwischen 3,95 Euro und 15,95 Euro.
 
 ### Die momox fashion Retoure
 
