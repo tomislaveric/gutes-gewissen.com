@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "EcoToy.de",
+      "url"         : "/spielzeug-und-hobby/ecotoy-de/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Öko, Ökologisch, Pädagogisch wertvoll, Fair, Spielzeug, Spiele",
+      "date"        : "2022-09-23 00:00:00 +0200",
+      "shippings"   : "Versandkostenfreie Lieferung für Bestellungen ab 40 EuroVersandkosten von 4,90 Euro bis 40 Euro BestellwertVersand ins EU-Ausland ab 6 Euro möglich",
+      "image"       : "/assets/images/ecotoy-de_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Anifree-Shoes",
       "url"         : "/mode-und-kleidung/anifree-shoes/",
       "category"    : "",
