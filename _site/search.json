@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "FUTURE STORIES",
+      "url"         : "/drogerie-und-kosmetik/future-stories/",
+      "category"    : "",
+      "tags"        : "Nachhaltige-Körperpflege, Vegan, Plastikfrei, Naturkosmetik, Duschgel, Seife, Shampoo",
+      "date"        : "2022-09-27 00:00:00 +0200",
+      "shippings"   : "Versandkosten von 3,90 Euro bis 30 Euro BestellwertKostenfreie Lieferung innerhalb Deutschlands für Bestellungen ab 30 EuroVersand nach Österreich für 12,90 Euro",
+      "image"       : "/assets/images/future-stories_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "EcoToy.de",
       "url"         : "/spielzeug-und-hobby/ecotoy-de/",
       "category"    : "",
