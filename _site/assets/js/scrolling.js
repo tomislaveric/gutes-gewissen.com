@@ -1,10 +1,5 @@
 $(document).ready(function () {
-    
-    if (reachedEnd()) {
-        $('#ctaBar').slideDown();
-    } else {
-        $('#ctaBar').hide();
-    }
+    $('#ctaBar').hide();
 });
 
 $(window).scroll(function () {
