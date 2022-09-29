@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "FAFIGO",
+      "url"         : "/mode-und-kleidung/fafigo/",
+      "category"    : "",
+      "tags"        : "Kleidung, Fashion, Mode, Herren, Accessoires, Fair, Handgemacht, Made-in-Germany",
+      "date"        : "2022-09-29 00:00:00 +0200",
+      "shippings"   : "Kostenloser Versand innerhalb Deutschlands ohne MindestbestellwertVersandkosten von 7,00 Euro ins EU-Ausland",
+      "image"       : "/assets/images/fafigo_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "FUTURE STORIES",
       "url"         : "/drogerie-und-kosmetik/future-stories/",
       "category"    : "",
