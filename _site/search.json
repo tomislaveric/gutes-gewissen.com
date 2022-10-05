@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Carevallo",
+      "url"         : "/tierfutter-und-tierbedarf/carevallo/",
+      "category"    : "",
+      "tags"        : "Nachhaltiges-Tierfutter, Tierfutter, Pferdefutter, Plastikfrei, Made-in-Österreich",
+      "date"        : "2022-10-05 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Österreichs ab 7,50 EuroVersandkosten nach Deutschland ab 10,00 EuroVersandkosten in die Schweiz ab 42,50 EuroSelbstabholung vor Ort möglichLieferung ins Ausland auf Anfrage",
+      "image"       : "/assets/images/carevallo_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "FAFIGO",
       "url"         : "/mode-und-kleidung/fafigo/",
       "category"    : "",
