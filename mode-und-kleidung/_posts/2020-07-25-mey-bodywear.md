@@ -3,7 +3,7 @@ author: Tomislav
 title: mey Bodywear
 slogan: Unterwäsche aus europäischer Produktion
 targetUrl: https://www.awin1.com/awclick.php?gid=341146&mid=11375&awinaffid=731132&linkid=2195913&clickref=
-image: /assets/images/mey-Bodywear.png
+image: /assets/images/Mey-Bodywear.png
 screenshot: /assets/images/screenshots/Mey-Bodywear_screenshot.jpg
 rubric: Mode & Kleidung
 tags: [Kleidung, Nachhaltige Mode, Damen, Herren, Mode, Fashion, Oeko-Tex, GOTS zertifiziert]
