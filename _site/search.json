@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Landseife",
+      "url"         : "/drogerie-und-kosmetik/landseife/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Bio, Ökologisch, Seife, Naturkosmetik, Vegan, Plastikfrei, Made-in-Germany",
+      "date"        : "2022-10-21 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 3,90 EuroVersand in EU-Ausland für 9,90 EuroLieferung an Packstationen möglich",
+      "image"       : "/assets/images/landseife_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Carevallo",
       "url"         : "/tierfutter-und-tierbedarf/carevallo/",
       "category"    : "",
