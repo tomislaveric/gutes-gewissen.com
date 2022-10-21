@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "rollholz",
+      "url"         : "/haus-und-garten/rollholz/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Möbel, Kleidung, Fashion, Bio, Ökologisch, Made-in-Germany",
+      "date"        : "2022-10-21 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands ab 5,95 EuroKostenloser Versand von Bestellungen ab 99 EuroLieferung ins Ausland ab 9,95 Euro möglich",
+      "image"       : "/assets/images/rollholz_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Landseife",
       "url"         : "/drogerie-und-kosmetik/landseife/",
       "category"    : "",
