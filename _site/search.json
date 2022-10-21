@@ -14,6 +14,18 @@
   
     {
 
+      "title"       : "the nu company",
+      "url"         : "/ernaehrung-und-lebensmittel/the-nu-company/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Vegan, Bio, Fair, Fair-Trade, Schokolade, Plastikfrei",
+      "date"        : "2022-10-21 00:00:00 +0200",
+      "shippings"   : "Versandkosten von 3,90 Euro für Bestellungen unter 30 EuroKostenfreie Lieferung ab 30 Euro BestellwertVersand ins Ausland ab 3,90 Euro verfügbarGratis Lieferung ins Ausland ab 60 Euro Warenwert",
+      "image"       : "/assets/images/nucao_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Landseife",
       "url"         : "/drogerie-und-kosmetik/landseife/",
       "category"    : "",
@@ -105,18 +117,6 @@
       "date"        : "2022-07-28 00:00:00 +0200",
       "shippings"   : "Versand für 5,95 Euro für Bestellungen bis 300 EuroVersandkostenfreie Lieferung ab 300 Euro BestellwertLieferung ins Ausland für 19,95 Euro möglich",
       "image"       : "/assets/images/green-it-onlineshop_logo.png"
-
-    } ,
-  
-    {
-
-      "title"       : "the nu company",
-      "url"         : "/ernaehrung-und-lebensmittel/the-nu-company/",
-      "category"    : "",
-      "tags"        : "Nachhaltig, Vegan, Bio, Fair, Fair-Trade, Schokolade, Plastikfrei",
-      "date"        : "2022-07-10 00:00:00 +0200",
-      "shippings"   : "Versandkosten von 3,90 Euro für Bestellungen unter 30 EuroKostenfreie Lieferung ab 30 Euro BestellwertVersand ins Ausland ab 3,90 Euro verfügbarGratis Lieferung ins Ausland ab 60 Euro Warenwert",
-      "image"       : "/assets/images/the-nu-company_logo.png"
 
     } ,
   

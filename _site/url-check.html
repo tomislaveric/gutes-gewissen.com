@@ -189,6 +189,20 @@ if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
 ?&gt;</p>
 
 <p>&lt;?php
+$file = ‘https://www.awin1.com/cread.php?awinmid=26053&amp;awinaffid=731132’;
+$title = ‘the nu company’;
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
+    echo $title . “ -&gt; “ . “NOT FOUND”;
+} else if (str_contains($content, ‘This link is inactive’)) {
+    echo $title . “ -&gt; “ . “INACTIVE”;
+} else {
+    echo $title . “ -&gt; “ . “OK”;
+}
+?&gt;</p>
+
+<p>&lt;?php
 $file = ‘https://t.adcell.com/click.php?bid=261342-101181’;
 $title = ‘Landseife’;
 $file_headers = @get_headers($file);
@@ -289,20 +303,6 @@ if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
 <p>&lt;?php
 $file = ‘https://green-it.shop/notebooks/?tt=33719<em>1870196_428626</em>&amp;r=’;
 $title = ‘green IT Onlineshop’;
-$file_headers = @get_headers($file);
-$content = file_get_contents($file);
-if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
-    echo $title . “ -&gt; “ . “NOT FOUND”;
-} else if (str_contains($content, ‘This link is inactive’)) {
-    echo $title . “ -&gt; “ . “INACTIVE”;
-} else {
-    echo $title . “ -&gt; “ . “OK”;
-}
-?&gt;</p>
-
-<p>&lt;?php
-$file = ‘https://www.awin1.com/cread.php?awinmid=26053&amp;awinaffid=731132’;
-$title = ‘the nu company’;
 $file_headers = @get_headers($file);
 $content = file_get_contents($file);
 if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
