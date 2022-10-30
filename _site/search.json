@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Re-Athlete",
+      "url"         : "/mode-und-kleidung/re-athlete/",
+      "category"    : "",
+      "tags"        : "Nachhaltige-Mode, Made-in-Germany, Second-Hand, Sportkleidung, Sportswear, Recycelt",
+      "date"        : "2022-10-30 00:00:00 +0200",
+      "shippings"   : "Versandkosten von 3,99 Euro innerhalb DeutschlandsKostenloser Versand für Bestellungen ab 79 Euro WarenwertVersand innerhalb der EU für 7,99 EuroLieferung außerhalb der EU für 14,99 EuroKostenfreie Retoure für Rücksendungen aus Deutschland",
+      "image"       : "/assets/images/re-athlete_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Kildwick",
       "url"         : "/haus-und-garten/kildwick/",
       "category"    : "",

@@ -175,6 +175,20 @@
 </div>
   
 <p>&lt;?php
+$file = ‘https://t.adcell.com/p/click?promoId=182413&amp;slotId=101181’;
+$title = ‘Re-Athlete’;
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
+    echo $title . “ -&gt; “ . “NOT FOUND”;
+} else if (str_contains($content, ‘This link is inactive’)) {
+    echo $title . “ -&gt; “ . “INACTIVE”;
+} else {
+    echo $title . “ -&gt; “ . “OK”;
+}
+?&gt;</p>
+
+<p>&lt;?php
 $file = ‘https://www.kildwick.com/?&amp;utm_source=adcell&amp;utm_medium=text&amp;utm_campaign=affiliate&amp;utm_content=251791&amp;utm_campaign=296105&amp;ndaffcw=adcell&amp;bid=296105-101181-‘;
 $title = ‘Kildwick’;
 $file_headers = @get_headers($file);
