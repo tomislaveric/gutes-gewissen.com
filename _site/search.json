@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Kildwick",
+      "url"         : "/haus-und-garten/kildwick/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Ökologisch, Made-in-Germany, Wassersparen, Energiesparen, Toilette",
+      "date"        : "2022-10-30 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 4,90 EuroVersand ins EU-Ausland für 14,90 EuroWeltweite Lieferung für 24,90 Euro",
+      "image"       : "/assets/images/kildwick_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "rollholz",
       "url"         : "/haus-und-garten/rollholz/",
       "category"    : "",
