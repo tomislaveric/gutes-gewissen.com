@@ -2,11 +2,14 @@
 author: Michael
 title: HYDROPHIL
 slogan: Shop für nachhaltige Körperpflege und Mundhygiene
-targetUrl: https://luna.r.lafamo.com/ts/i5541197/tsc?typ=r&amc=con.blbn.490871.505057.CRTwqL9nr7x
+targetUrl: https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dhydrophil
 image: /assets/images/hydrophil_logo.png
 screenshot: /assets/images/screenshots/hydrophil_screenshot.jpg
 rubric: Drogerie & Kosmetik
 tags: [Naturkosmetik, Nachhaltige-Körperpflege, CO₂-sparend, Wasserschutz, Mundhygiene, Fair, Vegan]
+sidebarButtonText: Produkte von HYDROPHIL ansehen
+ctaButtonText: Produkte von HYDROPHIL ansehen
+contentButtonText: Produkte von HYDROPHIL ansehen
 payments: [
     Vorkasse,
     Kreditkarte,
