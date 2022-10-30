@@ -3,7 +3,7 @@ author: Tomislav
 title: ULTRA-GREEN.DE
 slogan: Online-Shop für plastikfreie Produkte
 targetUrl: https://www.awin1.com/cread.php?awinmid=20084&awinaffid=731132
-image: /assets/images/ultra-green.png
+image: /assets/images/ultra-green_logo.png
 screenshot: /assets/images/screenshots/ultra-green_screenshot.jpg
 rubric: Haus & Garten
 tags: [Plastikfrei, Nachhaltige-Produkte, Nachhaltiger-Lebensstil, Haushalt, Naturkosmetik]
