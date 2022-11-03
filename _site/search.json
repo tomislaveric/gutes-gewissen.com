@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "SORBAS Shoes",
+      "url"         : "/mode-und-kleidung/sorbas-shoes/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Fashion, Made-in-Europe, Fair-Produziert, Fair-Hergestellt, Vegan, Ökologisch",
+      "date"        : "2022-11-03 00:00:00 +0100",
+      "shippings"   : "Kostenloser Versand innerhalb Deutschlands ohne MindestbestellwertGratis Lieferung ins EU-Ausland, ins Vereinigte Königreich, nach Norwegen und in die SchweizKostenfreie Rücksendungen für Bestellungen aus Deutschland",
+      "image"       : "/assets/images/sorbas_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "hamaka",
       "url"         : "/haus-und-garten/hamaka/",
       "category"    : "",
