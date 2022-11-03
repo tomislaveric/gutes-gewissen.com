@@ -5,6 +5,6 @@
 <meta property="og:description" content="{{page.shortDescription}}" />
 <meta property="og:locale" content="de_DE" />
 <meta property="og:site_name" content="gutes-gewissen.com" />
-{% for video in page.media %}
-<meta property="og:video" content="{{video}}" />
-{% endfor %}
+{% if page.media.size > 0 %}
+<meta property="og:video" content="{{page.media[0]}}" />
+{% endif %}
