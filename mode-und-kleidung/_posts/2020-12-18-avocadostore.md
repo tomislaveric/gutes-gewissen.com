@@ -26,8 +26,8 @@ media: [
     "https://www.youtube.com/embed/pjIvEykXLqI",
     "https://www.youtube.com/embed/pYG0v7kwzio"
     ]
-shortDescription: 'Avocadostore stellt als Online-Marktplatz für die Verkäufer und Hersteller von ökologisch, nachhaltig sowie fair produzierten Waren eine Handelsplattform dar.'
-description: 'Avocadostore ist ein Online-Marktplatz, auf dem verschiedene Händler ihre Produkte anbieten. Im Online-Shop gibt es eine große Auswahl an fairer, ökologisch produzierter Mode und nachhaltiger "Green Lifestyle"-Produkte.'
+shortDescription: ":Avocadostore stellt als Online-Marktplatz für die Verkäufer und Hersteller von ökologisch, nachhaltig sowie fair produzierten Waren eine Handelsplattform dar."
+description: "Avocadostore ist ein Online-Marktplatz, auf dem verschiedene Händler ihre Produkte anbieten. Im Online-Shop gibt es eine große Auswahl an fairer, ökologisch produzierter Mode und nachhaltiger 'Green Lifestyle'-Produkte."
 ---
 
 ### Die Idee von Avocadostore
