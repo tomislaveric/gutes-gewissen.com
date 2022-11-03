@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "hamaka",
+      "url"         : "/haus-und-garten/hamaka/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Hängematte, Made-In-Europe, fair-hergestellt, fair-produziert",
+      "date"        : "2022-11-03 00:00:00 +0100",
+      "shippings"   : "Kostenloser Versand für Bestellungen ab 30 EuroVersandkosten von 3,90 Euro bis 30 Euro WarenwertLieferung ins europäische Ausland und in die Schweiz für 7,00 Euro",
+      "image"       : "/assets/images/hamaka_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Re-Athlete",
       "url"         : "/mode-und-kleidung/re-athlete/",
       "category"    : "",
