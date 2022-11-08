@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "GOOD WILHELM",
+      "url"         : "/mode-und-kleidung/good-wilhelm/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Accessoires, Fair-Hergestellt, Fair-Produziert, Made-in-Germany",
+      "date"        : "2022-11-08 00:00:00 +0100",
+      "shippings"   : "Kostenloser Versand innerhalb Deutschlands ohne MindestbestellwertGratis Lieferung in Ausland weltweit verfügbarExpressversand gegen Aufpreis und Lieferung an Packstation möglich",
+      "image"       : "/assets/images/good-wilhelm_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "SORBAS Shoes",
       "url"         : "/mode-und-kleidung/sorbas-shoes/",
       "category"    : "",
