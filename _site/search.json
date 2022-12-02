@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "PlantBase",
+      "url"         : "/drogerie-und-kosmetik/plantbase/",
+      "category"    : "",
+      "tags"        : "Made-in-Germany, Vegan, Bio, Tierversuchsfrei, Plastikfrei, Drogerieprodukte, Kosmetik",
+      "date"        : "2022-12-02 00:00:00 +0100",
+      "shippings"   : "Kostenloser Versand innerhalb Deutschlands für Bestellungen ab 35 EuroVersandkosten von 3,50 Euro bis Warenwert von 35 EuroLieferung nach Österreich und in die Schweiz verfügbar",
+      "image"       : "/assets/images/plantbase_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "GOOD WILHELM",
       "url"         : "/mode-und-kleidung/good-wilhelm/",
       "category"    : "",
