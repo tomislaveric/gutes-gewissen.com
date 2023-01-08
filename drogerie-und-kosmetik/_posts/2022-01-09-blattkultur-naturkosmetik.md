@@ -2,7 +2,10 @@
 author: Tomislav
 title: Blattkultur Naturkosmetik
 slogan: Shop für vegane Kosmetikprodukte
-targetUrl: https://pluto.r.powuta.com/ts/i5041712/tsc?amc=con.blbn.490871.505057.14181632&rmd=3&trg=https%3A%2F%2Fwww.blattkultur.com%2F
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
+contentButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
 image: /assets/images/blattkultur-naturkosmetik_logo.png
 screenshot: /assets/images/screenshots/blattkultur-naturkosmetik_screenshot.jpg
 rubric: Drogerie & Kosmetik
@@ -37,7 +40,7 @@ Online einkaufen ist nichts Besonderes mehr und es gibt viele Dinge des täglich
 
 ### Die Philosophie von Blattkultur Naturkosmetik
 
-Ein grünes Blatt steht ganz allgemein als ein Symbol für die Natur und die Umwelt. Und genau darum geht es hier. Mit dem Blattkultur Naturkosmetik Online-Shop versuchen die Betreiber [neue Wege](https://www.blattkultur.com/mission/){:target="_blank"} zu gehen. Die angebotenen Kosmetikartikel sind nicht nur alle ausschließlich mit natürlichen Rohstoffen hergestellt, sie sind außerdem dermatologisch getestet, vegan und werden darüber hinaus ohne Tierversuche im Labor produziert. Nebenbei legt Blattkultur Naturkosmetik einen großen Wert auf Fairtrade und auf einen umweltfreundlichen Versand der Bestellungen an alle Kunden.
+Ein grünes Blatt steht ganz allgemein als ein Symbol für die Natur und die Umwelt. Und genau darum geht es hier. Mit dem Blattkultur Naturkosmetik Online-Shop versuchen die Betreiber neue Wege zu gehen. Die angebotenen Kosmetikartikel sind nicht nur alle ausschließlich mit natürlichen Rohstoffen hergestellt, sie sind außerdem dermatologisch getestet, vegan und werden darüber hinaus ohne Tierversuche im Labor produziert. Nebenbei legt Blattkultur Naturkosmetik einen großen Wert auf Fairtrade und auf einen umweltfreundlichen Versand der Bestellungen an alle Kunden.
 
 ### Die Produkte von Blattkultur Naturkosmetik
 

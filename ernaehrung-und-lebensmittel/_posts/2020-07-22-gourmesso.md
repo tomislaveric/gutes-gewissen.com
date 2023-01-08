@@ -2,7 +2,10 @@
 author: Michael
 title: Gourmesso
 slogan: Fair-Trade-Kaffee in Nespresso-kompatiblen Kapseln
-targetUrl: https://www.awin1.com/cread.php?awinmid=11382&awinaffid=731132&clickref=&ued=
+targetUrl: https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&clickref=&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DGourmesso
+sidebarButtonText: "Produkte von Grourmesso ansehen"
+contentButtonText: "Produkte von Grourmesso ansehen"
+ctaButtonText: "Produkte von Grourmesso ansehen"
 image: /assets/images/gourmesso_logo.jpg
 screenshot: /assets/images/screenshots/gourmesso_screenshot.jpg
 rubric: Ernährung & Lebensmittel

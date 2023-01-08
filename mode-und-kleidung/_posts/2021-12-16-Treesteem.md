@@ -2,7 +2,10 @@
 author: Tomislav
 title: Treesteem
 slogan: Nachhaltige Kleidung kaufen und Bäume pflanzen
-targetUrl: https://www.awin1.com/cread.php?awinmid=22904&awinaffid=731132
+targetUrl: ../
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+contentButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+ctaButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
 image: /assets/images/Treesteem.png
 screenshot: /assets/images/screenshots/Treesteem_screenshot.jpg
 rubric: Mode & Kleidung
@@ -30,7 +33,7 @@ description: "Als Kunde hat man dort die Auswahl zwischen verschiedenen attrakti
 
 Mittlerweile versuchen viele Firmen durch das „Greenwashing“ Kunden an sich zu binden. Darunter versteht man den Versuch, sich einen grünen Anstrich zu verpassen, um die potenziellen Käufer von seinen Produkten zu überzeugen. Bei Treesteem sieht die Sache anders aus. Anstatt leerer Versprechungen geht das Unternehmen in die Vollen. Anstelle von einem „Alibi-Baum“ werden für jedes gekaufte Shirt oder Hoodie gleich 12 Bäume gepflanzt. Dabei kann jeder den Fortschritt der Kampagne per Dashboard genau überprüfen.
 
-Der Treesteem Online-Shop unterstützt das Aufforstungsprojekt „Eden“, die bereits 360 Millionen Bäume in acht verschiedenen Ländern gepflanzt haben. Durch die gelebte Transparenz von Treesteem kann man sich sicher sein, dass man durch seine Kaufentscheidung auch wirklich etwas für den Umweltschutz tut. Dieses [„klimapositive Handeln“](https://treesteem.com/pages/about-treesteem){:target="_blank"} ist auch ein Grundpfeiler der Unternehmensphilosophie.
+Der Treesteem Online-Shop unterstützt das Aufforstungsprojekt „Eden“, die bereits 360 Millionen Bäume in acht verschiedenen Ländern gepflanzt haben. Durch die gelebte Transparenz von Treesteem kann man sich sicher sein, dass man durch seine Kaufentscheidung auch wirklich etwas für den Umweltschutz tut. Dieses „klimapositive Handeln“ ist auch ein Grundpfeiler der Unternehmensphilosophie.
 
 ### Die Prinzipien von Treesteem
 

@@ -2,7 +2,7 @@
 author: Tomislav
 title: the nu company
 slogan: Vegane Schokolade nachhaltig verpackt
-targetUrl: https://www.awin1.com/cread.php?awinmid=26053&awinaffid=731132
+targetUrl: https://rtlds.the-nu-company.com/tc.php?t=152553C2258138332T
 image: /assets/images/nucao_logo.png
 screenshot: /assets/images/screenshots/nucao_screenshot.jpg
 rubric: Ernährung & Lebensmittel
