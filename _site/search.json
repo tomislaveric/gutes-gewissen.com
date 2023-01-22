@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Legona",
+      "url"         : "/haus-und-garten/legona/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Biologisch, Ökologisch, Umweltfreundlich, Schädlingsbekämpfung",
+      "date"        : "2023-01-22 00:00:00 +0100",
+      "shippings"   : "Kostenloser Versand innerhalb Deutschlands ohne MindestbestellwertLieferkosten nach Österreich von 3,90 Euro",
+      "image"       : "/assets/images/legona_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "PlantBase",
       "url"         : "/drogerie-und-kosmetik/plantbase/",
       "category"    : "",
