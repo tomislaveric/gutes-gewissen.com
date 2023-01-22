@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "chakrana",
+      "url"         : "/mode-und-kleidung/chakrana/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Kleidung, Yoga, Vegan, Hergestellt-in-Deutschland, Made-in-Germany",
+      "date"        : "2023-01-22 00:00:00 +0100",
+      "shippings"   : "Kostenloser Versand innerhalb Deutschlands ab 49 EuroVersandkosten von 3,90 Euro für Bestellungen unter 49 EuroLieferung ins Ausland ab 9,90 Euro möglichGratis Rücksendungen innerhalb Deutschlands",
+      "image"       : "/assets/images/chakrana_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Legona",
       "url"         : "/haus-und-garten/legona/",
       "category"    : "",
