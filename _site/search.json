@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Handgefertigtes.de",
+      "url"         : "/haus-und-garten/handgefertigtes/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Möbel, Ökologisch, Dekoration, Handarbeit, Wohnaccessoires",
+      "date"        : "2023-01-29 00:00:00 +0100",
+      "shippings"   : "Versandkosten abhängig vom Versandgewicht ab 5,90 EuroVersand in das EU-Ausland und in die Schweiz möglich",
+      "image"       : "/assets/images/handgefertigtes_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "chakrana",
       "url"         : "/mode-und-kleidung/chakrana/",
       "category"    : "",
