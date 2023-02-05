@@ -2,7 +2,10 @@
 author: Tomislav
 title: Second Life Fashion
 slogan: Nachhaltiger Second Hand Online-Shop
-targetUrl: https://www.awin1.com/cread.php?awinmid=19076&awinaffid=731132
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Secondhand & Upcycling"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Secondhand & Upcycling"
+contentButtonText: "Ähnliche Produkte in der Rubrik Secondhand & Upcycling"
 image: /assets/images/Second_Life_Fashion.png
 screenshot: /assets/images/screenshots/Second_Life_Fashion_screenshot.jpg
 rubric: Secondhand & Upcycling
