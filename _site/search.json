@@ -2,6 +2,30 @@
   
     {
 
+      "title"       : "Calmado",
+      "url"         : "/spielzeug-und-hobby/calmado/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Öko, Ökologisch, Pädagogisch wertvoll, Fair, Spielzeug, Spiele, Holz",
+      "date"        : "2023-02-05 00:00:00 +0100",
+      "shippings"   : "Kostenloser Versand innerhalb Deutschlands ohne MindestbestellwertLieferung in das EU-Ausland für 9,00 Euro möglich",
+      "image"       : "/assets/images/calmado_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "soulbottles",
+      "url"         : "/haus-und-garten/soulbottles/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Möbel, Kleidung, Fashion, Bio, Ökologisch, Made-in-Germany",
+      "date"        : "2023-02-05 00:00:00 +0100",
+      "shippings"   : "Versandkosten von 3,50 Euro innerhalb DeutschlandsKostenlose Lieferung für Bestellungen ab 50 EuroVersand ins Ausland ab 7,40 Euro verfügbarLieferung an Packstationen und Postfilialen möglich",
+      "image"       : "/assets/images/soulbottles_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Handgefertigtes.de",
       "url"         : "/haus-und-garten/handgefertigtes/",
       "category"    : "",
