@@ -71,6 +71,6 @@ Zum Zubehör zählen unzerbrechliche Trinkbecher aus Edelstahl für unterwegs, n
 
 Im soulbottles Online-Shop kann per Vorkasse oder PayPal Plus (inkl. Rechnung Kreditkarte) bezahlt werden.
 
-### Die soulbottles Versandoptionen
+### Die soulbottles Versandkosten
 
 Die Versandkosten liegen bei 3,50 Euro für Sendungen innerhalb Deutschlands, ab einem Bestellwert von 50 Euro ist der Versand kostenfrei. soulbottles werden allerdings weltweit versendet, die Versandkosten weichen hier ab. Der Versand erfolgt per DHL GoGreen.
