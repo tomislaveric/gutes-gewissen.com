@@ -5,7 +5,7 @@ slogan: Ersatzteile und Zubehör für Haushaltsgeräte
 targetUrl: https://t.adcell.com/p/click?promoId=272364&slotId=101181&param0=https%3A%2F%2Fschraub-doc.de%2F
 image: /assets/images/schraub-doc_logo.png
 screenshot: /assets/images/screenshots/schraub-doc_screenshot.jpg
-rubric: Haus & Garten
+rubric: Computer & Technik
 tags: [Nachhaltig, Ersatzteile, Reparatur, Raparaturanleitungen, Zubehör, Haushaltsgeräte]
 payments: [
     Vorkasse,
