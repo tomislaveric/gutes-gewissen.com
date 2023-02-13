@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Schraub-Doc",
+      "url"         : "/haus-und-garten/schraub-doc/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Ersatzteile, Reparatur, Raparaturanleitungen, Zubehör, Haushaltsgeräte",
+      "date"        : "2023-02-13 00:00:00 +0100",
+      "shippings"   : "Paketversand nach Österreich und Deutschland für 5,90 EuroKostenlose Lieferung ab 39 Euro WarenwertBriefversand für 2,50 Euro pauschal pro BestellungVersand ins EU-Ausland und in die Schweiz möglich",
+      "image"       : "/assets/images/schraub-doc_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Calmado",
       "url"         : "/spielzeug-und-hobby/calmado/",
       "category"    : "",
