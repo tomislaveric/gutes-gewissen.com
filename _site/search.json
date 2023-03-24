@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Roadside Vintage Clothing",
+      "url"         : "/secondhand-und-upcycling/roadside-vintage/",
+      "category"    : "",
+      "tags"        : "Nachhaltige Mode, Kleidung, Slow-Fashion, Vintage, Second-Hand, Gebrauchtware",
+      "date"        : "2023-03-24 00:00:00 +0100",
+      "shippings"   : "Kostenloser Versand für Bestellungen ab 50 EuroVersandkosten von 4,99 Euro bis 50 Euro Warenwert",
+      "image"       : "/assets/images/roadside-vintage_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "mosch",
       "url"         : "/haus-und-garten/mosch/",
       "category"    : "",
