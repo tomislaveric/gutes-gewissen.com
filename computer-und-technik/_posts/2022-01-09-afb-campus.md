@@ -2,7 +2,10 @@
 author: Tomislav
 title: AfB Campus
 slogan: Aufbereitete PCs und Laptops für Studierende
-targetUrl: https://www.awin1.com/cread.php?awinmid=21673&awinaffid=731132
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Computer & Technik"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Computer & Technik"
+contentButtonText: "Ähnliche Produkte in der Rubrik Computer & Technik"
 image: /assets/images/afb-campus_logo.png
 screenshot: /assets/images/screenshots/afb-campus_screenshot.jpg
 rubric: Computer & Technik

@@ -3,6 +3,9 @@ author: Tomislav
 title: Roadside Vintage Clothing
 slogan: Second-Hand und Vintage-Kleidung
 targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Secondhand & Upcycling"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Secondhand & Upcycling"
+contentButtonText: "Ähnliche Produkte in der Rubrik Secondhand & Upcycling"
 image: /assets/images/roadside-vintage_logo.png
 screenshot: /assets/images/screenshots/roadside-vintage_screenshot.jpg
 rubric: Secondhand & Upcycling
