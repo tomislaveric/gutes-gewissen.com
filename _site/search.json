@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "hier&amp;direkt",
+      "url"         : "/ernaehrung-und-lebensmittel/hierunddirekt-de/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Bio, Ökologisch, Netzwerk, Direkterzeuger, Händler, Hofladen, Bauernhof",
+      "date"        : "2023-03-24 00:00:00 +0100",
+      "shippings"   : "",
+      "image"       : "/assets/images/hierunddirekt_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Schraub-Doc",
       "url"         : "/computer-und-technik/schraub-doc/",
       "category"    : "",

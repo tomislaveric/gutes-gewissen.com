@@ -175,6 +175,20 @@
 </div>
   
 <p>&lt;?php
+$file = ‘https://www.awin1.com/awclick.php?gid=452674&amp;mid=40430&amp;awinaffid=731132&amp;linkid=3289170&amp;clickref=’;
+$title = ‘hier&amp;direkt’;
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
+    echo $title . “ -&gt; “ . “NOT FOUND”;
+} else if (str_contains($content, ‘This link is inactive’)) {
+    echo $title . “ -&gt; “ . “INACTIVE”;
+} else {
+    echo $title . “ -&gt; “ . “OK”;
+}
+?&gt;</p>
+
+<p>&lt;?php
 $file = ‘https://t.adcell.com/p/click?promoId=272364&amp;slotId=101181&amp;param0=https%3A%2F%2Fschraub-doc.de%2F’;
 $title = ‘Schraub-Doc’;
 $file_headers = @get_headers($file);
