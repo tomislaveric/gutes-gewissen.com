@@ -26,6 +26,18 @@
   
     {
 
+      "title"       : "nouni",
+      "url"         : "/drogerie-und-kosmetik/nouni/",
+      "category"    : "",
+      "tags"        : "Nachhaltige-Körperpflege, Vegan, Haarpflegeprodukte, Kinder, Baby, Haargel, Shampoo, Kosmetik, Made-in-Germany",
+      "date"        : "2023-03-24 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 4,99 EuroVersand ins EU-Ausland für 13,99 Euro möglichWeltweite Lieferung für 26,90 Euro verfügbar",
+      "image"       : "/assets/images/nouni_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Schraub-Doc",
       "url"         : "/computer-und-technik/schraub-doc/",
       "category"    : "",
