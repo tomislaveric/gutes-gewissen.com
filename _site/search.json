@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "mosch",
+      "url"         : "/haus-und-garten/mosch/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Nachhaltiger-Lebensstil, Wohndeko, Lifestyle, Vegan, Fair, Handgemacht",
+      "date"        : "2023-03-24 00:00:00 +0100",
+      "shippings"   : "Versandkosten von 3,95 Euro für Bestellungen bis 50 EuroVersandkostenfreie Lieferung ab 50 Euro WarenwertVersand nach Österreich, Niederlande, Belgien und Luxemburg für 9,95 Euro",
+      "image"       : "/assets/images/mosch_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "hier&amp;direkt",
       "url"         : "/ernaehrung-und-lebensmittel/hierunddirekt-de/",
       "category"    : "",
