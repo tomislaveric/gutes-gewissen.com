@@ -6,7 +6,7 @@ targetUrl: https://t.adcell.com/p/click?promoId=329927&slotId=101181
 image: /assets/images/nahtur-design_logo.png
 screenshot: /assets/images/screenshots/nahtur-design_screenshot.jpg
 rubric: Mode & Kleidung
-tags: [Nachhaltig Mode, Kleidung, Fashion, Vegan, Bio, Fair, Made-in-Germany]
+tags: [Nachhaltige Mode, Kleidung, Fashion, Vegan, Bio, Fair, Made-in-Germany]
 payments: [
     Vorkasse,
     Kreditkarte,
