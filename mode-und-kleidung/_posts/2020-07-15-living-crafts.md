@@ -2,7 +2,10 @@
 author: Tomislav
 title: Living Crafts
 slogan: Hersteller für Bio-Kleidung und Naturtextilien
-targetUrl: https://www.awin1.com/awclick.php?gid=364635&mid=13807&awinaffid=731132&linkid=2398755&clickref=
+targetUrl: https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&clickref=&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DLiving%2BCrafts
+sidebarButtonText: "Produkte von Living Crafts ansehen"
+contentButtonText: "Produkte von Living Crafts ansehen"
+ctaButtonText: "Produkte von Living Crafts ansehen"
 image: /assets/images/living_crafts_logo.png
 screenshot: /assets/images/screenshots/livingcrafts.jpg
 rubric: Mode & Kleidung
