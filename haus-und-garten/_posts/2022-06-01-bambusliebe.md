@@ -2,7 +2,10 @@
 author: Tomislav
 title: Bambusliebe
 slogan: Shop für nachhaltige Produkte aus Bambus
-targetUrl: https://www.awin1.com/cread.php?awinmid=21131&awinaffid=731132
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
+contentButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
 image: /assets/images/bambusliebe_logo.png
 screenshot: /assets/images/screenshots/bambusliebe_screenshot.jpg
 rubric: Haus & Garten
