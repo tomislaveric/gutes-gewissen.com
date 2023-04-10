@@ -15,7 +15,7 @@ payments: [
     Sofortüberweisung
 ]
 shippings: [
-    "Versandkosten innerhalb Deutschlands von 5,95 Euro",
+    "Versandkostenfreie Lieferung innerhalb Deutschlands",
     "Lieferung an Packstation möglich",
     "Versand ins Ausland für 15 Euro verfügbar"
 ]
@@ -24,13 +24,6 @@ contact: [
     "Fax: +49 4551 99 340 17",
     "E-Mail: info@nahtur-design.de",
     "Adresse: nahtur-design, Leinen-Loden-Manufaktur, Kurhausstraße 46, 23795 Bad Segeberg"
-]
-affiliateElements: [
-    [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dnahtur-design", 
-    "/assets/images/idealo.png"
-    ]
 ]
 shortDescription: "Die Manufaktur nahtur-design aus Schleswig-Holstein hat sich auf Bekleidung, Heimtextilien und Gebrauchstextilien aus Leinen und Loden spezialisiert. "
 description: "Alle Produkte werden direkt in der Manufaktur entwickelt, produziert und vermarktet. Das Team arbeitet dabei plastikfrei, ressourcenschonend und vermeidet durch eine spezielle „zero-waste“-Kollektion bis zu 99 Prozent Müll."
@@ -68,4 +61,4 @@ Im Geschäft vor Ort kann bargeldlos und mit Bargeld bezahlt werden. Im Online-S
 
 ### Die nahtur-design Versandkosten 
 
-Zurzeit versendet nahtur-design mit einer Versandkostenpauschale von 5,95 Euro im Inland und 15 Euro ins europäische Ausland. Eine Umstellung auf versandkostenfreie Lieferung innerhalb von Deutschland ist in Vorbereitung.
+nahtur-design versendet im Inland versandkostenfrei und mit einer Versandkostenpauschale von 15 Euro ins europäische Ausland.
