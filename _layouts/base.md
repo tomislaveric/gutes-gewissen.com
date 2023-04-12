@@ -31,8 +31,8 @@ websiteTitle: gutes-gewissen
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description"
-    content="{% if page.shortDescription %}{{ page.shortDescription }}{% else %}{{ page.description }}{% endif %}">
-  <meta name="keywords" content="{{ page.tags | join: ', ' }}">
+    content="{% if page.shortDescription %}{{ page.shortDescription }}{% else %}{{ page.description }}{% endif %}" />
+  <meta name="keywords" content="{{ page.tags | join: ', ' }}" />
   {% if page.layout == 'site' %}
   {% include open-graph.md type="product" %}
   {% elsif page.layout == 'rubric' %}
