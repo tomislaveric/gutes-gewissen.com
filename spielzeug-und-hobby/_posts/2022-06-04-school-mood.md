@@ -2,7 +2,10 @@
 author: Tomislav
 title: School-Mood
 slogan: Nachhaltiger Hersteller für Schultaschen
-targetUrl: https://www.awin1.com/cread.php?awinmid=22086&awinaffid=731132
+targetUrl: https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dschool%2Bmood
+ctaButtonText: "Produkte von School-Mood auf idealo.de anzeigen"
+sidebarButtonText: "Produkte von School-Mood auf idealo.de anzeigen"
+contentButtonText: "Produkte von School-Mood auf idealo.de anzeigen"
 image: /assets/images/school-mood_logo.png
 screenshot: /assets/images/screenshots/school-mood_screenshot.jpg
 rubric: Spielzeug & Hobby

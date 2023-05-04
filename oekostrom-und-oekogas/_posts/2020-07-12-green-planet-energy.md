@@ -2,13 +2,15 @@
 author: Tomislav
 title: Green Planet Energy
 slogan: Ökostrom und Ökogas aus erneuerbaren Energien
-targetUrl: https://www.awin1.com/awclick.php?gid=359225&mid=14852&awinaffid=731132&linkid=2355126&clickref=
+targetUrl: https://www.awin1.com/awclick.php?gid=373003&mid=14797&awinaffid=731132&linkid=2482504&clickref=
+ctaButtonText: "Günstigen Ökostromanbieter auf verivox.de finden"
+sidebarButtonText: "Günstigen Ökostromanbieter auf verivox.de finden"
+contentButtonText: "Günstigen Ökostromanbieter auf verivox.de finden"
 image: /assets/images/green_planet_energy_logo.png
 screenshot: /assets/images/screenshots/green-planet-energy.jpg
 rubric: Ökostrom & Ökogas
 shortDescription: Green Planet Energy beliefert als unabhängiger Versorger seine Kunden deutschlandweit mit Ökostom und Ökogas aus 100 Prozent erneuerbaren Energien.
 description: Green Planet Energy eG ist eine eingetragene Genossenschaft und ein deutscher Energieversorger. Unter anderem ist es die erklärte Vision der unabhängigen Genossenschaft, bundesweit allen Bürgern möglichst umweltfreundlich gewonnene Energie bereitzustellen. Beim Strom von Green Planet Energy handelt es sich zu 100 Prozent um Ökostrom aus erneuerbaren Energiequellen.
-sidebarButtonText: Gehe zu Green Planet Energy
 tags: [Energieversorger, Gasanbieter, Grüner Strom, CO2 neutral]
 contact: [
     "Telefon Hotline: 040 808110600",

@@ -2,7 +2,10 @@
 author: Tomislav
 title: HOME IS WHERE YOUR HEART IS
 slogan: Nachhaltige Mode und Accessoires
-targetUrl: https://homeiswhereyourheartis.de
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+contentButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
 image: /assets/images/home-is-where-your-heart-is.png
 screenshot: /assets/images/screenshots/home-is-where-your-heart-is_screenshot.jpg
 rubric: Mode & Kleidung
@@ -35,7 +38,7 @@ Das Hauptaugenmerk wird auf die Qualität in dem gesamten Produktionsprozess gel
 
 In dem gesamten Team herrscht der Glaube, dass qualitativ hochwertige Arbeit zu mehr Lebensfreude bei den Kunden führt. Die Produktion bei HOME IS WHERE YOUR HEART IS nutzt eine enge Zusammenarbeit und regelmäßige Besuche der Produktionsorte, um einen sehr guten Überblick über die Arbeits- und Lebensbedingungen vor Ort zu bekommen. Es ist ihnen wichtig, dass nicht nur Gewinn erwirtschaftet wird, sondern dass die Produkte den Menschen ebenfalls einen Mehrwert bringen. Sie werden angemessen bezahlt und können sich durch die Arbeit einen guten Lebensstandard leisten.
 
-Bei HOME IS WHERE YOUR HEART IS steht nicht nur der Verkauf von Waren im Fokus, sondern die Produkte sollen eine Message an die Welt verbreiten. Die [Message](https://homeiswhereyourheartis.de/about/nachhaltigkeit/){:target="_blank"} ist, dass es möglich ist, Produkte herzustellen, bei den der gesamte Prozess von dem Stoff bis zu der Ankunft beim Kunden nachhaltig und umweltbewusst gestaltet werden kann. Alle Beteiligten leben für die HOME IS WHERE YOUR HEART IS Produkte und sind mit dem vollen Herzen davon überzeugt, dass diese Produkte unsere Welt zu einer besseren Welt werden lassen.
+Bei HOME IS WHERE YOUR HEART IS steht nicht nur der Verkauf von Waren im Fokus, sondern die Produkte sollen eine Message an die Welt verbreiten. Die Message ist, dass es möglich ist, Produkte herzustellen, bei den der gesamte Prozess von dem Stoff bis zu der Ankunft beim Kunden nachhaltig und umweltbewusst gestaltet werden kann. Alle Beteiligten leben für die HOME IS WHERE YOUR HEART IS Produkte und sind mit dem vollen Herzen davon überzeugt, dass diese Produkte unsere Welt zu einer besseren Welt werden lassen.
 
 ### Die Qualität von HOME IS WHERE YOUR HEART IS
 

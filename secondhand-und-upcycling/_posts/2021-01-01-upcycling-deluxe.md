@@ -2,8 +2,10 @@
 author: Michael
 title: Upcycling Deluxe
 slogan: "Online-Shop für nachhaltiges Upcycling-Design"
-sidebarButtonText: "Gehe zu Upcycling Deluxe"
-targetUrl: https://www.upcycling-deluxe.com/
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Secondhand & Upcycling"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Secondhand & Upcycling"
+contentButtonText: "Ähnliche Produkte in der Rubrik Secondhand & Upcycling"
 image: /assets/images/upcycling_deluxe_logo.png
 screenshot: /assets/images/screenshots/upcycling-deluxe_screenshot.jpg
 rubric: Secondhand & Upcycling
@@ -43,7 +45,7 @@ Auf Upcycling Deluxe wird eine Vielzahl von Produkten aus ungewöhnlichen wieder
 
 Mit seinem Upcycling-Konzept möchte das Unternehmen eine Alternative zu herkömmlichen Gebrauchsartikeln bieten. Upcycling meint die Wiederverwertung bereits gebrauchter Materialien und Reststoffen in neuen, kreativen Designs. Abweichend vom Recycling werden die Ausgangsmaterialien beim Upcycling durch eine ganz neue Verarbeitung aufgewertet. Damit sind die neu angefertigten Produkte den alten mindestens ebenbürtig - auf diese Weise werden beispielsweise Ölfässer zu Lampen und Zementsäcke zu Laptophüllen.
 
-Im Mittelpunkt stehen für Upcycling Deluxe dabei der [Nachhaltigkeitsgedanke](https://www.upcycling-deluxe.com/ueber-upcycling-deluxe) und das Ziel, menschlich statt gewinnorientiert zu handeln. Upcycling übertrifft in Sachen Nachhaltigkeit sogar die Produktion neuer Materialen nach den höchsten ökologischen Standards, da bereits existierende Materialien aufgewertet werden. So werden Ressourcen eingespart, die man andernfalls in ein neues Produkt investieren müsste.
+Im Mittelpunkt stehen für Upcycling Deluxe dabei der Nachhaltigkeitsgedanke und das Ziel, menschlich statt gewinnorientiert zu handeln. Upcycling übertrifft in Sachen Nachhaltigkeit sogar die Produktion neuer Materialen nach den höchsten ökologischen Standards, da bereits existierende Materialien aufgewertet werden. So werden Ressourcen eingespart, die man andernfalls in ein neues Produkt investieren müsste.
 
 Upcycling Deluxe arbeitet ausschließlich mit Herstellern, die strenge Richtlinien in Sachen Arbeitsbedingungen einhalten. Die Partner sind meist kleine Betriebe und Kooperativen in Ländern des globalen Südens, die ihren Mitarbeitern einen fairen Lohn zahlen und nachhaltig wirtschaften. Wer Upcycling-Produkte kauft, fördert also nachhaltiges, sozial verantwortliches Wirtschaften.
 

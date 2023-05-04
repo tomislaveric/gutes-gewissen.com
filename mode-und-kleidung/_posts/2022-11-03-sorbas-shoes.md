@@ -39,7 +39,7 @@ Ein klares Design mit einem Hang zum Minimalismus und einer Herstellung in klein
 
 ### Die Produktion von SORBAS Shoes
 
-Das Label integriert unabhängige, traditionelle europäischen Betriebe in moderne Wertschöpfungsketten ein und sichert so die Zukunft der Familienbetriebe und deren Mitarbeiter*innen. Mit der Auswahl von kleinen und vertrauenswürdigen Schuhmacher*innen für die Produktion von SORBAS Schuhen soll die lokale Bevölkerung und Entwicklung gefördert werden, denn es unterstützt das traditionelle Handwerk in Europa.
+Das Label integriert unabhängige, traditionelle europäischen Betriebe in moderne Wertschöpfungsketten ein und sichert so die Zukunft der Familienbetriebe und deren Mitarbeiter\*innen. Mit der Auswahl von kleinen und vertrauenswürdigen Schuhmacher\*innen für die Produktion von SORBAS Schuhen soll die lokale Bevölkerung und Entwicklung gefördert werden, denn es unterstützt das traditionelle Handwerk in Europa.
 
 Der kleinste Betrieb dieser Zusammenarbeit hat gerade mal einen Mitarbeiter, es ist also echte Handwerkskunst. Die Überzeugung liegt darin, dass es gerade für den Fortbestand kleiner, traditioneller Betriebe wichtig ist, moderne Produktionswege zu entdecken und gemeinsam zu wachsen.
 

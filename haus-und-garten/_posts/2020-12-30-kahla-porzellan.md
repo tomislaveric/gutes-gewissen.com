@@ -2,7 +2,8 @@
 author: Tomislav
 title: KAHLA Porzellan
 slogan: Online-Shop für Geschirr Made in Germany
-sidebarButtonText: Produkte von KAHLA Porzellan ansehen
+sidebarButtonText: "Produkte von KAHLA Porzellan ansehen"
+ctaButtonText: "Produkte von KAHLA Porzellan ansehen"
 contentButtonText: "Produkte von KAHLA Porzellan im Preisvergleich auf idealo.de ansehen"
 targetUrl: https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dkahla
 image: /assets/images/kahla_porzellan_logo.png
@@ -49,7 +50,7 @@ KAHLA gibt es bereits seit 1844, also seit mehr als 175 Jahren. Nach der Wende v
 
 ### Die Materialien von KAHLA Porzellan
 
-Das Unternehmen verfolgt seit Jahren seine Nachhaltigkeitsstrategie ["KAHLA pro Öko"](https://www.kahla-porzellanshop.de/made-in-germany){:target="_blank"} und bekennt sich damit klar zum Thema Nachhaltigkeit. Alle Produkte von KAHLA werden aus speziellem, schadstoffgeprüftem Porzellan "Made in Germany" und unter fairen und sozialen Arbeitsbedingungen hergestellt. Außerdem werden ausschließlich natürliche Rohstoffe eingesetzt. Das grünes Qualitätssiegel auf dem Porzellan bürgt für die Produktion aus natürlichen Ressourcen.
+Das Unternehmen verfolgt seit Jahren seine Nachhaltigkeitsstrategie "KAHLA pro Öko" und bekennt sich damit klar zum Thema Nachhaltigkeit. Alle Produkte von KAHLA werden aus speziellem, schadstoffgeprüftem Porzellan "Made in Germany" und unter fairen und sozialen Arbeitsbedingungen hergestellt. Außerdem werden ausschließlich natürliche Rohstoffe eingesetzt. Das grünes Qualitätssiegel auf dem Porzellan bürgt für die Produktion aus natürlichen Ressourcen.
 
 ### Die Prinzipien und Richtlinien von KAHLA Porzellan
 
