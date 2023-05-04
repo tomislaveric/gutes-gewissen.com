@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Shoezuu",
+      "url"         : "/mode-und-kleidung/shoezuu/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Ökologisch, Schuhe, Vegan, Fair produziert, Fair hergestellt, Made-in-Europe",
+      "date"        : "2023-04-27 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands ab 4,99 EuroLieferung ins EU-Ausland ab 9,90 Euro möglichVersand ins Ausland außerhalb der EU ab 17,99 Euro",
+      "image"       : "/assets/images/shoezuu_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "nahtur-design",
       "url"         : "/mode-und-kleidung/nahtur-design/",
       "category"    : "",
