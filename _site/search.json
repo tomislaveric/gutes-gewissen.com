@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "DETTO FATTO",
+      "url"         : "/ernaehrung-und-lebensmittel/detto-fatto/",
+      "category"    : "",
+      "tags"        : "Mode, Circular, Fashion, Kleidung, Bio, Ökologisch, Umweltfreundlich, Recyclebar",
+      "date"        : "2023-05-04 00:00:00 +0200",
+      "shippings"   : "Kostenfreier Versand innerhalb DeutschlandsLieferungen nach Österreich, die Niederlande und Belgien für 11,95 EuroKostenlose Retoure für Bestellungen aus Deutschland",
+      "image"       : "/assets/images/detto-fatto_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Birkengold",
       "url"         : "/ernaehrung-und-lebensmittel/birkengold/",
       "category"    : "",
