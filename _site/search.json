@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Birkengold",
+      "url"         : "/ernaehrung-und-lebensmittel/birkengold/",
+      "category"    : "",
+      "tags"        : "Lebensmittel, Zuckerfrei, Ohne Zucker, Vegan, Nachhaltig verpackt, Made-in-Österreich",
+      "date"        : "2023-05-03 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands und in Österreich von 4,90 EuroKostenloser Versand nach Deutschland und Österreich ab 39 Euro BestellwertLieferung an Packstationen nach Rücksprache möglichVersand ins Ausland nach Absprache verfügbar",
+      "image"       : "/assets/images/birkengold_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "mikono",
       "url"         : "/mode-und-kleidung/mikono/",
       "category"    : "",
