@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "mikono",
+      "url"         : "/mode-und-kleidung/mikono/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Ökologisch, Fair produziert, Fair hergestellt, Kleidung, Fashion, Mode",
+      "date"        : "2023-04-28 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 3,99 EuroKostenloser Versand innerhalb Deutschlands ab 119 Euro BestellwertLieferung ins EU-Ausland für 4,99 Euro möglichWeltweiter Versand für 14,99 Euro verfügbar",
+      "image"       : "/assets/images/mikono_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Shoezuu",
       "url"         : "/mode-und-kleidung/shoezuu/",
       "category"    : "",
