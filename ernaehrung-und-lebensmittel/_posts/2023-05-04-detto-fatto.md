@@ -4,7 +4,7 @@ title: DETTO FATTO
 slogan: Circular-Fashion-Brand für mehr Umweltschutz
 targetUrl: https://www.awin1.com/cread.php?awinmid=30975&awinaffid=731132
 image: /assets/images/detto-fatto_logo.png
-screenshot: /assets/images/screenshots/detto-fatto_screenshot.jpg
+screenshot: /assets/images/screenshots/detto-fatto_screenshot2.jpg
 rubric: Mode & Kleidung
 tags: [Mode, Circular, Fashion, Kleidung, Bio, Ökologisch, Umweltfreundlich, Recyclebar]
 payments: [
