@@ -1,7 +1,7 @@
 ---
 layout: rubric
 title: Drogerie & Kosmetik
-headline: Die besten Anbieter für Naturkosmetik!
-shortDescription: ""
+headline: "Die besten Online-Shops für umweltfreundliche Drogerieartikel und chemiefreie Kosmetikprodukte"
+shortDescription: "Die besten Online-Shops für umweltfreundliche Drogerieartikel und chemiefreie Kosmetikprodukte"
 description: ""
 ---
