@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "TeaBlobs",
+      "url"         : "/ernaehrung-und-lebensmittel/teablobs/",
+      "category"    : "",
+      "tags"        : "Tee, Bio, Ökologisch, Plastikfrei, Nachhaltige Verpackung, Abfallvermeidung",
+      "date"        : "2023-05-05 00:00:00 +0200",
+      "shippings"   : "Versandkosten von 3,90 Euro für Bestellungen unter 25 EuroKostenloser Versand innerhalb Deutschlands ab 25 EuroLieferung nach Österreich für 5 Euro verfügbarKostenfreier Versand nach Österreich ab 69 Euro Bestellwert",
+      "image"       : "/assets/images/teablobs_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "DETTO FATTO",
       "url"         : "/ernaehrung-und-lebensmittel/detto-fatto/",
       "category"    : "",
