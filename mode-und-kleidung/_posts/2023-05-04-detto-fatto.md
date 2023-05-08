@@ -72,4 +72,4 @@ In dem Online-Shop von DETTO FATTO können die Käufer:innen via PayPal, Kreditk
 
 ### Die DETTO FATTO Versandoptionen
 
-Der Versand der Bestellungen aus dem DETTO FATTO Online-Shop erfolgt klimaneutraler und kostenlos via DHL GoGreen innerhalb Deutschlands. Ebenso sind die Rücksendungen im Falle einer Retoure bei DETTO FATTO gratis. Der Versand nach Österreich, die Niederlande und Belgien ist ab 11,95 Euro möglich.
+Der Versand der Bestellungen aus dem DETTO FATTO Online-Shop erfolgt klimaneutral und kostenlos via DHL GoGreen innerhalb Deutschlands. Ebenso sind die Rücksendungen innerhalb Deutschlands im Falle einer Retoure bei DETTO FATTO gratis. Der Versand nach Österreich, die Niederlande und Belgien ist ab 11,95 Euro möglich
