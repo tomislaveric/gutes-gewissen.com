@@ -2,7 +2,10 @@
 author: Tomislav
 title: Klean Kanteen
 slogan: Schadstofffreie und nachhaltige Trinkflaschen
-targetUrl: https://atlas.r.akipam.com/ts/i5541187/tsc?typ=r&amc=con.blbn.490871.505057.CRT6aSrl_Tl
+targetUrl: https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dklean%2Bkanteen
+sidebarButtonText: "Produkte von Klean Kanteen ansehen"
+contentButtonText: "Produkte von Klean Kanteen im Preisvergleich auf idealo.de ansehen"
+ctaButtonText: "Produkte von Klean Kanteen ansehen"
 image: /assets/images/klean_kanteen_logo.png
 screenshot: /assets/images/screenshots/klean-kanteen_screenshot.jpg
 rubric: Haus & Garten
