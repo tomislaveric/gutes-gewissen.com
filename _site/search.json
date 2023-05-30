@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Wildling Shoes",
+      "url"         : "/mode-und-kleidung/wildling-shoes/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Mode, Schuhe, Minimalschuhe, Barfussschuhe, Fair-hergestellt",
+      "date"        : "2023-05-30 00:00:00 +0200",
+      "shippings"   : "Versandkosten von 4,90 Euro innerhalb DeutschlandsKostenfreier Versand für Bestellungen ab 200 Euro WarenwertErste Rücksendung innerhalb Deutschlands kostenlosLieferung ins Ausland für 8,90 Euro verfügbar",
+      "image"       : "/assets/images/wildling-shoes_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "TeaBlobs",
       "url"         : "/ernaehrung-und-lebensmittel/teablobs/",
       "category"    : "",
