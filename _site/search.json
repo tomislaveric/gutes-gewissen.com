@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Doghammer",
+      "url"         : "/mode-und-kleidung/doghammer/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Schuhe, Kork, Fair, Umweltfreundlich, Made-in-Portugal, Made-in-Europe",
+      "date"        : "2023-06-26 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 3,90 Euro für Bestellungen unter 50 EuroVersandkostenfreie Lieferung innerhalb Deutschlands ab 51 Euro BestellwertLieferung nach Österreich für 4,00 Euro verfügbarVersand ins Ausland ab 10 Euro möglich",
+      "image"       : "/assets/images/doghammer_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Wildling Shoes",
       "url"         : "/mode-und-kleidung/wildling-shoes/",
       "category"    : "",
