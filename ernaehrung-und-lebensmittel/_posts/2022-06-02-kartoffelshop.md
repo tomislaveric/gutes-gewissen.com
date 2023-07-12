@@ -2,7 +2,10 @@
 author: Tomislav
 title: Kartoffelshop
 slogan: Kartoffeln frisch vom Hof online kaufen
-targetUrl: https://www.awin1.com/cread.php?awinmid=26837&awinaffid=731132
+targetUrl: ../
+ctaButtonText: "Ähnliche Anbieter aus der Rubrik Ernährung & Lebensmittel"
+sidebarButtonText: "Ähnliche Anbieter aus der Rubrik Ernährung & Lebensmittel"
+contentButtonText: "Ähnliche Anbieter aus der Rubrik Ernährung & Lebensmittel"
 image: /assets/images/kartoffelshop_logo.png
 screenshot: /assets/images/screenshots/kartoffelshop_screenshot.jpg
 rubric: Ernährung & Lebensmittel
