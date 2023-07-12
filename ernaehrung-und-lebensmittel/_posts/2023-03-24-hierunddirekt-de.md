@@ -2,7 +2,7 @@
 author: Tomislav
 title: hier&direkt
 slogan: Produkte von Direkterzeugern in der Region finden
-targetUrl: https://www.awin1.com/awclick.php?gid=452674&mid=40430&awinaffid=731132&linkid=3289170&clickref=
+targetUrl: https://hierunddirekt.de/infos/partner/251/
 image: /assets/images/hierunddirekt_logo.png
 screenshot: /assets/images/screenshots/hierunddirekt_screenshot.jpg
 rubric: Ernährung & Lebensmittel
