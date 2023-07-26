@@ -2,7 +2,7 @@
 author: Tomislav
 title: green IT Onlineshop
 slogan: Gebrauchte Hardware online kaufen
-targetUrl: https://green-it.shop/notebooks/?tt=33719_1870196_428626_&amp;r=
+targetUrl: https://tc.tradetracker.net/?c=33719&amp;m=1870196&amp;a=428626&amp;r=&amp;u=
 image: /assets/images/green-it-onlineshop_logo.png
 screenshot: /assets/images/screenshots/green-it-onlineshop_screenshot.jpg
 rubric: Computer & Technik

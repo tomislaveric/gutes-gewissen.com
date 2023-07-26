@@ -50,7 +50,7 @@ Die Bezeichnung GOTS steht für Global Organic Textile Standard und ist ein inte
 
 Die Modekollektion von Tranquillo besteht größtenteils aus Bio-Baumwolle, wodurch viele Vorteile entstehen. Die Bio-Baumwolle besteht aus nachwachsenden Rohstoffen und verbraucht weniger Wasser bei der Herstellung. Außerdem erfolgt die Düngung mit organischen Mitteln und bei Schädlingsbefall werden nur natürliche Mittel eingesetzt.
 
-Die Büroräume und Filialen von Tranquillo verwenden alle LED-Beleuchtung, womit weniger Strom verbraucht wird. Auch beim Transport der Produkte werden effiziente und umweltschonende Wege in der Logistik eingesetzt. Alle Pakete, Kataloge und Flyer von Tranquillo bestehen aus recycelten Materialien und werden mehrmals verwendet. Tranquillo ist ein Unternehmen und Label, welches komplett auf [Ökologie und Nachhaltigkeit](https://www.tranquillo-shop.de/page/fairfashion-ecofashion-gots-biobaumwolle){:target="_blank"} ausgerichtet ist.
+Die Büroräume und Filialen von Tranquillo verwenden alle LED-Beleuchtung, womit weniger Strom verbraucht wird. Auch beim Transport der Produkte werden effiziente und umweltschonende Wege in der Logistik eingesetzt. Alle Pakete, Kataloge und Flyer von Tranquillo bestehen aus recycelten Materialien und werden mehrmals verwendet. Tranquillo ist ein Unternehmen und Label, welches komplett auf [Ökologie und Nachhaltigkeit](https://www.tranquillo-shop.de/nachhaltigkeit){:target="_blank"} ausgerichtet ist.
 
 {% include screenshot.md %}
 

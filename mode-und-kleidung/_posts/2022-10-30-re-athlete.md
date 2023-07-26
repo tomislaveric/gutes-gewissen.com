@@ -2,7 +2,10 @@
 author: Tomislav
 title: Re-Athlete
 slogan: Nachhaltige Sportbekleidung Made in Germany
-targetUrl: https://t.adcell.com/p/click?promoId=182413&slotId=101181
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+contentButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
 image: /assets/images/re-athlete_logo.png
 screenshot: /assets/images/screenshots/re-athlete_screenshot.jpg
 rubric: Mode & Kleidung

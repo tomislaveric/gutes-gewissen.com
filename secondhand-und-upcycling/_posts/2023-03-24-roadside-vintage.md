@@ -35,7 +35,7 @@ Für die Herstellung von neuer Kleidung muss ein riesiger Aufwand betrieben werd
 
 Ebenso wird für die Herstellung neuer Klamotten eine unfassbar große Menge an Wasser benötigt, allein zum Färben von Stoffen verbraucht die Textilindustrie weltweit jährlich zwischen sechs und neun Billionen Liter Wasser. Der CO2-Fußabdruck den man bei einem Kauf von neuer Ware hinterlässt ist natürlich auch nicht zu vernachlässigen.
 
-Mit den ausgewählten Vintage Pieces von Roadside-Vintage gibt es nun eine Alternative zur weit verbreiteten Fast-Fashion-Kultur. Zu erschwinglichen Preisen ist es bei Roadside-Vintage fast jedem möglich etwas für die [Nachhaltigkeit](https://roadside-vintage.com/pages/uber-uns){:target="_blank"} zu tun, ohne dabei auf einen coolen Style verzichten zu müssen.
+Mit den ausgewählten Vintage Pieces von Roadside-Vintage gibt es nun eine Alternative zur weit verbreiteten Fast-Fashion-Kultur. Zu erschwinglichen Preisen ist es bei Roadside-Vintage fast jedem möglich etwas für die Nachhaltigkeit zu tun, ohne dabei auf einen coolen Style verzichten zu müssen.
 
 ### Die Prinzipien von Roadside-Vintage
 

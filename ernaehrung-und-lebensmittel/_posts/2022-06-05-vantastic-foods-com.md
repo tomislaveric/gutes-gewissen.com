@@ -48,7 +48,7 @@ Das Ziel von VANTASTIC-FOODS.com ist es, die vegane, die vegetarische sowie die 
 
 Für jeden Geschmack ist in dem Online-Shop von VANTASTIC-FOODS.com etwas dabei, denn alle traditionellen Gerichte lassen sich „veganisieren“. Dabei macht eine pflanzenbasierte Alternative das Gericht meist sogar noch etwas gesünder, als es ursprünglich war. Die fleischfreien VANTASTIC-FOODS.com Produkte bieten auch eingefleischten Grill-Fans alles, was das Herz begehrt.
 
-Wer denkt, nicht auf den Leberkäse verzichten zu können, findet auf VANTASTIC-FOODS.com [Alternativen](https://www.vantastic-foods.com/blog){:target="_blank"} ohne Tierleid zu erzeugen, weil es ausschließlich vegane Produkte sind. Veganer Aufschnitt sorgt für einen guten Start in den Tag und macht sich auch gut für das Abendbrot. Für alle, die die mediterranen Gerichte lieben, gibt es viele Ersatzprodukte zu Fisch. Die Fleisch- und Fisch-Alternativen stecken voller toller Sachen, wie Gemüse oder pflanzlichem Protein aus Soja, Weizen oder Sonnenblumen.
+Wer denkt, nicht auf den Leberkäse verzichten zu können, findet hier [Alternativen](https://gutes-gewissen.com/ernaehrung-und-lebensmittel/){:target="_blank"} ohne Tierleid zu erzeugen, weil es ausschließlich vegane Produkte sind. Veganer Aufschnitt sorgt für einen guten Start in den Tag und macht sich auch gut für das Abendbrot. Für alle, die die mediterranen Gerichte lieben, gibt es viele Ersatzprodukte zu Fisch. Die Fleisch- und Fisch-Alternativen stecken voller toller Sachen, wie Gemüse oder pflanzlichem Protein aus Soja, Weizen oder Sonnenblumen.
 
 {% include screenshot.md %}
 

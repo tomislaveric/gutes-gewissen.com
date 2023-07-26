@@ -2,7 +2,10 @@
 author: Tomislav
 title: Sisters Republic
 slogan: Online-Shop für Periodenunterwäsche
-targetUrl: https://www.awin1.com/cread.php?awinmid=22801&awinaffid=731132
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+contentButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
 image: /assets/images/Sisters_Republic.png
 screenshot: /assets/images/screenshots/Sisters_Republic_screenshot.jpg
 rubric: Mode & Kleidung

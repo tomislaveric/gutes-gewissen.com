@@ -35,7 +35,7 @@ Bereits 2001 kam mit dem Siegel "ok power" die erste Auszeichnung für umwelt- u
 
 ### Das Engagement von LichtBlick
 
-LichtBlick produziert aber nicht nur grünen Strom, sondern engagiert sich auch in anderen gemeinnützigen Projekten. So rief das Unternehmen im Jahr 2005 in Zusammenarbeit mit dem Verein "GEO schützt den Regenwald" ein [Regenwald-Projekt in Ecuador](https://www.lichtblick.de/unternehmen/15-jahre-regenwald/){:target="_blank"} ins Leben und ging im Jahr 2011 mit dem WWF eine Partnerschaft ein, die das Ziel hat, die Energiewende schneller voranzubringen. 
+LichtBlick produziert aber nicht nur grünen Strom, sondern engagiert sich auch in anderen gemeinnützigen Projekten. So rief das Unternehmen im Jahr 2005 in Zusammenarbeit mit dem Verein "GEO schützt den Regenwald" ein [Regenwald-Projekt in Ecuador](https://www.lichtblick.de/klimaschutz/ecuador/){:target="_blank"} ins Leben und ging im Jahr 2011 mit dem WWF eine Partnerschaft ein, die das Ziel hat, die Energiewende schneller voranzubringen. 
 
 ### Die Idee von LichtBlick
 
