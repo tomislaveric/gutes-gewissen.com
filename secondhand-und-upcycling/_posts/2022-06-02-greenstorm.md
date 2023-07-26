@@ -2,7 +2,7 @@
 author: Tomislav
 title: Greenstorm 
 slogan: Geprüfte und gebrauchte E-Bikes kaufen
-targetUrl: https://t.adcell.com/p/click?promoId=306738&slotId=101181
+targetUrl: ../
 image: /assets/images/greenstorm_logo.png
 screenshot: /assets/images/screenshots/greenstorm_screenshot.jpg
 rubric: Secondhand & Upcycling
