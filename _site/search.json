@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "WOODSANDWAVES",
+      "url"         : "/haus-und-garten/woodsandwaves/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Tücher, Handtücher, Strandtücher, Recycelte PET-Flaschen",
+      "date"        : "2023-07-26 00:00:00 +0200",
+      "shippings"   : "Kostenloser Versand innerhalb Deutschlands und nach Österreich ab 29 Euro WarenwertVersandkosten von 4,50 Euro für Bestellungen unter 29 EuroVersand in die Schweiz und europäische Ausland für 7,90 Euro verfügbar",
+      "image"       : "/assets/images/woodsandwaves_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Doghammer",
       "url"         : "/mode-und-kleidung/doghammer/",
       "category"    : "",
