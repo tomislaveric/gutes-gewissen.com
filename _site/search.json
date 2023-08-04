@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "mera",
+      "url"         : "/tierfutter-und-tierbedarf/mera/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Made-in-Germany, Tierfutter, Tiernahrung, Katze, Hund",
+      "date"        : "2023-08-04 00:00:00 +0200",
+      "shippings"   : "Kostenfreie Lieferung für Bestellungen ab 19 EuroVersandkosten von 4,90 Euro bis 19 Euro WarenwertKostenlose Rücksendungen für Retouren",
+      "image"       : "/assets/images/mera_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "WOODSANDWAVES",
       "url"         : "/haus-und-garten/woodsandwaves/",
       "category"    : "",
