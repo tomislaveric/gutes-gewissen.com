@@ -1,6 +1,6 @@
 <div id="ctaBar" class="fixed-bottom border-top">
     <div class="container bg-white">
-        <span class="affili" data-affili="{{ page.targetUrl }}" rel="nofollow">
+        <span class="affili" data-affili="{{ page.targetUrl }}" rel="sponsored">
             <div class="col d-lg-none py-2">
                 <div class="text-center">
                     <div class="btn btn-success">
