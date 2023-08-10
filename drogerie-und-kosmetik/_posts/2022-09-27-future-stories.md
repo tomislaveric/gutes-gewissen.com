@@ -31,7 +31,7 @@ description: "In Kombination mit dem wiederbefüllbaren Pumpspender, soll der Pl
 ---
 
 <div class="alert alert-info">
-  Leider hat FUTURE STORIES Insolvenz angemeldet! Hier haben wir eine Liste von <a href="https://gutes-gewissen.com/drogerie-und-kosmetik/">Alternativen</a> zu FUTURE STORIES, die dich überzeugen werden.)
+  Leider hat FUTURE STORIES Insolvenz angemeldet! Hier haben wir eine Liste von <a href="https://gutes-gewissen.com/drogerie-und-kosmetik/">Alternativen</a> zu FUTURE STORIES, die dich überzeugen werden.
 </div>
 
 ### Die Idee von FUTURE STORIES
