@@ -2,7 +2,7 @@
 author: Tomislav
 title: FUTURE STORIES
 slogan: Vegane Naturkosmetik aus Pulver
-targetUrl: https://t.adcell.com/p/click?promoId=254182&slotId=101181
+targetUrl: ../
 image: /assets/images/future-stories_logo.png
 screenshot: /assets/images/screenshots/future-stories_screenshot.jpg
 rubric: Drogerie & Kosmetik
@@ -27,9 +27,13 @@ shortDescription: "Das Hamburger Start-up FUTURE STORIES hat ein Naturkosmetik P
 description: "In Kombination mit dem wiederbefüllbaren Pumpspender, soll der Plastikmüll im Badezimmer reduziert und unnötige CO2-Emissionen langfristig eingespart werden."
 ---
 
+<div class="alert alert-info">
+  Leider hat FUTURE STORIES Insolvenz angemeldet! Hier haben wir eine Liste von <a href="https://gutes-gewissen.com/drogerie-und-kosmetik/">Alternativen</a> zu FUTURE STORIES, die dich überzeugen werden.)
+</div>
+
 ### Die Idee von FUTURE STORIES
 
-Körperpflegeprodukte mit Geltextur verursachen aufgrund ihrer Verpackung sehr viel Plastikmüll. Und da die Produkte zu 90 Prozent aus Wasser bestehen, verursacht ihr Transport auch noch Unmengen an CO2-Emissionen. Darum haben sich die Gründer:innen von FUTURE STORIES gefragt, was tun, wenn man ungern auf feste Seife & Co zurückgreifen und trotzdem für [mehr Nachhaltigkeit und weniger Plastikmüll](https://future-stories.com/pages/impact){:target="_blank"} im Badezimmer sorgen möchte.
+Körperpflegeprodukte mit Geltextur verursachen aufgrund ihrer Verpackung sehr viel Plastikmüll. Und da die Produkte zu 90 Prozent aus Wasser bestehen, verursacht ihr Transport auch noch Unmengen an CO2-Emissionen. Darum haben sich die Gründer:innen von FUTURE STORIES gefragt, was tun, wenn man ungern auf feste Seife & Co zurückgreifen und trotzdem für mehr Nachhaltigkeit und weniger Plastikmüll im Badezimmer sorgen möchte.
 
 Mit ihrer Pulver-zu-Gel Formulierung haben sie eine Lösung geschaffen, mit der Seife, Duschgel und Shampoo mit dem Wasser aus der eigenen Leitung selbst angeschüttelt werden können. Raus kommen FUTURE STORIES Produkte mit der gewohnten Geltextur, mit der sich Nachhaltigkeit einfach in den Alltag integrieren lässt. Und das, ohne dafür die eigenen Gewohnheiten ändern zu müssen. 
 
