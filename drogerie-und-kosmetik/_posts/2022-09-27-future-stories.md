@@ -3,6 +3,9 @@ author: Tomislav
 title: FUTURE STORIES
 slogan: Vegane Naturkosmetik aus Pulver
 targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
+contentButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
 image: /assets/images/future-stories_logo.png
 screenshot: /assets/images/screenshots/future-stories_screenshot.jpg
 rubric: Drogerie & Kosmetik
