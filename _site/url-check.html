@@ -175,6 +175,20 @@
 </div>
   
 <p>&lt;?php
+$file = ‘https://t.adcell.com/p/click?promoId=347131&amp;slotId=101181’;
+$title = ‘ALMUT von Wildheim’;
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
+    echo $title . “ -&gt; “ . “NOT FOUND”;
+} else if (str_contains($content, ‘This link is inactive’)) {
+    echo $title . “ -&gt; “ . “INACTIVE”;
+} else {
+    echo $title . “ -&gt; “ . “OK”;
+}
+?&gt;</p>
+
+<p>&lt;?php
 $file = ‘https://track.webgains.com/click.html?wglinkid=3739545&amp;wgprogramid=288435&amp;wgcampaignid=1616700&amp;wgtarget=https://shop.mera-petfood.com/shop/’;
 $title = ‘mera’;
 $file_headers = @get_headers($file);

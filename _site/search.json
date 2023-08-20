@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "ALMUT von Wildheim",
+      "url"         : "/drogerie-und-kosmetik/almut/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Ökologisch, Natürliche Materialien, Handarbeit, Leuchten, Lampen",
+      "date"        : "2023-08-20 00:00:00 +0200",
+      "shippings"   : "Versandkostenfreie Lieferung innerhalb der EU für alle Bestellungen",
+      "image"       : "/assets/images/almut_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "mera",
       "url"         : "/tierfutter-und-tierbedarf/mera/",
       "category"    : "",
