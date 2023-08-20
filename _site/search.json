@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Lill’s Organic Dog Store",
+      "url"         : "/tierfutter-und-tierbedarf/lills-organic-dog-store/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Bio, Ökologisch, Tiernahrung, Hund, Tierfutter, Zubehör",
+      "date"        : "2023-08-20 00:00:00 +0200",
+      "shippings"   : "Versandkosten von 3,90 Euro für Bestellungen bis 70 EuroKostenfreie Lieferung ab 70 Euro WarenwertVersand ins Ausland möglich",
+      "image"       : "/assets/images/lills-organic-dog-store_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "ALMUT von Wildheim",
       "url"         : "/drogerie-und-kosmetik/almut/",
       "category"    : "",
