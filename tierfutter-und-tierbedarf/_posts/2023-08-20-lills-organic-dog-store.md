@@ -59,7 +59,7 @@ Das Unternehmen hat sich dazu entschieden, ein Aufforstungsprojekt auf Borneo zu
 
 ### Die Lill’s Organic Dog Store Zahlungsarten
 
-Der Online-Shop von Lill’s Organic Dog Store ermöglicht alle gängigen Zahlungsarten, wie das Bezahlen in Vorkasse per Überweisung, per Kreditkarte oder über PayPal. Die Zahlung per Rechnung ist für Behörden und Unternehmen möglich.
+Der Online-Shop von Lill’s Organic Dog Store ermöglicht alle gängigen Zahlungsarten, wie das Bezahlen in Vorkasse per Überweisung, per Kreditkarte oder über PayPal.
 
 ### Die Lill’s Organic Dog Store Versandkosten
 
