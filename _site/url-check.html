@@ -175,6 +175,20 @@
 </div>
   
 <p>&lt;?php
+$file = ‘https://t.adcell.com/p/click?promoId=345532&amp;slotId=101181’;
+$title = ‘two46’;
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
+    echo $title . “ -&gt; “ . “NOT FOUND”;
+} else if (str_contains($content, ‘This link is inactive’)) {
+    echo $title . “ -&gt; “ . “INACTIVE”;
+} else {
+    echo $title . “ -&gt; “ . “OK”;
+}
+?&gt;</p>
+
+<p>&lt;?php
 $file = ‘https://track.webgains.com/click.html?wglinkid=4715220&amp;wgprogramid=298110&amp;wgcampaignid=1616700&amp;wgtarget=https://lills.store/’;
 $title = ‘Lill’s Organic Dog Store’;
 $file_headers = @get_headers($file);
