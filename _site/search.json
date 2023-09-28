@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "GREENFORCE",
+      "url"         : "/ernaehrung-und-lebensmittel/greenforce/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Made-in-Germany, Vegan, Fleischalternative, Fleischersatz",
+      "date"        : "2023-09-28 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands 4,99 EuroKostenloser Versand ab 45 Euro WarenwertVersand nach Österreich für 4,99 EuroKostenfreie Lieferung nach Österreich ab 45 Euro BestellwertLieferkosten in die Schweiz 9,99 EuroKostenloser Versand in die Schweiz für Bestellungen ab 49 Euro",
+      "image"       : "/assets/images/greenforce.png"
+
+    } ,
+  
+    {
+
       "title"       : "two46",
       "url"         : "/spielzeug-und-hobby/two46/",
       "category"    : "",
@@ -1173,18 +1185,6 @@
       "date"        : "2021-12-21 00:00:00 +0100",
       "shippings"   : "Kostenloser Versand für Geschenkideen",
       "image"       : "/assets/images/forestfinance_logo.png"
-
-    } ,
-  
-    {
-
-      "title"       : "GREENFORCE",
-      "url"         : "/ernaehrung-und-lebensmittel/greenforce/",
-      "category"    : "",
-      "tags"        : "Vegan, Nachhaltig, Made-in-Germany, Fleischalternative, Fleischersatz",
-      "date"        : "2021-12-21 00:00:00 +0100",
-      "shippings"   : "Versandkosten innerhalb Deutschlands 2,99 EuroKostenloser Versand ab 24 Euro WarenwertVersand nach Österreich für 4,99 EuroKostenfreie Lieferung nach Österreich ab 39 Euro BestellwertLieferkosten in die Schweiz 9,99 EuroGratis Versand in die Schweiz für Bestellungen ab 69 Euro",
-      "image"       : "/assets/images/greenforce.png"
 
     } ,
   
