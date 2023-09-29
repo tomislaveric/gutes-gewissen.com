@@ -2,7 +2,10 @@
 author: Tomislav
 title: ForestFinance
 slogan: Nachhaltige Investments und Öko-Geschenke
-targetUrl: https://www.awin1.com/cread.php?awinmid=17372&awinaffid=731132
+targetUrl: ../
+ctaButtonText: "Ähnliche Anbieter in der Rubrik Geschenke und Erlebnisse"
+sidebarButtonText: "Ähnliche Anbieter in der Rubrik Geschenke und Erlebnisse"
+contentButtonText: "Ähnliche Anbieter in der Rubrik Geschenke und Erlebnisse"
 image: /assets/images/forestfinance_logo.png
 screenshot: /assets/images/screenshots/ForestFinance_screenshot.jpg
 rubric: Geschenke & Erlebnisse
@@ -27,8 +30,7 @@ description: "Seit dem Jahr 1995 verfolgt ForestFinance das Ziel, das nachhaltig
 
 ForestFinance möchte die Rendite und den positiven Impact nachhaltig verbinden. Das Ziel ist es, Wälder und Agroforstsysteme auf der ganzen Welt nachhaltig zu errichten. Bei ForestFinance besteht die Rendite aus den nachwachsenden Rohstoffen, die auf dem globalen Weltmarkt heißbegehrt sind. Der Zweck des langanhaltenden Umweltschutzes ist für sie nicht umsetzbar ohne die enge Zusammenarbeit mit der lokalen Bevölkerung und der ständigen Weiterbildung der Mitarbeiter. 
 
-ForestFinance engagiert sich auch in den Schulen, um die [Ideen der Nachhaltigkeit](https://www.forestfinance.de/ueber-uns/
-){:target="_blank"} den jungen Menschen näherzubringen. Denn die Wälder sind das einzig sichere Mittel für den Klimaschutz, sagt der Gründer und Geschäftsführer Harry Assenmacher, womit der Geist des ganzen Teams eingefangen wird. Sozial und fair zu investieren, ist der Grundpfeiler von ForestFinance.
+ForestFinance engagiert sich auch in den Schulen, um die Ideen der Nachhaltigkeit den jungen Menschen näherzubringen. Denn die Wälder sind das einzig sichere Mittel für den Klimaschutz, sagt der Gründer und Geschäftsführer Harry Assenmacher, womit der Geist des ganzen Teams eingefangen wird. Sozial und fair zu investieren, ist der Grundpfeiler von ForestFinance.
 
 ForestFinance setzt neben der Nachhaltigkeit auch auf die Gleichberechtigung, sowohl in der Belegschaft, als auch bei der lokalen Bevölkerung. ForestFinance bietet die Möglichkeit, nachhaltig in die Aufforstung von Wald, Kakaowald und biologische Landwirtschaft zu investieren, was nachweislich positive Auswirkungen auf die Umwelt, das Klima und die Gesellschaft hat und das in einem globalen Kontext. Abgesehen davon sind die Baumpatenschaften, wie der ChocolateTree, innovative Arten Naturschutz zu verschenken.
 
