@@ -2,7 +2,10 @@
 author: Tomislav
 title: ULTRA-GREEN.DE
 slogan: Online-Shop für plastikfreie Produkte
-targetUrl: https://www.awin1.com/cread.php?awinmid=20084&awinaffid=731132
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
+contentButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
 image: /assets/images/ultra-green_logo.png
 screenshot: /assets/images/screenshots/ultra-green_screenshot.jpg
 rubric: Haus & Garten
@@ -32,7 +35,7 @@ description: "Das breit gefächerte und umweltfreundliche Sortiment deckt alle w
 
 ### Die Prinzipien von ULTRA-GREEN.DE
 
-Wie bereits erwähnt, ist es der Geschäftsführerin von ULTRA-GREEN.DE enorm wichtig, nicht einfach bloß [plastikfreie Produkte](https://www.ultra-green.de/plastikfrei-shop){:target="_blank"} zu verkaufen, sondern das Thema Nachhaltigkeit allumfassend zu betrachten. Sowohl beim Einkauf der Produkte bei den jeweiligen Herstellern als auch bei den Themen Verpackung und Versand steht ein bewusster Ressourcenumgang und die Vermeidung unnötiger Verschwendung im Fokus des Handelns von ULTRA-GREEN.DE. So soll es allen Kunden ermöglicht werden, ihren individuellen ökologischen Fußabdruck erheblich zu verbessern.
+Wie bereits erwähnt, ist es der Geschäftsführerin von ULTRA-GREEN.DE enorm wichtig, nicht einfach bloß plastikfreie Produkte zu verkaufen, sondern das Thema Nachhaltigkeit allumfassend zu betrachten. Sowohl beim Einkauf der Produkte bei den jeweiligen Herstellern als auch bei den Themen Verpackung und Versand steht ein bewusster Ressourcenumgang und die Vermeidung unnötiger Verschwendung im Fokus des Handelns von ULTRA-GREEN.DE. So soll es allen Kunden ermöglicht werden, ihren individuellen ökologischen Fußabdruck erheblich zu verbessern.
 
 Ganz konkret setzt ULTRA-GREEN.DE unter anderem auf den Verzicht von Werbeprospekten, die Nutzung von recyceltem Papier für die Verpackungsmaterialien und die Kooperation mit Fairtrade-Vorlieferanten. Zudem wird der Onlineshop über klimaneutrale Rechenzentren betrieben. Für die Büro- und Lagerräume von ULTRA-GREEN.DE wird Solarstrom eingespeist.
 

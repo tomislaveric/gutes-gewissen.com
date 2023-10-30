@@ -2,7 +2,10 @@
 author: Tomislav
 title: Kombuchery
 slogan: Shop für Bio-Kumbucha als gesunde Alternative
-targetUrl: https://www.awin1.com/cread.php?awinmid=19736&awinaffid=731132
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+contentButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
 image: /assets/images/kombuchery_logo.png
 screenshot: /assets/images/screenshots/kombuchery_screenshot.jpg
 rubric: Ernährung & Lebensmittel
@@ -61,7 +64,7 @@ Wer sich nicht auf eine Geschmacksrichtung festlegen will oder unentschlossen is
 
 ### Das Einkaufen bei Kombuchery
 
-Neben dem Verkauf im eigenen Online-Shop bietet Kombuchery seine Produkte auch im ausgewählten stationären Einzelhandel an. Hierzu findet sich auf der Website eine spezielle [Händlerkarte](https://kombuchery.de/pages/haendlerkarte){:target="_blank"}, auf der die potenziellen Kundinnen und Kunden Läden in ihrer Nähe finden können, die Kombuchery im Sortiment haben. Aktuell befinden sich diese Geschäfte insbesondere im Bereich der Großstädte Köln, Hamburg, Berlin und Stuttgart. Laut eigener Aussage arbeitet Kombuchery allerdings fleißig daran, seine Händlerbasis stetig ausbauen.
+Neben dem Verkauf im eigenen Online-Shop bietet Kombuchery seine Produkte auch im ausgewählten stationären Einzelhandel an. Hierzu findet sich auf der Website eine spezielle Händlerkarte, auf der die potenziellen Kundinnen und Kunden Läden in ihrer Nähe finden können, die Kombuchery im Sortiment haben. Aktuell befinden sich diese Geschäfte insbesondere im Bereich der Großstädte Köln, Hamburg, Berlin und Stuttgart. Laut eigener Aussage arbeitet Kombuchery allerdings fleißig daran, seine Händlerbasis stetig ausbauen.
 
 ### Die Kombuchery Zahlungsarten
 
