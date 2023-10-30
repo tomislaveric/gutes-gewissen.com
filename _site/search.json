@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "BETTER BE BOLD",
+      "url"         : "/drogerie-und-kosmetik/better-be-bold/",
+      "category"    : "",
+      "tags"        : "Pflege, UV-Schutz, Made-in-Germany, Vegan, Tierversuchsfrei, Natürlich",
+      "date"        : "2023-10-30 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 4,90 bis 49 Euro EinkaufswertVersandkostenfreie Lieferung innerhalb Deutschlands für Bestellungen ab 49 EuroVersand ins EU-Ausland ab 9,99 Euro und NON-EU-Ausland ab 14,99 Euro möglich",
+      "image"       : "/assets/images/better-be-bold_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "genuine haircare",
       "url"         : "/drogerie-und-kosmetik/genuine-haircare/",
       "category"    : "",
