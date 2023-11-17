@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "hoffmann Armaturen",
+      "url"         : "/haus-und-garten/hoffmann-armaturen-shop/",
+      "category"    : "",
+      "tags"        : "Made-in-Germany, Sanitärprodukte, Badezimmerausstattung, Badezimmer, Sanitär",
+      "date"        : "2023-11-17 00:00:00 +0100",
+      "shippings"   : "Versandkostenfreie Lieferung innerhalb DeutschlandsLieferzeit von 2-5 Tagen innerhalb Deutschlands",
+      "image"       : "/assets/images/hoffmann_armaturen_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "BETTER BE BOLD",
       "url"         : "/drogerie-und-kosmetik/better-be-bold/",
       "category"    : "",
