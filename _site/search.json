@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Green Solar",
+      "url"         : "/oekostrom-und-oekogas/green-solar/",
+      "category"    : "",
+      "tags"        : "Ökostrom, Balkonkraftwerke, PV-Anlagen, Solaranlagen, Photovoltaik, Grüner Strom",
+      "date"        : "2023-11-17 00:00:00 +0100",
+      "shippings"   : "Postversand für 5,90 EuroPaketversand für 25 EuroSpeditionsversand für 39 EuroVersandkostenfreie Lieferung ab 1.000 Euro Bestellwert",
+      "image"       : "/assets/images/green-solar_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "hoffmann Armaturen",
       "url"         : "/haus-und-garten/hoffmann-armaturen-shop/",
       "category"    : "",
