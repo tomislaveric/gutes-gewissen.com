@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Panelretter",
+      "url"         : "/oekostrom-und-oekogas/panelretter/",
+      "category"    : "",
+      "tags"        : "Ökostrom, Balkonkraftwerke, PV-Anlagen, Solaranlagen, Photovoltaik, Erneuert, Wiederaufbereitet, Refurbished, Renewed",
+      "date"        : "2024-02-07 00:00:00 +0100",
+      "shippings"   : "Versandkosten für Paketlieferungen innerhalb Deutschlands von 4,95 EuroVersandkosten für Speditionslieferungen ab 29,95 EuroLieferung nach Österreich ab 9,95 möglich",
+      "image"       : "/assets/images/panelretter_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Grüne-Gutscheine.de",
       "url"         : "/geschenke-und-erlebnisse/gruene-gutscheine-de/",
       "category"    : "",
