@@ -14,6 +14,18 @@
   
     {
 
+      "title"       : "Woodlike",
+      "url"         : "/mode-und-kleidung/woodlike/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Vegan, Recycelte Materialien, Swimwear, Bikinis, Sportswear, Bademode",
+      "date"        : "2024-02-07 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 4,99 Euro pro BestellungVersand ins Ausland ab 8,99 Euro möglichLieferung per Expressversand verfügbar",
+      "image"       : "/assets/images/woodlike_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "seit1832",
       "url"         : "/haus-und-garten/seit1832/",
       "category"    : "",

@@ -189,6 +189,20 @@ if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
 ?&gt;</p>
 
 <p>&lt;?php
+$file = ‘https://t.adcell.com/click.php?bid=188650-101181’;
+$title = ‘Woodlike’;
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
+    echo $title . “ -&gt; “ . “NOT FOUND”;
+} else if (str_contains($content, ‘This link is inactive’)) {
+    echo $title . “ -&gt; “ . “INACTIVE”;
+} else {
+    echo $title . “ -&gt; “ . “OK”;
+}
+?&gt;</p>
+
+<p>&lt;?php
 $file = ‘https://t.adcell.com/click.php?bid=196012-101181’;
 $title = ‘seit1832’;
 $file_headers = @get_headers($file);
