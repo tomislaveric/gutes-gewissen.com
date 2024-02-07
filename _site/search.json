@@ -14,6 +14,18 @@
   
     {
 
+      "title"       : "Kuipers Fitness",
+      "url"         : "/spielzeug-und-hobby/kuipers/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Holz, Fitness, Fitnessgeräte, Laufbänder, Hanteln, Rudergeräte",
+      "date"        : "2024-02-05 00:00:00 +0100",
+      "shippings"   : "Versandkostenfreie Lieferung innerhalb DeutschlandsVersand in die Schweiz und nach Österreich möglich",
+      "image"       : "/assets/images/kuipers_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Duschkind",
       "url"         : "/drogerie-und-kosmetik/duschkind/",
       "category"    : "",
