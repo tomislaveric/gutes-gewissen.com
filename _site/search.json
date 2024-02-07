@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Grüne-Gutscheine.de",
+      "url"         : "/geschenke-und-erlebnisse/gruene-gutscheine-de/",
+      "category"    : "",
+      "tags"        : "Gutscheine, Gutscheincodes, Rabatte, Nachhaltige Produkte, Nachhaltiger Konsum, Nachhaltig Einkaufen",
+      "date"        : "2024-02-06 00:00:00 +0100",
+      "shippings"   : "",
+      "image"       : "/assets/images/gruene-gutscheine-de_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Duschkind",
       "url"         : "/drogerie-und-kosmetik/duschkind/",
       "category"    : "",
