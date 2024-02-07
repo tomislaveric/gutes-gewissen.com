@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Duschkind",
+      "url"         : "/drogerie-und-kosmetik/duschkind/",
+      "category"    : "",
+      "tags"        : "Naturkosmetik, Vegan, Ökologisch, Natürliche Inhaltsstoffe, Plastikfrei, Tierversuchsfrei",
+      "date"        : "2024-02-05 00:00:00 +0100",
+      "shippings"   : "Versandkosten von 3,90 Euro bis 24,89 Euro BestellwertVersandkostenfreie Lieferung ab 24,90 Euro WarenwertLieferung nach Österreich und in die Schweiz möglich",
+      "image"       : "/assets/images/duschkind_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Green Solar",
       "url"         : "/oekostrom-und-oekogas/green-solar/",
       "category"    : "",
