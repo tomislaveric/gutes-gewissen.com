@@ -38,7 +38,7 @@ layout: base
                 <h1 class="h2">{{ page.title }}</h1>
                 {% endif %}
                 <p>{{ page.shortDescription }} {{ page.description }}</p>
-                <span id="productCta" class="affili" data-affili="{{ page.targetUrl }}" rel="sponsored">
+                <span id="productCta" class="affili" data-affili="{{ page.targetUrl }}" rel="{% if page.relType %}{{page.relType}}{% else %}sponsored{% endif %}">
                 {% if page.highlight %}
                 <div class="alert alert-success text-center" role="alert">
                     {{ page.highlight }}
@@ -60,7 +60,7 @@ layout: base
             </div>
         </div>
         <div class="col-lg-3 col-sm-12">
-            <span class="affili" data-affili="{{ page.targetUrl }}" rel="sponsored">
+            <span class="affili" data-affili="{{ page.targetUrl }}" rel="{% if page.relType %}{{page.relType}}{% else %}sponsored{% endif %}">
                 <div class="text-center mb-3">
                     <div>
                         <img class="img-fluid mt-4" src="{{ page.image }}" alt="{{ page.title }} Logo" />

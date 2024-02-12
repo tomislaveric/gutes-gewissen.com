@@ -8,7 +8,7 @@
         <img class="card-img-top p-2" src="{{page.image}}" alt="Card image cap">
         <div class="card-body text-center">
           <p class="card-text">{{page.slogan}}</p>
-          <span class="affili" data-affili="{{ page.targetUrl }}" rel="sponsored">
+          <span class="affili" data-affili="{{ page.targetUrl }}" rel="{% if page.relType %}{{page.relType}}{% else %}sponsored{% endif %}">
             <div class="btn btn-success">
               Besuche {{page.title}}
             </div>

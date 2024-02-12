@@ -2,7 +2,8 @@
 author: Tomislav
 title: Grüne-Gutscheine.de
 slogan: Rabattportal für nachhaltigen Konsum
-targetUrl: https://www.gruene-gutscheine.de/ ALS NOFOLLOW-LINK
+targetUrl: https://www.gruene-gutscheine.de/
+relType: dofollow
 image: /assets/images/gruene-gutscheine-de_logo.png
 screenshot: /assets/images/screenshots/gruene-gutscheine-de_screenshot.jpg
 rubric: Geschenke & Erlebnisse
