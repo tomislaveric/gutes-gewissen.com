@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Grüne-Gutscheine.de",
+      "url"         : "/geschenke-und-erlebnisse/gruene-gutscheine-de/",
+      "category"    : "",
+      "tags"        : "Gutscheine, Gutscheincodes, Rabatte, Nachhaltige Produkte, Nachhaltiger Konsum, Nachhaltig Einkaufen",
+      "date"        : "2024-02-08 00:00:00 +0100",
+      "shippings"   : "",
+      "image"       : "/assets/images/gruene-gutscheine-de_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Panelretter",
       "url"         : "/oekostrom-und-oekogas/panelretter/",
       "category"    : "",
@@ -33,18 +45,6 @@
       "date"        : "2024-02-07 00:00:00 +0100",
       "shippings"   : "Versandkosten von 5,00 Euro bis 49,99 Euro BestellwertKostenfreier Versand ab 50,00 Euro WarenwertGratis Versand von StoffprobenLieferdauer ca. 7-10 WerktageKostenlose Rücksendungen bei Retoure",
       "image"       : "/assets/images/seit1832_logo.png"
-
-    } ,
-  
-    {
-
-      "title"       : "Grüne-Gutscheine.de",
-      "url"         : "/geschenke-und-erlebnisse/gruene-gutscheine-de/",
-      "category"    : "",
-      "tags"        : "Gutscheine, Gutscheincodes, Rabatte, Nachhaltige Produkte, Nachhaltiger Konsum, Nachhaltig Einkaufen",
-      "date"        : "2024-02-06 00:00:00 +0100",
-      "shippings"   : "",
-      "image"       : "/assets/images/gruene-gutscheine-de_logo.png"
 
     } ,
   
