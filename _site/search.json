@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "biogewinner.de",
+      "url"         : "/ernaehrung-und-lebensmittel/biogewinner-de/",
+      "category"    : "",
+      "tags"        : "Bio, Lebensmittel, Bio-Getreide, Bio-Mehl, Bio-Reis, Bio-Nüsse, Bio-Trockenfrüchte, Großpackung, Großgebinde",
+      "date"        : "2024-02-09 00:00:00 +0100",
+      "shippings"   : "Versandkostenfreie Lieferung innerhalb DeutschlandsVersand in viele europäische Länder verfügbar",
+      "image"       : "/assets/images/biogewinner-de_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Grüne-Gutscheine.de",
       "url"         : "/geschenke-und-erlebnisse/gruene-gutscheine-de/",
       "category"    : "",
