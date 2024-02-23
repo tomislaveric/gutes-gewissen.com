@@ -2,6 +2,90 @@
   
     {
 
+      "title"       : "WEtell Mobilfunk",
+      "url"         : "/computer-und-technik/wetell/",
+      "category"    : "",
+      "tags"        : "Nachhaltiges Telefonieren, Nachhaltiges Surfen, Mobilfunk, Mobilfunkanbieter, Klimapositiv",
+      "date"        : "2024-02-23 00:00:00 +0100",
+      "shippings"   : "",
+      "image"       : "/assets/images/wetell_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Villa Bambini",
+      "url"         : "/spielzeug-und-hobby/villa-bambini/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Öko, Ökologisch, Pädagogisch wertvoll, Fair, Spielzeug, Spiele",
+      "date"        : "2024-02-22 00:00:00 +0100",
+      "shippings"   : "Versandkosten von 6,90 Euro innerhalb DeutschlandsKostenloser Versand für Bestellungen ab 75 EuroLieferung nach Österreich für 10,90 EuroVersand nach Luxemburg, Frankreich, Italien, Dänemark und Belgien für 13,80 Euro",
+      "image"       : "/assets/images/villa-bambini_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Velivery",
+      "url"         : "/ernaehrung-und-lebensmittel/velivery/",
+      "category"    : "",
+      "tags"        : "Vegane Lebensmittel, Vegane Getränke, Fleisch-Alternativen, Fisch-Alternativen, Milch-Alternativen",
+      "date"        : "2024-02-21 00:00:00 +0100",
+      "shippings"   : "Versandkosten von 4,99 Euro innerhalb Deutschlands für Bestellungen bis 49 EuroVersandkostenfreie Lieferung innerhalb Deutschlands ab 49 Euro WarenwertLieferung ins EU-Ausland und in die Schweiz möglich",
+      "image"       : "/assets/images/velivery_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "My Esel",
+      "url"         : "/spielzeug-und-hobby/my-esel/",
+      "category"    : "",
+      "tags"        : "E-Bikes, Fahrräder, Holz, Ökologisch, Nachhaltig, Handgefertigt, Made-in-Austria",
+      "date"        : "2024-02-20 00:00:00 +0100",
+      "shippings"   : "Versandkostenfreie Lieferung innerhalb Deutschlands und nach ÖsterreichVersand innerhalb der EU, in die Schweiz und weltweit möglichSelbstabholung in Partnershops und bei My Esel möglich",
+      "image"       : "/assets/images/my-esel_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Maxxisun",
+      "url"         : "/oekostrom-und-oekogas/maxxisun/",
+      "category"    : "",
+      "tags"        : "Ökostrom, Balkonkraftwerke, PV-Anlagen, Solaranlagen, Photovoltaik, Batteriespeicher, Grüner Strom",
+      "date"        : "2024-02-19 00:00:00 +0100",
+      "shippings"   : "Versandkostenfreie Lieferung innerhalb Deutschlands für alle ProdukteVersand ins Ausland nach Österreich, Niederlande, Belgien und Luxemburg verfügbar",
+      "image"       : "/assets/images/maxxisun_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Maren Jewellery",
+      "url"         : "/geschenke-und-erlebnisse/maren-jewellery/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Schmuck, Made-in-Germany, Recycelte Materialien, Handgefertigt, Hochwertig",
+      "date"        : "2024-02-18 00:00:00 +0100",
+      "shippings"   : "Versandkostenfreie LieferungVersand ins Ausland möglich",
+      "image"       : "/assets/images/maren-jewellery_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "GreenKitchen",
+      "url"         : "/haus-und-garten/greenkitchen/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Langlebig, Energiesparend, Kochgeschirr, Küchengeschirr, Töpfe, Pfannen",
+      "date"        : "2024-02-17 00:00:00 +0100",
+      "shippings"   : "Kostenloser Versand innerhalb DeutschlandsVersandkostenfreie Lieferung nach Österreich",
+      "image"       : "/assets/images/greenkitchen_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "biogewinner.de",
       "url"         : "/ernaehrung-und-lebensmittel/biogewinner-de/",
       "category"    : "",
