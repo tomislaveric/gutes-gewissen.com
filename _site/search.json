@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "LyaCoffee",
+      "url"         : "/ernaehrung-und-lebensmittel/lyacoffee/",
+      "category"    : "",
+      "tags"        : "Ökologisch, Kaffee, Fair-Trade, Direkthandel, Fair, Fair gehandelt",
+      "date"        : "2024-02-29 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 4,90 für Bestellungen bis 100 EuroVersandkostenfreie Lieferung innerhalb Deutschlands ab 100 Euro Bestellwert",
+      "image"       : "/assets/images/lyacoffee_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "terrorists of beauty",
       "url"         : "/drogerie-und-kosmetik/terrorists-of-beauty/",
       "category"    : "",
