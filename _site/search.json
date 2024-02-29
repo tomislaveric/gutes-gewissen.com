@@ -2,6 +2,78 @@
   
     {
 
+      "title"       : "terrorists of beauty",
+      "url"         : "/drogerie-und-kosmetik/terrorists-of-beauty/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Made-in-Germany, Naturkosmetik, Tierversuchsfrei, Plastikfrei, Handgefertigt, Vegan",
+      "date"        : "2024-02-28 00:00:00 +0100",
+      "shippings"   : "Versandkosten von 3 Euro für Bestellungen unter 10 EuroVersandkostenfreie Lieferung für Bestellungen ab 10 EuroVersand ins europäische Ausland möglich",
+      "image"       : "/assets/images/terrorists-of-beauty_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Le Shop Vegan",
+      "url"         : "/mode-und-kleidung/le-shop-vegan/",
+      "category"    : "",
+      "tags"        : "Nachhaltige Mode, Fair-Fashion, Vegan, Fair, Nachhaltige Kleidung",
+      "date"        : "2024-02-27 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 4,45 Euro bis 150 Euro BestellwertVersandkostenfreie Lieferung für Bestellungen ab 150 EuroVersand ins EU-Ausland möglich",
+      "image"       : "/assets/images/le-shop-vegan_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Woolona",
+      "url"         : "/mode-und-kleidung/woolona/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Kleidung, Funktionskleidung, Activewear, Merino, Merinowolle, Mulesingfrei",
+      "date"        : "2024-02-26 00:00:00 +0100",
+      "shippings"   : "Kostenloser Hin- & Rückversand innerhalb DeutschlandsDHL Warenpost innerhalb der EU 8,90 EuroDHL Paket innerhalb der EU 13,95 Euro",
+      "image"       : "/assets/images/woolona_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "SONNENTOR",
+      "url"         : "/ernaehrung-und-lebensmittel/sonnentor/",
+      "category"    : "",
+      "tags"        : "Bio, Ökologisch, Fair-Trade, Regionale Produktion, Bio-Tee, Bio-Gewürze, Bio-Kräuter",
+      "date"        : "2024-02-26 00:00:00 +0100",
+      "shippings"   : "Versandkosten nach Deutschland von 8,90 Euro bis 39 Euro BestellwertVersandkosten innerhalb Österreichs von 6,50 Euro bis 39 Euro WarenwertVersandkostenfreie Lieferung für Bestellungen ab 39 EuroVersand in Ausland möglich",
+      "image"       : "/assets/images/sonnentor_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Heldengrün",
+      "url"         : "/drogerie-und-kosmetik/heldengruen/",
+      "category"    : "",
+      "tags"        : "Bio, Ökologisch, Naturrein, Ätherische Öle, Vegan, Tierversuchsfrei",
+      "date"        : "2024-02-25 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 3,90 Euro für Bestellungen bis 50 EuroVersandkostenfreie Lieferung innerhalb Deutschlands ab 50 Euro BestellwertVersand ins Ausland für 4,90 Euro möglich",
+      "image"       : "/assets/images/heldengruen_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "BAUHELD",
+      "url"         : "/haus-und-garten/bauheld/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Made-in-Germany, Heimwerkerbedarf, Baubedarf, Handwerkerbedarf, Recycelte Rohstoffe",
+      "date"        : "2024-02-24 00:00:00 +0100",
+      "shippings"   : "Versandkostenfreie Lieferung innerhalb Deutschlands ohne MindestbestellwertVersandkosten nach Österreich von 3,50 EuroVersandkosten in die Niederlande und nach Luxemburg von 5,50 Euro",
+      "image"       : "/assets/images/bauheld_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "WEtell Mobilfunk",
       "url"         : "/computer-und-technik/wetell/",
       "category"    : "",

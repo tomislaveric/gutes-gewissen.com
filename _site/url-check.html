@@ -175,6 +175,90 @@
 </div>
   
 <p>&lt;?php
+$file = ‘https://track.webgains.com/click.html?wglinkid=&amp;wgprogramid=290095&amp;wgcampaignid=1616700&amp;wgtarget=terroristsofbeauty.com’;
+$title = ‘terrorists of beauty’;
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
+    echo $title . “ -&gt; “ . “NOT FOUND”;
+} else if (str_contains($content, ‘This link is inactive’)) {
+    echo $title . “ -&gt; “ . “INACTIVE”;
+} else {
+    echo $title . “ -&gt; “ . “OK”;
+}
+?&gt;</p>
+
+<p>&lt;?php
+$file = ‘https://track.webgains.com/click.html?wglinkid=&amp;wgprogramid=293410&amp;wgcampaignid=1616700&amp;wgtarget=https://www.le-shop-vegan.de’;
+$title = ‘Le Shop Vegan’;
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
+    echo $title . “ -&gt; “ . “NOT FOUND”;
+} else if (str_contains($content, ‘This link is inactive’)) {
+    echo $title . “ -&gt; “ . “INACTIVE”;
+} else {
+    echo $title . “ -&gt; “ . “OK”;
+}
+?&gt;</p>
+
+<p>&lt;?php
+$file = ‘https://zarkjb.woolona.de/ts/94504/tsc?typ=r&amp;amc=con.blbn.490871.505057.CRTTyx7sKDt’;
+$title = ‘Woolona’;
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
+    echo $title . “ -&gt; “ . “NOT FOUND”;
+} else if (str_contains($content, ‘This link is inactive’)) {
+    echo $title . “ -&gt; “ . “INACTIVE”;
+} else {
+    echo $title . “ -&gt; “ . “OK”;
+}
+?&gt;</p>
+
+<p>&lt;?php
+$file = ‘https://t.adcell.com/click.php?bid=355387-101181’;
+$title = ‘SONNENTOR’;
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
+    echo $title . “ -&gt; “ . “NOT FOUND”;
+} else if (str_contains($content, ‘This link is inactive’)) {
+    echo $title . “ -&gt; “ . “INACTIVE”;
+} else {
+    echo $title . “ -&gt; “ . “OK”;
+}
+?&gt;</p>
+
+<p>&lt;?php
+$file = ‘https://www.awin1.com/cread.php?awinmid=69196&amp;awinaffid=731132’;
+$title = ‘Heldengrün’;
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
+    echo $title . “ -&gt; “ . “NOT FOUND”;
+} else if (str_contains($content, ‘This link is inactive’)) {
+    echo $title . “ -&gt; “ . “INACTIVE”;
+} else {
+    echo $title . “ -&gt; “ . “OK”;
+}
+?&gt;</p>
+
+<p>&lt;?php
+$file = ‘https://t.adcell.com/click.php?bid=347907-101181’;
+$title = ‘BAUHELD’;
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
+    echo $title . “ -&gt; “ . “NOT FOUND”;
+} else if (str_contains($content, ‘This link is inactive’)) {
+    echo $title . “ -&gt; “ . “INACTIVE”;
+} else {
+    echo $title . “ -&gt; “ . “OK”;
+}
+?&gt;</p>
+
+<p>&lt;?php
 $file = ‘https://t.adcell.com/click.php?bid=312082-101181’;
 $title = ‘WEtell Mobilfunk’;
 $file_headers = @get_headers($file);
