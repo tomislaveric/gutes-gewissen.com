@@ -20,7 +20,7 @@ shippings: [
 contact: [
     "Telefon: +49 2154 8163110",
     "E-Mail: greenkitchen@val4gen.com",
-    "Adresse: GreenKitchen, Value for Generations GmbH, Hörenweg 26, 47877 Willich"
+    "Adresse: GreenKitchen, Value for Generations GmbH, Siemensring 93, 47877 Willich"
 ]
 shortDescription: "GreenKitchen stellt eine innovative Marke für nachhaltiges und energiesparendes Kochgeschirr dar, entwickelt in Deutschland."
 description: "Ihre Produkte, darunter Töpfe und Pfannen, sind für alle Herdarten geeignet und zeichnen sich durch ein funktionales Design sowie eine dreilagige Hightech-Materialkombination aus, die ein gleichmäßiges Erwärmen ermöglicht. GreenKitchen betont die Wichtigkeit von Nachhaltigkeit und Effizienz in der Küche, mit dem Ziel, langlebige Begleiter für das tägliche Kochen zu bieten."
