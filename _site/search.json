@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Burner Helmet",
+      "url"         : "/spielzeug-und-hobby/burner-helmet/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Fahrradhelm, Helm, Recyceltes Plastik, Recycelte Materialien",
+      "date"        : "2024-03-08 00:00:00 +0100",
+      "shippings"   : "Versandkostenfreie Lieferung innerhalb Deutschlands und nach Österreich",
+      "image"       : "/assets/images/burner-helmet_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Amiva Mobilfunk",
       "url"         : "/computer-und-technik/amiva/",
       "category"    : "",
