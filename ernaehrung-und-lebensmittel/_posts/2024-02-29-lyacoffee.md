@@ -14,7 +14,8 @@ payments: [
     giropay,
     Apple Pay,
     Google Pay,
-    Bitcoin
+    Bitcoin,
+    Bitcoin Lighning Netzwerk
 ]
 shippings: [
     "Versandkosten innerhalb Deutschlands von 4,90 für Bestellungen bis 100 Euro",
@@ -68,7 +69,7 @@ Im Online-Shop von Finca Bosque Lya auf LyaCoffee.de stehen Kunden verschiedene 
 + Zahlung per Apple Pay & Google Pay (über Stripe)
 + Zahlung per Vorkasse
 + Zahlung per Bitcoin
-+ Zahlung per Bitcoin Lightning Netzwerk
++ Zahlung per Bitcoin Lightning
 
 Da Bitcoin seit Ende 2021 offizielles Zahlungsmittel in El Salvador ist, sind wir hier in Deutschland sehr stolz darüber die Adaption dieser neuen Technologie weiter voranzutreiben.
 
