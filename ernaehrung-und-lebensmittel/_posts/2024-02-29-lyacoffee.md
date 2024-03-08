@@ -68,9 +68,9 @@ Im Online-Shop von Finca Bosque Lya auf LyaCoffee.de stehen Kunden verschiedene 
 + Zahlung per Apple Pay & Google Pay (über Stripe)
 + Zahlung per Vorkasse
 + Zahlung per Bitcoin
-+ Zahlung per Bitcoin Lightning
++ Zahlung per Bitcoin Lightning Netzwerk
 
-Da Bitcoin seit Ende 2021 offizielles Zahlungsmittel in El Salvador ist, sind wir hier in Deutschland sehr stolz darüber die Adoption dieser neuen Technologie weiter voranzutreiben.
+Da Bitcoin seit Ende 2021 offizielles Zahlungsmittel in El Salvador ist, sind wir hier in Deutschland sehr stolz darüber die Adaption dieser neuen Technologie weiter voranzutreiben.
 
 ### Die LyaCoffee Versandkosten
 
