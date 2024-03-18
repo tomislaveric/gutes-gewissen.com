@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Keimling Naturkost",
+      "url"         : "/ernaehrung-und-lebensmittel/keimling-naturkost/",
+      "category"    : "",
+      "tags"        : "Bio, Ökologisch, Vegan, Vegankost, Rohkost, Vegane Lebensmittel, Bio-Lebensmittel",
+      "date"        : "2024-03-18 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 5,50 Euro für Bestellungen bis 80 EuroVersandkostenfreie Lieferung innerhalb Deutschlands ab 80 Euro Bestellwert",
+      "image"       : "/assets/images/keimling-naturkost_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Burner Helmet",
       "url"         : "/spielzeug-und-hobby/burner-helmet/",
       "category"    : "",
