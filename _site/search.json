@@ -2,6 +2,42 @@
   
     {
 
+      "title"       : "oecolife",
+      "url"         : "/drogerie-und-kosmetik/oecolife/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Plastikfrei, Umweltfreundlich, Hygienepapier, Hygieneprodukte, Pflegeprodukte, Haushaltsreiniger",
+      "date"        : "2024-04-02 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 4,95 Euro bis 29 Euro BestellwertVersandkostenfreie Lieferung innerhalb Deutschlands für Bestellungen ab 29 EuroKostenloser Versand ins Ausland ab 49 Euro Warenwert möglich",
+      "image"       : "/assets/images/oecolife_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Kaufnekuh",
+      "url"         : "/ernaehrung-und-lebensmittel/kaufnekuh/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Direktvertrieb, Fair, Fleisch, Ökologisch, Tierwohl, Ethischer Fleischkonsum",
+      "date"        : "2024-04-01 00:00:00 +0200",
+      "shippings"   : "Versandkosten von 6,95 Euro für Bestellungen bis 99,95 EuroVersandkostenfreie Lieferung ab 99,95 Euro Bestellwert",
+      "image"       : "/assets/images/kaufnekuh_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "JUST TASTE",
+      "url"         : "/ernaehrung-und-lebensmittel/just-taste/",
+      "category"    : "",
+      "tags"        : "Bio, Vegan, Glutenfrei, Gemüsenudeln, Gemüsepasta, Nudeln, Pasta",
+      "date"        : "2024-03-31 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 5,95 Euro",
+      "image"       : "/assets/images/just-taste_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Keimling Naturkost",
       "url"         : "/ernaehrung-und-lebensmittel/keimling-naturkost/",
       "category"    : "",
