@@ -175,6 +175,20 @@
 </div>
   
 <p>&lt;?php
+$file = ‘https://pluto.r.oxfam.de/ts/i5043550/tsc?typ=r&amp;amc=con.blbn.490871.505057.CRTR-WgLvF4’;
+$title = ‘Oxfam Unverpackt’;
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
+    echo $title . “ -&gt; “ . “NOT FOUND”;
+} else if (str_contains($content, ‘This link is inactive’)) {
+    echo $title . “ -&gt; “ . “INACTIVE”;
+} else {
+    echo $title . “ -&gt; “ . “OK”;
+}
+?&gt;</p>
+
+<p>&lt;?php
 $file = ‘https://www.awin1.com/cread.php?s=3256435&amp;v=37826&amp;q=449015&amp;r=731132’;
 $title = ‘oecolife’;
 $file_headers = @get_headers($file);
@@ -2179,20 +2193,6 @@ if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
 <p>&lt;?php
 $file = ‘https://atlas.r.akipam.com/ts/i5042092/tsc?typ=r&amp;amc=con.blbn.490871.505057.CRT4S_CjPyu’;
 $title = ‘naftie’;
-$file_headers = @get_headers($file);
-$content = file_get_contents($file);
-if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
-    echo $title . “ -&gt; “ . “NOT FOUND”;
-} else if (str_contains($content, ‘This link is inactive’)) {
-    echo $title . “ -&gt; “ . “INACTIVE”;
-} else {
-    echo $title . “ -&gt; “ . “OK”;
-}
-?&gt;</p>
-
-<p>&lt;?php
-$file = ‘https://pluto.r.oxfam.de/ts/i5043550/tsc?typ=r&amp;amc=con.blbn.490871.505057.CRTR-WgLvF4’;
-$title = ‘Oxfam Unverpackt’;
 $file_headers = @get_headers($file);
 $content = file_get_contents($file);
 if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {

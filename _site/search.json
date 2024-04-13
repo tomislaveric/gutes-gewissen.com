@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Oxfam Unverpackt",
+      "url"         : "/geschenke-und-erlebnisse/oxfam-unverpackt/",
+      "category"    : "",
+      "tags"        : "Spenden, Helfen, Unterstützen, Wohltätigkeit, Geschenkidee, Entwicklungshilfe, Nothilfe",
+      "date"        : "2024-04-13 00:00:00 +0200",
+      "shippings"   : "",
+      "image"       : "/assets/images/oxfam_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "oecolife",
       "url"         : "/drogerie-und-kosmetik/oecolife/",
       "category"    : "",
@@ -1725,18 +1737,6 @@
       "date"        : "2021-01-04 00:00:00 +0100",
       "shippings"   : "DPD-Versand 3,80 Euro für Bestellungen unter 49 EuroDHL-Versand 4,78 Euro bis 50 Euro BestellwertDHL-Versand 2,83 Euro ab 50 Euro BestellwertLieferung an Packstation mit DHL-Versand möglich",
       "image"       : "/assets/images/naftie_logo.png"
-
-    } ,
-  
-    {
-
-      "title"       : "Oxfam Unverpackt",
-      "url"         : "/geschenke-und-erlebnisse/oxfam-unverpackt/",
-      "category"    : "",
-      "tags"        : "Nachhaltig, Wohltätigkeit, Tierschutz, Spende, Steuervorteil",
-      "date"        : "2021-01-03 00:00:00 +0100",
-      "shippings"   : "Versandkosten von 5,90 Euro für Bestellungen unter 75 EuroKostenlose Lieferung ab 75 Euro BestellwertVersand an Packstation möglichLieferung innerhalb der EU verfügbar",
-      "image"       : "/assets/images/oxfam_logo.png"
 
     } ,
   
