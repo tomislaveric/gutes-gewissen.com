@@ -2,7 +2,10 @@
 author: Tomislav
 title: Sneakers Unplugged
 slogan: Shop für nachhaltige und vegane Eco Sneakers
-targetUrl: https://www.awin1.com/cread.php?awinmid=21642&awinaffid=731132
+ctaButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+contentButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+targetUrl: ../
 image: /assets/images/sneakers_unplugged.png
 screenshot: /assets/images/screenshots/sneakers_unplugged_screenshot.jpg
 rubric: Mode & Kleidung
@@ -77,7 +80,7 @@ Der Sneakers Unplugged Online-Shop ist in seiner Menüführung nutzerfreundlich,
 
 Die Lieblingsprodukte in dem Sneakers Unplugged Online-Shop können mit dem Anklicken eines Herzens zu einer Wishlist hinzugefügt werden. Generell ist die Produktbeschreibung übersichtlich gestaltet und die Kunden haben die Möglichkeit, die ausgewählte Ware direkt per PayPal zu kaufen oder für weitere Zahlungsvarianten in den Einkaufswagen zu legen.
 
-Unter der Rubrik [„Unplugged World“](https://www.sneakers-unplugged.de/pages/nachhaltige-vegane-sneakers-marken-coming-soon){:target="_blank"} stellen der Gründer Christian Ohm und seine Mitarbeiterin Svenya Scholl die Entstehung des Konzepts ausführlich vor. 
+Unter der Rubrik „Unplugged World“ stellen der Gründer Christian Ohm und seine Mitarbeiterin Svenya Scholl die Entstehung des Konzepts ausführlich vor. 
 
 ### Das Einkaufen bei Sneakers Unplugged
 
