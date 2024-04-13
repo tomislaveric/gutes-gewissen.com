@@ -14,6 +14,18 @@
   
     {
 
+      "title"       : "DORTEX",
+      "url"         : "/spielzeug-und-hobby/dortex/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Made-in-Germany, Textilkennzeichnung, Etiketten, Aufkleber, Geschenkbänder, Bügelbilder",
+      "date"        : "2024-04-12 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 2,50 Euro für Bestellungen bis 50 EuroVersandkostenfreie Lieferung innerhalb Deutschlands ab 50 Euro Bestellwert",
+      "image"       : "/assets/images/dortex_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "oecolife",
       "url"         : "/drogerie-und-kosmetik/oecolife/",
       "category"    : "",

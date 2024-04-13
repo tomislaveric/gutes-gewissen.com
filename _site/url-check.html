@@ -189,6 +189,20 @@ if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
 ?&gt;</p>
 
 <p>&lt;?php
+$file = ‘https://www.awin1.com/cread.php?awinmid=53591&amp;awinaffid=731132’;
+$title = ‘DORTEX’;
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
+    echo $title . “ -&gt; “ . “NOT FOUND”;
+} else if (str_contains($content, ‘This link is inactive’)) {
+    echo $title . “ -&gt; “ . “INACTIVE”;
+} else {
+    echo $title . “ -&gt; “ . “OK”;
+}
+?&gt;</p>
+
+<p>&lt;?php
 $file = ‘https://www.awin1.com/cread.php?s=3256435&amp;v=37826&amp;q=449015&amp;r=731132’;
 $title = ‘oecolife’;
 $file_headers = @get_headers($file);
