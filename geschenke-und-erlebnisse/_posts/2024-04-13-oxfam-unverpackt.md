@@ -37,7 +37,7 @@ Oxfam Unverpackt bietet unverpackte Geschenke für Ostern, Geburtstag, Hochzeit,
 
 ### Das Sortiment im Oxfam Unverpackt Online-Shop
 
-Das Sortiment im [Oxfam Unverpackt Online-Shop](https://shops.oxfam.de/shops) ist in verschiedene Kategorien unterteilt. Dazu gehören beispielsweise Produkte aus den Bereichen Gesundheit, Klima, Bildung, zum Glück wünschen, Liebe zeigen und Danke sagen.
+Das Sortiment im [Oxfam Unverpackt Online-Shop](https://unverpackt.oxfam.de/alle-geschenke){:target="_blank"} ist in verschiedene Kategorien unterteilt. Dazu gehören beispielsweise Produkte aus den Bereichen Gesundheit, Klima, Bildung, zum Glück wünschen, Liebe zeigen und Danke sagen.
 
 Kunden können ihren Liebsten zu Weihnachten oder anderen Feiertagen zum Beispiel eine Karte mit Esel kaufen, der bei der Erschließung von unwegsamem Gelände hilft oder Seife, deren Kauf Betroffene von Pandemien sowie Menschen in Krisenregionen vor Krankheitserregern schützt. Der Kauf einer “Alphabetisierung für Frauen” dagegen fördert Frauen, indem sie lesen und schreiben lernen, um sich ein eigenes Geschäft aufzubauen und ein selbstbestimmtes Leben zu führen.
 
