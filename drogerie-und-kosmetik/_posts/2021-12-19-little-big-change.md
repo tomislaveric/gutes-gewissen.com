@@ -2,7 +2,9 @@
 author: Tomislav
 title: Little Big Change
 slogan: Premium Baby Windeln ohne Schadstoffe
-targetUrl: https://www.awin1.com/cread.php?awinmid=21399&awinaffid=731132
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
 image: /assets/images/little_big_change_logo.png
 screenshot: /assets/images/screenshots/Little_Big_Change_screenshot.jpg
 rubric: Drogerie & Kosmetik
