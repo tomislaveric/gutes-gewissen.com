@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "GREEN SHIRTS",
+      "url"         : "/mode-und-kleidung/green-shirts/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Bio, Ökologisch, Fair, Mode, Fashion, Kleidung",
+      "date"        : "2024-05-15 00:00:00 +0200",
+      "shippings"   : "Versandkosten von 4,90 Euro für Bestellungen bis 80 EuroVersandkostenfreie Lieferung ab 80 Euro BestellwertLieferung ins Ausland möglichVersand an DHL Packstation verfügbar",
+      "image"       : "/assets/images/green-shirts_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Oxfam Unverpackt",
       "url"         : "/geschenke-und-erlebnisse/oxfam-unverpackt/",
       "category"    : "",
