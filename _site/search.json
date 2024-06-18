@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "IMPACKT",
+      "url"         : "/haus-und-garten/impackt/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Koffer, Handgepäck, Reisen, Recycelte Materialien, Reparierbar",
+      "date"        : "2024-06-18 00:00:00 +0200",
+      "shippings"   : "Versandkostenfreie Lieferung innerhalb DeutschlandsVersand ins Ausland möglich",
+      "image"       : "/assets/images/impackt_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "GREEN SHIRTS",
       "url"         : "/mode-und-kleidung/green-shirts/",
       "category"    : "",
