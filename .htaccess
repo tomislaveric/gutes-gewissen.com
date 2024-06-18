@@ -16,4 +16,5 @@
     RewriteCond %{HTTP_HOST} !^www\.
     RewriteRule ^(.*)$ https://www.%{HTTP_HOST}/$1 [R=301,L]
     Redirect 301 "/oekostrom-und-oekogas/greenpeace-energy/" "/oekostrom-und-oekogas/green-planet-energy/"
+    Redirect 301 "/secondhand-und-upcycling/roadside-vintage/" "/secondhand-und-upcycling/"
     </IfModule>
