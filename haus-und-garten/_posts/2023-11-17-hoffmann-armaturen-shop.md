@@ -5,7 +5,7 @@ slogan: Badezimmerausstattung Made in Germany
 sidebarButtonText: "Produkte von hoffmann Armaturen ansehen"
 contentButtonText: "Produkte von hoffmann Armaturen im Preisvergleich auf idealo.de ansehen"
 ctaButtonText: "Produkte von hoffmann Armaturen ansehen"
-targetUrl: https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dhoffmann%2Bmade%2Bin%2Bgermany
+targetUrl: https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dhoffmann%2Barmaturen
 image: /assets/images/hoffmann_armaturen_logo.png
 screenshot: /assets/images/screenshots/hoffmann_armaturen_screenshot.jpg
 rubric: Haus & Garten
@@ -32,7 +32,7 @@ contact: [
 affiliateElements: [
     [
     "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dhoffmann%2Bmade%2Bin%2Bgermany", 
+    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dhoffmann%2Barmaturen", 
     "/assets/images/idealo.png"
     ],
     [
