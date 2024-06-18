@@ -2,7 +2,7 @@
 author: Michael
 title: Polarstern
 slogan: Unabhängiger Anbieter für Ökostrom und Ökogas
-targetUrl: https://trck.polarstern-energie.de/trck/eclick/8908e23d488c7d1d6e4e66a020f381c9adddd69323594c52
+targetUrl: https://trck.polarstern-energie.de/trck/eclick/8908e23d488c7d1d8e7daae3f4ba05c881955f01b14705aa
 image: /assets/images/Polarstern.png
 screenshot: /assets/images/screenshots/polarstern.jpg
 rubric: Ökostrom & Ökogas
