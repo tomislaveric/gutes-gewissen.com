@@ -2,7 +2,10 @@
 author: Tomislav
 title: Lill’s Organic Dog Store
 slogan: Nachhaltige Produkte für Hunde
-targetUrl: https://track.webgains.com/click.html?wglinkid=4715220&wgprogramid=298110&wgcampaignid=1616700&wgtarget=https://lills.store/
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Tierfutter & Tierbedarf"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Tierfutter & Tierbedarf"
+contentButtonText: "Ähnliche Produkte in der Rubrik Tierfutter & Tierbedarf"
 image: /assets/images/lills-organic-dog-store_logo.png
 screenshot: /assets/images/screenshots/lills-organic-dog-store_screenshot.jpg
 rubric: Tierfutter & Tierbedarf
