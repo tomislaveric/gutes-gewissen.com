@@ -2,7 +2,10 @@
 author: Tomislav
 title: Kinderzimmerhaus
 slogan: Möbel für Kinder aus gesunden Materialien
-targetUrl: https://www.awin1.com/cread.php?awinmid=14173&awinaffid=731132
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
+contentButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
 image: /assets/images/kinderzimmerhaus_logo.png
 screenshot: /assets/images/screenshots/kinderzimmerhaus_screenshot.jpg
 rubric: Haus & Garten
