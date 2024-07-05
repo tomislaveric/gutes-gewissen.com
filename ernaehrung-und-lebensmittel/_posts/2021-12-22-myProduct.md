@@ -2,7 +2,10 @@
 author: Tomislav
 title: myProduct.at
 slogan: Produkte direkt vom Produzenten einkaufen
-targetUrl: https://pluto.r.powuta.com/ts/i5043566/tsc?amc=con.blbn.490871.505057.14447707&rmd=3&trg=https%3A%2F%2Fmyproduct.at%2F
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+contentButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
 image: /assets/images/myProduct.png
 screenshot: /assets/images/screenshots/myProduct_screenshot.jpg
 rubric: Ernährung & Lebensmittel
