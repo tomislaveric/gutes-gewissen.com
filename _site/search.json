@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Tibber",
+      "url"         : "/oekostrom-und-oekogas/tibber/",
+      "category"    : "",
+      "tags"        : "Grüner Strom, Ökostrom, Ökostromanbieter, Dynamische Tarife, Smarthome, Smarte Geräte",
+      "date"        : "2024-07-04 00:00:00 +0200",
+      "shippings"   : "",
+      "image"       : "/assets/images/tibber_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "IMPACKT",
       "url"         : "/haus-und-garten/impackt/",
       "category"    : "",

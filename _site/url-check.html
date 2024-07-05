@@ -175,6 +175,20 @@
 </div>
   
 <p>&lt;?php
+$file = ‘https://www.awin1.com/cread.php?awinmid=57405&amp;awinaffid=731132’;
+$title = ‘Tibber’;
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
+    echo $title . “ -&gt; “ . “NOT FOUND”;
+} else if (str_contains($content, ‘This link is inactive’)) {
+    echo $title . “ -&gt; “ . “INACTIVE”;
+} else {
+    echo $title . “ -&gt; “ . “OK”;
+}
+?&gt;</p>
+
+<p>&lt;?php
 $file = ‘https://t.adcell.com/click.php?bid=325116-101181’;
 $title = ‘IMPACKT’;
 $file_headers = @get_headers($file);
