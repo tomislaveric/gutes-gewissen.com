@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Wild &amp; Coco",
+      "url"         : "/ernaehrung-und-lebensmittel/wild-and-coco/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Darmflora, Mikrobiom, Fair hergestellt, Bio, Ökologisch",
+      "date"        : "2024-07-15 00:00:00 +0200",
+      "shippings"   : "Versandkosten von 4,95 Euro für TrockenprodukteVersandkosten von 7,95 Euro für KühlprodukteKostenlose Lieferung für Bestellungen über 79 EuroMindestbestellwert von 40 Euro",
+      "image"       : "/assets/images/wild-and-coco_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Tibber",
       "url"         : "/oekostrom-und-oekogas/tibber/",
       "category"    : "",
