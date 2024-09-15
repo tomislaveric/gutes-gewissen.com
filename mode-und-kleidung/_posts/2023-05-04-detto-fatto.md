@@ -3,9 +3,9 @@ author: Tomislav
 title: DETTO FATTO
 slogan: Circular-Fashion-Brand für mehr Umweltschutz
 targetUrl: https://www.awin1.com/cread.php?awinmid=14336&awinaffid=731132&ued=https%3A%2F%2Fwww.otto.de%2Fsuche%2Fdetto%2520fatto
-sidebarButtonText: "Produkte von DETTO FATTO"
-contentButtonText: "Produkte von DETTO FATTO"
-ctaButtonText: "Produkte von DETTO FATTO"
+sidebarButtonText: "Produkte von DETTO FATTO ansehen"
+contentButtonText: "Produkte von DETTO FATTO ansehen"
+ctaButtonText: "Produkte von DETTO FATTO ansehen"
 image: /assets/images/detto-fatto_logo.png
 screenshot: /assets/images/screenshots/detto-fatto_screenshot2.jpg
 rubric: Mode & Kleidung
