@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Grüne-Wurzel",
+      "url"         : "/haus-und-garten/gruene-wurzel/",
+      "category"    : "",
+      "tags"        : "Zimmerpflanzen, Gartenpflanzen, Bottle-Garden, Flaschengarten, Trockenblumen, Baum pflanzen, Plastikmüll sammeln",
+      "date"        : "2024-10-21 00:00:00 +0200",
+      "shippings"   : "Kostenloser Versand für alle BestellungenLieferung an Packstation möglich",
+      "image"       : "/assets/images/gruene-wurzel_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Wild &amp; Coco",
       "url"         : "/ernaehrung-und-lebensmittel/wild-and-coco/",
       "category"    : "",
