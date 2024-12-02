@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Wiseshirt.shop",
+      "url"         : "/mode-und-kleidung/wiseshirt-shop/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Bio, Biobaumwolle, Fair, Shirts, Hoodies, Hosen",
+      "date"        : "2024-12-02 00:00:00 +0100",
+      "shippings"   : "Versandkosten von 3,90 Euro pro BestellungKostenfreie Lieferung ab 65 Euro WarenwertVersand ins Ausland verfügbarLieferdauer von 5-7 Tagen",
+      "image"       : "/assets/images/wiseshirt-shop_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Grüne-Wurzel",
       "url"         : "/haus-und-garten/gruene-wurzel/",
       "category"    : "",
