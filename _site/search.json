@@ -2,6 +2,30 @@
   
     {
 
+      "title"       : "LT-Naturprodukte",
+      "url"         : "/drogerie-und-kosmetik/lt-naturprodukte/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Biokosmetik, Naturkosmetik, Drogerieprodukte, Pflegeprodukte, Seifen, Shampoos",
+      "date"        : "2024-12-09 00:00:00 +0100",
+      "shippings"   : "Versandkosten von 4,99 Euro bis 29,99 Euro WarenwertKostenloser Versand für Bestellungen ab 30,00 EuroLieferung ins Ausland möglich",
+      "image"       : "/assets/images/lt-naturprodukte_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "EDELHOLZ Manufaktur",
+      "url"         : "/haus-und-garten/edelholz-manufaktur/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Möbel, Massivholz, Nachhaltige Möbel, Made-in-Germany",
+      "date"        : "2024-12-08 00:00:00 +0100",
+      "shippings"   : "Kostenfreie Lieferung innerhalb DeutschlandsVersand nach Österreich, in die Schweiz und ins EU-Ausland möglich",
+      "image"       : "/assets/images/edelholz-manufaktur_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Wiseshirt.shop",
       "url"         : "/mode-und-kleidung/wiseshirt-shop/",
       "category"    : "",

@@ -175,6 +175,34 @@
 </div>
   
 <p>&lt;?php
+$file = ‘https://t.adcell.com/p/click?promoId=261841&amp;slotId=101181’;
+$title = ‘LT-Naturprodukte’;
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
+    echo $title . “ -&gt; “ . “NOT FOUND”;
+} else if (str_contains($content, ‘This link is inactive’)) {
+    echo $title . “ -&gt; “ . “INACTIVE”;
+} else {
+    echo $title . “ -&gt; “ . “OK”;
+}
+?&gt;</p>
+
+<p>&lt;?php
+$file = ‘https://t.adcell.com/p/click?promoId=418444&amp;slotId=101181’;
+$title = ‘EDELHOLZ Manufaktur’;
+$file_headers = @get_headers($file);
+$content = file_get_contents($file);
+if(!$file_headers || $file_headers[0] == ‘HTTP/1.1 404 Not Found’) {
+    echo $title . “ -&gt; “ . “NOT FOUND”;
+} else if (str_contains($content, ‘This link is inactive’)) {
+    echo $title . “ -&gt; “ . “INACTIVE”;
+} else {
+    echo $title . “ -&gt; “ . “OK”;
+}
+?&gt;</p>
+
+<p>&lt;?php
 $file = ‘https://t.adcell.com/p/click?promoId=400613&amp;slotId=101181’;
 $title = ‘Wiseshirt.shop’;
 $file_headers = @get_headers($file);
