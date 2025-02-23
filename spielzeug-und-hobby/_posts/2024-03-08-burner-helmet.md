@@ -2,7 +2,10 @@
 author: Tomislav
 title: Burner Helmet
 slogan: Hersteller für nachhaltige Fahrradhelme
-targetUrl: https://t.adcell.com/click.php?bid=352447-101181
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Spielzeug & Hobby"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Spielzeug & Hobby"
+contentButtonText: "Ähnliche Produkte in der Rubrik Spielzeug & Hobby"
 image: /assets/images/burner-helmet_logo.png
 screenshot: /assets/images/screenshots/burner-helmet_screenshot.jpg
 rubric: Spielzeug & Hobby

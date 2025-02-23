@@ -2,7 +2,10 @@
 author: Tomislav
 title: Le Shop Vegan
 slogan: Store für nachhaltige und vegane Fair-Fashion
-targetUrl: https://track.webgains.com/click.html?wglinkid=&wgprogramid=293410&wgcampaignid=1616700&wgtarget=https://www.le-shop-vegan.de
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+contentButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
 image: /assets/images/le-shop-vegan_logo.png
 screenshot: /assets/images/screenshots/le-shop-vegan_screenshot.jpg
 rubric: Mode & Kleidung
