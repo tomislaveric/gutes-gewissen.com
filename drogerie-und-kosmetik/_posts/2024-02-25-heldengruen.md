@@ -2,7 +2,10 @@
 author: Tomislav
 title: Heldengrün
 slogan: Spezialist für 100% naturreine ätherische Öle
-targetUrl: https://www.awin1.com/cread.php?awinmid=69196&awinaffid=731132
+targetUrl: https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dheldengr%25C3%25BCn
+ctaButtonText: "Produkte von Heldengrün ansehen"
+sidebarButtonText: "Produkte von Heldengrün ansehen"
+contentButtonText: "Produkte von Heldengrün ansehen"
 image: /assets/images/heldengruen_logo.png
 screenshot: /assets/images/screenshots/heldengruen_screenshot.jpg
 rubric: Drogerie & Kosmetik
@@ -26,8 +29,8 @@ contact: [
 ]
 affiliateElements: [
     [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dheldengr%25C3%25BCn", 
+    "Produkte im Preisvergleich von idealo.de",
+    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dheldengr%25C3%25BCn",
     "/assets/images/idealo.png"
     ]
 ]
