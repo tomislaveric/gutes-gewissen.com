@@ -41,7 +41,7 @@ Viele denken, dass sie ihr ganzes Leben auf den Kopf stellen müssen, um mehr R�
 
 Der Bambus ist kein Holz, wie wir es von Bäumen kennen, denn genau genommen gehört es zu den Gräsern. Der Bambus besitzt viele verschiedene Vorteile, zum Beispiel produziert es deutlich mehr Sauerstoff als ein Baum. Ein entscheidender Pluspunkt ist, dass es auch nicht wie ein Baum gefällt wird. Wenn der Bambus abgeschnitten wird, wächst er einfach wieder nach. Im Vergleich zu den Bäumen hierzulande wächst er außerdem in einer enormen Geschwindigkeit.
 
-Trotzdem ist dieses Riesengras außerordentlich stabil. Dadurch lässt es sich vielseitig verarbeiten und für diverse Zwecke einsetzen. Das Material ist auf eine ganz natürliche Weise antibakteriell, wodurch auf Pestizide verzichtet werden kann. Weil der Bambus ein natürliches Material ist, kann er problemlos recycelt werden. 
+Trotzdem ist dieses Riesengras außerordentlich stabil. Dadurch lässt es sich vielseitig verarbeiten und für diverse Zwecke einsetzen. Das Material ist auf eine ganz natürliche Weise antibakteriell, wodurch auf Pestizide verzichtet werden kann. Weil der Bambus ein natürliches Material ist, kann er problemlos recycelt werden.
 
 ### Die Produkte von Bambusliebe
 
@@ -57,7 +57,7 @@ Daneben finden sich bei Bambusliebe auch Bambuskämme, Seegraskörbe aber auch K
 
 Bei Bambusliebe findet sich vieles, das den Alltag umweltfreundlicher gestaltet und es deutlich erleichtert, nachhaltiger zu leben. Was davon am besten zum eigenen Leben passt, lässt sich einfach ausprobieren. Es geht im Online-Shop aber nicht nur darum, Produkte zu verkaufen. Bambusliebe möchte darüber hinaus auch Tipps und Tricks sowie wertvolle Informationen und interessantes Wissen teilen.
 
-In dem [Blog](https://www.bambusliebe.de/blogs/pandafreunde-blog){:target="_blank"} auf der Webseite finden sich interessante Artikel, die viel Wissenswertes vermitteln. Darunter zum Beispiel, wie sich durch einen nachhaltigen Lebensstil Geld sparen lässt. Es gibt Anregungen und Empfehlungen für das nachhaltige Reisen sowie hilfreiches Wissen, um den Kindern die Nachhaltigkeit nahezubringen. Alle Jahre wieder lohnt sich auch der Blick auf die nachhaltigen Weihnachtsgeschenke. Wer sich grundsätzlich für das Recycling interessiert, bekommt hier Einblicke hinter die Kulissen.
+In dem Blog auf der Webseite finden sich interessante Artikel, die viel Wissenswertes vermitteln. Darunter zum Beispiel, wie sich durch einen nachhaltigen Lebensstil Geld sparen lässt. Es gibt Anregungen und Empfehlungen für das nachhaltige Reisen sowie hilfreiches Wissen, um den Kindern die Nachhaltigkeit nahezubringen. Alle Jahre wieder lohnt sich auch der Blick auf die nachhaltigen Weihnachtsgeschenke. Wer sich grundsätzlich für das Recycling interessiert, bekommt hier Einblicke hinter die Kulissen.
 
 ### Die Bambusliebe Zahlungsarten
 

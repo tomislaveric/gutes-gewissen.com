@@ -35,7 +35,7 @@ description: "Seit 2003 bietet das Kinderzimmerhaus seine Dienste für Eltern, G
 
 ### Die Idee von Kinderzimmerhaus Online-Shop
 
-Der Kinderzimmerhaus Online-Shop hält ein großzügiges Angebot an Möbeln, Accessoires und Spielzeugen bereit. Eine Grundrissplanung wird auf Wunsch ebenfalls erstellt. Dabei werden Bedürfnisse und Wünsche des Kindes berücksichtigt. Die Verantwortlichen des [Möbelhauses](https://www.kinderzimmer-haus.de/Wir-ueber-uns/){:target="_blank"} legen viel Wert darauf, Produkte anzubieten, die bestmögliche Ergonomie und Nutzen liefern. Dabei wird besonders auf umweltfreundliche und gesunde Materialien geachtet, wie FSC zertifizierte Hölzer und kinderfreundliche Lackierungen ohne Giftstoffe.
+Der Kinderzimmerhaus Online-Shop hält ein großzügiges Angebot an Möbeln, Accessoires und Spielzeugen bereit. Eine Grundrissplanung wird auf Wunsch ebenfalls erstellt. Dabei werden Bedürfnisse und Wünsche des Kindes berücksichtigt. Die Verantwortlichen des Möbelhauses legen viel Wert darauf, Produkte anzubieten, die bestmögliche Ergonomie und Nutzen liefern. Dabei wird besonders auf umweltfreundliche und gesunde Materialien geachtet, wie FSC zertifizierte Hölzer und kinderfreundliche Lackierungen ohne Giftstoffe.
 
 Wichtig ist auch die Langlebigkeit und die Belastbarkeit der Möbel in dem Kinderzimmerhaus Online-Shop, ganz nach dem Motto "Gute Kindermöbel wachsen mit". Aus diesem Grund werden überwiegend Schreibtische angeboten, die erweiterbar sind, Stühle mit Höhenverstellung und umbaubare Betten. So wächst die Ausstattung mit dem Kind mit. Sollte man Hilfe bei der Inneneinrichtung benötigen, gibt es zahlreiche Tipps und Ideen von den Kinderzimmerhaus Experten, die sich für ein kinderfreundliches Wohnen engagieren.
 

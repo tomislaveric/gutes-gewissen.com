@@ -22,15 +22,15 @@ shippings:
       "Mindestbestellwert von 25 Euro"
   ]
 contact: [
-    "Telefon: 09280 981080", 
+    "Telefon: 09280 981080",
     "Fax: 09280 9810830",
     "Email: info@livingcrafts.de",
     "Adresse: Living Crafts GmbH & Co. KG, Schlesier Str. 11, 95152 Selbitz"
 ]
 affiliateElements: [
     [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&clickref=&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DLiving%2BCrafts", 
+    "Produkte im Preisvergleich von idealo.de",
+    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&clickref=&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DLiving%2BCrafts",
     "/assets/images/idealo.png"
     ]
 ]
@@ -55,15 +55,15 @@ Living Crafts möchte entlang der gesamten Wertschöpfungskette ökologisch, nac
 
 ### Das Einkaufen bei Living Crafts
 
-Die Living Crafts Produkte erstrecken sich von Damen- und Herrenbekleidung über Baby- und Kindermode zu Heimtextilien für die Bereiche Bad, Schlafzimmer und Küche. Living Crafts selbst führt keine stationären Ladengeschäfte, jedoch sind Living Crafts Produkte bei ausgewählten Händlern erhältlich. Auf der entsprechenden Internetseite kann man nach Händlern in der eigenen [Umgebung](https://www.livingcrafts.de/ueber-uns/service/haendlersuche){:target="_blank"} suchen.
+Die Living Crafts Produkte erstrecken sich von Damen- und Herrenbekleidung über Baby- und Kindermode zu Heimtextilien für die Bereiche Bad, Schlafzimmer und Küche. Living Crafts selbst führt keine stationären Ladengeschäfte, jedoch sind Living Crafts Produkte bei ausgewählten Händlern erhältlich. Auf der entsprechenden Internetseite kann man nach Händlern in der eigenen Umgebung suchen.
 
 ### Die Zahlungsarten im Living Crafts Online-Shop
 
-Die Zahlung im Livings Crafts Online-Shop ist per SEPA-Lastschrift, per Vorkasse, Nachnahme, PayPal, Kreditkarte und auf Rechnung möglich. Bestandskunden können ihren Kauf außerdem in Raten begleichen. Dabei zahlen sie den Rechnungsbetrag in drei Monatsraten, diese Art der Zahlung ist jedoch nur bei einem Bestellwert von 150 Euro bis 3.500 Euro möglich. 
+Die Zahlung im Livings Crafts Online-Shop ist per SEPA-Lastschrift, per Vorkasse, Nachnahme, PayPal, Kreditkarte und auf Rechnung möglich. Bestandskunden können ihren Kauf außerdem in Raten begleichen. Dabei zahlen sie den Rechnungsbetrag in drei Monatsraten, diese Art der Zahlung ist jedoch nur bei einem Bestellwert von 150 Euro bis 3.500 Euro möglich.
 
 ### Die Versandkosten im Living Crafts Online-Shop
 
-Die Versandkosten des Online-Shops betragen daher innerhalb Deutschlands 5,95 Euro pro Bestellung. Ab einem Bestellwert von 150 Euro erfolgt die Lieferung innerhalb der EU kostenfrei. Für den Kauf bei Living Crafts gilt ein Mindestbestellwert von 25 Euro. Diesen hat das Unternehmen festgelegt, um Lieferungen kleiner Bestellungen und die damit verbundenen höheren Kosten für Transport und Lieferung zu vermeiden. Außerdem soll so die Umwelt geschont werden. Auch beim Versand denkt das Unternehmen an die Umwelt. Innerhalb Deutschlands werden Bestellungen deshalb über DHL GoGreen versendet. So unterstützt Living Crafts beim Versenden seiner Ware den Einsatz alternativer Fahrzeuge und Kraftstoffe. Darüber hinaus engagiert sich Living Crafts für die Reduzierung des CO2-Ausstoßes und fördert auch weitere 
+Die Versandkosten des Online-Shops betragen daher innerhalb Deutschlands 5,95 Euro pro Bestellung. Ab einem Bestellwert von 150 Euro erfolgt die Lieferung innerhalb der EU kostenfrei. Für den Kauf bei Living Crafts gilt ein Mindestbestellwert von 25 Euro. Diesen hat das Unternehmen festgelegt, um Lieferungen kleiner Bestellungen und die damit verbundenen höheren Kosten für Transport und Lieferung zu vermeiden. Außerdem soll so die Umwelt geschont werden. Auch beim Versand denkt das Unternehmen an die Umwelt. Innerhalb Deutschlands werden Bestellungen deshalb über DHL GoGreen versendet. So unterstützt Living Crafts beim Versenden seiner Ware den Einsatz alternativer Fahrzeuge und Kraftstoffe. Darüber hinaus engagiert sich Living Crafts für die Reduzierung des CO2-Ausstoßes und fördert auch weitere
 
 ### Umweltprojekte von DHL GoGreen.
 

@@ -21,12 +21,12 @@ contact: [
 ]
 affiliateElements: [
   [
-  "Preisvergleich für Strom und Gas von Verivox", 
-  "https://www.awin1.com/awclick.php?gid=373003&mid=14797&awinaffid=731132&linkid=2482504&clickref=", 
+  "Preisvergleich für Strom und Gas von Verivox",
+  "https://www.awin1.com/awclick.php?gid=373003&mid=14797&awinaffid=731132&linkid=2482504&clickref=",
   "/assets/images/Verivox.png"],
   [
-  "Strom- und Gas-Preisvergleich von CHECK24", 
-  "https://www.awin1.com/awclick.php?gid=349609&mid=9364&awinaffid=731132&linkid=2275212&clickref=", 
+  "Strom- und Gas-Preisvergleich von CHECK24",
+  "https://www.awin1.com/awclick.php?gid=349609&mid=9364&awinaffid=731132&linkid=2275212&clickref=",
   "/assets/images/check24.png"]
   ]
 ---
@@ -37,7 +37,7 @@ Green Planet Energy e.V. entstand im Jahr 1999 und wurde durch Greenpeace Deutsc
 
 ### Die Entwicklung von Green Planet Energy
 
-Während es 2003 bereits 20.000 Kunden zählte, belieferte es 2011 110.000 Menschen. Schon sehr früh fasste das Unternehmen den Plan, neben der Lieferung von Ökostrom auch eigene Anlagen zu bauen, um das Angebot an erneuerbarer Energie auszubauen. So entstand im Jahr 2001 die Tochterfirma [Planet energy GmbH](https://www.planet-energy.de/unternehmen/ueber-uns.html){:target="_blank"}, die Öko-Kraftwerke baut. 2011 erweiterte Green Planet Energy sein Produktportfolio um das Produkt proWindgas und machte damit den Schritt zum Energievollversorger.
+Während es 2003 bereits 20.000 Kunden zählte, belieferte es 2011 110.000 Menschen. Schon sehr früh fasste das Unternehmen den Plan, neben der Lieferung von Ökostrom auch eigene Anlagen zu bauen, um das Angebot an erneuerbarer Energie auszubauen. So entstand im Jahr 2001 die Tochterfirma Planet energy GmbH, die Öko-Kraftwerke baut. 2011 erweiterte Green Planet Energy sein Produktportfolio um das Produkt proWindgas und machte damit den Schritt zum Energievollversorger.
 
 Und nun, zehn Jahre später in 2021, hat Green Planet Energy sein Gasprodukt noch einmal überarbeitet und bietet drei weitere neue Tarifoptionen an, die allesamt speziell auf die aktuellen Anforderungen der Energiewende zugeschnitten sind. Die dann insgesamt vier Tarifoptionen enthalten wie bisher Windgas, also erneuerbar produzierten Wasserstoff, sowie zunächst mindestens zehn Prozent hochwertiges Biogas mit dem ehrgeizigen Ziel alle proWindgas-Kundinnen und -Kunden bis 2027 zu 100 Prozent mit erneuerbaren Gasen hoher Qualität zu beliefern.
 
@@ -45,21 +45,21 @@ Seit 2013 hat die Genossenschaft ihren Sitz in der Hamburger Hafencity – gemei
 
 ### Die Prinzipien von Green Planet Energy
 
-Die Genossenschaft kämpft politisch wie auch mit ihren Technologien für einen nachhaltigeren Umgang mit natürlichen Ressourcen. Profitmaximierung ist zweitrangig, das Interesse des Unternehmens dreht sich um zukunftsfähige Lösungen für eine saubere Energieversorgung. Green Planet Energy wirbt damit, der einzige deutsche Energieversorger zu sein, der sich an die strengen Vorgaben von Greenpeace Deutschland e.V. hält. Die Kriterien der Umweltorganisation schreiben nicht nur vor, dass Ökostrom aus sauberen Kraftwerken stammen muss, sondern legen auch fest, dass Ökostrom-Anbieter einen Beitrag zum Gelingen der Energiewende leisten müssen. 
+Die Genossenschaft kämpft politisch wie auch mit ihren Technologien für einen nachhaltigeren Umgang mit natürlichen Ressourcen. Profitmaximierung ist zweitrangig, das Interesse des Unternehmens dreht sich um zukunftsfähige Lösungen für eine saubere Energieversorgung. Green Planet Energy wirbt damit, der einzige deutsche Energieversorger zu sein, der sich an die strengen Vorgaben von Greenpeace Deutschland e.V. hält. Die Kriterien der Umweltorganisation schreiben nicht nur vor, dass Ökostrom aus sauberen Kraftwerken stammen muss, sondern legen auch fest, dass Ökostrom-Anbieter einen Beitrag zum Gelingen der Energiewende leisten müssen.
 
 {% include screenshot.md %}
 
 ### Das Vertrauen in Green Planet Energy
 
-Dass die Greenpeace-Kriterien auch wirklich eingehalten werden, wird jedes Jahr von unabhängigen Gutachtern überprüft. Um dem Verbraucher maximale Sicherheit zu bieten, werden die Berichte von TÜV NORD sowie von der OmniCert Umweltgutachter GmbH auf der Webseite von Green Planet Energy veröffentlicht. Ein Markenzeichen ist außerdem, dass die Genossenschaft nicht an der Börse handelt, sondern den Strom direkt von den Lieferanten kauft. 
+Dass die Greenpeace-Kriterien auch wirklich eingehalten werden, wird jedes Jahr von unabhängigen Gutachtern überprüft. Um dem Verbraucher maximale Sicherheit zu bieten, werden die Berichte von TÜV NORD sowie von der OmniCert Umweltgutachter GmbH auf der Webseite von Green Planet Energy veröffentlicht. Ein Markenzeichen ist außerdem, dass die Genossenschaft nicht an der Börse handelt, sondern den Strom direkt von den Lieferanten kauft.
 
 ### Die Transparenz bei Green Planet Energy
 
-Des Weiteren hat sich der Versorger absolute Transparenz für den Endkunden auf die Fahnen geschrieben. Dafür veröffentlicht er alle Lieferantenkraftwerke, aus denen der Strom bezogen wird. Auch die Kriterien, anhand derer Green Planet Energy die Lieferanten auswählt, sind für den Verbraucher einsehbar. Beispielsweise dürfen Lieferunternehmen nicht an Geschäften mit Braunkohle- oder Atomkonzernen beteiligt sein. 
+Des Weiteren hat sich der Versorger absolute Transparenz für den Endkunden auf die Fahnen geschrieben. Dafür veröffentlicht er alle Lieferantenkraftwerke, aus denen der Strom bezogen wird. Auch die Kriterien, anhand derer Green Planet Energy die Lieferanten auswählt, sind für den Verbraucher einsehbar. Beispielsweise dürfen Lieferunternehmen nicht an Geschäften mit Braunkohle- oder Atomkonzernen beteiligt sein.
 
 ### Der Ökostom von Green Planet Energy
 
-Der Green Planet Energy Ökostrom stammt zu 100 Prozent aus Windenergie- und Wasserkraftanlagen in Deutschland und Österreich. Der größte Anteil kommt aus Windkraftanlagen, also aus besonders umweltverträglicher Stromgewinnung. Die Genossenschaft bezieht aber nicht nur Strom von externen Lieferanten, sondern baut über ihr Tochterunternehmen Planet energy auch selbst saubere Kraftwerke, um den Ausbau erneuerbarer Energien voranzutreiben. Das erklärte Ziel ist, langfristig alle Kunden mit Strom aus den eigenen Anlagen zu versorgen. 
+Der Green Planet Energy Ökostrom stammt zu 100 Prozent aus Windenergie- und Wasserkraftanlagen in Deutschland und Österreich. Der größte Anteil kommt aus Windkraftanlagen, also aus besonders umweltverträglicher Stromgewinnung. Die Genossenschaft bezieht aber nicht nur Strom von externen Lieferanten, sondern baut über ihr Tochterunternehmen Planet energy auch selbst saubere Kraftwerke, um den Ausbau erneuerbarer Energien voranzutreiben. Das erklärte Ziel ist, langfristig alle Kunden mit Strom aus den eigenen Anlagen zu versorgen.
 
 ### Die Struktur von Green Planet Energy
 
@@ -72,4 +72,3 @@ Dank dem Tarif Wärmestrom aktiv können die Kunden ihre Wärmepumpe und Speiche
 
 ### Die Produkte von Green Planet Energy
 Green Planet Energy beliefert Verbraucher nicht nur mit Ökostrom aus Wind- und Solaranlagen, sondern auch mit Windgas. Dafür wird überschüssige Windenergie in ökologisch wertvollen Wasserstoff umgewandelt, der dann ins Erdgasnetz fließt. Der Kunde erhält in Form des Erdgas-Wasserstoff-Gemischs einen adäquaten Ersatz für fossiles Erdgas.
-

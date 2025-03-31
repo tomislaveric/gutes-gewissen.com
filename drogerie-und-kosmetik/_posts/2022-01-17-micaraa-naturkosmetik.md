@@ -30,8 +30,8 @@ contact: [
 ]
 affiliateElements: [
     [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dmicaraa", 
+    "Produkte im Preisvergleich von idealo.de",
+    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dmicaraa",
     "/assets/images/idealo.png"
     ]
 ]
@@ -52,13 +52,13 @@ Alle MICARAA Naturkosmetik Produkte bestehen zu 100 Prozent aus veganen, natürl
 
 Im MICARAA Naturkosmetik Online-Shop steht den Anwenderinnen eine ganze Palette an hochwertiger Naturkosmetik für das Gesicht, für die Haare sowie für den Körper zur Verfügung. Die Gesichtspflegeprodukte regenerieren die Haut mit natürlichen Wirkstoffen und erhalten die natürliche Schutzschicht der Haut.
 
-Im Online-Shop von MICARAA Naturkosmetik finden sich Lippenpflegesets, Gesichtscremes, Gesichtsseren und Peelings für die unterschiedlichen Ansprüche der Haut. Außerdem gibt es Haaröle, Rasierseifen sowie Körperöle für die verschiedenen Bedürfnisse. Zahlreiche Läden kooperieren mit dem Unternehmen und verkaufen MICARAA Naturkosmetik. Um einen Shop in der Nähe zu finden, kann der [Store-Finder](https://micaraa.de/pages/storefinder){:target="_blank"} genutzt werden. Mit dem Kauf eines jeden Produktes unterstützt MICARAA die Tropenwaldstiftung OroVerde, einem Aufforstungsprogramm zur Aufforstung gerodeter Flächen.
+Im Online-Shop von MICARAA Naturkosmetik finden sich Lippenpflegesets, Gesichtscremes, Gesichtsseren und Peelings für die unterschiedlichen Ansprüche der Haut. Außerdem gibt es Haaröle, Rasierseifen sowie Körperöle für die verschiedenen Bedürfnisse. Zahlreiche Läden kooperieren mit dem Unternehmen und verkaufen MICARAA Naturkosmetik. Um einen Shop in der Nähe zu finden, kann der Store-Finder genutzt werden. Mit dem Kauf eines jeden Produktes unterstützt MICARAA die Tropenwaldstiftung OroVerde, einem Aufforstungsprogramm zur Aufforstung gerodeter Flächen.
 
 {% include screenshot.md %}
 
 ### Die MICARAA Naturkosmetik Garantie
 
-Der Online-Shop bietet eine 30-tägige Geld-zurück-Garantie. Hier gibt das Naturkosmetikunternehmen die Möglichkeit, ab dem Zeitpunkt der Bestellung die Produkte zu testen. Dabei sind die Minis, die Miniaturprodukte, von dieser Garantie ausgenommen. Es ist spürbar, dass die Kundenzufriedenheit und die Qualität einen hohen Stellenwert bei MICARAA Naturkosmetik hat, sodass Reklamationen schnellstmöglich vom Kundenservice bearbeitet werden. 
+Der Online-Shop bietet eine 30-tägige Geld-zurück-Garantie. Hier gibt das Naturkosmetikunternehmen die Möglichkeit, ab dem Zeitpunkt der Bestellung die Produkte zu testen. Dabei sind die Minis, die Miniaturprodukte, von dieser Garantie ausgenommen. Es ist spürbar, dass die Kundenzufriedenheit und die Qualität einen hohen Stellenwert bei MICARAA Naturkosmetik hat, sodass Reklamationen schnellstmöglich vom Kundenservice bearbeitet werden.
 
 ### Die MICARAA Naturkosmetik Zahlungsarten
 

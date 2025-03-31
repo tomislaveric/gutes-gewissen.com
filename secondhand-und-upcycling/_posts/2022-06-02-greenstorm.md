@@ -1,6 +1,6 @@
 ---
 author: Tomislav
-title: Greenstorm 
+title: Greenstorm
 slogan: Geprüfte und gebrauchte E-Bikes kaufen
 targetUrl: ../
 ctaButtonText: "Ähnliche Produkte in der Rubrik Secondhand & Upcycling"
@@ -53,7 +53,7 @@ In dem Online-Shop von Greenstorm finden sich passende Modelle für die Einsteig
 
 ### Der Service von Greenstorm
 
-Wer aufsteigen und losradeln möchte, sollte zuvor das passende E-Bike für sich finden. Für den Fahrspaß und für die Sicherheit ist es wichtig, ein E-Bike in der passenden Größe auszusuchen. Dafür findet sich auf der Webseite von Greenstorm ein [Ratgeber](https://greenstorm.eu/trends/){:target="_blank"}, mit dem sich die benötigte Rahmengröße berechnen lässt. Die Reichweite für das E-Bike kann mithilfe von einem Reichweiten-Assistenten ermittelt werden.
+Wer aufsteigen und losradeln möchte, sollte zuvor das passende E-Bike für sich finden. Für den Fahrspaß und für die Sicherheit ist es wichtig, ein E-Bike in der passenden Größe auszusuchen. Dafür findet sich auf der Webseite von Greenstorm ein Ratgeber, mit dem sich die benötigte Rahmengröße berechnen lässt. Die Reichweite für das E-Bike kann mithilfe von einem Reichweiten-Assistenten ermittelt werden.
 
 Wie weit das E-Bike eine Tour unterstützt, ist von mehreren Faktoren abhängig. Das liegt unter anderem an der Strecke, dem Fahrverhalten, den angeschlossenen Geräten wie Smartphones und an anderen äußeren Einflüssen. Dennoch erlauben genaue Angaben auch genaue Schätzwerte. Nach dem Kauf stehen bei technischen Fragen zum E-Bike die Werkstattprofis von Greenstorm zur Verfügung. Es ist also ein Ansprechpartner da, der mit Rat zur Seite steht. Um im Fall der Fälle das finanzielle Risiko zu minimieren, kann eine E-Bike-Versicherung empfehlenswert sein.
 

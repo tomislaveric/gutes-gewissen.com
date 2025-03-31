@@ -1,6 +1,6 @@
 ---
 author: Tomislav
-title: Simon Pike 
+title: Simon Pike
 slogan: Handgefertigte Handytaschen und Accessoires
 sidebarButtonText: "Produkte von Simon Pike ansehen"
 contentButtonText: "Produkte von Simon Pike im Preisvergleich auf idealo.de ansehen"
@@ -25,8 +25,8 @@ contact: [
 ]
 affiliateElements: [
     [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DSimon%2BPike", 
+    "Produkte im Preisvergleich von idealo.de",
+    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DSimon%2BPike",
     "/assets/images/idealo.png"
     ]
 ]
@@ -46,7 +46,7 @@ Umweltfreundlichkeit ist das Hauptanliegen des Simon Pike Online-Shops. Wer also
 
 ### Die Produkte im Simon Pike Online-Shop
 
-Der Simon Pike Online-Shop möchte mit seinen handgemachten Produkten nicht nur einen wertvollen Beitrag zu [Nachhaltigkeit und Klimaschutz](https://simonpike.de/pages/uber-uns){:target="_blank"} leisten. Der Anbieter ermöglicht auch, dass alle Kunden individuelle Maßanfertigungen bestellen können. So kann jeder, der sich für Simon Pike Produkte interessiert, eine Tasche oder Hülle ganz nach seinen persönlichen Vorstellungen bestellen. Alle bereits fertigen Hüllen sind in Kategorien gelistet und schnell auffindbar.
+Der Simon Pike Online-Shop möchte mit seinen handgemachten Produkten nicht nur einen wertvollen Beitrag zu Nachhaltigkeit und Klimaschutz leisten. Der Anbieter ermöglicht auch, dass alle Kunden individuelle Maßanfertigungen bestellen können. So kann jeder, der sich für Simon Pike Produkte interessiert, eine Tasche oder Hülle ganz nach seinen persönlichen Vorstellungen bestellen. Alle bereits fertigen Hüllen sind in Kategorien gelistet und schnell auffindbar.
 
 Mit Hilfe des "Wunschtasche-Konfigurators" in dem Simon Pike Online-Shop kann jeder genau festlegen, wie die Hülle später aussehen soll. Ob einfarbig, ob bunt oder ob mit einem fröhlichen Blumenmuster, beim Design ist fast alles machbar und auch die Größe kann individuell bestimmt werden. Bei den ökologisch nachhaltigen Produkten von Simon Pike kommen Materialien wie Wollfilz oder Baumwollstoffe zum Einsatz. Verschließbar sind die Taschen mit einem Klettverschluss oder auch mit einem magnetischen Druckknopf. Kinder können sich außerdem über Hüllen mit lustigen Wackelaugen freuen.
 

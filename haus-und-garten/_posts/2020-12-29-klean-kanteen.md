@@ -25,19 +25,19 @@ shippings:
     "Lieferung innerhalb der EU verfügbar"
   ]
 contact: [
-    "Telefon: +49 40 2286 383 25", 
+    "Telefon: +49 40 2286 383 25",
     "Email: info@kleankanteen.de",
     "Adresse: 24trade Handelsgesellschaft mbH, Duvenstedter Berg 55, 22397 Hamburg"
 ]
 affiliateElements: [
     [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dklean%2Bkanteen", 
+    "Produkte im Preisvergleich von idealo.de",
+    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dklean%2Bkanteen",
     "/assets/images/idealo.png"
     ],
     [
-    "Produkte im Online-Shop von otto.de", 
-    "https://www.awin1.com/cread.php?awinmid=14336&awinaffid=731132&ued=https%3A%2F%2Fwww.otto.de%2Fsuche%2Fklean%2520kanteen%2F", 
+    "Produkte im Online-Shop von otto.de",
+    "https://www.awin1.com/cread.php?awinmid=14336&awinaffid=731132&ued=https%3A%2F%2Fwww.otto.de%2Fsuche%2Fklean%2520kanteen%2F",
     "/assets/images/otto.png"
     ]
 ]
@@ -53,7 +53,7 @@ Um diese Umweltbelastung zu stoppen, stellt Klean Kanteen seit seiner Gründung 
 
 Während Plastikbecher nicht nur für viel Abfall sorgen, sondern Getränke auch nicht wirklich warm halten, bleiben warme Getränke in Edelstahlbehältern warm und kalte Getränke erfrischend kühl. Da die Klean Kanteen Produkte aus lebensmittelechtem Edelstahl hergestellt werden, erhalten sie zudem den Geschmack der Flüssigkeiten.
 
-### Die Materialien von Klean Kanteen 
+### Die Materialien von Klean Kanteen
 
 Klean Kanteen wirbt dafür, sich mit der Materialzusammensetzung von Produkten, die mit Lebensmitteln in Berührung kommen, auseinanderzusetzen. Häufig wissen Konsumenten nämlich nicht, welche Materialien in ihren Trinkflaschen stecken, und Hersteller informieren nicht ausreichend.
 
@@ -65,7 +65,7 @@ Alle Inhaltsstoffe der Klean Kanteen Edelstahlprodukte sind komplett schadstofff
 ### Die Prinzipien und Richtlinien von Klean Kanteen
 Kernpunkt des Handelns bei Klean Kanteen ist das Engagement für seine Kunden und die Umwelt. Das Unternehmen sieht sich in der Pflicht, gesunde und hochqualitative Produkte herzustellen, die eine echte und zuverlässige Alternative zu Wegwerf-Produkten darstellen. Alle Trinkflaschen, Trinkbecher sowie das Zubehör, das im Klean Kanteen Online-Shop verkauft werden, stammen direkt vom Hersteller Klean Kanteen.
 
-Anfang 2020 hat sich Klean Kanteen der unabhängigen Nonprofit-Organisation "Climate Neutral" angeschlossen und wurde kurze Zeit darauf als [100 Prozent klimaneutral](https://www.kleankanteen.de/klean-world/klean-fuers-klima/){:target="_blank"} zertifiziert. Dafür durchlief das Unternehmen einen aufwändigen dreistufigen Prozess, in dem es seine Emissionen reduzierte und zudem Maßnahmen für den Emissionsausgleich einleitete.
+Anfang 2020 hat sich Klean Kanteen der unabhängigen Nonprofit-Organisation "Climate Neutral" angeschlossen und wurde kurze Zeit darauf als 100 Prozent klimaneutral zertifiziert. Dafür durchlief das Unternehmen einen aufwändigen dreistufigen Prozess, in dem es seine Emissionen reduzierte und zudem Maßnahmen für den Emissionsausgleich einleitete.
 
 {% include screenshot.md %}
 

@@ -24,14 +24,14 @@ shippings:
       "Kostenlose Retoure innerhalb Deutschlands"
   ]
 contact: [
-    "Telefon: 089 90150662", 
+    "Telefon: 089 90150662",
     "Email: support@thokkthokk.com",
     "Adresse: ThokkThokk GmbH & Co. KG, Baaderstr. 33, 80469 München"
 ]
 affiliateElements: [
     [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&clickref=&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DThokkThokk", 
+    "Produkte im Preisvergleich von idealo.de",
+    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&clickref=&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DThokkThokk",
     "/assets/images/idealo.png"
     ]
 ]
@@ -42,11 +42,11 @@ description: "Das bereits über die Grenzen Deutschlands hinaus bekannte Münchn
 
 ### Die Idee von ThokkThokk
 
-Das Unternehmen ThokkThokk verbindet den markanten, minimalistischen Stil seiner Kleidung mit ökologischen und fairen Produktionsbedingungen. Die Marke möchte mehr sein als nur schicke Kleidungsstücke: ThokkThokk steht für die Verbindung von Mensch und Umwelt sowie für einen ganzheitlichen Lebensstil, der Umweltbewusstsein, höchste Qualität sowie Individualität miteinander verbindet. ThokkThokk ist seit 2014 GOTS zertifiziert und verkauft außerdem Produkte, die mit dem Fairtrade-Siegel beziehungsweise dem Peta-Approved-Vegan-Siegel zertifiziert sind oder dem Global Recycled Standard entsprechen. 
+Das Unternehmen ThokkThokk verbindet den markanten, minimalistischen Stil seiner Kleidung mit ökologischen und fairen Produktionsbedingungen. Die Marke möchte mehr sein als nur schicke Kleidungsstücke: ThokkThokk steht für die Verbindung von Mensch und Umwelt sowie für einen ganzheitlichen Lebensstil, der Umweltbewusstsein, höchste Qualität sowie Individualität miteinander verbindet. ThokkThokk ist seit 2014 GOTS zertifiziert und verkauft außerdem Produkte, die mit dem Fairtrade-Siegel beziehungsweise dem Peta-Approved-Vegan-Siegel zertifiziert sind oder dem Global Recycled Standard entsprechen.
 
 ### Die Prinzipien von ThokkThokk
 
-Die umweltfreundliche Idee hinter der [Marke](https://www.thokkthokk.com/#info){:target="_blank"} findet sich in den nachhaltigen Stoffen wieder, aus denen ThokkThokk seine Kleidung herstellt. Hierzu gehören unter anderem Bio-Baumwolle und der neue Trend-Stoff Tencel sowie recycelte Kunststoffe und die Wunderpflanze Kapok. Um seine hohen Standards an die Umweltfreundlichkeit sowie die Fairness der Produktionsbedingungen aufrechtzuerhalten, arbeitet ThokkThokk stets mit Partnern vor Ort zusammen, die ähnlich hohe Ansprüche in Sachen Umweltbewusstsein und sozialer Verantwortung vertreten. Das Unternehmen unterstützt außerdem die Ausbildung von Experten im Bereich der ökosozialen Textilproduktion und setzt sich aktiv gegen Kinderarbeit ein.
+Die umweltfreundliche Idee hinter der Marke findet sich in den nachhaltigen Stoffen wieder, aus denen ThokkThokk seine Kleidung herstellt. Hierzu gehören unter anderem Bio-Baumwolle und der neue Trend-Stoff Tencel sowie recycelte Kunststoffe und die Wunderpflanze Kapok. Um seine hohen Standards an die Umweltfreundlichkeit sowie die Fairness der Produktionsbedingungen aufrechtzuerhalten, arbeitet ThokkThokk stets mit Partnern vor Ort zusammen, die ähnlich hohe Ansprüche in Sachen Umweltbewusstsein und sozialer Verantwortung vertreten. Das Unternehmen unterstützt außerdem die Ausbildung von Experten im Bereich der ökosozialen Textilproduktion und setzt sich aktiv gegen Kinderarbeit ein.
 
 ### Die Rohstoffe von ThokkThokk
 
@@ -64,17 +64,17 @@ ThokkThokk führt ein Damen- und ein Herrensortiment und verkauft außerdem Kind
  - Fellherz
  - Ilovemixtapes
  - Yackfou
- - Lovjoi 
- - Lovjoi Intimates 
+ - Lovjoi
+ - Lovjoi Intimates
  - 100FOR1
- - BTD 
+ - BTD
  - TT BASIC
 
-Typische Elemente, die sich in vielen ThokkThokk Produkten wiederfinden, sind natürliche Muster und freche Details. In der ThokkThokk Farbwelt herrschen natürliche, warme Gelb- und Rottöne, aber auch klassisches Schwarz, Grau und Blau vor. Folgende Textilien stehen stellvertretend für alle nachhaltigen Stoffe, die ThokkThokk für die Herstellung seiner Kleidung verwendet: 
+Typische Elemente, die sich in vielen ThokkThokk Produkten wiederfinden, sind natürliche Muster und freche Details. In der ThokkThokk Farbwelt herrschen natürliche, warme Gelb- und Rottöne, aber auch klassisches Schwarz, Grau und Blau vor. Folgende Textilien stehen stellvertretend für alle nachhaltigen Stoffe, die ThokkThokk für die Herstellung seiner Kleidung verwendet:
 
 #### Tencel
 
-Die umweltfreundliche Lyocell-Faser (Cellulosefaser) wird aus Holz aus nachhaltiger Forstwirtschaft gewonnen. Bei der Faserherstellung werden ausschließlich biologisch abbaubare Lösungsmittel verwendet. 
+Die umweltfreundliche Lyocell-Faser (Cellulosefaser) wird aus Holz aus nachhaltiger Forstwirtschaft gewonnen. Bei der Faserherstellung werden ausschließlich biologisch abbaubare Lösungsmittel verwendet.
 
 #### Vegane Wolle
 
@@ -86,7 +86,7 @@ ThokkThokk Stores gibt es in zahlreichen deutschen Städten, davon mehrere in Be
 
 ### Die Zahlungsarten im ThokkThokk Online-Shop
 
-Der ThokkThokk Online-Shop bietet folgende Zahlungsarten an: PayPal sowie Master- und Visa-Card. Außerdem kann man seinen Kauf per Rechnung oder über Klarna bezahlen. 
+Der ThokkThokk Online-Shop bietet folgende Zahlungsarten an: PayPal sowie Master- und Visa-Card. Außerdem kann man seinen Kauf per Rechnung oder über Klarna bezahlen.
 
 ### Die Versandkosten im ThokkThokk Online-Shop
 Die Lieferung erfolgt innerhalb Deutschlands versandkostenfrei und auch die Kosten für retournierte Sendungen werden von ThokkThokk übernommen. Der Versand erfolgt innerhalb von 24 Stunden nach der Bestellung. Einen Mindestbestellwert gibt es nicht.

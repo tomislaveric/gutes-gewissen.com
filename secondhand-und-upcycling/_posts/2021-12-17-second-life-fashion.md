@@ -47,7 +47,7 @@ In dem Online-Shop von Second Life Fashion gibt es ausschließlich Mode aus zwei
 
 ### Die Produkte im Second Life Fashion Online-Shop
 
-Das Angebot des Second Life Fashion Shops ist breit gefächert und hat etwas für Damen, Herren und Kinder auf Lager. So zum Beispiel auch Blusen, Jacken, Kleider, Jeans, Shirts, Sweatjacken oder Strickjacken. Und damit der Einkauf bei Second Life Fashion leichter fällt, ist alles nach Bekleidungsart, Farbe, Größe und Preis sortiert. Wer möchte, kann sich auch an den Marken orientieren und über diesen Filter etwas passendes finden. Und auch nach Schuhen, die zur gewählten Kleidung passen, brauchen Besucher des Shops von Second Life Fashion nicht lange zu suchen, denn auch diesbezüglich gibt es eine interessante Auswahl zu entdecken. 
+Das Angebot des Second Life Fashion Shops ist breit gefächert und hat etwas für Damen, Herren und Kinder auf Lager. So zum Beispiel auch Blusen, Jacken, Kleider, Jeans, Shirts, Sweatjacken oder Strickjacken. Und damit der Einkauf bei Second Life Fashion leichter fällt, ist alles nach Bekleidungsart, Farbe, Größe und Preis sortiert. Wer möchte, kann sich auch an den Marken orientieren und über diesen Filter etwas passendes finden. Und auch nach Schuhen, die zur gewählten Kleidung passen, brauchen Besucher des Shops von Second Life Fashion nicht lange zu suchen, denn auch diesbezüglich gibt es eine interessante Auswahl zu entdecken.
 
 Das Sortiment des Second Hand Shops enthält jedoch nicht nur viele einzelne Produkte, sondern Kunden können außerdem für besondere Gelegenheiten komplette Outfits bestellen. Diese bestehen zum Beispiel aus einer Hose und einem Blazer mit Bluse für einen Businesstermin oder aus einer Caprihose mit kurzer Bluse für den Strandurlaub.
 
@@ -55,7 +55,7 @@ Nebenher hat Second Life Fashion auch noch viele modische Accessoires im Reperto
 
 ### Die Kleidung an Second Life Fashion verkaufen
 
-Von irgendwo her muss ja all die Kleidung kommen, die der Second Life Fashion Onlineshop anbietet. Daher gibt es für interessierte Kunden auch die Möglichkeit, eigene, bereits getragene und noch gut erhaltene Kleidung einzusenden und an den Shop zu verkaufen. Wie dies genau abläuft, wird auf der [Webseite in der Rubrik "Ankauf"](https://secondlifefashion.de/pages/ankauf){:target="_blank"} etwas genauer erklärt.
+Von irgendwo her muss ja all die Kleidung kommen, die der Second Life Fashion Onlineshop anbietet. Daher gibt es für interessierte Kunden auch die Möglichkeit, eigene, bereits getragene und noch gut erhaltene Kleidung einzusenden und an den Shop zu verkaufen. Wie dies genau abläuft, wird auf der Webseite in der Rubrik "Ankauf" etwas genauer erklärt.
 
 ### Die Second Life Fashion Online-Shop Zahlungsarten
 

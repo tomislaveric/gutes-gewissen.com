@@ -37,7 +37,7 @@ Für diejenigen, die selbst im Garten Kartoffeln anbauen möchten, gibt es auch 
 
 ### Die Prinzipien von Kartoffelshop.de
 
-Oft haben die Kartoffeln lange Transportwege hinter sich, bevor sie beim Endverbraucher ankommen. Der Kartoffelshop Online-Shop bietet dagegen die Möglichkeit, direkt beim Bauern einzukaufen. Die Kartoffeln frisch vom [Bauernhof](https://kartoffelshop.de/ueber-uns/){:target="_blank"} zu bekommen bedeutet, dass sie auf dem direkteren Weg vom Feld auf den Teller kommen. Die Kartoffeln stammen in der Regel aus dem eigenen Anbau, den die Familie durch die jahrzehntelange Erfahrung optimiert hat.
+Oft haben die Kartoffeln lange Transportwege hinter sich, bevor sie beim Endverbraucher ankommen. Der Kartoffelshop Online-Shop bietet dagegen die Möglichkeit, direkt beim Bauern einzukaufen. Die Kartoffeln frisch vom Bauernhof zu bekommen bedeutet, dass sie auf dem direkteren Weg vom Feld auf den Teller kommen. Die Kartoffeln stammen in der Regel aus dem eigenen Anbau, den die Familie durch die jahrzehntelange Erfahrung optimiert hat.
 
 Die Macher hinter dem Kartoffelshop.de bereiten die Felder vor, setzen die Kartoffeln in die Erde und versenden die Ernte in Jutesäcken und Kartons. Zuvor sortiert eine Sortiermaschine beschädigte Knollen aus und entfernt Lehmklumpen. Zuletzt kommen sie in einen Karton in der für die Bestellung passenden Größe. Die Kartoffeln aus dem Online-Shop sind dadurch sicher verpackt und es wird obendrein Verpackungsmüll reduziert. Wer sich das Schleppen schwerer Kartoffelsäcke sparen möchte, kann sich die Kartoffeln für die Lieblings-Gerichte bequem nach Hause liefern lassen.
 

@@ -46,11 +46,11 @@ Alle Frauen, die an der speziellen Periodenunterwäsche für die besonderen Tage
 
 ### Das Einkaufen im Sisters Republic Online-Shop
 
-Detaillierte Informationen in dem Online-Shop von Sister Republic über die Periodenslips und ihre besondere Funktionsweise helfen interessierten Kundinnen dabei, die richtige Kaufentscheidung zu treffen. Nebenher bietet der [Sisters Republic Blog](https://sistersrepublic.de/blogs/sisters){:target="_blank"} noch zusätzliche Details rund um das Thema Menstruation bei Frauen in unterschiedlichem Lebensalter.
+Detaillierte Informationen in dem Online-Shop von Sister Republic über die Periodenslips und ihre besondere Funktionsweise helfen interessierten Kundinnen dabei, die richtige Kaufentscheidung zu treffen. Nebenher bietet der Sisters Republic Blog noch zusätzliche Details rund um das Thema Menstruation bei Frauen in unterschiedlichem Lebensalter.
 
 Die Periodenunterwäsche und alle Sisters Republic Produkte sind besonders angenehm zu tragen, sie sind hautfreundlich und enthalten keinerlei Schadstoffe. Innerhalb von 30 Tagen nach dem Kauf ist außerdem eine Reklamation der Bestellung möglich. Wer noch mehr über die Produkte von Sisters Repbulic erfahren möchte, kann auch in den sozialen Netzwerken weitere hilfreiche Details finden.
 
-### Die Sisters Republic Zahlungsarten 
+### Die Sisters Republic Zahlungsarten
 
 Jede Bestellung in dem Online-Shop von Sisters Republic kann wahlweise per Kreditkarte oder per PayPal bezahlt werden.
 
