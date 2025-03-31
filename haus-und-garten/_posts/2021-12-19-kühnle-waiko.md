@@ -33,7 +33,7 @@ description: "Die meisten Firmen haben ganz genaue Vorstellungen von der Ausstat
 
 Die Firma Kühnle existiert bereits seit Mitte der 80er Jahre. Damals absolvierte der Firmengründer Günter Kühnle eine Ausbildung zum Schreiner und schloss später dann die Meisterprüfung ab. Die Liebe zum Holz und der Ansporn ein eigenes Geschäft zu eröffnen, führte im Jahr 1984 dann zur Gründung der Büroartikelfirma Kühnle.
 
-Rund zwei Jahre danach ging das junge Unternehmen eine Partnerschaft mit dem Büromöbelvertrieb Waiko ein. Im Jahr 2001 wurde dann Kühnle Büromöbel ins Leben gerufen und produziert inzwischen auch diverse Möbelserien in Eigenregie ohne dabei [Nachhaltigkeit und Umweltbewusstsein](https://kuehnle-waiko.de/unternehmen/nachhaltigkeit/){:target="_blank"} außer Acht zu lassen.
+Rund zwei Jahre danach ging das junge Unternehmen eine Partnerschaft mit dem Büromöbelvertrieb Waiko ein. Im Jahr 2001 wurde dann Kühnle Büromöbel ins Leben gerufen und produziert inzwischen auch diverse Möbelserien in Eigenregie ohne dabei Nachhaltigkeit und Umweltbewusstsein außer Acht zu lassen.
 
 ### Das Sortiment im kühnle’waiko Online-Shop
 
