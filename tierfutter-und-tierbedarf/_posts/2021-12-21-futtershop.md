@@ -2,7 +2,10 @@
 author: Tomislav
 title: Futtershop.de
 slogan: Hochwertige Zutaten für artgerechte Ernährung
-targetUrl: https://www.awin1.com/cread.php?awinmid=21156&awinaffid=731132
+targetUrl: https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DMarkus%2BM%25C3%25BChle
+ctaButtonText: "Markus Mühle Produkte ansehen"
+sidebarButtonText: "Markus Mühle Produkte ansehen"
+contentButtonText: "Markus Mühle Produkte ansehen"
 image: /assets/images/futtershop_logo.png
 screenshot: /assets/images/screenshots/Futtershop_screenshot.jpg
 rubric: Tierfutter & Tierbedarf
@@ -29,13 +32,13 @@ contact: [
 ]
 affiliateElements: [
     [
-    "Markus Mühle Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DMarkus%2BM%25C3%25BChle", 
+    "Markus Mühle Produkte im Preisvergleich von idealo.de",
+    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DMarkus%2BM%25C3%25BChle",
     "/assets/images/idealo.png"
     ],
     [
-    "LUPOSAN Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DLUPOSAN", 
+    "LUPOSAN Produkte im Preisvergleich von idealo.de",
+    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DLUPOSAN",
     "/assets/images/idealo.png"
     ]
 ]
@@ -49,11 +52,11 @@ description: "Die Markus-Mühle ist seit Jahrzehnten ein Hersteller für Futterm
 
 Die Futtermittel aus dem Futtershop sind durch ein Kaltpressverfahren schonend hergestellt. Dadurch bleiben die Inhaltsstoffe besser erhalten, denn Hitze würde manche Vitamine zerstören. Grundsätzlich ist dem Unternehmen Nachhaltigkeit besonders wichtig. Das ist mit ein Grund, warum die Produktion von Futter auf Ökostrom setzt und Strom aus Wasserkraft bezieht.
 
-Im Futtershop Online-Shop finden sich Alleinfuttermittel, spezielles Futter sowie [Ratgeber](https://www.futtershop.de/ratgeber/){:target="_blank"} zu Ernährung und Erziehung für Hunde und Katzen. LUPOSAN gehört im Grunde zur Markus-Mühle dazu, ist aber ein eigenständiges Unternehmen, welches sich auf Ergänzungsfuttermittel für Hunde, Katzen, aber auch für Pferde spezialisiert hat. Praktischerweise lässt sich bei der Bestellung von Futter ganz einfach die Anzahl sowie die Verpackungsgröße auswählen.
+Im Futtershop Online-Shop finden sich Alleinfuttermittel, spezielles Futter sowie Ratgeber zu Ernährung und Erziehung für Hunde und Katzen. LUPOSAN gehört im Grunde zur Markus-Mühle dazu, ist aber ein eigenständiges Unternehmen, welches sich auf Ergänzungsfuttermittel für Hunde, Katzen, aber auch für Pferde spezialisiert hat. Praktischerweise lässt sich bei der Bestellung von Futter ganz einfach die Anzahl sowie die Verpackungsgröße auswählen.
 
 ### Die Prinzipien von Futtershop.de
 
-Weil das Herz für Tiere schlägt, engagiert sich die Markus-Mühle sehr umfangreich in diversen Projekten. Sie widmen sich dem Tierschutz, ihnen sind aber auch Naturschutzprojekte wichtig, um Lebensräume für die Tiere sowie für die Pflanzen zu schaffen. Neben Wild- sowie Heimtierprojekten unterstützen die Macher des Futtershop Online-Shops Tierschutzorganisationen aus ganz Europa, darunter beispielsweise die Organisation www.menschen-für-tiere.org. 
+Weil das Herz für Tiere schlägt, engagiert sich die Markus-Mühle sehr umfangreich in diversen Projekten. Sie widmen sich dem Tierschutz, ihnen sind aber auch Naturschutzprojekte wichtig, um Lebensräume für die Tiere sowie für die Pflanzen zu schaffen. Neben Wild- sowie Heimtierprojekten unterstützen die Macher des Futtershop Online-Shops Tierschutzorganisationen aus ganz Europa, darunter beispielsweise die Organisation www.menschen-für-tiere.org.
 
 Zudem setzen sich die Macher für die Ausbildung von Therapiehunden ein. Auch ein Wolfspark erhält Unterstützung. Um die eigenen Futtershop Produkte herzustellen, kommen für den Hersteller daher Tierversuche nicht infrage. Außerdem verzichten sie auf Palmöl.
 

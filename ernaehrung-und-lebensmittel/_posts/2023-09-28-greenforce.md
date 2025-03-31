@@ -2,7 +2,10 @@
 author: Tomislav
 title: GREENFORCE
 slogan: Shop für vegane Alternativen zu Fleisch, Ei, Milch & Co.
-targetUrl: https://www.awin1.com/awclick.php?gid=443442&mid=20781&awinaffid=731132&linkid=3201604&clickref=
+targetUrl: https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dgreenforce
+ctaButtonText: "GREENFORCE Produkte ansehen"
+sidebarButtonText: "GREENFORCE Produkte ansehen"
+contentButtonText: "GREENFORCE Produkte ansehen"
 image: /assets/images/greenforce.png
 screenshot: /assets/images/screenshots/greenforce_screenshot.jpg
 rubric: Ernährung & Lebensmittel
@@ -29,8 +32,8 @@ contact: [
 ]
 affiliateElements: [
     [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dgreenforce", 
+    "Produkte im Preisvergleich von idealo.de",
+    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dgreenforce",
     "/assets/images/idealo.png"
     ]
 ]
@@ -42,7 +45,7 @@ description: " Die Produkte kommen in praktischer Pulverform zum Selbstmixen, we
 
 Gemeinsam möchte GREENFORCE die Proteinversorgung für alle nachfolgenden Generationen sicherstellen. Ist die Nährstoffversorgung durch gesunde und pflanzliche Lebensmittel gesichert, ist es möglich, Massentierhaltung abzuschaffen. Durch die GREENFORCE Produkte gibt es außerdem weniger Lebensmittelverschwendung und der Gebrauch von Plastik wird minimiert.
 
-Auf der Webseite führt [GREENFORCE](https://www.greenforce.com/pages/ueber-greenforce){:target="_blank"} auf, wie viel Kilogramm CO2, wie viele Fußballfelder Land und wie viele Badewannen voll Wasser bereits eingespart werden konnten. Das ist der Vergleich der Alternativen zu Rindfleisch, der verdeutlicht, wie viel allein die Umstellung auf eine gesündere, pflanzliche Ernährung bewirkt.
+Auf der Webseite führt GREENFORCE auf, wie viel Kilogramm CO2, wie viele Fußballfelder Land und wie viele Badewannen voll Wasser bereits eingespart werden konnten. Das ist der Vergleich der Alternativen zu Rindfleisch, der verdeutlicht, wie viel allein die Umstellung auf eine gesündere, pflanzliche Ernährung bewirkt.
 
 ### Die Prinzipien von GREENFORCE
 

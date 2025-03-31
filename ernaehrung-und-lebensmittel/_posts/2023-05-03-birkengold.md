@@ -2,7 +2,10 @@
 author: Tomislav
 title: Birkengold
 slogan: Lebensmittel und Zahnpflegeprodukte aus Österreich
-targetUrl: https://t.adcell.com/p/click?promoId=340745&slotId=101181
+targetUrl: https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dbirkengold
+ctaButtonText: "Birkengold Produkte ansehen"
+sidebarButtonText: "Birkengold Produkte ansehen"
+contentButtonText: "Birkengold Produkte ansehen"
 image: /assets/images/birkengold_logo.png
 screenshot: /assets/images/screenshots/birkengold_screenshot.jpg
 rubric: Ernährung & Lebensmittel
@@ -27,8 +30,8 @@ contact: [
 ]
 affiliateElements: [
     [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dbirkengold", 
+    "Produkte im Preisvergleich von idealo.de",
+    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dbirkengold",
     "/assets/images/idealo.png"
     ]
 ]
@@ -44,7 +47,7 @@ Die Gesundheit steht bei der Produktentwicklung von Birkengold im Mittelpunkt. D
 
 ### Die Prinzipien von Birkengold
 
-Das Unternehmen pflegt einen bewussten [Umgang mit der Nachhaltigkeit und dem Umweltschutz](https://www.birkengold.com/ueber-uns/unsere-werte){:target="_blank"}. Darum sind alle Birkengold Produkte naturnah und ohne Konservierungsstoffe. Birkengold achtet besonders bei der Auswahl der Zutaten, bei der Produktion und bei dem Transport auf die Umwelt.
+Das Unternehmen pflegt einen bewussten Umgang mit der Nachhaltigkeit und dem Umweltschutz. Darum sind alle Birkengold Produkte naturnah und ohne Konservierungsstoffe. Birkengold achtet besonders bei der Auswahl der Zutaten, bei der Produktion und bei dem Transport auf die Umwelt.
 
 Quer durch die gesamte Produktpalette wird stets nach den innovativen, ökologischen und nachhaltigen Produkt- und Verpackungslösungen gesucht. So hat Birkengold erdöl- und plastikfreie Naturkaugummis entwickelt. Viele Produkte von Birkengold werden zudem in die umweltfreundlichen Großpackungen abgefüllt und über „Unverpackt-Läden“ verkauft. Das Unternehmen unterstützt damit den Less Waste- und Zero Waste-Lifestyle.
 

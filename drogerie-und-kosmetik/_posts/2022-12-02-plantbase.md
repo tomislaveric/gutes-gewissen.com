@@ -2,7 +2,10 @@
 author: Tomislav
 title: PlantBase
 slogan: Vegane Drogerie-Produkte Made in Germany
-targetUrl: https://t.adcell.com/p/click?promoId=224523&slotId=101181
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
+contentButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
 image: /assets/images/plantbase_logo.png
 screenshot: /assets/images/screenshots/plantbase_screenshot.jpg
 rubric: Drogerie & Kosmetik
@@ -40,7 +43,7 @@ Bei PlantBase werden die Produkte selbst produziert, in reiner Handarbeit auf Ba
 
 PlantBase verzichtet außerdem auf unnötige oder gar umstrittene Inhaltsstoffe, stattdessen verwöhnen sie die Kunden*innen mit dem Besten, was die Natur zu bieten hat. Bei ihren Verpackungen setzen sie nur auf die nachhaltigen Lösungen. Man erhält die PlantBase Produkte immer bedingungslos Zero-Waste. An diesem Punkt machen sie keine Kompromisse. Sie setzten immer auf recycelte, recyclebare, biologisch abbaubare Verpackungen nach DIN13432.
 
-Neben dem Online-Shop sind die Produkte von PlantBase allerdings auch in dem stationären Einzelhandel zu finden, eine Liste mit allen Shops in der Nähe gibt es auf der Website im [Store-Finder](https://plantbase.shop/pages/stores){:target="_blank"}.
+Neben dem Online-Shop sind die Produkte von PlantBase allerdings auch in dem stationären Einzelhandel zu finden, eine Liste mit allen Shops in der Nähe gibt es auf der Website im Store-Finder.
 
 {% include screenshot.md %}
 

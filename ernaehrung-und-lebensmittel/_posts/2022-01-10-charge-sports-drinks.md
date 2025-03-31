@@ -2,7 +2,10 @@
 author: Tomislav
 title: CHARGE Sports Drinks
 slogan: Funktionelle und nachhaltige Getränke
-targetUrl: https://www.awin1.com/cread.php?awinmid=18508&awinaffid=731132
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+contentButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
 image: /assets/images/charge_sports_drinks_logo.png
 screenshot: /assets/images/screenshots/charge-sports-drinks_screenshot.jpg
 rubric: Ernährung & Lebensmittel
@@ -43,7 +46,7 @@ Jede dieser Sportkategorien fordert den Körper anders und entzieht dem Körper 
 
 ### Die Prinzipien von CHARGE Sports Drinks
 
-CHARGE Sports Drinks setzen den klaren Fokus auf die gesundheits- und performancesteigernde Komponente der eigenen Produkte. Dennoch merkt man deutlich, dass das hinter der Marke stehende Unternehmen auch den Themen [Nachhaltigkeit](https://charge-sportsdrinks.com/pages/nachhaltigkeit-1){:target="_blank"} und Vermeidung von Ressourcenverschwendung eine besondere Relevanz beimisst.
+CHARGE Sports Drinks setzen den klaren Fokus auf die gesundheits- und performancesteigernde Komponente der eigenen Produkte. Dennoch merkt man deutlich, dass das hinter der Marke stehende Unternehmen auch den Themen Nachhaltigkeit und Vermeidung von Ressourcenverschwendung eine besondere Relevanz beimisst.
 
 Während die Sportgetränke anderer Unternehmen zumeist in Plastikflaschen abgefüllt werden, geht CHARGE Sports Drinks einen anderen Weg. Statt bereits mit Wasser gemischten Getränken erhalten die Kunden fertig portionierte Pulvermischungen in Form von abgepackten Sticks. Diese Portionsbeutel bestehen komplett aus nachwachsenden und teilweise recycelten Rohstoffen. Auch die Umverpackungen der CHARGE Sports Drinks bestehen aus recycelter Kartonage. Die Produktion erfolgt zudem regional, um die eigene CO2-Bilanz nicht durch die langen Transportwege zu belasten.
 

@@ -2,7 +2,10 @@
 author: Tomislav
 title: wunderwerk
 slogan: Umweltschonende und nachhaltige Modemarke
-targetUrl: https://neso.r.niwepa.com/ts/i5541365/tsc?amc=con.blbn.490871.505057.14452568&rmd=3&trg=https%3A%2F%2Fwww.wunderwerk.com
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+contentButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
 image: /assets/images/wunderwerk_logo.png
 screenshot: /assets/images/screenshots/biggreensmile.jpg
 rubric: Mode & Kleidung
@@ -36,13 +39,13 @@ description: "Im Jahr 2012 entstand das erste Label, das eine Symbiose von Nachh
 
 Die Modemarke wunderwerk steht hauptsächlich für die Nachhaltigkeit und die soziale Verantwortung. Dies bedeutet, dass die Textilien möglichst ressourcenschonend verwendet und verarbeitet werden. In der Herstellung der wunderwerk Produkte wird zudem auf umweltbelastende Chemikalien verzichtet, um weder die Natur noch die Arbeiter in den Produktionsländern mit diesen Stoffen zu belasten. Die Rohstoffe werden aus kontrolliert biologischem Anbau und kontrolliert biologischer Tierhaltung bezogen.
 
-Die Produkte werden neben betrieblichen Aspekten auch durch den [Einfluss ökologischer und sozialer Gesichtspunkte](https://www.wunderwerk.com/brand-mission){:target="_blank"} produziert und gehandelt, um gesellschaftliche Interessen in die Unternehmensstruktur einfließen zu lassen und so den Grundgedanken hinter der Marke wunderwerk zu repräsentieren. wunderwerk sieht sich als Modelabel in der Verantwortung, an die Zukunft zu denken und das Umdenken in der Gesellschaft durch Nachhaltigkeit und Verantwortungsbewusstsein in den Bereichen Design, Produktion sowie Vertrieb zu unterstützen. Die Methoden hierbei sind fair, transparent und konsequent.
+Die Produkte werden neben betrieblichen Aspekten auch durch den Einfluss ökologischer und sozialer Gesichtspunkte produziert und gehandelt, um gesellschaftliche Interessen in die Unternehmensstruktur einfließen zu lassen und so den Grundgedanken hinter der Marke wunderwerk zu repräsentieren. wunderwerk sieht sich als Modelabel in der Verantwortung, an die Zukunft zu denken und das Umdenken in der Gesellschaft durch Nachhaltigkeit und Verantwortungsbewusstsein in den Bereichen Design, Produktion sowie Vertrieb zu unterstützen. Die Methoden hierbei sind fair, transparent und konsequent.
 
 ### Die Produkte von wunderwerk
 
 Die Produkte des Labels wunderwerk stellen eine Verbindung zwischen der Mode und der Nachhaltigkeit dar. Sie zeichnen sich durch einen cleanen, urbanen Stil aus, der von auffälligen Logos absieht. Dabei stehen neuste Trends und die Liebe zu den Produkten im Vordergrund. Es soll eine Einigkeit zwischen Umwelt, Tier und Mensch entstehen, weshalb möglichst auf Gift- und Schadstoffe verzichtet wird. Ebenso werden keine „Plastics“ verwendet, da sie durch den Recyclingvorgang einen enormen Energieverbrauch auslösen und erdölhaltige Bestandteile die Umwelt belasten könnten.
 
-Das Sortiment von wunderwerk besteht aus urbaner Damen- und Herrenmode. Für Damen gibt es Mode in den Kategorien Jacken/Mäntel, Jeans, Hosen, Strick, Sweatshirts, Blusen, T-Shirts & Tops, Kleider & Jumpsuits und Röcke. Für Herren gibt es die Kategorien Jacken & Mäntel, Jeans, Hosen, Strick, Sweatshirts, Hemden und T-Shirts. Accessoires sind für Damen und Herren verfügbar. Zudem bietet der wunderwerk Online-Shop Geschenkgutscheine an, die ebenfalls erworben werden können. 
+Das Sortiment von wunderwerk besteht aus urbaner Damen- und Herrenmode. Für Damen gibt es Mode in den Kategorien Jacken/Mäntel, Jeans, Hosen, Strick, Sweatshirts, Blusen, T-Shirts & Tops, Kleider & Jumpsuits und Röcke. Für Herren gibt es die Kategorien Jacken & Mäntel, Jeans, Hosen, Strick, Sweatshirts, Hemden und T-Shirts. Accessoires sind für Damen und Herren verfügbar. Zudem bietet der wunderwerk Online-Shop Geschenkgutscheine an, die ebenfalls erworben werden können.
 
 {% include screenshot.md %}
 
