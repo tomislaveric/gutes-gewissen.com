@@ -2,7 +2,10 @@
 author: Tomislav
 title: the nu company
 slogan: Vegane Schokolade nachhaltig verpackt
-targetUrl: https://rtlds.the-nu-company.com/tc.php?t=152553C2258138332T
+targetUrl: https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dnucao
+ctaButtonText: "nucao Produkte ansehen"
+sidebarButtonText: "nucao Produkte ansehen"
+contentButtonText: "nucao Produkte ansehen"
 image: /assets/images/nucao_logo.png
 screenshot: /assets/images/screenshots/nucao_screenshot.jpg
 rubric: Ernährung & Lebensmittel
@@ -26,8 +29,8 @@ contact: [
 ]
 affiliateElements: [
     [
-    "- nucao Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dnucao", 
+    "nucao Produkte im Preisvergleich von idealo.de",
+    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dnucao",
     "/assets/images/idealo.png"
     ],
 ]
