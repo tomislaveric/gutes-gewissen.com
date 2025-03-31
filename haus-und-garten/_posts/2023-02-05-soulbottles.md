@@ -2,7 +2,10 @@
 author: Tomislav
 title: soulbottles
 slogan: Nachhaltige Trinkflaschen aus Glas oder Edelstahl
-targetUrl: https://t.adcell.com/p/click?promoId=222785&slotId=101181
+targetUrl: https://www.awin1.com/cread.php?awinmid=14336&awinaffid=731132&ued=https%3A%2F%2Fwww.otto.de%2Fsuche%2Fsoulbottles
+ctaButtonText: "soulbottles Produkte ansehen"
+sidebarButtonText: "soulbottles Produkte ansehen"
+contentButtonText: "soulbottles Produkte ansehen"
 image: /assets/images/soulbottles_logo.png
 screenshot: /assets/images/screenshots/soulbottles_screenshot.jpg
 rubric: Haus & Garten
@@ -25,13 +28,13 @@ contact: [
 ]
 affiliateElements: [
     [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dsoulbottles", 
+    "Produkte im Preisvergleich von idealo.de",
+    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dsoulbottles",
     "/assets/images/idealo.png"
     ],
     [
-    "Produkte im Online-Shop von otto.de", 
-    "https://www.awin1.com/cread.php?awinmid=14336&awinaffid=731132&ued=https%3A%2F%2Fwww.otto.de%2Fsuche%2Fsoulbottles", 
+    "Produkte im Online-Shop von otto.de",
+    "https://www.awin1.com/cread.php?awinmid=14336&awinaffid=731132&ued=https%3A%2F%2Fwww.otto.de%2Fsuche%2Fsoulbottles",
     "/assets/images/otto.png"
     ]
 ]
@@ -57,7 +60,7 @@ Neben der B-Corp Zertifizierung ist soulbottles seit 2020 offizielles Unternehme
 
 ### Die Produkte von soulbottles
 
-Das Sortiment von soulbottles umfasst ein vielfältiges Angebot aus Trinkflaschen aus Glas oder Edelstahl sowie verschiedene plastikfreie Accessoires. 
+Das Sortiment von soulbottles umfasst ein vielfältiges Angebot aus Trinkflaschen aus Glas oder Edelstahl sowie verschiedene plastikfreie Accessoires.
 
 Die Glastrinkflaschen sind in den Größen 0,6 l und 1,0 l erhältlich und mit einzigartigen Motiven internationaler Künstler*innen veredelt, die ausschließlich für soulbottles entworfen wurden. soulbottles aus Glas werden fair und klimaneutral in Deutschland hergestellt und sind komplett frei von Schadstoffen, Weichmachern und Plastik – auch der Verschluss aus Keramik, Edelstahl und Naturkautschuk. Da Recycling zusätzliche Ressourcen spart, stecken in jeder Flasche 60 bis 80 Prozent Recyclingglas.
 
