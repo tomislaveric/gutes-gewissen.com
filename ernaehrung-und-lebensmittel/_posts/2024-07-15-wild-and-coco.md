@@ -2,7 +2,10 @@
 author: Tomislav
 title: Wild & Coco
 slogan: Nachhaltige Produkte für gesundes Mikrobiom
-targetUrl: https://www.awin1.com/cread.php?awinmid=67902&awinaffid=731132
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+contentButtonText: "Ähnliche Produkte in der Ernährung & Lebensmittel"
+sidebarButtonText: "Ähnliche Produkte in der Ernährung & Lebensmittel"
 image: /assets/images/wild-and-coco_logo.png
 screenshot: /assets/images/screenshots/wild-and-coco_screenshot.jpg
 rubric: Ernährung & Lebensmittel

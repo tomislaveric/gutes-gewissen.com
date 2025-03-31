@@ -5,6 +5,7 @@ slogan: Premium Baby Windeln ohne Schadstoffe
 targetUrl: ../
 ctaButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
 sidebarButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
+contentButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
 image: /assets/images/little_big_change_logo.png
 screenshot: /assets/images/screenshots/Little_Big_Change_screenshot.jpg
 rubric: Drogerie & Kosmetik
@@ -45,7 +46,7 @@ Mit einem Mausklick auf den Größenratgeber von Little Big Change können die K
 
 ### Der Kundenservice von Little Big Change
 
-Ob Windel mit einem Klebestreifen oder ob Pants mit einem elastischen Bund zum Hineinschlüpfen, es gibt einiges, was die Eltern über Windeln wissen sollten. Daher hat der Online-Shop nicht nur diverse Little Big Change Produkte auf Lager, sondern auch einige gute Tipps und Ratschläge zu bieten. Diese sind in einem [Blog auf der Homepage](https://www.little-big-change.com/mag/de/){:target="_blank"} zu finden. Hier dreht sich alles um die Fragen wie: Wie wechsele ich die Windeln am einfachsten? Welche Windeltasche ist die beste? Sollte man besser vor oder nach dem Füttern oder Stillen die Windeln wechseln? Und ähnliche Dinge.
+Ob Windel mit einem Klebestreifen oder ob Pants mit einem elastischen Bund zum Hineinschlüpfen, es gibt einiges, was die Eltern über Windeln wissen sollten. Daher hat der Online-Shop nicht nur diverse Little Big Change Produkte auf Lager, sondern auch einige gute Tipps und Ratschläge zu bieten. Diese sind in einem Blog auf der Homepage zu finden. Hier dreht sich alles um die Fragen wie: Wie wechsele ich die Windeln am einfachsten? Welche Windeltasche ist die beste? Sollte man besser vor oder nach dem Füttern oder Stillen die Windeln wechseln? Und ähnliche Dinge.
 
 ### Die Little Big Change Zahlungsarten
 
