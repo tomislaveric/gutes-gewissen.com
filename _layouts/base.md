@@ -12,21 +12,6 @@ websiteTitle: gutes-gewissen
   <script src="/assets/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
   <script src="/assets/js/scrolling.js" type="text/javascript"></script>
   <script src="/assets/js/filter.js" type="text/javascript"></script>
-  <!-- Matomo -->
-  <script>
-    var _paq = window._paq = window._paq || [];
-    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-    _paq.push(['trackPageView']);
-    _paq.push(['enableLinkTracking']);
-    (function() {
-      var u="//analytics.gutes-gewissen.com/";
-      _paq.push(['setTrackerUrl', u+'matomo.php']);
-      _paq.push(['setSiteId', '1']);
-      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-      g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-    })();
-  </script>
-  <!-- End Matomo Code -->
 
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -47,6 +32,22 @@ websiteTitle: gutes-gewissen
   <title>{% if page.seoTitle %}{{page.seoTitle}}{% else %}{{ page.title }}{% if page.slogan %} | {{ page.slogan }} {%
     endif %}{% endif %}</title>
   <link rel="stylesheet" href="/assets/css/theme.bootstrap_4.min.css">
+
+       <!-- Matomo -->
+       <script>
+         var _paq = window._paq = window._paq || [];
+         /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+         _paq.push(['trackPageView']);
+         _paq.push(['enableLinkTracking']);
+         (function() {
+           var u="//analytics.gutes-gewissen.com/";
+           _paq.push(['setTrackerUrl', u+'matomo.php']);
+           _paq.push(['setSiteId', '1']);
+           var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+           g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+         })();
+       </script>
+       <!-- End Matomo Code -->
 </head>
 
 <body>
