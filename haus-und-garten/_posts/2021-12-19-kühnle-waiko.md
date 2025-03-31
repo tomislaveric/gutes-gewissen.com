@@ -2,7 +2,10 @@
 author: Tomislav
 title: kühnle'waiko
 slogan: Umweltbewusster Büromöbelhersteller und Einrichter
-targetUrl: https://www.awin1.com/cread.php?awinmid=22733&awinaffid=731132
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
+contentButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
 image: /assets/images/kuehnle_waiko_logo.png
 screenshot: /assets/images/screenshots/kühnle_waiko_screenshot.jpg
 rubric: Haus & Garten
@@ -48,7 +51,7 @@ Das Design der Möbel bei kühnle’waiko ist schlicht, zeitlos und auch häufig
 
 Beim Onlinekauf von kühnle’waiko Möbeln, möchte jeder Kunde ganz selbstverständlich gleich eine genaue Vorstellung davon haben, wie die Möbel später aussehen und wie sich diese dann in das Raumkonzept einfügen. Daher gibt es auf in dem Online-Shop von kühnle’waiko auch diverse Informationen, die bei der Auswahl helfen können.
 
-Mit den Farbkarten des kühnle’waiko Shops fällt es beim Onlinekauf von Büromöbeln leichter, die richtige Wahl zu treffen und auch die Planungshilfe bietet wertvolle Informationen für interessierte Kunden. Wer möchte, kann über die Händlersuche zudem nach den Büroausstattern in der Nähe suchen, welche die Produkte aus dem kühnle’waiko Sortiment führen sowie vor Ort beraten. 
+Mit den Farbkarten des kühnle’waiko Shops fällt es beim Onlinekauf von Büromöbeln leichter, die richtige Wahl zu treffen und auch die Planungshilfe bietet wertvolle Informationen für interessierte Kunden. Wer möchte, kann über die Händlersuche zudem nach den Büroausstattern in der Nähe suchen, welche die Produkte aus dem kühnle’waiko Sortiment führen sowie vor Ort beraten.
 
 ### Die kühnle’waiko Zahlungsarten
 
