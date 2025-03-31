@@ -2,7 +2,10 @@
 author: Tomislav
 title: Anifree-Shoes
 slogan: Shop für vegane und nachhaltige Schuhe
-targetUrl: https://www.awin1.com/awclick.php?gid=436266&mid=29539&awinaffid=731132&linkid=3130610&clickref=
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+contentButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
 image: /assets/images/anifree-shoes_logo.png
 screenshot: /assets/images/screenshots/anifree-shoes_screenshot.jpg
 rubric: Mode & Kleidung
@@ -29,10 +32,13 @@ contact: [
 shortDescription: "Der Onlineshop von Anifree-Shoes bietet eine große Auswahl an verschiedenen Schuhmodellen für Damen und Herren an. Der Name setzt sich aus den Worten „Animal“ und „Free“ zusammen, gegründet wurde das Unternehmen im Jahr 2016."
 description: "Alle Produkte sind vegan und werden zu fairen Bedingungen sowie aus nachhaltigen Materialien hergestellt. Das Ziel ist es, Lifestyle mit Verantwortung zu kombinieren. Anifree-Shoes bietet deshalb bewusst ökologische Schuhe an, die gleichzeitig modern sind. Im Online-Shop besteht nicht nur die Möglichkeit nach Damen- oder Herren-Modellen zu suchen, sondern die verwendeten Materialien stehen ebenso im Fokus. So können Kundinnen beispielsweise entscheiden, ob sie lieber recycelte Sneaker bevorzugen oder welche, die aus natürlichen Materialien gefertigt werden."
 ---
+<div class="alert alert-info">
+  Leider ist der Anifree-Shoes Shop mittlerweile offline! Hier haben wir eine Liste von <a href="https://gutes-gewissen.com/mode-und-kleidung/">Alternativen</a> zu Anifree-Shoes, die dich überzeugen werden.
+</div>
 
 ### Die Idee hinter Anifree-Shoes Online-Shop
 
-Für Anifree-Shoes müssen die rundum fairen Schuhe auch fair zu den Tieren und der Umwelt sein. Somit strebt der Online-Shop ein [Gesamtkonzept](https://www.anifree-shoes.de/content/24-infos-zu-veganen-schuhen){:target="_blank"} an, das ein bedenkenloses Shoppen ermöglichen soll. Der Fairness-Aspekt bezieht sich auf die involvierten Menschen und darauf, dass die Umwelt möglichst wenig belastet wird sowie den Tieren kein Schaden zugefügt wird.
+Für Anifree-Shoes müssen die rundum fairen Schuhe auch fair zu den Tieren und der Umwelt sein. Somit strebt der Online-Shop ein Gesamtkonzept an, das ein bedenkenloses Shoppen ermöglichen soll. Der Fairness-Aspekt bezieht sich auf die involvierten Menschen und darauf, dass die Umwelt möglichst wenig belastet wird sowie den Tieren kein Schaden zugefügt wird.
 
 Die Gründer von Anifree-Shoes leben nachhaltig sowie vegan und möchten deshalb hochwertige vegane Schuhe anbieten, die eine lange Haltbarkeit haben. Neben den bekannten Marken bietet Anifree-Shoes auch die Labels an, die in Deutschland recht unbekannt sind, da die Gründer immer auf der Suche nach neuen und nachhaltigen Materialien sind. Ob veganes Leder aus Mais-, Kaktus- oder Apfelresten, angeboten werden Schuhe von den Produzenten, die stetig daran arbeiten, den ökologischen Fußabdruck bei der Herstellung zu minimieren.
 
