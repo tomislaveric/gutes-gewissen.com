@@ -2,7 +2,10 @@
 author: Tomislav
 title: Botanicly
 slogan: Zimmerpflanzen mit klimapositiver Bilanz
-targetUrl: https://www.awin1.com/cread.php?awinmid=26467&awinaffid=731132
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
+contentButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
 image: /assets/images/botanicly_logo.png
 screenshot: /assets/images/screenshots/botanicly_screenshot.jpg
 rubric: Haus & Garten
@@ -36,7 +39,7 @@ In dem Sortiment finden sich kleine oder große, grüne oder bunte Pflanzen in d
 
 Überall auf der Welt warnen die Wissenschaftler vor der Auswirkung der Erderwärmung. Einen Großteil trägt der tägliche Ausstoß an CO₂ dazu bei. Der Onlinehandel selbst ist aber nur ein Teil dieses Problems. Denn was die Pflanzen betrifft, gehört neben dem Versand ebenso die Aufzucht in den Gewächshäusern dazu. Deshalb kalkuliert Botanicly den entstandenen CO₂-Ausstoß für jede Pflanze, um diesen dann zu kompensieren.
 
-Botanicly übernimmt die Verantwortung gegenüber der Umwelt und ist als Unternehmen selbst [klimapositiv](https://www.botanicly.de/pages/unsere-mission){:target="_blank"}. Das bedeutet, dass alle entstehenden CO₂-Emissionen ausgeglichen werden und darüber hinaus sogar noch 10 Prozent obendrauf kommen. Um CO₂ zu kompensieren, setzt das Unternehmen auf Bambus. Dieser wächst schneller als die normalen Bäume, er wächst nach dem Abholzen einfach nach und speichert im Vergleich auch noch mehr CO₂. Gleichzeitig sinkt der Bedarf an Pestiziden und Wasser.
+Botanicly übernimmt die Verantwortung gegenüber der Umwelt und ist als Unternehmen selbst klimapositiv. Das bedeutet, dass alle entstehenden CO₂-Emissionen ausgeglichen werden und darüber hinaus sogar noch 10 Prozent obendrauf kommen. Um CO₂ zu kompensieren, setzt das Unternehmen auf Bambus. Dieser wächst schneller als die normalen Bäume, er wächst nach dem Abholzen einfach nach und speichert im Vergleich auch noch mehr CO₂. Gleichzeitig sinkt der Bedarf an Pestiziden und Wasser.
 
 ### Die Produkte von Botanicly
 
