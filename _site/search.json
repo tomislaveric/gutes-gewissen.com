@@ -14,6 +14,30 @@
   
     {
 
+      "title"       : "SchokoSchatz",
+      "url"         : "/ernaehrung-und-lebensmittel/schokoschatz/",
+      "category"    : "",
+      "tags"        : "Schokolade, Überraschung, Bio, Fairtrade, Geschenk, Plastikfrei",
+      "date"        : "2025-05-31 00:00:00 +0200",
+      "shippings"   : "SVersandkosten innerhalb Deutschlands von 4,99 EuroVersandkostenfreie Lieferung deutschlandweit ab 40 Euro BestellwertVersandkosten nach Österreich für 10 EuroKostenlose Lieferung nach Österreich ab 80 Euro Warenwert",
+      "image"       : "/assets/images/schokoschatz_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Lammfleisch.at",
+      "url"         : "/ernaehrung-und-lebensmittel/lammfleisch-at/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Fleisch, Lammfleisch, Regional, Artgerecht",
+      "date"        : "2025-05-31 00:00:00 +0200",
+      "shippings"   : "Versandkosten nach Deutschland und Österreich abhängig vom GewichtVersandkostenfreie Lieferung ab 120 Euro Bestellwert",
+      "image"       : "/assets/images/lammfleisch-at_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Climatos",
       "url"         : "/oekostrom-und-oekogas/climatos/",
       "category"    : "",
