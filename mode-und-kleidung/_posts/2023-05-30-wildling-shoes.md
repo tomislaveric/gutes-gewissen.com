@@ -12,8 +12,7 @@ rubric: Mode & Kleidung
 tags: [Nachhaltig, Mode, Schuhe, Minimalschuhe, Barfussschuhe, Fair-hergestellt]
 payments: [
     Kreditkarte,
-    PayPal,
-    Klarna
+    PayPal
 ]
 shippings: [
     "Versandkosten von 4,90 Euro innerhalb Deutschlands",
@@ -62,7 +61,7 @@ Wildling Minimalschuhe werden ausschließlich direkt von Wildling verkauft, in d
 
 ### Die Wildling Shoes Zahlungsarten
 
-In dem Wildling Shoes Online-Shop können die Kunden ihre Einkäufe per Kreditkarte oder über die Dienste von Klarna und PayPal bezahlen.
+In dem Wildling Shoes Online-Shop können die Kunden ihre Einkäufe per Kreditkarte oder über PayPal bezahlen.
 
 ### Die Wildling Shoes Versandkosten
 
