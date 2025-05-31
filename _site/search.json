@@ -2,6 +2,30 @@
   
     {
 
+      "title"       : "Soapi",
+      "url"         : "/haus-und-garten/soapi/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Recyceltes Plastik, Recycelter Kunststoff, Made-In-Germany",
+      "date"        : "2025-05-31 00:00:00 +0200",
+      "shippings"   : "Versandkosten von 2,99 Euro innerhalb DeutschlandsKostenfreie Lieferung ab 30 Euro BestellwertVersand an Packstation verfügbar",
+      "image"       : "/assets/images/soapi_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Climatos",
+      "url"         : "/oekostrom-und-oekogas/climatos/",
+      "category"    : "",
+      "tags"        : "Ökostrom, Balkonkraftwerke, PV-Anlagen, Solaranlagen, Photovoltaik, Batteriespeicher, Grüner Strom",
+      "date"        : "2025-05-30 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 29 Euro",
+      "image"       : "/assets/images/climatos_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Tiroler Zirbenkissen",
       "url"         : "/haus-und-garten/tiroler-zirbenkissen/",
       "category"    : "",
