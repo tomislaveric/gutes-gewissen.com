@@ -26,7 +26,7 @@ contact: [
     "E-Mail: info@homegarden.bio",
     "Adresse: Hermes Solution Kft., Bolyai Janos utca 13, H-7754 Boly, Ungarn"
 ]
-shortDescription: "DDie Idee hinter HomeGarden.bio entspringt einer Vision für nachhaltige Selbstversorgung ohne Kompromisse."
+shortDescription: "Die Idee hinter HomeGarden.bio entspringt einer Vision für nachhaltige Selbstversorgung ohne Kompromisse."
 description: "HomeGarden.bio hat sich als Ziel gesetzt, jedem Menschen die Möglichkeit zu geben, frische, pestizidfreie Lebensmittel in den eigenen vier Wänden anzubauen – unabhängig von Jahreszeit, Wetter oder verfügbarem Außenraum. Mit innovativen Hydroponik-Systemen bringt HomeGarden.bio die Zukunft der Landwirtschaft direkt in deutsche Haushalte. Das Versprechen ist eindeutig: maximaler Ertrag bei minimalem Aufwand, kombiniert mit absoluter Nachhaltigkeit und ganzjähriger Frische."
 ---
 
