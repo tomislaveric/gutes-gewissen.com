@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "HomeGarden.bio",
+      "url"         : "/haus-und-garten/hydropon-homegarden-bio/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Eigenanbau, Homegarden, Homegardening, Home Gardening, Pflanzen, Anbau, Anbauen",
+      "date"        : "2025-06-03 00:00:00 +0200",
+      "shippings"   : "Versandkosten von 7,90 Euro innerhalb der EU bis 70 Euro WarenwertKostenfreie Lieferung EU-weit ab 70 Euro Bestellwert",
+      "image"       : "/assets/images/homegarden-bio_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Soapi",
       "url"         : "/haus-und-garten/soapi/",
       "category"    : "",

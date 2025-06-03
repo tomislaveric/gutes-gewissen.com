@@ -2,7 +2,10 @@
 author: Tomislav
 title: Meina Naturkosmetik
 slogan: Zertifizierte vegane Kosmetikprodukte
-targetUrl: https://www.awin1.com/cread.php?awinmid=21671&awinaffid=731132
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
+contentButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
 image: /assets/images/meina-naturkosmetik_logo.png
 screenshot: /assets/images/screenshots/meina-naturkosmetik_screenshot.jpg
 rubric: Drogerie & Kosmetik
