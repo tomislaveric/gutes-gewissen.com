@@ -2,6 +2,42 @@
   
     {
 
+      "title"       : "SuperBee",
+      "url"         : "/haus-und-garten/superbee/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Fair, Bio, Bienenwachstücher, Bienenwachsbeutel, Plastikfrei, Zahnpasta, Waschmittel",
+      "date"        : "2025-06-11 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 4,95 EuroVersand innerhalb EU für pauschal 6,95 EuroLieferung in die Schweiz und nach Norwegen für 8,95 EuroEuropaweite versandkostenfreie Lieferung ab 50 Euro BestellwertVersand an DHL-Packstationen verfügbar",
+      "image"       : "/assets/images/superbee_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "FEE Cup",
+      "url"         : "/drogerie-und-kosmetik/fee-cup/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Made-in-Germany, Bio, Ökologisch, Menstruation, Menstruationstasse, Cup, Tasse",
+      "date"        : "2025-06-10 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 2,90 Euro bis 100 Euro BestellwertKostenfreier Versand innerhalb Deutschlands ab 100 Euro WarenwertLieferung ins Ausland nach Belgien, Italien und ÖsterreichVersand an DHL-Packstation verfügbar",
+      "image"       : "/assets/images/fee-cup_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Bloodmilla",
+      "url"         : "/drogerie-und-kosmetik/bloodmilla/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Made-in-Germany, Bio, Ökologisch, Menstruation, Stoffbinden, Slipeinlagen, Plastikfrei",
+      "date"        : "2025-06-09 00:00:00 +0200",
+      "shippings"   : "Versandkosten von 2,20 Euro beim Versand als Großbrief via Deutsche PostVersandkosten von 3,90 Euro beim Versand als Paket per DHLKostenfreie Lieferung innerhalb Deutschlands ab 100 Euro WarenwertVersand ins Ausland nach Belgien, Italien und ÖsterreichLieferung an DHL-Packstation möglich",
+      "image"       : "/assets/images/bloodmilla_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "HomeGarden.bio",
       "url"         : "/haus-und-garten/hydropon-homegarden-bio/",
       "category"    : "",
