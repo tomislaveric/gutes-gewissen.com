@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Vegardians",
+      "url"         : "/ernaehrung-und-lebensmittel/vegardians/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Proteinpulver, Vegan, Nahrungsergänzung, Vitamine",
+      "date"        : "2025-06-26 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 4,95 EuroKostenfreie Lieferung ab 50 Euro BestellwertVersand an DHL-Packstation möglich",
+      "image"       : "/assets/images/vegardians_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "SuperBee",
       "url"         : "/haus-und-garten/superbee/",
       "category"    : "",
