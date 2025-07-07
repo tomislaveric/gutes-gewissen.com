@@ -2,7 +2,10 @@
 author: Tomislav
 title: LyaCoffee
 slogan: Fair gehandelter Kaffee direkt aus El Salvador
-targetUrl: https://t.adcell.com/click.php?bid=169467-101181
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+contentButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
 image: /assets/images/lyacoffee_logo.png
 screenshot: /assets/images/screenshots/lyacoffee_screenshot.jpg
 rubric: Ernährung & Lebensmittel
@@ -29,10 +32,6 @@ contact: [
 shortDescription: "Am Hang eines Vulkans El Salvador liegt auf circa 1000-1900 Metern Höhe die Finca Bosque Lya, eine herausragende Kaffeeplantage, die sich der Förderung von Nachhaltigkeit und Umweltschutz sowie sozialer Fairness verschrieben hat."
 description: "Seit fünf Generationen ist die Finca Bosque Lya eine Quelle exquisiter Kaffeebohnen, aber ihr Engagement geht weit über die Qualität ihrer Produkte hinaus."
 ---
-
-<div class="alert alert-info">
-  <strong>LyaCoffee Gutschein:</strong> Mit dem Gutscheincode „LYA5“ gibt es ab 30,00 Euro Mindestbestellwert einen <strong>5% Rabatt</strong>. Ansonsten bietet LyaCoffee.de ab Bestellungen von 10 kg Staffelpreise an mit maximal 15% Rabatt an.
-</div>
 
 ### Die Idee von LyaCoffee
 
