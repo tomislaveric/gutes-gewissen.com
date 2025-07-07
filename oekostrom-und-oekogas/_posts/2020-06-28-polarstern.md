@@ -2,7 +2,7 @@
 author: Michael
 title: Polarstern
 slogan: Unabhängiger Anbieter für Ökostrom und Ökogas
-targetUrl: https://trck.polarstern-energie.de/trck/eclick/8908e23d488c7d1d8e7daae3f4ba05c881955f01b14705aa
+targetUrl: https://www.awin1.com/awclick.php?gid=373003&mid=14797&awinaffid=731132&linkid=2482504&clickref=
 image: /assets/images/Polarstern.png
 screenshot: /assets/images/screenshots/polarstern.jpg
 rubric: Ökostrom & Ökogas
@@ -33,7 +33,7 @@ affiliateElements: [
 
 ### Der Ökostrom von Polarstern
 
-Der angebotene Ökostrom kommt aus einem bayerischen Laufwasserkraftwerk (Feldkirchen am Inn). Dieses wurde für seine Maßnahmen zum Landschafts- und Tierschutz mehrfach ausgezeichnet. So bauten die Betreiber kilometerlange Umgehungsgerinne für die Fische und schufen neue Biotope. Polarstern trägt das [Grüner Strom Label](https://www.polarstern-energie.de/magazin/artikel/gruener-strom-label-so-wird-oekostrom-zertifiziert/){:target="_blank"} und wurde von der Stiftung ÖkoTest sehr gut bewertet. Das Unternehmen findet sich auch in der Utopia Bestenliste und wird von EcoTopTen und Robin Wood empfohlen. Das Biogas stammt vollständig aus organischen Reststoffen und wurde vom TÜV Nord zertifiziert. Die Biogasanlage gehört zu einer Zuckerfabrik.
+Der angebotene Ökostrom kommt aus einem bayerischen Laufwasserkraftwerk (Feldkirchen am Inn). Dieses wurde für seine Maßnahmen zum Landschafts- und Tierschutz mehrfach ausgezeichnet. So bauten die Betreiber kilometerlange Umgehungsgerinne für die Fische und schufen neue Biotope. Polarstern trägt das Grüner Strom Label und wurde von der Stiftung ÖkoTest sehr gut bewertet. Das Unternehmen findet sich auch in der Utopia Bestenliste und wird von EcoTopTen und Robin Wood empfohlen. Das Biogas stammt vollständig aus organischen Reststoffen und wurde vom TÜV Nord zertifiziert. Die Biogasanlage gehört zu einer Zuckerfabrik.
 
 ### Das Ökogas von Polarstern
 
