@@ -2,7 +2,10 @@
 author: Tomislav
 title: NORDLICHT
 slogan: Nachhaltig produzierte Taschen und Rucksäcke
-targetUrl: https://www.awin1.com/cread.php?awinmid=23776&awinaffid=731132
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+contentButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
 image: /assets/images/nordlicht_logo.png
 screenshot: /assets/images/screenshots/nordlicht_screenshot.jpg
 rubric: Mode & Kleidung
@@ -40,7 +43,7 @@ Ergänzt wird die hochwertige Accessoire-Kollektion von NORDLICHT durch ausgewä
 
 Die NORDLICHT Produkte werden allesamt im Sinne des nachhaltigen sozialen Wirtschaftens hergestellt. Der verantwortungsvolle Umgang mit den Ressourcen ist den Gründern Maritta und Nico ebenso wichtig wie die faire Zusammenarbeit mit den Produzenten. So sind die verwendeten Materialien ausschließlich Naturstoffe wie Leder, Bio-Baumwolle und wasserfestes Papier.
 
-Auch eine vegane Kollektion ist im NORDLICHT Online-Shop erhältlich. In der gesamten Produktpalette sowie beim Versand kommt kein Plastik zum Einsatz. Das Slow Fashion Label verzichtet auch bewusst auf den Einsatz von recyceltem Plastik, um die Verschmutzung durch Mikroplastik zu vermeiden. Produziert wird in Deutschland, Italien und China. Die langfristigen Partner verpflichten sich, die Grundsätze der [Nachhaltigkeit](https://nordlichtstore.com/nachhaltigkeit/){:target="_blank"} zu wahren und ihren Angestellten faire Löhne und Arbeitsbedingungen zu garantieren. 
+Auch eine vegane Kollektion ist im NORDLICHT Online-Shop erhältlich. In der gesamten Produktpalette sowie beim Versand kommt kein Plastik zum Einsatz. Das Slow Fashion Label verzichtet auch bewusst auf den Einsatz von recyceltem Plastik, um die Verschmutzung durch Mikroplastik zu vermeiden. Produziert wird in Deutschland, Italien und China. Die langfristigen Partner verpflichten sich, die Grundsätze der Nachhaltigkeit zu wahren und ihren Angestellten faire Löhne und Arbeitsbedingungen zu garantieren. 
 
 NORDLICHT verfolgt den Ansatz, kostentransparent zu arbeiten. Klickt man im Online-Shop auf ein Produkt, ist eine komplette Aufschlüsselung der einzelnen Kosten in einem Diagramm dargestellt. Auch die Stadt, in der sich die Manufaktur des jeweiligen Artikels befindet, wird offengelegt. So soll das wirtschaftliche Handeln des Labels unter den Aspekten Fairness und Nachhaltigkeit nachvollziehbar werden.
 
