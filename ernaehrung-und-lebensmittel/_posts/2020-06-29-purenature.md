@@ -2,7 +2,10 @@
 author: Michael
 title: PureNature
 slogan: Spezialist für vegane nachhaltige Produkte und für Allergiker
-targetUrl: https://www.awin1.com/awclick.php?gid=378332&mid=14049&awinaffid=731132&linkid=2533240&clickref=
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+contentButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
 image: /assets/images/purenature_logo.png
 screenshot: /assets/images/screenshots/purenature_screenshot.jpg
 rubric: Ernährung & Lebensmittel
@@ -39,7 +42,7 @@ Das Sortiment beinhaltet rund 4.000 Produkte aus nachhaltiger Erzeugung, die fü
 
 ### Die Unterstützung für Allergiker
 
-Für die Produktauswahl im PureNature Online-Shop profitieren Kunden von einem praktischen [Allergiefilter](https://www.purenature.de/filter){:target="_blank"}. Damit lassen sich schnell und einfach genau die Produkte aus dem Sortiment auswählen, die verträglich sind. Per Klick lässt sich die individuelle Allergiebelastung anzeigen und es erscheint eine Liste der passenden Lebensmittel oder anderer passender Produkte.
+Für die Produktauswahl im PureNature Online-Shop profitieren Kunden von einem praktischen Allergiefilter. Damit lassen sich schnell und einfach genau die Produkte aus dem Sortiment auswählen, die verträglich sind. Per Klick lässt sich die individuelle Allergiebelastung anzeigen und es erscheint eine Liste der passenden Lebensmittel oder anderer passender Produkte.
 
 ### Die Naturkosmetik im PureNature Online-Shop
 
