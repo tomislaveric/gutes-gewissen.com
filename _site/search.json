@@ -2,6 +2,30 @@
   
     {
 
+      "title"       : "PAMATH",
+      "url"         : "/ernaehrung-und-lebensmittel/pamath/",
+      "category"    : "",
+      "tags"        : "Bio-Öl, Bio, Natürlich, Kaltgepresst, Made-in-Germany, Manufaktur",
+      "date"        : "2025-07-13 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 4,99 EuroVersandkostenfreie Lieferung innerhalb Deutschlands für Bestellungen ab 44 EuroVersandkosten nach Österreich von 9,90 EuroKostenloser Versand nach Österreich ab 59 Euro Warenwert",
+      "image"       : "/assets/images/pamath_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Pure Green Cosmetics",
+      "url"         : "/drogerie-und-kosmetik/pure-green-cosmetics/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Natürlich, Kosmetik, Kosmetikprodukte, Pflegeprodukte, Made in Austria",
+      "date"        : "2025-07-12 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Österreichs von 6,50 EuroVersandkostenfrei innerhalb von Österreich ab 50 Euro BestellwertVersandkosten nach Deutschland von 9,50 EuroVersandkostenfrei nach Deutschland ab 50 Euro BestellwertVersandkosten nach Italien von 15,50 EuroVersandkostenfrei nach Italien ab 100 Euro BestellwertVersandkosten in die Schweiz von 19,50 EuroVersandkostenfrei in die Schweiz ab 150 Euro Bestellwert",
+      "image"       : "/assets/images/pure-green-cosmetics_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "me&amp;myClogs",
       "url"         : "/mode-und-kleidung/me-and-my-clogs/",
       "category"    : "",
