@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "PLAN-B NET ZERO",
+      "url"         : "/oekostrom-und-oekogas/plan-b-net-zero/",
+      "category"    : "",
+      "tags"        : "Ökostrom, PV-Anlagen, Photovoltaik, Grüner Strom, Energieversorger, Ökostromanbieter",
+      "date"        : "2025-07-24 00:00:00 +0200",
+      "shippings"   : "",
+      "image"       : "/assets/images/plan-b-net-zero_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "PAMATH",
       "url"         : "/ernaehrung-und-lebensmittel/pamath/",
       "category"    : "",
