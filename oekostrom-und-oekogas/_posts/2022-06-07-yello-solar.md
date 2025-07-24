@@ -2,7 +2,10 @@
 author: Tomislav
 title: Yello Solar
 slogan: Solaranlage mieten und Stromkosten sparen
-targetUrl: https://www.awin1.com/cread.php?awinmid=19656&awinaffid=731132
+targetUrl: ../
+ctaButtonText: "Ähnliche Anbieter in der Rubrik Ökostrom und Ökogas"
+sidebarButtonText: "Ähnliche Anbieter in der Rubrik Ökostrom und Ökogas"
+contentButtonText: "Ähnliche Anbieter in der Rubrik Ökostrom und Ökogas"
 image: /assets/images/yello-solar_logo.png
 screenshot: /assets/images/screenshots/yello-solar_screenshot.jpg
 rubric: Ökostrom & Ökogas
