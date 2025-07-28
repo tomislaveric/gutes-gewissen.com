@@ -2,6 +2,6 @@
 layout: rubric
 title: Mode & Kleidung
 headline: "Die besten Online-Shops für nachhaltige Mode und fair-produzierte Kleidung"
-shortDescription: "Die besten Online-Shops für nachhaltige Mode und fair-produzierte Kleidung"
-description: "Heutzutage leben wir in einer Welt, der sogenannten 'Fast-Fashion', in der Mode sehr kurzlebig ist. Damit dies möglich ist muss die Kleidung sehr günstig hergstellt werden. Damit wir von günstiger Kleidung profitieren können, leiden in den Herstellungsländern sehr oft die Mitarbeiter an mangelden Schutzmaßnahmen. Doch es geht auch anders, es gibt mittlerweile eine Trendwende in der viele Hersteller auf die lokale Produktion setzen! Das schafft Arbeitsplätze und die Herstellung unterliegt den Standards der europäischen Union."
+shortDescription: "Vergleiche die besten Online-Shops für nachhaltige Mode & faire Kleidung. Stilvoll, umweltbewusst & ethisch korrekt gekleidet."
+description: "Nachhaltigkeit trifft Stil – und das ganz ohne Kompromisse. In unserem Mode & Kleidung Vergleich stellen wir dir die besten Online-Shops für faire, ökologische und verantwortungsvoll produzierte Kleidung vor. Egal ob du nach zeitlosen Basics, veganer Kleidung, Bio-Stoffen oder modischen Statements mit sozialem Mehrwert suchst – hier findest du Anbieter, die Umweltbewusstsein, Qualität und Design miteinander verbinden. Erfahre, welche Marken transparent produzieren, faire Löhne zahlen und umweltschonende Materialien verwenden. Für alle, die Mode lieben – und Verantwortung tragen möchten."
 ---
