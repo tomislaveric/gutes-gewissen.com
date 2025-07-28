@@ -8,20 +8,26 @@ layout: base
         "name": "{{ page.title }}",
         "image": "{{ page.image }}",
         "description": "{{ page.description }}",
+        "url": "{{ page.targetUrl | absolute_url }}",
         "review": {
-        "@type": "Review",
-        "reviewRating": {
-          "@type": "Rating",
-          "ratingValue": "5",
-          "bestRating": "5"
+            "@type": "Review",
+            "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5"
         },
         "author": {
           "@type": "Person",
           "name": "{{ page.author }}"
-        }
+        },
+        "brand": {
+            "@type": "Brand",
+            "name": "{{ page.title }}"
+        },
       }
     }
 </script>
+<article>
 <div class="container">
     <div class="row">
 {% include breadcrumbs.md %}
@@ -31,9 +37,8 @@ layout: base
          col-sm-12 mt-2">
             <div>
                 {% if page.slogan %}
-                <h1 class="h2">{{ page.title }}
+                <h1 class="h2">{{ page.title }}</h1>
                 <h2 class="text-muted h5">{{ page.slogan }}</h2>
-                </h1>
                 {% else %}
                 <h1 class="h2">{{ page.title }}</h1>
                 {% endif %}
@@ -76,30 +81,47 @@ layout: base
                     {% endif %}
                 </div>
             </span>
+            <aside>
             {% for element in page.affiliateElements %}
             {% assign title = element[0] %}
             {% assign url = element[1] %}
             {% assign image = element[2] %}
+            <section>
             {% include affiliate-element.md title=title url=url image=image %}
+            </section>
             {% endfor %}
             {% if page.payments %}
+            <section>
             {% include simple-list.md title="Zahlungsoptionen" content=page.payments %}
+            </section>
             {% endif %}
             {% if page.shippings %}
+            <section>
             {% include simple-list.md title="Versandoptionen" content=page.shippings %}
+            </section>
             {% endif %}
             {% if page.contact %}
+            <section>
             {% include simple-list.md title="Kontakt" content=page.contact %}
+            </section>
             {% endif %}
             {% if page.tags %}
+            <section>
             {% include tag-list.md title="Themen" content=page.tags %}
+            </section>
             {% endif %}
             {% assign category = page.categories[0] %}
+            <section>
             {% include alternatives.md category=category %}
+            </section>
             {% if page.media %}
+            <section>
             {% include media.md media=page.media %}
+            </section>
             {% endif %}
+            </aside>
         </div>
     </div>
 </div>
+</article>
 {% include ctaBar.md %}
