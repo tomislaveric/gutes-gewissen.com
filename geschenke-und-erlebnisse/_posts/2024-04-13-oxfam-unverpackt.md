@@ -2,7 +2,7 @@
 author: Tomislav
 title: Oxfam Unverpackt
 slogan: Besondere Geschenkideen gegen Armut
-targetUrl: https://pluto.r.oxfam.de/ts/i5043550/tsc?typ=r&amc=con.blbn.490871.505057.CRTR-WgLvF4
+targetUrl: https://t.adcell.com/click.php?bid=489470-101181
 image: /assets/images/oxfam-unverpackt_logo.png
 screenshot: /assets/images/screenshots/oxfam-unverpackt_screenshot.jpg
 rubric: Geschenke & Erlebnisse
