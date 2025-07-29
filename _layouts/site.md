@@ -2,30 +2,30 @@
 layout: base
 ---
 <script type="application/ld+json">
-    {
-        "@context": "https://schema.org/",
-        "@type": "Product",
-        "name": "{{ page.title }}",
-        "image": "{{ page.image }}",
-        "description": "{{ page.description }}",
-        "url": "{{ page.targetUrl | absolute_url }}",
-        "review": {
-            "@type": "Review",
-            "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5"
-        },
-        "author": {
-          "@type": "Person",
-          "name": "{{ page.author }}"
-        }
-      },
-      "brand": {
-            "@type": "Brand",
-            "name": "{{ page.title }}"
-        }
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "{{ page.title }}",
+  "image": "{{ page.image }}",
+  "description": "{{ page.description }}",
+  "url": "{{ page.targetUrl }}",
+  "review": {
+    "@type": "Review",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5",
+      "bestRating": "5"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "{{ page.author }}"
     }
+  },
+  "brand": {
+    "@type": "Brand",
+    "name": "{{ page.title }}"
+  }
+}
 </script>
 <article>
 <div class="container">
