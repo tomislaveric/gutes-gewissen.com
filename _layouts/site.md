@@ -23,7 +23,7 @@ layout: base
         "brand": {
             "@type": "Brand",
             "name": "{{ page.title }}"
-        },
+        }
       }
     }
 </script>
