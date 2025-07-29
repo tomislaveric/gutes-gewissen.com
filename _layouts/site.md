@@ -19,12 +19,12 @@ layout: base
         "author": {
           "@type": "Person",
           "name": "{{ page.author }}"
-        },
-        "brand": {
+        }
+      },
+      "brand": {
             "@type": "Brand",
             "name": "{{ page.title }}"
         }
-      }
     }
 </script>
 <article>
