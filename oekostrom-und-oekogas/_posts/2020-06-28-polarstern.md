@@ -3,6 +3,9 @@ author: Michael
 title: Polarstern
 slogan: Unabhängiger Anbieter für Ökostrom und Ökogas
 targetUrl: https://www.awin1.com/awclick.php?gid=373003&mid=14797&awinaffid=731132&linkid=2482504&clickref=
+ctaButtonText: "Günstigen Ökostromanbieter auf verivox.de finden"
+sidebarButtonText: "Günstigen Ökostromanbieter auf verivox.de finden"
+contentButtonText: "Günstigen Ökostromanbieter auf verivox.de finden"
 image: /assets/images/Polarstern.png
 screenshot: /assets/images/screenshots/polarstern.jpg
 rubric: Ökostrom & Ökogas
