@@ -2,7 +2,10 @@
 author: Tomislav
 title: Waschbär
 slogan: Online-Shop für Naturmode und Bioprodukte
-targetUrl: https://www.awin1.com/awclick.php?gid=356972&mid=15084&awinaffid=731132&linkid=2337498&clickref
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+contentButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
 image: /assets/images/waschbaer.png
 screenshot: /assets/images/screenshots/waschbaer.jpg
 rubric: Mode & Kleidung
@@ -60,7 +63,7 @@ Neben Mode und Schuhen für Frauen, Männer und Kinder verkauft Waschbär auch S
 
 ### Das Einkaufen bei Waschbär
 
-In den Waschbär-Läden in Freiburg, Karlsruhe und Göttingen bietet das Unternehmen vor allem Schnäppchen und vergünstigte Artikel aus allen Sortimentsbereichen. Überhänge, Restposten und Einzelstücke bilden den Kern des Angebots vor Ort. In den Läden werden jedoch lediglich Artikel aus dem aktuellen Waschbär- und Kinder-Sortiment angeboten. In allen Waschbär-Läden hat man deshalb die Möglichkeit, das [Bestellcenter](https://www.waschbaer.de/shop/ueber-uns/laeden){:target="_blank"} aufzusuchen und sämtliche Artikel aus den Katalogen ins Ladenlokal zu bestellen. In diesem Fall erfolgt die Lieferung versandkostenfrei.
+In den Waschbär-Läden in Freiburg, Karlsruhe und Göttingen bietet das Unternehmen vor allem Schnäppchen und vergünstigte Artikel aus allen Sortimentsbereichen. Überhänge, Restposten und Einzelstücke bilden den Kern des Angebots vor Ort. In den Läden werden jedoch lediglich Artikel aus dem aktuellen Waschbär- und Kinder-Sortiment angeboten. In allen Waschbär-Läden hat man deshalb die Möglichkeit, das Bestellcenter aufzusuchen und sämtliche Artikel aus den Katalogen ins Ladenlokal zu bestellen. In diesem Fall erfolgt die Lieferung versandkostenfrei.
 
 ### Die Zahlungsarten im Waschbär Online-Shop
 

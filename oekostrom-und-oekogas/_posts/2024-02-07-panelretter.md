@@ -2,7 +2,10 @@
 author: Tomislav
 title: Panelretter
 slogan: Anbieter für wiederaufbereitete Solarpanels
-targetUrl: https://www.awin1.com/awclick.php?gid=471562&mid=62883&awinaffid=731132&linkid=3454470&clickref=
+targetUrl: ../
+ctaButtonText: "Ähnliche Anbieter in der Rubrik Ökostrom und Ökogas"
+sidebarButtonText: "Ähnliche Anbieter in der Rubrik Ökostrom und Ökogas"
+contentButtonText: "Ähnliche Anbieter in der Rubrik Ökostrom und Ökogas"
 image: /assets/images/panelretter_logo.png
 screenshot: /assets/images/screenshots/panelretter_screenshot.jpg
 rubric: Ökostrom & Ökogas
