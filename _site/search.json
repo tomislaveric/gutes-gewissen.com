@@ -2,6 +2,30 @@
   
     {
 
+      "title"       : "FAIRWEG",
+      "url"         : "/spielzeug-und-hobby/fairweg/",
+      "category"    : "",
+      "tags"        : "Nachhaltiges Reisen, Nachhaltiger Urlaub, Fair, Ökologisch, Nachhaltig",
+      "date"        : "2025-09-11 00:00:00 +0200",
+      "shippings"   : "",
+      "image"       : "/assets/images/fairweg_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Unipolar",
+      "url"         : "/mode-und-kleidung/unipolar/",
+      "category"    : "",
+      "tags"        : "Nachhaltige Mode, Kleidung, Schuhe, Fashion, Accessoires, Fair, Ökologisch, Nachhaltig",
+      "date"        : "2025-09-10 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 4,90 EuroVersandkostenfreie Lieferung innerhalb Deutschlands ab 80 Euro WarenwertVersandkosten nach Österreich von 9,90 EuroKostenloser Versand nach Österreich ab 200 Euro BestellwertAbholung im Store in Dresden möglich",
+      "image"       : "/assets/images/unipolar_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "PLAN-B NET ZERO",
       "url"         : "/oekostrom-und-oekogas/plan-b-net-zero/",
       "category"    : "",
