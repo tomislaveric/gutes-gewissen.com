@@ -2,6 +2,90 @@
   
     {
 
+      "title"       : "Wunder-Zahnstocher",
+      "url"         : "/drogerie-und-kosmetik/wunder-zahnstocher/",
+      "category"    : "",
+      "tags"        : "Zahnstocher, Holz, Zahnpflege, Vegan, Mundhygiene, Vegetarisch",
+      "date"        : "2025-10-13 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 4,90 Euro für Bestellungen bis 35 EuroKostenloser Versand innerhalb Deutschlands ab 35 Euro BestellwertLieferung ins Ausland möglich",
+      "image"       : "/assets/images/wunder-zahnstocher_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Spielwende",
+      "url"         : "/spielzeug-und-hobby/spielwende/",
+      "category"    : "",
+      "tags"        : "Spielzeug, Spielteppich, Holzspielzeug, Pädagogisch wertvoll, Sozial, Made-in-Germany",
+      "date"        : "2025-10-12 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 4,35 Euro bis 89,99 Euro WarenwertVersandkostenfreie Lieferung innerhalb Deutschlands für Bestellungen ab 90 EuroVersand ins EU-Ausland verfügbar",
+      "image"       : "/assets/images/spielwende_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Niyok",
+      "url"         : "/drogerie-und-kosmetik/niyok/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Naturkosmetik, Mundhygiene, Zahnpflege, Körperpflege, Drogerieartikel",
+      "date"        : "2025-10-11 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 3,95 Euro für Bestellungen bis 39 EuroVersandkostenfreie Lieferung innerhalb Deutschlands ab 39 Euro BestellwertVersandkosten nach Österreich für 5,95 Euro verfügbarLieferung an Packstationen möglich",
+      "image"       : "/assets/images/niyok_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Mainova",
+      "url"         : "/oekostrom-und-oekogas/mainova/",
+      "category"    : "",
+      "tags"        : "Energieversorger, Stromversorger, Ökostrom, Öko, Erneuerbare Energien, Grüner Strom",
+      "date"        : "2025-10-10 00:00:00 +0200",
+      "shippings"   : "",
+      "image"       : "/assets/images/mainova_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Hofmeister Holzwaren",
+      "url"         : "/haus-und-garten/hofmeister-holzwaren/",
+      "category"    : "",
+      "tags"        : "Holzwaren, Holz, Küche, Haushalt, Werbeartikel",
+      "date"        : "2025-10-09 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 3,90 Euro bis 49,99 Euro WarenwertKostenfreier Versand innerhalb Deutschlands ab 50,00 Euro BestellwertLieferung ins Ausland ab 7,60 Euro verfügbarVersand an Packstation möglich",
+      "image"       : "/assets/images/hofmeister-holzwaren_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "FellHerz",
+      "url"         : "/mode-und-kleidung/fellherz/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Mode, Kleidung, Fashion, Bio, Ökologisch, Vegan",
+      "date"        : "2025-10-08 00:00:00 +0200",
+      "shippings"   : "Versandkostenfreie Lieferung innerhalb Deutschlands für alle BestellungenKostenloser Versand ins EU-Ausland verfügbarLieferung in die Schweiz und das Vereinigte Königreich für 9,90 Euro möglich",
+      "image"       : "/assets/images/fellherz_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Erides",
+      "url"         : "/haus-und-garten/erides/",
+      "category"    : "",
+      "tags"        : "Möbel, Made-in-Germany, Holz, Tische, Sitzmöbel, Seniorenmöbel, Beleuchtung",
+      "date"        : "2025-10-07 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands ab 6,90 Euro abhängig vom GewichtVersandkostenfreie Lieferung innerhalb Deutschlands für Bestellungen über 1.000 EuroAbholung vor Ort kostenlos möglich",
+      "image"       : "/assets/images/erides_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "FAIRWEG",
       "url"         : "/spielzeug-und-hobby/fairweg/",
       "category"    : "",
