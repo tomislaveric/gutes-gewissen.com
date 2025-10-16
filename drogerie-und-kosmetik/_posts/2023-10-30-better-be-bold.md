@@ -2,7 +2,10 @@
 author: Tomislav
 title: BETTER BE BOLD
 slogan: Natürliche Pflegeprodukte für Glatzen
-targetUrl: https://www.awin1.com/cread.php?awinmid=61095&awinaffid=731132
+targetUrl: ../
+sidebarButtonText: Weitere Drogerie- und Kosmetikprodukte
+ctaButtonText: Weitere Drogerie- und Kosmetikprodukte
+contentButtonText: Nachhaltige Drogerie- und Kosmetikprodukte Produkte ansehen
 image: /assets/images/better-be-bold_logo.png
 screenshot: /assets/images/screenshots/better-be-bold_screenshot.jpg
 rubric: Drogerie & Kosmetik
