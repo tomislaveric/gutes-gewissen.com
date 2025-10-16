@@ -2,7 +2,10 @@
 author: Tomislav
 title: HomeGarden.bio
 slogan: Nachhaltiger Eigenanbau mit Hydroponik-Technologie
-targetUrl: https://t.adcell.com/p/click?promoId=382349&slotId=101181
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
+contentButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
 image: /assets/images/homegarden-bio_logo.png
 screenshot: /assets/images/screenshots/homegarden-bio_screenshot.jpg
 rubric: Haus & Garten
