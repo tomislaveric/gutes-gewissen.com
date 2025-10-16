@@ -27,18 +27,6 @@ contact: [
     "E-Mail: hello@betterbebold.eu",
     "Adresse: BETTER BE BOLD GmbH, Am Großen Teich 20, 58640 Iserlohn"
 ]
-affiliateElements: [
-    [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dbetter%2Bbe%2Bbold", 
-    "/assets/images/idealo.png"
-    ],
-    [
-    "Produkte im Online-Shop von otto.de", 
-    "https://www.awin1.com/cread.php?awinmid=14336&awinaffid=731132&ued=https%3A%2F%2Fwww.otto.de%2Fsuche%2Fbetter%2520be%2520bold", 
-    "/assets/images/otto.png"
-    ]
-]
 shortDescription: "BETTER BE BOLD ist die weltweit erste Marke für hochwertige und natürliche Pflegeprodukte für Glatzenträger*innen. Alle Produkte sind zu 100 Prozent handgemacht und nachhaltig in Deutschland hergestellt."
 description: "Das alles entstand, weil der Gründer Dennis Baltzer wie 8 von 10 Männern unter erblich bedingtem Haarausfall litt und nach 4 Jahren voller Unsicherheit sich letztendlich für die Glatze entschied. Nach diesem befreienden Schritt bemerkte er jedoch, dass das Glatze-Tragen auch gewisse Herausforderungen hat. Trockene Kopfhaut, Sonnenbrand, Hautirritationen und Rasierpickel durch häufiges Rasieren können zur Belastung werden. Da es nichts auf dem Markt gab, gründete er BETTER BE BOLD und entwickelte spezielle Produkte für die sensible Glatze."
 ---
