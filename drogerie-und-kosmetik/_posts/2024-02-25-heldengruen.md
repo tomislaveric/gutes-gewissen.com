@@ -27,13 +27,6 @@ contact: [
     "Adresse: Heldengrün GmbH, Mergenthalerallee 73-75, 65760 Eschborn",
     "Adresse für Retouren: atrikom fulfillment, c/o Heldengrün GmbH, An der Kreuzlache 8-12, 65474 Bischofsheim"
 ]
-affiliateElements: [
-    [
-    "Produkte im Preisvergleich von idealo.de",
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dheldengr%25C3%25BCn",
-    "/assets/images/idealo.png"
-    ]
-]
 shortDescription: "Heldengrün präsentiert sich als Avantgarde im Bereich der ätherischen Öle, mit einem klaren Bekenntnis zur Natürlichkeit und Nachhaltigkeit."
 description: "Die ätherischen Öle von Heldengrün stammen alle aus kontrolliert ökologischem Anbau. Das Sortiment reicht von klassischem Lavendel bis zu innovativen Mischungen, jede mit ihrer eigenen Geschichte und spezifischen Vorteilen."
 ---

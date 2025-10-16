@@ -30,18 +30,6 @@ contact: [
     "Email: kundenservice@futtershop.de",
     "Adresse: LUPO-Shop GmbH & Co. KG, Unterer Mühlenweg 8, 56459 Langenhahn"
 ]
-affiliateElements: [
-    [
-    "Markus Mühle Produkte im Preisvergleich von idealo.de",
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DMarkus%2BM%25C3%25BChle",
-    "/assets/images/idealo.png"
-    ],
-    [
-    "LUPOSAN Produkte im Preisvergleich von idealo.de",
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DLUPOSAN",
-    "/assets/images/idealo.png"
-    ]
-]
 shortDescription: "Der Online-Shop unter Futtershop.de bietet Tiernahrung aus hochwertigen Zutaten für eine gesunde und artgerechte Ernährung mit alle notwendigen Inhaltsstoffe."
 description: "Die Markus-Mühle ist seit Jahrzehnten ein Hersteller für Futtermittel. Doch im Gegensatz zu vielen anderen Produzenten haben sie ein naturnahes Ernährungskonzept entwickelt. Grundsätzlich bieten sie Trockenfutter für Hunde und Katzen an. In diesen steckt aber 100 % Natur, um wirklich artgerechtes Futter anzubieten. Außerdem legen sie Wert darauf, dass alles tierversuchsfrei ist."
 ---

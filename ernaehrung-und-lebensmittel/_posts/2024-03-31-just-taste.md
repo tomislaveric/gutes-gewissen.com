@@ -21,13 +21,6 @@ contact: [
     "E-Mail: info@justtaste.de",
     "Adresse: Just Taste GmbH, Frankenstraße 3, 91126 Schwabach"
 ]
-affiliateElements: [
-    [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DJUST%2BTASTE", 
-    "/assets/images/idealo.png"
-    ]
-]
 shortDescription: "Der Gründer der Firma JUST TASTE hat sich der Nachhaltigkeit als einen Wert für eine gelingende Zukunft verschrieben. Das Produkt ist scheinbar alltäglich: Die Gemüsenudel."
 description: "Und damit sind wir schon mittendrin in den Emotionen, die das Leben ausmachen. Denn Essen ist bekanntlich ein emotionales Ding. Da beißt die Maus keinen Faden ab. Jede oder jeder kann alles essen, was er/sie möchte. Theoretisch und praktisch. Aber ist es nachhaltig? Und ist das Nachhaltige dann auch noch gesund? Das Emotionale daran ist, es geht an die intime Existenz eines jeden Essers. Egal wie ich mich entscheide, heutzutage ist es ein Bekenntnis."
 ---

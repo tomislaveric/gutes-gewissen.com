@@ -22,13 +22,6 @@ contact: [
     "Email: dialog@hess-natur.de",
     "Adresse: Hess Natur-Textilien GmbH, Marie-Curie-Straße 7, 35510 Butzbach"
 ]
-affiliateElements: [
-    [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&clickref=&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dhessnatur", 
-    "/assets/images/idealo.png"
-    ]
-]
 shortDescription: "hessnatur ist ein Online-Versandhaus für Naturmode aus biologisch angebauten Rohstoffen sowie Materialien und fairer nachhaltiger Herstellung."
 description: "hessnatur ist ein deutsches Versandhaus mit Sitz in Butzbach in Hessen, das sich auf den Verkauf von Naturtextilien spezialisiert hat. Die angebotenen Kleider und Textilien richten sich an umweltbewusste Kunden oder Menschen mit speziellen Bedürfnissen, wie beispielsweise Allergiker. Die gesamte Produkpalette stammt aus fairem Handel."
 ---

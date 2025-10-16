@@ -25,13 +25,6 @@ contact: [
     "Telefon: +49 30 3982 1383",
     "Adresse: Circle Products GmbH, Lindower Strasse 18, 13347 Berlin"
 ]
-affiliateElements: [
-    [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DCoffee%2BCircle", 
-    "/assets/images/idealo.png"
-    ]
-]
 shortDescription: "Der Online-Shop von Coffee Circle bietet ein vielfältiges Sortiment an unterschiedlichen Kaffeespezialitäten, die natürlich angebaut und fair gehandelt wurden."
 description: "Der Coffee Circle Online-Shop ist eine gute Adresse sowohl für leidenschaftliche Kaffeeliebhaber als auch für Leute, die sich besser mit Kaffee auskennen und was Neues ausprobieren möchten."
 ---

@@ -27,13 +27,6 @@ contact: [
     "Email: info@the-nu-company.com",
     "Adresse: the nu company GmbH, Karl-Liebknecht-Str. 8, 04107 Leipzig"
 ]
-affiliateElements: [
-    [
-    "nucao Produkte im Preisvergleich von idealo.de",
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dnucao",
-    "/assets/images/idealo.png"
-    ],
-]
 shortDescription: "In dem Online-Shop von nucao findet sich eine große Vielfalt von veganer Schokolade in Bio-Qualität hergestellt aus fair gehandelten Kakao."
 description: "Thomas, Mathias und Christian hatten die nährstoffarmen Snacks in der Uni satt und gründeten 2016 kurzerhand ihr eigenes Food-Start-Up. Was harmlos in der eigenen Studenten-WG-Küche begann, hat sich mittlerweile fest bei den Fans von Nachhaltigkeit, Genuss und kompromisslos guter Schokolade verankert."
 ---

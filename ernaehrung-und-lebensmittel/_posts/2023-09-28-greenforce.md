@@ -30,13 +30,6 @@ contact: [
     "E-Mail: service@greenforce.com",
     "Adresse: GREENFORCE FUTURE FOOD AG, Streitfeldstraße 25c, 81673 München"
 ]
-affiliateElements: [
-    [
-    "Produkte im Preisvergleich von idealo.de",
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dgreenforce",
-    "/assets/images/idealo.png"
-    ]
-]
 shortDescription: "Der GREENFORCE Online-Shop bietet eine Vielfalt an pflanzlichen Alternativen zu konventionellen Fleisch-, Ei-, Milch- und Fischprodukten, die umweltschonend und ohne Tierleid in Deutschland hergestellt wurden."
 description: " Die Produkte kommen in praktischer Pulverform zum Selbstmixen, weshalb sie lange haltbar sind und somit jederzeit griffbereit zur Verfügung stehen. Außerdem sind sie kinderleicht zuzubereiten und eignen sich zum Kochen, Backen, Brunchen und zum Snacken zwischendurch. So ist für Jeden was dabei."
 ---

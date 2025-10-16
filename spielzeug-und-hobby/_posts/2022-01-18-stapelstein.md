@@ -23,13 +23,6 @@ contact: [
     "Email: hi@stapelstein.de",
     "Adresse: joboo GmbH, Heinrich-Küderli-Straße 51, 71332 Waiblingen"
 ]
-affiliateElements: [
-    [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dstapelstein", 
-    "/assets/images/idealo.png"
-    ],
-]
 shortDescription: "Das Unternehmen joboo GmbH hinter dem Stapelstein Online-Shop hat sich der nachhaltigen Produktion von Kinderspielzeugen verschrieben und stellt entsprechend dem Markennamen auch genau das her: stapelbare „Steine“ aus umweltfreundlichem Schaumstoff."
 description: "Die Stapelsteine werden in Deutschland gefertigt und können nach dem Ende ihrer Lebensdauer wieder dem Produktionskreislauf zugeführt werden."
 ---

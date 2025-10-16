@@ -24,13 +24,6 @@ contact: [
     "E-Mail: hello@terroristsofbeauty.com",
     "Adresse: terrorists of beauty GmbH, Schulterblatt 3, 20357 Hamburg"
 ]
-affiliateElements: [
-    [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dterrorists%2Bof%2Bbeauty", 
-    "/assets/images/idealo.png"
-    ]
-]
 shortDescription: "terrorists of beauty ist halb Konsumprotest, halb Beauty-Brand und fordert eine Revolution im Umgang mit Pflegeprodukten."
 description: "Mit ihrem Tun will die junge Hamburger Anti-Marke aufzeigen, wie Beauty auch funktionieren kann: natürlich, ohne Palmöl, ohne Mikroplastik und Synthetik, ohne Plastikverpackungen, vegan, 100% geschlechtsneutral, hochwertig und handgemacht in Deutschland."
 ---

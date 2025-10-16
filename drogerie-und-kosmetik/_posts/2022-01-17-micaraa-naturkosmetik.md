@@ -28,13 +28,6 @@ contact: [
     "Email: service@blattkultur.com",
     "Adresse: BlattKultur GmbH, Lerchenstr. 40B, 25462 Rellingen"
 ]
-affiliateElements: [
-    [
-    "Produkte im Preisvergleich von idealo.de",
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dmicaraa",
-    "/assets/images/idealo.png"
-    ]
-]
 
 shortDescription: "Der MICARAA Online-Shop verbindet nachhaltige Naturkosmetik mit der Philosophie der Achtsamkeit. Die Unternehmerinnen setzen dabei auf Nachhaltigkeit, Transparenz und bieten Kosmetikprodukte an, die zum Entschleunigen anregt."
 description: "Bei MICARAA Naturkosmetik geht es sowohl um die Achtsamkeit für den Körper, den Geist und die Seele als auch um die Achtsamkeit für die Natur und die Umwelt. Dies wird in den Produkten vereint, die grade im stressigen Alltag Ruhemomente und Wohlbefinden in der täglichen Pflegeroutine schaffen."

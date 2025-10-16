@@ -25,13 +25,6 @@ contact: [
     "Email: info@vantastic-foods.com",
     "Adresse: AVE - Absolute Vegan Empire GmbH & Co. KG, Siemensstraße 5, 92507 Nabburg"
 ]
-affiliateElements: [
-    [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dvantastic%2Bfoods", 
-    "/assets/images/idealo.png"
-    ],
-]
 shortDescription: "Der VANTASTIC-FOODS.com Online-Shop stellt sich als Europas größter Internethändler für vegane Lebensmittel und Produkte auf rein pflanzlicher Basis vor."
 description: "Heutzutage kann es noch immer ziemlich aufwendig sein, bestimmte vegane oder vegetarische Produkte zu finden, weil das Sortiment in den Supermärkten und Discountern oft begrenzt ist. Der Online-Shop unter VANTASTIC-FOODS.com setzt dem lästigen Zusammensuchen in den unterschiedlichen Geschäften ein Ende und bietet eine große Auswahl fantastischer Produkte."
 ---

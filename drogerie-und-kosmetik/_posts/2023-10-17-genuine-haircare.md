@@ -27,13 +27,6 @@ contact: [
     "E-Mail: info@genuine-haircare.de",
     "Adresse: Genuine GmbH, Hauptstrasse 36, 26465 Langeoog"
 ]
-affiliateElements: [
-    [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dgenuine%2Bhaircare", 
-    "/assets/images/idealo.png"
-    ]
-]
 shortDescription: "genuine haircare ist ein Online-Shop mit einer klaren Vision: Hochwirksame Haarpflegeprodukte anzubieten, die nicht nur die Schönheit ihrer Kunden fördern, sondern auch die Umwelt und das Tierwohl respektieren."
 description: 'Gegründet von Joerg Wilken, einem erfahrenen Friseurmeister, Haartherapeuten und Inhaber eines erfolgreichen Salons auf der Nordseeinsel Langeoog, ist genuine ein Familienbetrieb in dritter Generation. Ziel ist es, Produkte zu entwickeln, die das "Frisch-vom-Friseur"-Gefühl vermitteln und ihren Kunden ein erstklassiges Pflegeerlebnis bieten. Dabei stehen das Wohlbefinden und das glückliche Haar des Kunden im absoluten Fokus.'
 ---

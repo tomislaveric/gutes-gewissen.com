@@ -26,13 +26,6 @@ contact: [
     "Email: service@blutsgeschwister.de",
     "Adresse: Blutsgeschwister GmbH, Kreuzbergstrasse 28, 10965 Berlin"
 ]
-affiliateElements: [
-    [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dblutsgeschwister", 
-    "/assets/images/idealo.png"
-    ]
-]
 media: ["https://www.youtube.com/embed/zyYFVirXoKU"]
 shortDescription: 'Die Mode-Marke Blutsgeschwister steht für hohe Qualitätsstandards, einen umweltschonenden Einsatz natürlicher Ressourcen und ein langlebiges Produktdesign'
 description: 'Die Marke Blutsgeschwister entwirft farbenfrohe Kleidung in ausgefallenen Schnitten und setzt dabei auf die ökologisch und sozial nachhaltige Produktion seiner Kleidungsstücke. Inzwischen findet man den Hauptsitz des Unternehmens in Berlin Kreuzberg. Dort arbeiten etwa 30 Mitarbeiter*innen an der Weiterentwicklung der Marke.'

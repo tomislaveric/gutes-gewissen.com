@@ -29,11 +29,6 @@ contact: [
 ]
 affiliateElements: [
     [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dotto%2Bproducts", 
-    "/assets/images/idealo.png"
-    ],
-    [
     "Produkte im Online-Shop von otto.de", 
     "https://www.awin1.com/cread.php?awinmid=14336&awinaffid=731132&ued=https%3A%2F%2Fwww.otto.de%2Fsuche%2Fotto%2520products%2F", 
     "/assets/images/otto.png"

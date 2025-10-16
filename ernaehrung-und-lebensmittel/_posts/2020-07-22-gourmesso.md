@@ -31,13 +31,6 @@ contact: [
     "Adresse: Nero Commerce UG (haftungsbeschränkt), Lennestraße 9, 10785 Berlin"
 
 ]
-affiliateElements: [
-    [
-    "Produkte im Preisvergleich von idealo.de",
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&clickref=&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DGourmesso",
-    "/assets/images/idealo.png"
-    ]
-]
 media: ["https://www.youtube.com/embed/k6GRRsiGx1U"]
 shortDescription: "Gourmesso führt ein großes Sortiment an Fair-Trade-Kaffee und Bio-Kaffe in Nespresso-kompatiblen Kaffekapseln als günstige Alternative."
 description: "Gourmesso ist ein Online-Shop und Online-Marktführer für Nespresso-kompatible Kaffeekapseln. Die Firma führt außerdem das größte Fairtrade-Sortiment auf dem Kaffeekapselmarkt sowie einige Sorten Bio-Kaffee. Gourmesso wirbt damit, bis zu 35 Prozent günstiger zu sein als das Original Nespresso."

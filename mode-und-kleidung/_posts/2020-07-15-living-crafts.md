@@ -27,13 +27,6 @@ contact: [
     "Email: info@livingcrafts.de",
     "Adresse: Living Crafts GmbH & Co. KG, Schlesier Str. 11, 95152 Selbitz"
 ]
-affiliateElements: [
-    [
-    "Produkte im Preisvergleich von idealo.de",
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&clickref=&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DLiving%2BCrafts",
-    "/assets/images/idealo.png"
-    ]
-]
 media: ["https://www.youtube.com/embed/bHbcplEjdB8"]
 shortDescription: "Living Crafts ist ein Hersteller und Versandhaus für umweltbewusste Bio-Kleidung und nachhaltige Naturtextilien aus sozialer fairer Produktion."
 description: "Living Crafts ist ein Online-Shop, der Kleidung und Heimtextilien aus Naturstoffen verkauft. Alle Produkte sind fair produziert, ökologisch verträglich und enthalten der Umwelt und dem Menschen zuliebe keine chemischen Inhaltsstoffe oder Pestizide. Ganz nach seinem Credo 'Langlebigkeit statt Fast Fashion' strebt das Unternehmen danach, Produkte zu schaffen, die langlebig sind – nicht nur in der Qualität, sondern auch im Design. Anstatt jedem Trend zu folgen, entstehen so Produkte, die sich durch zeitlose Designs hervortun."

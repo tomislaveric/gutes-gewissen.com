@@ -27,13 +27,6 @@ contact: [
     "Email: info@lamazuna.de",
     "Adresse: wasserneutral GmbH, Luisenweg 109, 20537 Hamburg"
 ]
-affiliateElements: [
-    [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dhydrophil", 
-    "/assets/images/idealo.png"
-    ]
-]
 shortDescription: "HYDROPHIL Online-Shop umfasst wasserneutrale, vegane sowie fair produzierte Artikel für die tägliche Körperpflege und Mundhygiene für mehr Wasserschutz."
 description: "Die Hamburger Marke HYDROPHIL verkauft Produkte für die nachhaltige Körperpflege und Mundhygiene. Alle Produkte bestehen aus veganen Rohstoffen und werden fair und wasserneutral produziert."
 ---

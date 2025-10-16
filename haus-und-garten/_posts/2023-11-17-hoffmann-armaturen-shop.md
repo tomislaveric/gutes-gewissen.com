@@ -31,11 +31,6 @@ contact: [
 ]
 affiliateElements: [
     [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dhoffmann%2Barmaturen", 
-    "/assets/images/idealo.png"
-    ],
-    [
     "Produkte im Online-Shop von otto.de", 
     "https://www.awin1.com/cread.php?awinmid=14336&awinaffid=731132&ued=https%3A%2F%2Fwww.otto.de%2Fsuche%2Fhoffmann%2520made%2520in%2520germany", 
     "/assets/images/otto.png"

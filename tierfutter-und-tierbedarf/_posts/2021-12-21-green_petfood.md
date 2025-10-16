@@ -26,13 +26,6 @@ contact: [
     "Email: kundenbetreuung@green-petfood.de",
     "Adresse: FOODFORPLANET GmbH & Co. KG, Industriegebiet Süd, 63924 Kleinheubach"
 ]
-affiliateElements: [
-    [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DGreen%2BPetfood", 
-    "/assets/images/idealo.png"
-    ]
-]
 shortDescription: "Die Vision hinter dem Green Petfood Online-Shop ist es, dass unsere Haustiere sich gut ernähren sollen und ihr Futter für die Welt nachhaltig sein soll. Diese beiden Prinzipien werden bei der gesamten Futterherstellung mitbedacht, sowohl bei der Auswahl der Zutaten als auch im Prozess der Herstellung."
 description: "Außerdem werden die Produkte kompensiert, sodass der Tierfutterproduzent mittlerweile sogar 125% klimapositiv ist. Zudem ist natürlich nachhaltiges Futter aus guten Rohstoffen auch das Beste für das Tier."
 ---

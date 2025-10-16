@@ -22,13 +22,6 @@ contact: [
     "Email: hello@sorbasshoes.com",
     "Adresse: SORBAS Shoes GmbH, Pappelallee 78/79, 10437 Berlin"
 ]
-affiliateElements: [
-    [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory%2F11592.html%3Fq%3Dsorbas%26qr%3Dfalse", 
-    "/assets/images/idealo.png"
-    ]
-]
 shortDescription: "Die Idee bei der Gründung von SORBAS war es, bequeme und hochwertige Schuhe zu fertigen, die gleichzeitig Gutes tun. Als Label widmet sich SORBAS bereits seit 2015 der nachhaltigen und fairen Produktion von Schuhen und Accessoires und dessen Vertrieb."
 description: "Das in Berlin-Neukölln gegründete Label produziert seine Unisex-Produkte unter fairen Bedingungen in den traditionellen Schuhmacherbetrieben in Serbien, Portugal und Griechenland."
 ---

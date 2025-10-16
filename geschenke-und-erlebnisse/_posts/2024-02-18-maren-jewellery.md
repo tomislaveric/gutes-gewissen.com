@@ -23,13 +23,6 @@ contact: [
     "E-Mail: info@marenjewellery.com",
     "Adresse: Maren Jewellery, Söflinger Straße 250, 89077 Ulm"
 ]
-affiliateElements: [
-    [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dmaren%2Bjewellery", 
-    "/assets/images/idealo.png"
-    ],
-]
 shortDescription: "Maren Jewellery ist nachhaltiger Luxusschmuck, gegründet von Designerin Helge Maren. Wer sich für den Kauf von Marens nachhaltigem Schmuck entscheidet, trägt nicht nur ein positives Gefühl davon, sondern trägt auch zum Wohlergehen unserer Erde bei und macht mit dem Kauf einen bedeutenden Unterschied."
 description: "Alle Schmuckstücke werden persönlich entworfen und vor Ort aus recyceltem 18 Karat Gold und im Labor gezüchteten Diamanten handgefertigt. Maren steht für Verantwortung und Achtsamkeit, für zeitlose Ästhetik und hohe Qualität und für den Mut, neue Wege zu gehen und Veränderungen zu schaffen. Ausgezeichnet mit dem German Design Award 2022, RJC-zertifiziert und die erste zertifizierte B Corp-Schmuckmarke in Deutschland."
 ---

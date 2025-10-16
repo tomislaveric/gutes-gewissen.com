@@ -28,13 +28,6 @@ contact: [
     "Email: support@thokkthokk.com",
     "Adresse: ThokkThokk GmbH & Co. KG, Baaderstr. 33, 80469 München"
 ]
-affiliateElements: [
-    [
-    "Produkte im Preisvergleich von idealo.de",
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&clickref=&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DThokkThokk",
-    "/assets/images/idealo.png"
-    ]
-]
 media: ["https://www.youtube.com/embed/MHl5vwosE-s"]
 shortDescription: "ThokkThokk Online-Shop hat ökologisch und fair produzierte Kleidung nach eigenen Designs sowie weiterer unterschiedlicher Labels im Sortiment."
 description: "Das bereits über die Grenzen Deutschlands hinaus bekannte Münchner Label ThokkThokk verkauft fair produzierte Freizeitkleidung. In der Ökoszene sind die typischen minimalistischen Designs der Marke bereits echte Klassiker. Das besondere Lebensgefühl von ThokkThokk findet sich in den verschiedenen Kollektionen des Labels wieder. Diese beschäftigen sich vor allem mit der Beziehung zwischen Mensch und Natur sowie der Fähigkeit unserer natürlichen Umgebung, unsere Kreativität zu wecken."

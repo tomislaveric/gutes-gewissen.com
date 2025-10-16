@@ -28,13 +28,6 @@ contact: [
     "E-Mail: office@birkengold.at",
     "Adresse: Birkengold GmbH, Hauptplatz 3-5, 3202 Hofstetten-Grünau, Österreich"
 ]
-affiliateElements: [
-    [
-    "Produkte im Preisvergleich von idealo.de",
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dbirkengold",
-    "/assets/images/idealo.png"
-    ]
-]
 shortDescription: "Birkengold ist ein österreichisches Unternehmen, das 2011 gegründet wurde. Begonnen hat alles mit der Idee, Xylit, auch Birkenzucker genannt, in Österreich leichter zugänglich zu machen, da es über eine Vielzahl an positiven Eigenschaften verfügt."
 description: "Mittlerweile bietet Birkengold in seinem Online Shop ein reichhaltiges Sortiment von über 60 verschiedenen Artikeln an, darunter natürlich den beliebten Birkenzucker, aber auch Kekse, Kaugummis, Fruchtaufstriche, Kakao, Bonbons, Gummibärchen, Zahnpulver, etc. Die Produkte von Birkengold sind ohne Zucker und ohne künstliche Inhaltsstoffe hergestellt, sind zudem zu 100% vegan und werden nachhaltig verpackt versendet."
 ---

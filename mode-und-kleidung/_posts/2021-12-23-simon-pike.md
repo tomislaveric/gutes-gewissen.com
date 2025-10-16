@@ -23,13 +23,6 @@ contact: [
     "Email: sb@simonpike.com",
     "Adresse: SP Fashion GmbH, Im Seelig 17, 76857 Gossersweiler-Stein"
 ]
-affiliateElements: [
-    [
-    "Produkte im Preisvergleich von idealo.de",
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DSimon%2BPike",
-    "/assets/images/idealo.png"
-    ]
-]
 shortDescription: "In dem Simon Pike Online-Shop finden die Technikbegeisterten die passenden handgemachten Handytaschen und Accessoires zum Schutz ihres Lieblingsstückes."
 description: "Elektrogeräte wie Computer, Tablets oder auch Smartphones, sind mit empfindlicher Elektronik ausgestattet. Sie können, wenn sie hinfallen, nicht nur Funktionsstörungen erleiden, sondern auch unschöne Kratzer und Beschädigungen bekommen. Daher ist es ratsam und von Vorteil, die Geräte durch Taschen, Hüllen oder Etuis zu schützen. Tolle Lösungen dieser Art gibt es in dem Online-Shop Simon Pike."
 ---

@@ -36,11 +36,6 @@ affiliateElements: [
     "Produkte im Online-Shop von otto.de", 
     "https://www.awin1.com/cread.php?awinmid=14336&awinaffid=731132&clickref=&ued=https%3A%2F%2Fwww.otto.de%2Fsuche%2FBeyerdynamic%2F",
     "/assets/images/otto.png"
-    ],
-    [
-    "Produkte im Preisvergleich von idealo.de", 
-    "https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&clickref=&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DBeyerdynamic", 
-    "/assets/images/idealo.png"
     ]
 ]
 shortDescription: "beyerdynamic ist ein deutsches Traditionsunternehmen für hochwertige Audiotechnik mit qualitativen und innovativen Produkten 'Made in Germany'."
