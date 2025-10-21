@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "forpeople",
+      "url"         : "/drogerie-und-kosmetik/forpeople/",
+      "category"    : "",
+      "tags"        : "Naturkosmetik, Biokosmetik, Plastikfrei, Bio, Hautpflege, Made-in-Germany",
+      "date"        : "2025-10-21 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 4,90 Euro bis 49 Euro WarenwertVersandkostenfreie Lieferung innerhalb Deutschlands für Bestellungen ab 49 EuroVersand ins Ausland ab 9,90 Euro verfügbar",
+      "image"       : "/assets/images/forpeople_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Wunder-Zahnstocher",
       "url"         : "/drogerie-und-kosmetik/wunder-zahnstocher/",
       "category"    : "",
