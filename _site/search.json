@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Naturbrocken Seifenmanufaktur",
+      "url"         : "/drogerie-und-kosmetik/naturbrocken-seife/",
+      "category"    : "",
+      "tags"        : "Seife, Naturseife, Bio, Vegan, Handgemacht, Plastikfrei, Made-in-EU",
+      "date"        : "2025-10-25 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 3,99 Euro bis 50 Euro BestellwertVersandkostenfreie Lieferung innerhalb Deutschlands für Bestellungen ab 50 Euro",
+      "image"       : "/assets/images/naturbrocken-seife_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "forpeople",
       "url"         : "/drogerie-und-kosmetik/forpeople/",
       "category"    : "",
