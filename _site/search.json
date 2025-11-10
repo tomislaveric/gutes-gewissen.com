@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Youro",
+      "url"         : "/mode-und-kleidung/youro/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Fair, Made-in-Europe, Made-in-EU, Mode, Möbel, Drogerie, Kosmetik, Technik",
+      "date"        : "2025-11-09 00:00:00 +0100",
+      "shippings"   : "Versandkostenfreie Lieferung innerhalb Deutschlands für alle BestellungenVersandkosten ins Ausland abhängig von Partnermarke und Zielland",
+      "image"       : "/assets/images/youro_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Naturbrocken Seifenmanufaktur",
       "url"         : "/drogerie-und-kosmetik/naturbrocken-seife/",
       "category"    : "",
