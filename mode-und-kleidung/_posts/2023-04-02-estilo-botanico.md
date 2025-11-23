@@ -2,7 +2,10 @@
 author: Tomislav
 title: Estilo Botanico
 slogan: Vegane Taschen und Accessoires aus Naturfasern
-targetUrl: https://t.adcell.com/p/click?promoId=331417&slotId=101181
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+contentButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
 image: /assets/images/estilo-botanico_logo.png
 screenshot: /assets/images/screenshots/estilo-botanico_screenshot.jpg
 rubric: Mode & Kleidung
@@ -38,7 +41,7 @@ So entstand der Grundgedanke, die schönen Exemplare aus Portugal auch tierliebe
 
 ### Die Prinzipien von Estilo Botanico
 
-Werte wie [Nachhaltigkeit](https://estilobotanico.com/pages/materials-manufacturing){:target="_blank"}, Fairness und Transparenz gegenüber den Kund:innen, aber auch gegenüber allen Geschäftspartnern, haben bei Estilo Botanico einen hohen Stellenwert. Deshalb war es von Anfang an klar, dass alle Produkte in Europa gefertigt werden sollten. Das gibt die Gewissheit, dass die Menschen, die das Sortiment von Estilo Botanico herstellen, auch unter sozialverträglichen Bedingungen arbeiten. Darüber hinaus leistet Estilo Botanico so auch einen wichtigen Beitrag zum Erhalt der Modeproduktion in Europa.
+Werte wie Nachhaltigkeit, Fairness und Transparenz gegenüber den Kund:innen, aber auch gegenüber allen Geschäftspartnern, haben bei Estilo Botanico einen hohen Stellenwert. Deshalb war es von Anfang an klar, dass alle Produkte in Europa gefertigt werden sollten. Das gibt die Gewissheit, dass die Menschen, die das Sortiment von Estilo Botanico herstellen, auch unter sozialverträglichen Bedingungen arbeiten. Darüber hinaus leistet Estilo Botanico so auch einen wichtigen Beitrag zum Erhalt der Modeproduktion in Europa.
 
 Da Tiere durch die Wahl der veganen Lederalternativen bei Estilo Botanico nicht nur ein längeres, sondern auch ein schöneres Leben haben sollen, werden außerdem 5 Prozent des Gewinns an Tierschutzorganisationen gespendet.
 
