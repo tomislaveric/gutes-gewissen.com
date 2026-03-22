@@ -12,11 +12,16 @@ description: Quality check and fix shop pages when partner programs end
 <instructions>
 ```
 
-### Example
+### Examples
 
 ```
 #quali https://gutes-gewissen.com/haus-und-garten/atisan/
 partnerprogramm beendet, button-link auf kategorie, text-link entfernen
+```
+
+```
+#quali https://gutes-gewissen.com/mode-und-kleidung/fafigo/
+partnerprogramm beendet, button-link auf kategorie, textlink ändern in "https://www.fafigo.de/pages/uber-uns"
 ```
 
 ---
@@ -64,9 +69,13 @@ sidebarButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
 contentButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
 ```
 
-### 4. `text-link entfernen` — Remove links from content
+### 4. Handle text links in content
 
-Remove all markdown links in the content body but **keep the link text**.
+The instructions will specify one of two actions for markdown links in the content body:
+
+#### Option A: `text-link entfernen` — Remove links
+
+Remove all markdown links but **keep the link text**.
 
 **Before:**
 ```markdown
@@ -81,6 +90,24 @@ Die atisan Produkte werden aus Materialien gefertigt
 The pattern to match and replace is:
 - `[Link Text](URL){:target="_blank"}` → `Link Text`
 - `[Link Text](URL)` → `Link Text`
+
+#### Option B: `textlink ändern in "<NEW_URL>"` — Change link targets
+
+Replace the URL in all markdown links with the provided new URL. Keep the link text and the `{:target="_blank"}` attribute intact.
+
+**Before:**
+```markdown
+Die fafigo Produkte werden aus [Materialien](https://www.fafigo.de/old-page){:target="_blank"} gefertigt
+```
+
+**After (with new URL `https://www.fafigo.de/pages/uber-uns`):**
+```markdown
+Die fafigo Produkte werden aus [Materialien](https://www.fafigo.de/pages/uber-uns){:target="_blank"} gefertigt
+```
+
+The pattern to match and replace is:
+- `[Link Text](OLD_URL){:target="_blank"}` → `[Link Text](NEW_URL){:target="_blank"}`
+- `[Link Text](OLD_URL)` → `[Link Text](NEW_URL)`
 
 ---
 
