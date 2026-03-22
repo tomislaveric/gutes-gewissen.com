@@ -118,3 +118,32 @@ bundle exec jekyll build
 ```
 
 If the build fails, investigate and fix the issue before finishing.
+
+### 6. Commit and push
+
+Commit the changes with the message `quali check for {title}`, where `{title}` is the `title` value from the file's frontmatter.
+
+```bash
+git add -A && git commit -m "quali check for {title}"
+```
+
+Then deploy via git-ftp and push to the remote:
+
+```bash
+git-ftp push && git push
+```
+
+**If `git push` fails** (e.g. SSH authentication error), retry with:
+
+```bash
+ssh-add --apple-use-keychain ~/.ssh/github_rsa
+git push
+```
+
+**If it still fails**, start the SSH agent first and retry:
+
+```bash
+eval "$(ssh-agent -s)"
+ssh-add --apple-use-keychain ~/.ssh/github_rsa
+git push
+```
