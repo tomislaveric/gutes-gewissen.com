@@ -2,7 +2,10 @@
 author: Tomislav
 title: Green Petfood
 slogan: Tiergerechtes und umweltfreundliches Futter
-targetUrl: https://www.awin1.com/cread.php?awinmid=15963&awinaffid=731132
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Tierfutter & Tierbedarf"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Tierfutter & Tierbedarf"
+contentButtonText: "Ähnliche Produkte in der Rubrik Tierfutter & Tierbedarf"
 image: /assets/images/green-petfood.png
 screenshot: /assets/images/screenshots/green-petfood_screenshot.jpg
 rubric: Tierfutter & Tierbedarf
@@ -32,7 +35,7 @@ description: "Außerdem werden die Produkte kompensiert, sodass der Tierfutterpr
 
 ### Die Prinzipien von Green Petfood
 
-Der Onlineshop Green Petfood folgt der Idee, dass unsere Welt zu einem besseren Ort werden muss. Daher engagiert sich der Unternehmen in sozialen und ökologischen Projekten und achtet penibel auf seine [Klimaneutralität](https://www.green-petfood.de/ueberuns/klimaschutz){:target="_blank"}. Es sollen Produkte mit einem echten Mehrwert geschaffen werden, die für die Tiere, also Katzen und Hunde, eine optimale Versorgung mit allen wichtigen Nährstoffen bieten und dabei auch für die Umwelt unschädlich sind.
+Der Onlineshop Green Petfood folgt der Idee, dass unsere Welt zu einem besseren Ort werden muss. Daher engagiert sich der Unternehmen in sozialen und ökologischen Projekten und achtet penibel auf seine Klimaneutralität. Es sollen Produkte mit einem echten Mehrwert geschaffen werden, die für die Tiere, also Katzen und Hunde, eine optimale Versorgung mit allen wichtigen Nährstoffen bieten und dabei auch für die Umwelt unschädlich sind.
 
 ### Das Sortiment von Green Petfood
 
