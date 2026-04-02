@@ -21,6 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://gutes-gewissen.com' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gutes_gewissen
+logo: /assets/images/logo_v1_alpha.png
 
 sass:
   sass_dir: assets/css

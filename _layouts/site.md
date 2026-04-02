@@ -6,9 +6,11 @@ layout: base
   "@context": "https://schema.org/",
   "@type": "Product",
   "name": "{{ page.title }}",
-  "image": "{{ page.image }}",
+  "image": "{{ site.url }}{{ page.image }}",
   "description": "{{ page.description }}",
   "url": "{{ page.targetUrl }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
   "review": {
     "@type": "Review",
     "reviewRating": {
@@ -25,6 +27,17 @@ layout: base
     "@type": "Brand",
     "name": "{{ page.title }}"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Start", "item": "{{ site.url }}/" },
+    { "@type": "ListItem", "position": 2, "name": "{{ page.rubric }}", "item": "{{ site.url }}/{{ page.categories[0] }}/" },
+    { "@type": "ListItem", "position": 3, "name": "{{ page.title }}" }
+  ]
 }
 </script>
 <article>
@@ -68,7 +81,7 @@ layout: base
             <span class="affili" data-affili="{{ page.targetUrl }}" rel="{% if page.relType %}{{page.relType}}{% else %}sponsored{% endif %}">
                 <div class="text-center mb-3">
                     <div>
-                        <img class="img-fluid mt-4" src="{{ page.image }}" alt="{{ page.title }} Logo" />
+                        <img class="img-fluid mt-4" loading="lazy" src="{{ page.image }}" alt="{{ page.title }} Logo" />
                     </div>
                     {% if page.sidebarButtonText %}
                     <div class="btn btn-success mt-4 mb-3">

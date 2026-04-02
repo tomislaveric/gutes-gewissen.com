@@ -1,6 +1,15 @@
 ---
 layout: base
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "{{ page.title }}",
+  "description": "{{ page.shortDescription }}",
+  "url": "{{ site.url }}{{ page.url }}"
+}
+</script>
 <div class="container py-4">
     <h1 class="h3">{{ page.title }} im Vergleich {{ 'now' | date: "%Y" }}</h1>
     <h2 class="lead text-muted">{{ page.headline }}</h2>

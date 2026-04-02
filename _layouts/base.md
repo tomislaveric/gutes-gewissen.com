@@ -5,14 +5,6 @@ websiteTitle: gutes-gewissen
 <html lang="de">
 
 <head>
-  <script src="/assets/js/jquery-3.6.0.min.js" type="text/javascript"></script>
-  <script src="/assets/js/jquery.tablesorter.min.js" type="text/javascript"></script>
-  <script src="/assets/js/popper.min.js" type="text/javascript"></script>
-  <script src="/assets/js/link-masking.js" type="text/javascript"></script>
-  <script src="/assets/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
-  <script src="/assets/js/scrolling.js" type="text/javascript"></script>
-  <script src="/assets/js/filter.js" type="text/javascript"></script>
-
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description"
@@ -27,6 +19,9 @@ websiteTitle: gutes-gewissen
   {% endif %}
 
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="apple-touch-icon" href="/assets/images/logo_v1_alpha.png" />
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+  <meta name="robots" content="{% if page.robots %}{{ page.robots }}{% else %}index, follow{% endif %}" />
   <link rel="stylesheet" href="/assets/css/main.css" />
   <link rel="stylesheet" href="/assets/fontawesome/css/font-awesome.min.css" />
   <title>{% if page.seoTitle %}{{page.seoTitle}}{% else %}{{ page.title }}{% if page.slogan %} | {{ page.slogan }} {%
@@ -48,6 +43,32 @@ websiteTitle: gutes-gewissen
          })();
        </script>
        <!-- End Matomo Code -->
+  {% if page.url == '/' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "name": "{{ site.title }}",
+        "url": "{{ site.url }}",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "{{ site.url }}/search/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "{{ site.title }}",
+        "url": "{{ site.url }}",
+        "logo": "{{ site.url }}/assets/images/logo_v1_alpha.png",
+        "sameAs": ["https://twitter.com/{{ site.twitter_username }}"]
+      }
+    ]
+  }
+  </script>
+  {% endif %}
 </head>
 
 <body>
@@ -62,6 +83,13 @@ websiteTitle: gutes-gewissen
       <a class="btn btn-light btn-sm ml-1" href="/datenschutz">Datenschutz</a>
     </div>
   </footer>
+  <script src="/assets/js/jquery-3.6.0.min.js" type="text/javascript"></script>
+  <script src="/assets/js/jquery.tablesorter.min.js" type="text/javascript"></script>
+  <script src="/assets/js/popper.min.js" type="text/javascript"></script>
+  <script src="/assets/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/assets/js/link-masking.js" type="text/javascript"></script>
+  <script src="/assets/js/scrolling.js" type="text/javascript"></script>
+  <script src="/assets/js/filter.js" type="text/javascript"></script>
 </body>
 
 </html>
