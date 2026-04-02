@@ -2,6 +2,66 @@
   
     {
 
+      "title"       : "Radoxx",
+      "url"         : "/spielzeug-und-hobby/radoxx/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Langlebig, Fahrrad, Fahrradkomponenten, Fahrradteile, Made-in-Germany",
+      "date"        : "2026-04-02 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 3,90 EuroLieferung in die Europäische Union für 5,90 EuroVersandkostenfreie Lieferung ab 99 Euro BestellwertVersand an Packstationen möglich",
+      "image"       : "/assets/images/radoxx_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Medifanten.de",
+      "url"         : "/secondhand-und-upcycling/medifanten-de/",
+      "category"    : "",
+      "tags"        : "Bücher verkaufen, Second Hand, Kreislaufwirtschaft, Bücherankauf, Ankauf für Bücher",
+      "date"        : "2026-04-02 00:00:00 +0200",
+      "shippings"   : "",
+      "image"       : "/assets/images/medifanten-de_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "Tarzzani",
+      "url"         : "/ernaehrung-und-lebensmittel/tarzzani/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Kaffee, Ökologisch, Fair, Direkt",
+      "date"        : "2026-04-02 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 4,90 EuroVersandkosten von 1,80 Euro für Bestellungen von 100 g-PackungenVersandkostenfreie Lieferung ab 49 Euro Bestellwert",
+      "image"       : "/assets/images/tarzzani_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "eat Performance",
+      "url"         : "/ernaehrung-und-lebensmittel/eat-performance/",
+      "category"    : "",
+      "tags"        : "Bio, Ökologisch, Glutenfrei, Handgemacht, Made-in-Germany, Lebensmittel",
+      "date"        : "2026-04-02 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 6,90 EuroKostenloser Versand innerhalb Deutschlands ab 80 Euro BestellwertLieferung ins EU-Ausland, in die Schweiz und ins Vereinigte Königreich möglichLieferung an Packstationen erhältlich",
+      "image"       : "/assets/images/eat-performance_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "CentralRösterei",
+      "url"         : "/ernaehrung-und-lebensmittel/centralroesterei/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Kaffee, Rösterei, Ökologisch, Fair, Direkt",
+      "date"        : "2026-04-02 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 4,90 Euro (UPS) oder 6,90 Euro (DHL)Ab einem Bestellwert von 70 Euro versandkostenfreiVersand wahlweise über UPS oder DHL (Lieferung an Packstationen möglich)Transportkosten in Länder der EU von 11,90 Euro pro 25 kg mit UPS",
+      "image"       : "/assets/images/centralroesterei_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Youro",
       "url"         : "/mode-und-kleidung/youro/",
       "category"    : "",
