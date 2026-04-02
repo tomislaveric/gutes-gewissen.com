@@ -2,7 +2,10 @@
 author: Tomislav
 title: Kaufnekuh
 slogan: Hochwertiges Fleisch direkt vom Bauern kaufen
-targetUrl: https://www.awin1.com/awclick.php?gid=445829&mid=25607&awinaffid=731132&linkid=3224125&clickref=
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+contentButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
 image: /assets/images/kaufnekuh_logo.png
 screenshot: /assets/images/screenshots/kaufnekuh_screenshot.jpg
 rubric: Ernährung & Lebensmittel

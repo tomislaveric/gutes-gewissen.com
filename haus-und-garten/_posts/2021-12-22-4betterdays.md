@@ -2,7 +2,10 @@
 author: Tomislav
 title: 4betterdays
 slogan: Handgemachte Massivholzmöbel und Handwerksprodukte
-targetUrl: https://www.awin1.com/cread.php?awinmid=20968&awinaffid=731132
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
+contentButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
 image: /assets/images/4betterdays.png
 screenshot: /assets/images/screenshots/4betterdays_screenshot.jpg
 rubric: Haus & Garten
@@ -38,7 +41,7 @@ Neben dem 4betterdays Shop in Innsbruck gibt es den Online-Shop, der in die ganz
 
 ### Die Prinzipien von 4betterdays
 
-Es gibt [4 Säulen](https://www.4betterdays.com/philosophie){:target="_blank"}, an denen sich das Unternehmen 4betterdays orientiert. Nummer Eins ist Regionalität und Nachhaltigkeit. Die Rohstoffe werden regional bezogen und sind zu 100 % aus nachwachsenden Ressourcen. Als zweites gehören Handwerk und Respekt zusammen. Das gilt gleichermaßen für die kleinen Betriebe, deren Familien, Mitarbeiter und Mitarbeiterinnen sowie für die geschützten Werkstätten.
+Es gibt 4 Säulen, an denen sich das Unternehmen 4betterdays orientiert. Nummer Eins ist Regionalität und Nachhaltigkeit. Die Rohstoffe werden regional bezogen und sind zu 100 % aus nachwachsenden Ressourcen. Als zweites gehören Handwerk und Respekt zusammen. Das gilt gleichermaßen für die kleinen Betriebe, deren Familien, Mitarbeiter und Mitarbeiterinnen sowie für die geschützten Werkstätten.
 
 Die dritte Säule ist die hochwertige Qualität der 4betterdays Produkte. Vor allem kleinen Betrieben sind andere Werte wichtiger als Wachstum und Profit zu jedem Preis. Sie fertigen keine Wegwerfprodukte, sondern langlebige Waren. Als vierten Punkt ist die faire Wertschöpfungskette für alle Beteiligten wichtig, einschließlich der Handwerker und Kunden. Für die nachhaltige und faire Produktion abseits der Großindustrie stehen drei Siegel. Das sind „Handmade in the Alps“, „Manufactured in Europe“ und „Fair Produced“.
 

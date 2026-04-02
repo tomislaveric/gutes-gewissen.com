@@ -2,7 +2,10 @@
 author: Tomislav
 title: hier&direkt
 slogan: Produkte von Direkterzeugern in der Region finden
-targetUrl: https://hierunddirekt.de/infos/partner/251/
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+contentButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
 image: /assets/images/hierunddirekt_logo.png
 screenshot: /assets/images/screenshots/hierunddirekt_screenshot.jpg
 rubric: Ernährung & Lebensmittel
@@ -29,7 +32,7 @@ Das Netzwerk hier&direkt schafft Abhilfe. Es bündelt kleine und mittelständisc
 
 Schon mit dem kostenlosen Eintrag auf hierunddirekt.de wird das eigene Unternehmen sichtbar. Es bekommt eine kostenlose Visitenkarte mit Beschreibung, Logo, Anschrift und Kontaktdaten. Gerade kleinste Unternehmen, die keine Webseite und auch nicht das Know-How dafür haben, bekommen hier eine eigene kleine Internetpräsenz – einfach nur durch Ausfüllen eines simplen Formulars.
 
-Die Leistung liegt aber unter der Oberfläche. Wenn man sein Unternehmen einträgt, dann trägt man auch seine Produkte ein. Das geht ganz einfach über Schlagwörter. Andere Unternehmer – aber auch Verbraucher – können also auf [hierunddirekt.de](https://hierunddirekt.de/vorteile/){:target="_blank"} auch nach Produkten und Dienstleistungen suchen. 
+Die Leistung liegt aber unter der Oberfläche. Wenn man sein Unternehmen einträgt, dann trägt man auch seine Produkte ein. Das geht ganz einfach über Schlagwörter. Andere Unternehmer – aber auch Verbraucher – können also auf hierunddirekt.de auch nach Produkten und Dienstleistungen suchen. 
 
 Sie finden die Unternehmen über deren Produkte: Sie suchen Mehl und finden Anbieter von Mehl – aber auch Mühlen. Sie suchen Schokolade und finden Geschäfte, die Schokolade verkaufen – aber auch Schokoladenmanufakturen. Sie suchen unverpackte Produkte und finden Unverpacktläden – aber auch Anbieter von all dem, was ein Unverpacktladen braucht, um zu funktionieren.
 

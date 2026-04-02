@@ -2,7 +2,10 @@
 author: Michael
 title: Greenpicks
 slogan: "Marktplatz für Öko- und Upcycling-Produkte"
-targetUrl: https://pluto.r.powuta.com/ts/i5038020/tsc?typ=r&amc=con.blbn.490871.505057.CRT3csrg6WW
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Secondhand & Upcycling"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Secondhand & Upcycling"
+contentButtonText: "Ähnliche Produkte in der Rubrik Secondhand & Upcycling"
 image: /assets/images/greenpicks_logo.png
 screenshot: /assets/images/screenshots/greenpicks_screenshot.jpg
 rubric: Secondhand & Upcycling
@@ -26,7 +29,7 @@ description: 'Greenpicks Eco & Upcycling bezeichnet sich selbst als internationa
 
 ### Die Idee von Greenpicks
 
-Das Grundbedürfnis von Greenpicks ist es, etwas Sinnvolles zu tun und die Welt ein Stückchen zu verbessern. Es geht dem Unternehmen darum, immer mehr Menschen zum Nach- und Umdenken zu bewegen, um nach und nach etwas zu verändern. So soll einem immer größeren Kreis von Personen [Zugang zu nachhaltigem Konsum](https://www.greenpicks.de/de/ueber-uns) ermöglicht werden. Außerdem möchte Greenpicks durch Tipps und Vorschläge Anregungen für eine nachhaltige Lebensweise geben. Der Nachhaltigkeitsgedanke steht deshalb bei allen Überlegungen und Aktionen des Unternehmens im Vordergrund. Die Umsetzung sieht wie folgt aus:
+Das Grundbedürfnis von Greenpicks ist es, etwas Sinnvolles zu tun und die Welt ein Stückchen zu verbessern. Es geht dem Unternehmen darum, immer mehr Menschen zum Nach- und Umdenken zu bewegen, um nach und nach etwas zu verändern. So soll einem immer größeren Kreis von Personen Zugang zu nachhaltigem Konsum ermöglicht werden. Außerdem möchte Greenpicks durch Tipps und Vorschläge Anregungen für eine nachhaltige Lebensweise geben. Der Nachhaltigkeitsgedanke steht deshalb bei allen Überlegungen und Aktionen des Unternehmens im Vordergrund. Die Umsetzung sieht wie folgt aus:
 
 - Der Greenpicks Online-Shop wird zu 100 Prozent aus Ökostrom (Wasserkraft) des Anbieters [NATURSTROM](https://gutes-gewissen.com/oekostrom-und-oekogas/naturstrom/) gehostet. Die Mitarbeiter*innen bemühen sich, ihren Stromverbrauch so gering wie möglich zu halten und verwenden zu diesem Zweck zum Beispiel schaltbare Steckdosenleisten und energiesparende Leuchtmittel.
 - Greenpicks lässt seine Print-Produkte bei einer grünen Druckerei drucken, das heißt, für Flyer usw. werden Recyclingpapier und erdölfreie Naturfarben verwendet.

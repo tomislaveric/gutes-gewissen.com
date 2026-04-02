@@ -2,10 +2,10 @@
 author: Tomislav
 title: beyerdynamic
 slogan: Hochwertige Audiotechnik Made in Germany
-targetUrl: https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&clickref=&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DBeyerdynamic
-sidebarButtonText: "Produkte von beyerdynamic ansehen"
-contentButtonText: "Produkte von beyerdynamic im Preisvergleich auf idealo.de ansehen"
-ctaButtonText: "Produkte von beyerdynamic ansehen"
+targetUrl: https://www.awin1.com/cread.php?awinmid=14336&awinaffid=731132&ued=https%3A%2F%2Fwww.otto.de%2Fsuche%2Fbeyerdynamic%2F
+sidebarButtonText: "Produkte von beyerdynamic auf OTTO.de anschauen"
+contentButtonText: "Produkte von beyerdynamic auf OTTO.de anschauen"
+ctaButtonText: "Produkte von beyerdynamic auf OTTO.de anschauen"
 image: /assets/images/beyerdynamic.png
 screenshot: /assets/images/screenshots/beyerdynamic_screenshot.jpg
 rubric: Computer & Technik

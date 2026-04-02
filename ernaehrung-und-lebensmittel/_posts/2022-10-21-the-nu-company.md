@@ -2,10 +2,10 @@
 author: Tomislav
 title: the nu company
 slogan: Vegane Schokolade nachhaltig verpackt
-targetUrl: https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dnucao
-ctaButtonText: "nucao Produkte ansehen"
-sidebarButtonText: "nucao Produkte ansehen"
-contentButtonText: "nucao Produkte ansehen"
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+contentButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
 image: /assets/images/nucao_logo.png
 screenshot: /assets/images/screenshots/nucao_screenshot.jpg
 rubric: Ernährung & Lebensmittel
@@ -41,7 +41,7 @@ Der Antrieb der Gründer ist und bleibt die voranschreitende Klimakrise. Die Fah
 + plastikfrei verpackt
 + klimafreundlich
 
-Jedes Piepen an der Kasse soll zum Signal für eine bessere Welt werden. Darum investiert das Unternehmen mit jedem Produkt in die [Aufforstung](https://www.the-nu-company.com/pages/aufforstung){:target="_blank"} und hat mit seinem langjährigen Partner Eden Reforestation Projects mittlerweile schon über 10 Millionen Bäume gepflanzt. Insgesamt spendet the nu company 3 Prozent des Umsatzes an die Aufforstungsprojekte, um dem Planeten aktiv etwas zurückzugeben.
+Jedes Piepen an der Kasse soll zum Signal für eine bessere Welt werden. Darum investiert das Unternehmen mit jedem Produkt in die Aufforstung und hat mit seinem langjährigen Partner Eden Reforestation Projects mittlerweile schon über 10 Millionen Bäume gepflanzt. Insgesamt spendet the nu company 3 Prozent des Umsatzes an die Aufforstungsprojekte, um dem Planeten aktiv etwas zurückzugeben.
 
 ### Die Idee hinter the-nu-company.com
 
@@ -53,7 +53,7 @@ Der Antrieb der Gründer ist und bleibt die voranschreitende Klimakrise. Die Fah
 + nachhaltig verpackt
 + klimafreundlich
 
-Jedes Piepen an der Kasse soll zum Signal für eine bessere Welt werden. Darum investiert das Unternehmen mit jedem Produkt in die [Aufforstung](https://www.the-nu-company.com/pages/aufforstung){:target="_blank"} und hat mit seinem langjährigen Partner Eden Reforestation Projects mittlerweile schon über 11 Millionen Bäume gepflanzt. Insgesamt spendet nucao 3 Prozent des Umsatzes an die Aufforstungsprojekte, um dem Planeten aktiv etwas zurückzugeben.
+Jedes Piepen an der Kasse soll zum Signal für eine bessere Welt werden. Darum investiert das Unternehmen mit jedem Produkt in die Aufforstung und hat mit seinem langjährigen Partner Eden Reforestation Projects mittlerweile schon über 11 Millionen Bäume gepflanzt. Insgesamt spendet nucao 3 Prozent des Umsatzes an die Aufforstungsprojekte, um dem Planeten aktiv etwas zurückzugeben.
 
 ### Die Produkte von the-nu-company.com
 

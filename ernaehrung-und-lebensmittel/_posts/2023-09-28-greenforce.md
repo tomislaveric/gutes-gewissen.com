@@ -2,10 +2,10 @@
 author: Tomislav
 title: GREENFORCE
 slogan: Shop für vegane Alternativen zu Fleisch, Ei, Milch & Co.
-targetUrl: https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dgreenforce
-ctaButtonText: "GREENFORCE Produkte ansehen"
-sidebarButtonText: "GREENFORCE Produkte ansehen"
-contentButtonText: "GREENFORCE Produkte ansehen"
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+contentButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
 image: /assets/images/greenforce.png
 screenshot: /assets/images/screenshots/greenforce_screenshot.jpg
 rubric: Ernährung & Lebensmittel

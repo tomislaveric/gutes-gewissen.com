@@ -2,10 +2,10 @@
 author: Tomislav
 title: Birkengold
 slogan: Lebensmittel und Zahnpflegeprodukte aus Österreich
-targetUrl: https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dbirkengold
-ctaButtonText: "Birkengold Produkte ansehen"
-sidebarButtonText: "Birkengold Produkte ansehen"
-contentButtonText: "Birkengold Produkte ansehen"
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+contentButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
 image: /assets/images/birkengold_logo.png
 screenshot: /assets/images/screenshots/birkengold_screenshot.jpg
 rubric: Ernährung & Lebensmittel

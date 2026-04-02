@@ -2,10 +2,10 @@
 author: Tomislav
 title: WOODSANDWAVES
 slogan: Nachhaltige Tücher aus recycelten PET-Flaschen
-targetUrl: https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dwoodsandwaves
-sidebarButtonText: "Produkte von WOODSANDWAVES ansehen"
-contentButtonText: "Produkte von WOODSANDWAVES im Preisvergleich auf idealo.de ansehen"
-ctaButtonText: "Produkte von WOODSANDWAVES ansehen"
+targetUrl: ../
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
+contentButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
+ctaButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
 image: /assets/images/woodsandwaves_logo.png
 screenshot: /assets/images/screenshots/woodsandwaves_screenshot.jpg
 rubric: Haus & Garten

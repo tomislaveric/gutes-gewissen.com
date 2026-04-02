@@ -2,10 +2,10 @@
 author: Tomislav
 title: MICARAA Naturkosmetik
 slogan: Natürliche vegane Kosmetikprodukte
-targetUrl: https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3Dmicaraa
-sidebarButtonText: "Produkte von MICARAA Naturkosmetik ansehen"
-contentButtonText: "Produkte von MICARAA Naturkosmetik ansehen"
-ctaButtonText: "Produkte von MICARAA Naturkosmetik ansehen"
+targetUrl: ../
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
+contentButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
+ctaButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
 image: /assets/images/micaraa-naturkosmetik_logo.png
 screenshot: /assets/images/screenshots/micaraa-naturkosmetik_screenshot.jpg
 rubric: Drogerie & Kosmetik

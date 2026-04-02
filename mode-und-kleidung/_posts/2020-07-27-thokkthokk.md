@@ -2,10 +2,10 @@
 author: Tomislav
 title: ThokkThokk
 slogan: Online-Shop für nachhaltige Bio-Kleidung
-targetUrl: https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&clickref=&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DThokkThokk
-sidebarButtonText: "Produkte von ThokkThokk ansehen"
-contentButtonText: "Produkte von ThokkThokk im Preisvergleich auf idealo.de ansehen"
-ctaButtonText: "Produkte von ThokkThokk ansehen"
+targetUrl: ../
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+contentButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+ctaButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
 image: /assets/images/thokkthokk_logo.png
 screenshot: /assets/images/screenshots/ThokkThokk_screenshot.jpg
 rubric: Mode & Kleidung

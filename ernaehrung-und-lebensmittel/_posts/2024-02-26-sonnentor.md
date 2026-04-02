@@ -2,7 +2,10 @@
 author: Tomislav
 title: SONNENTOR
 slogan: Österreichischer Pionier für Bio-Tees und Gewürze
-targetUrl: https://t.adcell.com/click.php?bid=355387-101181
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+contentButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
 image: /assets/images/sonnentor_logo.png
 screenshot: /assets/images/screenshots/sonnentor_screenshot.jpg
 rubric: Ernährung & Lebensmittel

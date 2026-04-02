@@ -2,9 +2,10 @@
 author: Tomislav
 title: Simon Pike
 slogan: Handgefertigte Handytaschen und Accessoires
-sidebarButtonText: "Produkte von Simon Pike ansehen"
-contentButtonText: "Produkte von Simon Pike im Preisvergleich auf idealo.de ansehen"
-targetUrl: https://www.awin1.com/cread.php?awinmid=15536&awinaffid=381745&ued=https%3A%2F%2Fwww.idealo.de%2Fpreisvergleich%2FMainSearchProductCategory.html%3Fq%3DSimon%2BPike
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+contentButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Mode & Kleidung"
 image: /assets/images/Simon_Pike.png
 screenshot: /assets/images/screenshots/Simon_Pike_screenshot.jpg
 rubric: Mode & Kleidung
