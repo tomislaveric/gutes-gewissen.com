@@ -22,8 +22,7 @@ shippings: [
 contact: [
     "Telefon: +49 6151 8094 0",
     "E-Mail: info@centralroesterei.de",
-    "Adresse: vinocentral GmbH, Platz der Deutschen Einheit 21, 64293 Darmstadt",
-    "Adresse: centralRösterei, Wittichstraße 7a – Lager 2, 64295 Darmstadt"
+    "Adresse: vinocentral GmbH, Platz der Deutschen Einheit 21, 64293 Darmstadt"
 ]
 shortDescription: "Die CentralRösterei ist eine Kaffeerösterei im Rhein-Main-Gebiet. Sie gehört zum vinocentral, einem Fachgeschäft und Treffpunkt für Wein, Kaffee und Feinkost nahe des Darmstädter Hauptbahnhofs."
 description: "Betrieben wird sie von zwei befreundeten Familien. Im Mittelpunkt steht Specialty Coffee: Kaffees mit klar nachvollziehbarer Herkunft und hoher Qualität."
