@@ -39,7 +39,7 @@ Wenn man sein ganzes Leben nach den Prinzipien des fairen Konsums ausrichten mö
 
 Mit Konsum geht Verantwortung einher. Der Online-Shop memolife.de bietet seinen Kunden die Möglichkeit, dieser Verantwortung gerecht zu werden. Bevor ein Produkt in den Warenkatalog aufgenommen werden kann, muss es zahlreichen Prüfkriterien entsprechen. So wird untersucht, ob das Produkt umweltverträglich produziert wurde und genutzt werden kann. Dabei lässt sich das Unternehmen auch von Umweltsiegeln wie dem „Blauen Engel“ leiten.
 
-Der Begriff der [Nachhaltigkeit](https://www.memolife.de/nachhaltigkeit){:target="_blank"} steht dabei aber nicht nur für Umweltschutz. Es ist zwar wichtig, dass die angebotenen Produkte in dem memolife.de Online-Shop aus recycelbaren oder nachwachsenden Rohstoffen bestehen, dass sich Geräte reparieren lassen und langlebig sind. Ebenso entscheidend ist aber auch, dass hinter den Angeboten das Prinzip des fairen Handels steht, dass Arbeiter fair entlohnt wurden.
+Der Begriff der [Nachhaltigkeit](https://www.memo.de/ueber-uns/nachhaltigkeit/){:target="_blank"} steht dabei aber nicht nur für Umweltschutz. Es ist zwar wichtig, dass die angebotenen Produkte in dem memolife.de Online-Shop aus recycelbaren oder nachwachsenden Rohstoffen bestehen, dass sich Geräte reparieren lassen und langlebig sind. Ebenso entscheidend ist aber auch, dass hinter den Angeboten das Prinzip des fairen Handels steht, dass Arbeiter fair entlohnt wurden.
 
 Zudem wird bei der Sortimentsgestaltung in dem memolife.de Online-Shop ein strenges Augenmerk auf die gesundheitliche Unbedenklichkeit der angebotenen Waren gelegt. Um dies sicherzustellen, pflegt memolife.de einen engen Kontakt mit Lieferanten und lässt die Waren zusätzlich durch unabhängige Gutachter prüfen.
 
