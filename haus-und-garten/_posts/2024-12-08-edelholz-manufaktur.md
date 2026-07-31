@@ -2,7 +2,10 @@
 author: Tomislav
 title: EDELHOLZ Manufaktur
 slogan: Möbel aus deutscher Handwerkskunst
-targetUrl: https://t.adcell.com/p/click?promoId=418444&slotId=101181
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
+contentButtonText: "Ähnliche Produkte in der Rubrik Haus & Garten"
 image: /assets/images/edelholz-manufaktur_logo.png
 screenshot: /assets/images/screenshots/edelholz-manufaktur_screenshot.jpg
 rubric: Haus & Garten
