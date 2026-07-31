@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "Water-to-Go",
+      "url"         : "/haus-und-garten/water-to-go/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Trinkflaschen, Filter, Wasserfilter, Schadstofffrei, Recyclebar",
+      "date"        : "2026-07-31 00:00:00 +0200",
+      "shippings"   : "Versandkosten abhängig vom ZiellandVersanddauer je nach LieferlandRetourekosten zahlt der Absender",
+      "image"       : "/assets/images/water-to-go_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Radoxx",
       "url"         : "/spielzeug-und-hobby/radoxx/",
       "category"    : "",
