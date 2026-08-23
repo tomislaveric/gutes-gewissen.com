@@ -133,4 +133,4 @@ For `#publish "eat Performance"`:
 
 6. Markdown copied to: `ernaehrung-und-lebensmittel/_posts/2026-04-02-eat-performance.md`
 
-7. `bundle exec jekyll build` — passes without errors
+7. `bundle exec jekyll serve` — builds and serves without errors
