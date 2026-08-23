@@ -3,6 +3,7 @@ author: Tomislav
 title: PkeyVintage
 slogan: Shop für Vintage- und Secondhand-Einzelstücke
 targetUrl: https://pkeyvintage.de/
+relType: dofollow
 image: /assets/images/pkeyvintage_logo.png
 screenshot: /assets/images/screenshots/pkeyvintage_screenshot.jpg
 rubric: Secondhand & Upcycling
