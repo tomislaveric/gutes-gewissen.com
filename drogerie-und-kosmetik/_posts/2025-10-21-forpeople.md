@@ -2,7 +2,10 @@
 author: Tomislav
 title: forpeople
 slogan: Nachhaltige Hautpflegeprodukte Made in Germany
-targetUrl: https://www.awin1.com/cread.php?awinmid=113348&awinaffid=731132
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
+contentButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
 image: /assets/images/forpeople_logo.png
 screenshot: /assets/images/screenshots/forpeople_screenshot.jpg
 rubric: Drogerie & Kosmetik
