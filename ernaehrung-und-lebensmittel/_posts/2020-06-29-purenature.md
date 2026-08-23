@@ -2,10 +2,7 @@
 author: Michael
 title: PureNature
 slogan: Spezialist für vegane nachhaltige Produkte und für Allergiker
-targetUrl: ../
-ctaButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
-sidebarButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
-contentButtonText: "Ähnliche Produkte in der Rubrik Ernährung & Lebensmittel"
+targetUrl: https://www.awin1.com/cread.php?awinmid=129197&awinaffid=731132
 image: /assets/images/purenature_logo.png
 screenshot: /assets/images/screenshots/purenature_screenshot.jpg
 rubric: Ernährung & Lebensmittel
