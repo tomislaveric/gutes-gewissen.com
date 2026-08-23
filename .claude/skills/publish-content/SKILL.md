@@ -98,12 +98,12 @@ cp "todo/eat Performance/eat-performance.md" "ernaehrung-und-lebensmittel/_posts
 
 > Note: root-level folders starting with `_` (e.g. `_site`, `_includes`, `_layouts`, `_data`) are Jekyll build artifacts — never touch them. The `_posts` folders inside category folders (e.g. `ernaehrung-und-lebensmittel/_posts/`) are the correct publishing destinations.
 
-### 7. Jekyll build
+### 7. Jekyll serve
 
-Run a Jekyll build to verify the site compiles without errors:
+Run a Jekyll serve to build the site and preview it locally:
 
 ```bash
-bundle exec jekyll build
+bundle exec jekyll serve
 ```
 
 If the build fails, investigate and fix the issue before finishing.

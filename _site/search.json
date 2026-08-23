@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "PkeyVintage",
+      "url"         : "/secondhand-und-upcycling/pkeyvintage/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Kleidung, Fashion, Mode, Secondhand, Vintage, Einzelstücke, Retro",
+      "date"        : "2026-08-23 00:00:00 +0200",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 5,19 EuroKostenfreie Lieferung ab 100 Euro BestellwertVersand an DPD Pickup Paketshop möglichLieferdauer von 2-4 Werktage",
+      "image"       : "/assets/images/pkeyvintage_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "Water-to-Go",
       "url"         : "/haus-und-garten/water-to-go/",
       "category"    : "",
