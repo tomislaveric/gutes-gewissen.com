@@ -2,7 +2,10 @@
 author: Tomislav
 title: Green Solar
 slogan: Online-Shop für Balkonkraftwerke und Solaranlagen
-targetUrl: https://t.adcell.com/p/click?promoId=343851&slotId=101181
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Ökostrom & Ökogas"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Ökostrom & Ökogas"
+contentButtonText: "Ähnliche Produkte in der Rubrik Ökostrom & Ökogas"
 image: /assets/images/green-solar_logo.png
 screenshot: /assets/images/screenshots/green-solar_screenshot.jpg
 rubric: Ökostrom & Ökogas
