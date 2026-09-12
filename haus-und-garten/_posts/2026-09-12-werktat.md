@@ -1,0 +1,56 @@
+---
+author: Tomislav
+title: werktat
+slogan: Handgefertigte Produkte aus Wollfilz und Echtleder
+targetUrl: https://www.werktat-shop.de/de/
+image: /assets/images/werktat_logo.png
+screenshot: /assets/images/screenshots/werktat_screenshot.jpg
+rubric: Haus & Garten
+tags: [Handgefertigt, Manufaktur, Made-in-Germany, Wollfilz, Echtleder, Filz]
+payments: [
+    Vorkasse per Überweisung,
+    PayPal,
+    Kreditkarte,
+]
+shippings: [
+    "Versand innerhalb Deutschlands für 5,90 Euro",
+    "Lieferung in die Schweiz ab 10,50 Euro verfügbar",
+    "Abholung in der Werkstatt kostenlos möglich"
+]
+contact: [
+    "Telefon: +49 7062 910970",
+    "E-Mail: hello@werktat.de",
+    "Adresse: werktat, Reinhold-Würth-Straße 11/2, 74360 Ilsfeld"
+]
+shortDescription: "Wer sein Zuhause nachhaltiger gestalten möchte, muss nicht gleich Möbel austauschen. Oft sind es die kleinen Dinge, die den Unterschied machen: langlebige Materialien statt Wegwerfware, Naturfasern statt Kunststoff, Maßanfertigung statt Massenprodukt."
+description: "Genau hier setzt werktat an – eine Manufaktur aus Ilsfeld in Baden-Württemberg, die sich auf die Verarbeitung von reinem Wollfilz und Echtleder spezialisiert hat. Die Umfangreiche Produktpalette umfasst neben Filzzuschnitten, Bankauflagen und Sitzkissen viele weitere Produkte für den Home-Bereich. Zudem bietet werktat Hüllen für Laptops und Handys sowie Taschen für Damen und Herren an – alles handwerklich gefertigt."
+
+---
+
+### Philosophie: Stofflichkeit in einer digitalen Welt
+
+Der Ausgangspunkt der werktat-Idee war der Wunsch, natürliche Materialien zu verwenden und Stofflichkeit in unserer schnelllebigen, digitalen Welt erlebbar zu machen. Genau darin liegt der besondere Reiz der Produkte: Sie verbinden zeitgemäße Funktion mit dem ursprünglichen, sinnlichen Charakter traditioneller Werkstoffe. werktat steht für eine reduzierte Gestaltung, die die Materialien Filz und Leder bewusst in den Vordergrund stellt.
+
+### Wollfilz: Ein Naturmaterial, das einfach passt
+
+Der Filz von werktat besteht aus 100 % Schurwolle – durch Wärme, Wasser und Druck verfestigt. Der Rohstoff Wolle wächst nach, enthält kein Mikroplastik, und am Ende seines langen Lebens ist reiner Wollfilz sogar biologisch abbaubar. Er wird in Deutschland hergestellt und ist OekoTex-zertifiziert nach Standard 100. Das Material ist robust, formstabil und pflegeleicht – und dabei von Natur aus temperaturausgleichend: Im Winter angenehm warm, im Sommer nicht schwitzig. Kurz: Er bringt genau die Eigenschaften mit, die ein Produkt braucht, das lange im Alltag bestehen soll. Denn das nachhaltigste Produkt ist immer das, das man nicht ersetzen muss.
+
+### Material, das man sieht
+
+Bei werktat wird das Material nicht versteckt, sondern gezeigt. Beim Zuschnitt entstehen saubere Kanten, die nicht ausfransen – so kann „offenkantig" gearbeitet werden, ganz ohne zusätzliche Einfassungen. Wo Leder zum Einsatz kommt, setzt werktat auf robustes Rindsleder, teils vegetabil – also pflanzlich – gegerbt. Statt sich abzunutzen, entwickelt es mit den Jahren eine individuelle Patina und wird immer schöner. Genau diese ehrliche Machart ist gelebte Nachhaltigkeit: Naturmaterialien, die altern dürfen, statt ersetzt zu werden.
+
+{% include screenshot.md %}
+
+### Ein Auszug aus der Produktpalette von Werktat
+
+Bankauflagen nach Maß: Weil keine Bank wie die andere ist. Ob Esszimmerbank, Eckbank, Garderobenbank oder Sitzbank im Flur – jede Bankauflage wird individuell nach Maßangaben zugeschnitten oder genäht – als flache Filzauflage oder gepolstertes Bankkissen.
+
+Sitzkissen, die zum Möbelstück gehören: Auch Stühle und Hocker werden mit Filz wohnlicher. Die gepolsterten Sitzkissen von werktat entstehen nach den Wünschen der Kund:innen – von der Form über die Größe bis zur Farbkombination. Sogar für Designklassiker wie den Eames Chair oder den Thonet S 43 gibt es passende Kissen und Auflagen.
+
+Wandkissen: Bequem anlehnen, wo die Rückenlehne fehlt. Ob durchgehend gepolstert, mit Absteppungen optisch in einzelne Sitzplätze gegliedert – die Wandpolster strukturieren die Wand und laden zum Verweilen ein. Bei der Befestigung hat man die Wahl zwischen Schraubmontage mit Abstandshaltern oder rückseitig eingearbeiteten Einhängeplatten zur verdeckten Aufhängung.
+
+Filzzuschnitte im Wunschmaß: Wer selbst gestalten möchte, findet in den Filzzuschnitten auf Maß die vielseitigste Lösung. Aus über 20 Farben – uni oder meliert – lässt sich der Zuschnitt passgenau bestellen.
+
+### werktat: Handarbeit statt Massenware
+
+Hinter werktat steht eine Werkstatt, in der jedes Stück von Hand entworfen und gefertigt wird. Wer hier bestellt, bekommt kein anonymes Industrieprodukt, sondern eine Anfertigung aus Naturmaterial, made in Germany – und ein Stück Wohnkultur, das bleibt.

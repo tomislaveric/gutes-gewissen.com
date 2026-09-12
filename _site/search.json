@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "werktat",
+      "url"         : "/haus-und-garten/werktat/",
+      "category"    : "",
+      "tags"        : "Handgefertigt, Manufaktur, Made-in-Germany, Wollfilz, Echtleder, Filz",
+      "date"        : "2026-09-12 00:00:00 +0200",
+      "shippings"   : "Versand innerhalb Deutschlands für 5,90 EuroLieferung in die Schweiz ab 10,50 Euro verfügbarAbholung in der Werkstatt kostenlos möglich",
+      "image"       : "/assets/images/werktat_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "PkeyVintage",
       "url"         : "/secondhand-und-upcycling/pkeyvintage/",
       "category"    : "",
