@@ -2,7 +2,10 @@
 author: Tomislav
 title: genuine haircare
 slogan: Nachhaltige und hochwertige Haarpflegeprodukte
-targetUrl: https://t.adcell.com/p/click?promoId=353998&slotId=101181
+targetUrl: ../
+ctaButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
+sidebarButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
+contentButtonText: "Ähnliche Produkte in der Rubrik Drogerie & Kosmetik"
 image: /assets/images/genuine-haircare_logo.png
 screenshot: /assets/images/screenshots/genuine-haircare_screenshot.jpg
 rubric: Drogerie & Kosmetik

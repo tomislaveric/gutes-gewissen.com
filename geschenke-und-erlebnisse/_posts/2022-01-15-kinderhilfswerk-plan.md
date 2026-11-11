@@ -3,7 +3,7 @@ author: Tomislav
 title: Kinderhilfswerk Plan 
 sidebarButtonText: Gehe zu Kinderhilfswerk Plan
 slogan: Spenden & Patenschaften verschenken
-targetUrl: https://www.awin1.com/cread.php?awinmid=21174&awinaffid=731132
+targetUrl: https://www.plan.de/
 image: /assets/images/kinderhilfswerk-plan_logo.png
 screenshot: /assets/images/screenshots/kinderhilfswerk-plan_screenshot.jpg
 rubric: Geschenke & Erlebnisse

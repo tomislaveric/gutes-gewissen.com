@@ -22,8 +22,8 @@ shippings: [
 ]
 contact: [
     "Telefon: +49 40 524793290",
-    "E-Mail: moin@4peoplewhocare.de",
-    "Adresse: 4peoplewhocare GmbH, Offakamp 9e, 22529 Hamburg"
+    "E-Mail: moin@forpeople-skincare.de",
+    "Adresse: forpeople skincare GmbH, Offakamp 9e, 22529 Hamburg"
 ]
 shortDescription: "forpeople ist ein junges Unternehmen aus Hamburg, das mit einer klaren Vision gestartet ist: Hautpflege zu entwickeln, die wirkt – für Menschen und für den Planeten."
 description: "Statt Trends zu folgen, konzentrieren wir uns auf das Wesentliche: reine, biozertifizierte Inhaltsstoffe, verantwortungsvolle Herstellung und echte Wirkung. Alles begann mit der Suche nach einer Handcreme, die nicht nur hilft, sondern auch hält, was sie verspricht: plastikfrei, bio und wirksam. Heute steht forpeople für Hautpflege mit Haltung: klar, bewusst und regenerativ gedacht."
