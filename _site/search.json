@@ -2,6 +2,18 @@
   
     {
 
+      "title"       : "tom&amp;pat",
+      "url"         : "/drogerie-und-kosmetik/tom-pat/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Fair, Sozial, Naturschwämme, Seife, Putztücher",
+      "date"        : "2026-11-11 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 2,99 EuroKostenloser Versand ab 50 Euro BestellwertLieferung an DHL-Packstation möglich",
+      "image"       : "/assets/images/tom-pat_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "werktat",
       "url"         : "/haus-und-garten/werktat/",
       "category"    : "",
