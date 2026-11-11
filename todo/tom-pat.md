@@ -3,6 +3,7 @@ author: Tomislav
 title: tom&pat
 slogan: Naturschwämme, Aleppo-Seife und Bambus-Putztücher aus Köln
 targetUrl: https://www.tom-pat.de/
+relType: nofollow
 image: /assets/images/tom-pat_logo.png
 screenshot: /assets/images/screenshots/tom-pat_screenshot.jpg
 rubric: Drogerie & Kosmetik
