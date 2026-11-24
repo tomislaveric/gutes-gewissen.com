@@ -2,6 +2,30 @@
   
     {
 
+      "title"       : "DAMASU-Holzkunst",
+      "url"         : "/spielzeug-und-hobby/damasu-holzkunst/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Holz, Bastelsätze, Basteln, Modellbau, Modelle, Made-in-Germany",
+      "date"        : "2026-11-24 00:00:00 +0100",
+      "shippings"   : "Versandkosten innerhalb Deutschlands von 3,00 EuroVersandkostenfreie Abholung vor Ort möglich",
+      "image"       : "/assets/images/damasu_logo.png"
+
+    } ,
+  
+    {
+
+      "title"       : "VintageR2",
+      "url"         : "/secondhand-und-upcycling/vintager2/",
+      "category"    : "",
+      "tags"        : "Nachhaltig, Kleidung, Fashion, Mode, Secondhand, Vintage, Retro, Einzelstücke",
+      "date"        : "2026-11-24 00:00:00 +0100",
+      "shippings"   : "Versandkostenfreie Lieferung für Bestellungen über 90 Euro",
+      "image"       : "/assets/images/vintager2_logo.png"
+
+    } ,
+  
+    {
+
       "title"       : "tom&amp;pat",
       "url"         : "/drogerie-und-kosmetik/tom-pat/",
       "category"    : "",
